@@ -63,16 +63,16 @@
 | Go Lang - A Linguagem da Google   | https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf                                      | PT       |
 | Programação Concorrente           | http://cocic.cm.utfpr.edu.br/progconcorrente/doku.php?id=go                                              | PT       |
 | Um Tour por Go                    | https://go-tour-br.appspot.com/welcome/1                                                                 | PT       |
-| Tutoriel Go                       | https://brice-colucci.developpez.com/tutoriels/go/tutoriel-programmation/                                | francês  |
-| Langage Go                        | https://www.scriptol.fr/programmation/go.php                                                             | francês  |
-| Le Langage Go                     | https://www.bortzmeyer.org/files/go-lang-intro-SHOW.pdf                                                  | francês  |
-| Programmation en Go               | https://fr.wikibooks.org/wiki/Programmation_en_Go                                                        | francês  |
+| Tutoriel Go                       | https://brice-colucci.developpez.com/tutoriels/go/tutoriel-programmation/                                | FR  |
+| Langage Go                        | https://www.scriptol.fr/programmation/go.php                                                             | FR  |
+| Le Langage Go                     | https://www.bortzmeyer.org/files/go-lang-intro-SHOW.pdf                                                  | FR  |
+| Programmation en Go               | https://fr.wikibooks.org/wiki/Programmation_en_Go                                                        | FR  |
 | Go con Ejemplos                   | http://goconejemplos.com/                                                                                | ES       |
 | Introduccion al Go                | https://www.genbeta.com/desarrollo/introduccion-al-lenguaje-de-programacion-go                           | ES       |
 | Curso de Go                       | https://codigofacilito.com/cursos/go                                                                     | ES       |
 | El Lenguaje Go                    | https://nasciiboy.land/prog/tgpl/                                                                        | ES       |
 | Curso de Go                       | http://roberto.costumero.es/slides/Go2010/manual_go.pdf                                                  | ES       |
-| Il Linguaggio Go                  | http://tesi.cab.unipd.it/33111/1/Tesina_562011.pdf                                                       | IT       |
+| Il Linguaggio Go                  | http://tesi.cab.unipd.it/33111/1/Tesina_562011.pdf  FR                                                     | IT       |
 | Golang Basics                     | https://tproger.ru/translations/golang-basics/                                                           | RU       |
 | 4Gophers                          | https://4gophers.ru/tags/golang/                                                                         | RU       |
 | Golang-Book                       | http://golang-book.ru/                                                                                   | RU       |
