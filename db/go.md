@@ -72,7 +72,7 @@
 | Curso de Go                       | https://codigofacilito.com/cursos/go                                                                     | ES       |
 | El Lenguaje Go                    | https://nasciiboy.land/prog/tgpl/                                                                        | ES       |
 | Curso de Go                       | http://roberto.costumero.es/slides/Go2010/manual_go.pdf                                                  | ES       |
-| Il Linguaggio Go                  | http://tesi.cab.unipd.it/33111/1/Tesina_562011.pdf  FR                                                     | IT       |
+| Il Linguaggio Go                  | http://tesi.cab.unipd.it/33111/1/Tesina_562011.pdf                                                       | IT       |
 | Golang Basics                     | https://tproger.ru/translations/golang-basics/                                                           | RU       |
 | 4Gophers                          | https://4gophers.ru/tags/golang/                                                                         | RU       |
 | Golang-Book                       | http://golang-book.ru/                                                                                   | RU       |
