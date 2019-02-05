@@ -2,6 +2,8 @@
 
 A curated list of *important computer science* multi languages **resources** found on the Web.
 
+**Upcoming:** Erlang, Haskell, Artificial Neural Networks, Virtual Reality, Computer Graphics
+
 ## Content
 
 - Computer Fundamentals
