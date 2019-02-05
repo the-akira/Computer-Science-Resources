@@ -1,6 +1,6 @@
 # Computer Science Web Resources
 
-A curated list of *important computer science* free multi languages **resources**
+A curated list of *important computer science* multi languages **resources** found on the Web.
 
 ## Content
 
