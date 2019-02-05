@@ -1,5 +1,7 @@
 # Computer Science Web Resources
 
+![alt text](https://i.imgur.com/yuAUJtQ.png "")
+
 A curated list of *important computer science* multi languages **resources** found on the Web.
 
 **Upcoming:** Erlang, Haskell, Artificial Neural Networks, Virtual Reality, Computer Graphics
