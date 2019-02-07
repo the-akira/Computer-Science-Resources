@@ -4,7 +4,7 @@
 
 A curated list of *Important Computer Science* **multiple languages resources** found on the Web.
 
-**Upcoming:** Erlang, Haskell, Artificial Neural Networks, Virtual Reality, Computer Graphics
+**Upcoming:** Erlang, Haskell, Virtual Reality, Computer Graphics
 
 ## Content
 
@@ -30,6 +30,7 @@ A curated list of *Important Computer Science* **multiple languages resources** 
   - [Java](https://github.com/the-akira/computer_science_web_resources/blob/master/db/java.md)
 - Artificial Intelligence
   - [Machine Learning](https://github.com/the-akira/computer_science_web_resources/blob/master/db/machine_learning.md)
+  - [Artificial Neural Network](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/artificial_neural_network.md)
   - [Natural Language Processing](https://github.com/the-akira/computer_science_web_resources/blob/master/db/natural_language_processing.md)
   - [Cybernetics & Robotics](https://github.com/the-akira/computer_science_web_resources/blob/master/db/cybernetics_and_robotics.md)
 - Information Security
