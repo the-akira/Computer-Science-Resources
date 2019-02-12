@@ -4,7 +4,7 @@
 
 A curated list of *Important Computer Science* **multiple languages resources** found on the Web.
 
-**Upcoming:** Erlang, Haskell, Virtual Reality, Computer Graphics
+**Upcoming:** Erlang, C#, Virtual Reality, Computer Graphics
 
 ## Content
 
