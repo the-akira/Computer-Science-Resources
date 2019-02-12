@@ -1,6 +1,6 @@
 # Haskell
 
-| Project                                                           | [URL](URL)                                                                                                                                           | Language |
+| Project                                                           | URL                                                                                                                                           | Language |
 |-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
 | Haskell Documentation                                             | [https://www.haskell.](https://www.haskell.org/documentation)                                                                                        | EN       |
 | Wikipedia                                                         | [https://en.wikipedia](https://en.wikipedia.org/wiki/Haskell_(programming_language))                                                                 | EN       |
