@@ -17,6 +17,7 @@ A curated list of *Important Computer Science* **multiple languages resources** 
   - [Cloud Computing](https://github.com/the-akira/computer_science_web_resources/blob/master/db/cloud_computing.md)
   - [Quantum Computing](https://github.com/the-akira/computer_science_web_resources/blob/master/db/quantum_computing.md)
   - [Computer Networks](https://github.com/the-akira/computer_science_web_resources/blob/master/db/computer_networks.md)
+  - [Computer Graphics](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/computer_graphics.md)
 - Programming
   - [Assembly](https://github.com/the-akira/computer_science_web_resources/blob/master/db/assembly.md)
   - [C](https://github.com/the-akira/computer_science_web_resources/blob/master/db/c.md)
@@ -31,7 +32,7 @@ A curated list of *Important Computer Science* **multiple languages resources** 
   - [Haskell](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/haskell.md)
 - Artificial Intelligence
   - [Machine Learning](https://github.com/the-akira/computer_science_web_resources/blob/master/db/machine_learning.md)
-  - [Artificial Neural Network](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/artificial_neural_network.md)
+  - [Artificial Neural Networks](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/artificial_neural_network.md)
   - [Natural Language Processing](https://github.com/the-akira/computer_science_web_resources/blob/master/db/natural_language_processing.md)
   - [Cybernetics & Robotics](https://github.com/the-akira/computer_science_web_resources/blob/master/db/cybernetics_and_robotics.md)
 - Information Security
