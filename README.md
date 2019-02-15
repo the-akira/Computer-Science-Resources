@@ -4,7 +4,7 @@
 
 A curated list of *Important Computer Science* **multiple languages resources** found on the Web.
 
-**Upcoming:** Erlang, C#, Virtual Reality, Computer Graphics
+**Upcoming:** Erlang, C#, Virtual Reality
 
 ## Content
 
@@ -30,6 +30,7 @@ A curated list of *Important Computer Science* **multiple languages resources** 
   - [Go](https://github.com/the-akira/computer_science_web_resources/blob/master/db/go.md)
   - [PHP](https://github.com/the-akira/computer_science_web_resources/blob/master/db/php.md)
   - [Haskell](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/haskell.md)
+  - [R](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/r.md)
 - Artificial Intelligence
   - [Machine Learning](https://github.com/the-akira/computer_science_web_resources/blob/master/db/machine_learning.md)
   - [Artificial Neural Networks](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/artificial_neural_network.md)
