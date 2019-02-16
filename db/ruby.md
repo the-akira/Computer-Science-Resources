@@ -2,7 +2,7 @@
 
 | Project                            | URL                                                                                                                                                              | Language |
 |------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| Awesome Ruby                       | [https://awesome-ruby](https://awesome-ruby.com/https://rubymonk.com/)                                                                                                  | EN       |
+| Awesome Ruby                       | [https://awesome-ruby](https://awesome-ruby.com/)                                                                                                  | EN       |
 | Ruby Libhunt                       | [https://ruby.libhunt](https://ruby.libhunt.com/)                                                                                                                       | EN       |
 | Codecademy                         | [https://www.codecade](https://www.codecademy.com/learn/learn-ruby)                                                                                                     | EN       |
 | Learn Ruby Online                  | [https://www.learnrub](https://www.learnrubyonline.org/)                                                                                                                | EN       |
