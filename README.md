@@ -31,7 +31,8 @@ A curated list of *Important Computer Science* **multiple languages resources** 
   - [PHP](https://github.com/the-akira/computer_science_web_resources/blob/master/db/php.md)
   - [Haskell](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/haskell.md)
   - [R](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/r.md)
-  - [Julia](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/julia.md) 
+  - [Julia](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/julia.md)
+  - [Elixir](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/elixir.md)
 - Artificial Intelligence
   - [Machine Learning](https://github.com/the-akira/computer_science_web_resources/blob/master/db/machine_learning.md)
   - [Artificial Neural Networks](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/artificial_neural_network.md)
