@@ -37,6 +37,7 @@ A curated list of *Important Computer Science* **multiple languages resources** 
   - [Machine Learning](https://github.com/the-akira/computer_science_web_resources/blob/master/db/machine_learning.md)
   - [Artificial Neural Networks](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/artificial_neural_network.md)
   - [Natural Language Processing](https://github.com/the-akira/computer_science_web_resources/blob/master/db/natural_language_processing.md)
+  - [Computer Vision](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/computer_vision.md)
   - [Cybernetics & Robotics](https://github.com/the-akira/computer_science_web_resources/blob/master/db/cybernetics_and_robotics.md)
 - Information Security
   - [Cyber Security](https://github.com/the-akira/computer_science_web_resources/blob/master/db/cyber_security.md)
