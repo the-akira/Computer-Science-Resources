@@ -79,7 +79,6 @@
 | CS Dojo                              | [https://www.youtube.](https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)                                              | EN       |
 | Edureka                              | [https://www.youtube.](https://www.youtube.com/watch?v=GRN_9YkfN5w&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)                                              | EN       |
 | Derek Banas                          | [https://www.youtube.](https://www.youtube.com/watch?v=nwjAHQERL08&list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)                                              | EN       |
-| Edureka Machine Learning             | [https://www.youtube.](https://www.youtube.com/watch?v=Pj0neYUp9Tc&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)                                              | EN       |
 | Python 3.4                           | [https://www.youtube.](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)                                              | EN       |
 | Python Beginners                     | [https://www.youtube.](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)                                              | EN       |
 | Socratica                            | [https://www.youtube.](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)                                              | EN       |
