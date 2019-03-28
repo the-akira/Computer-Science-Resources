@@ -4,7 +4,7 @@
 
 A curated list of *Important Computer Science* **multiple languages resources** found on the Web.
 
-**Upcoming:** Erlang, C#, Virtual Reality
+**Upcoming:** Erlang, C#
 
 ## Content
 
@@ -18,6 +18,7 @@ A curated list of *Important Computer Science* **multiple languages resources** 
   - [Quantum Computing](https://github.com/the-akira/computer_science_web_resources/blob/master/db/quantum_computing.md)
   - [Computer Networks](https://github.com/the-akira/computer_science_web_resources/blob/master/db/computer_networks.md)
   - [Computer Graphics](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/computer_graphics.md)
+  - [Virtual Reality](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/virtual_reality.md)
 - Programming
   - [Assembly](https://github.com/the-akira/computer_science_web_resources/blob/master/db/assembly.md)
   - [C](https://github.com/the-akira/computer_science_web_resources/blob/master/db/c.md)
