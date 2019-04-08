@@ -42,7 +42,7 @@ A curated list of *Important Computer Science* **multiple languages resources** 
   - [Computer Vision](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/computer_vision.md)
   - [Cybernetics & Robotics](https://github.com/the-akira/computer_science_web_resources/blob/master/db/cybernetics_and_robotics.md)
 - Information Security
-  - [Cyber Security](https://github.com/the-akira/computer_science_web_resources/blob/master/db/cyber_security.md)
+  - [Computer Security](https://github.com/the-akira/computer_science_web_resources/blob/master/db/cyber_security.md)
   - [Web Hacking](https://github.com/the-akira/computer_science_web_resources/blob/master/db/web_hacking.md)
   - [Exploits](https://github.com/the-akira/computer_science_web_resources/blob/master/db/exploits.md) 
   - [Reverse Engineering](https://github.com/the-akira/computer_science_web_resources/blob/master/db/reverse_engineering.md)
