@@ -1,4 +1,4 @@
-# Computer Science Web Resources
+# Computer Science Resources
 
 ![alt text](https://i.imgur.com/yuAUJtQ.png "")
 
