@@ -15,6 +15,7 @@ A curated list of *Important Computer Science* **multiple languages resources** 
   - [Regular Expressions](https://github.com/the-akira/computer_science_web_resources/blob/master/db/regular_expressions.md)
   - [Physics](https://github.com/the-akira/computer_science_web_resources/blob/master/db/physics.md)
   - [Signals and Systems](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/signals_systems.md)
+  - [Information Theory](https://github.com/the-akira/Computer-Science-Resources/blob/master/db/information_theory.md)
   - [Cloud Computing](https://github.com/the-akira/computer_science_web_resources/blob/master/db/cloud_computing.md)
   - [Quantum Computing](https://github.com/the-akira/computer_science_web_resources/blob/master/db/quantum_computing.md)
   - [Computer Networks](https://github.com/the-akira/computer_science_web_resources/blob/master/db/computer_networks.md)
