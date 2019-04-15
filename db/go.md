@@ -63,7 +63,7 @@
 | Go Lang - A Linguagem da Google   | [https://www.ime.usp.](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf)                                      | PT       |
 | Programação Concorrente           | [http://cocic.cm.utfp](http://cocic.cm.utfpr.edu.br/progconcorrente/doku.php?id=go)                                              | PT       |
 | Um Tour por Go                    | [https://go-tour-br.a](https://go-tour-br.appspot.com/welcome/1)                                                                 | PT       |
-| Tutoriel Go                       | [https://brice-colucc](https://brice-colucci.developpez.com/tutoriels/go/tutoriel-programmation/)                                | francês  |
+| Tutoriel Go                       | [https://brice-colucc](https://brice-colucci.developpez.com/tutoriels/go/tutoriel-programmation/)                                | FR  |
 | Langage Go                        | [https://www.scriptol](https://www.scriptol.fr/programmation/go.php)                                                             | FR  |
 | Le Langage Go                     | [https://www.bortzmey](https://www.bortzmeyer.org/files/go-lang-intro-SHOW.pdf)                                                  | FR  |
 | Programmation en Go               | [https://fr.wikibooks](https://fr.wikibooks.org/wiki/Programmation_en_Go)                                                        | FR  |
