@@ -8,6 +8,13 @@ A curated list of *Important Computer Science* **multiple languages resources** 
 
 ## Content
 
+- Getting Started
+  - [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+  - [Map of Mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
+  - [Map of Physics](https://www.youtube.com/watch?v=ZihywtixUYo&t)
+  - [MIT Courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+  - [MIT 6.00 Intro to Computer Science & Programming](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL4C4720A6F225E074)
+  - [CS50 Harvard](https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu)
 - Computer Fundamentals
   - [Computer Architecture](https://github.com/the-akira/computer_science_web_resources/blob/master/db/computer_architecture.md)
   - [Operating Systems](https://github.com/the-akira/computer_science_web_resources/blob/master/db/operating_systems.md)
