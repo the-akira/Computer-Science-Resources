@@ -64,9 +64,9 @@
 | Programação Concorrente           | [http://cocic.cm.utfp](http://cocic.cm.utfpr.edu.br/progconcorrente/doku.php?id=go)                                              | PT       |
 | Um Tour por Go                    | [https://go-tour-br.a](https://go-tour-br.appspot.com/welcome/1)                                                                 | PT       |
 | Tutoriel Go                       | [https://brice-colucc](https://brice-colucci.developpez.com/tutoriels/go/tutoriel-programmation/)                                | francês  |
-| Langage Go                        | [https://www.scriptol](https://www.scriptol.fr/programmation/go.php)                                                             | francês  |
-| Le Langage Go                     | [https://www.bortzmey](https://www.bortzmeyer.org/files/go-lang-intro-SHOW.pdf)                                                  | francês  |
-| Programmation en Go               | [https://fr.wikibooks](https://fr.wikibooks.org/wiki/Programmation_en_Go)                                                        | francês  |
+| Langage Go                        | [https://www.scriptol](https://www.scriptol.fr/programmation/go.php)                                                             | FR  |
+| Le Langage Go                     | [https://www.bortzmey](https://www.bortzmeyer.org/files/go-lang-intro-SHOW.pdf)                                                  | FR  |
+| Programmation en Go               | [https://fr.wikibooks](https://fr.wikibooks.org/wiki/Programmation_en_Go)                                                        | FR  |
 | Go con Ejemplos                   | [http://goconejemplos](http://goconejemplos.com/)                                                                                | ES       |
 | Introduccion al Go                | [https://www.genbeta.](https://www.genbeta.com/desarrollo/introduccion-al-lenguaje-de-programacion-go)                           | ES       |
 | Curso de Go                       | [https://codigofacili](https://codigofacilito.com/cursos/go)                                                                     | ES       |
