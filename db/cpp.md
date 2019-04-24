@@ -17,7 +17,6 @@
 | Javatpoint                            | [https://www.javatpoi](https://www.javatpoint.com/cpp-tutorial)                                                                                                      | EN       |
 | Reddit                                | [https://www.reddit.c](https://www.reddit.com/r/cpp/)                                                                                                                | EN       |
 | C++ for Scientists                    | [https://math.nist.go](https://math.nist.gov/~RPozo/c++class/)                                                                                                       | EN       |
-| C++ Materials                         | [ftp://ftp.wayne.edu/](ftp://ftp.wayne.edu/ldp/en/C++Programming-HOWTO/C++Programming-HOWTO-13.html)                                                                 | EN       |
 | Awesome C++                           | [https://github.com/f](https://github.com/fffaraz/awesome-cpp)                                                                                                       | EN       |
 | Awesome Modern C++                    | [https://github.com/r](https://github.com/rigtorp/awesome-modern-cpp)                                                                                                | EN       |
 | C++ Resources                         | [https://fffaraz.gith](https://fffaraz.github.io/awesome-cpp/)                                                                                                       | EN       |
