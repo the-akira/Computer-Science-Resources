@@ -4,7 +4,9 @@
 
 A curated list of *Great Computer Science* **multiple languages resources** found on the Web. 
 
-I would like to ask you to **open an issue** if any of the material exposed here is infringing some kind of copyright. Thank you for your support!
+I would like to ask you to **open an issue** if any of the material exposed here is infringing some kind of copyright. 
+
+Thank you for your support!
 
 **Upcoming:** Erlang, C#
 
