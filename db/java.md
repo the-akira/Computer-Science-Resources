@@ -60,7 +60,6 @@
 | Guia Completo de Java                   | [https://www.devmedia](https://www.devmedia.com.br/guia/linguagem-java/38169)                                                        | PT       |
 | Curso de Java                           | [https://www.programa](https://www.programacaoprogressiva.net/2012/08/curso-de-java.html)                                            | PT       |
 | Programação Java                        | [https://www.dm.ufsca](https://www.dm.ufscar.br/profs/waldeck/curso/java/)                                                           | PT       |
-| Curso de Java Básico                    | [ftp://ftp.unicamp.br](ftp://ftp.unicamp.br/pub/apoio/treinamentos/linguagens/java_basico.pdf)                                       | PT       |
 | Curso de Programação em Java            | [http://portaldoprofe](http://portaldoprofessor.mec.gov.br/storage/materiais/0000014210.pdf)                                         | PT       |
 | Programação em Java                     | [http://www.faeterj-r](http://www.faeterj-rio.edu.br/downloads/bbv/0031.pdf)                                                         | PT       |
 | Curso de Java                           | [https://excript.com/](https://excript.com/curso-de-java.html)                                                                       | PT       |
@@ -70,7 +69,6 @@
 | Tutorial Java                           | [http://www.ic.unicam](http://www.ic.unicamp.br/~cmrubira/JAVATUT14PDF.pdf)                                                          | PT       |
 | Java Web                                | [http://homepage.ufp.](http://homepage.ufp.pt/lmbg/textos/java_intro.pdf)                                                            | PT       |
 | Java USP                                | [http://ccsl.ime.usp.](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf)                                                         | PT       |
-| Segurança em Programação com Java       | [ftp://ftp.registro.b](ftp://ftp.registro.br/pub/gts/gts0204/gts0204-01slides-seg-prog-java.pdf)                                     | PT       |
 | Apostila Java                           | [http://jocivan.com.b](http://jocivan.com.br/portal/wp-content/uploads/2016/04/APOSTILA_TS_DESENVOLVIMENTO_DE_SISTEMAS_Java.pdf)     | PT       |
 | Curso de Java Básico                    | [https://codigofacili](https://codigofacilito.com/cursos/JAVA)                                                                       | ES       |
 | Wikibooks                               | [https://es.wikibooks](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Java)                                                      | ES       |
