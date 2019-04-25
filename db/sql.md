@@ -99,7 +99,6 @@
 | Stéphane Crozat             | [https://stph.scenari](https://stph.scenari-community.org/bdd/sql1.pdf)                                                                                        | FR       |
 | SQL introduction            | [http://www.miage.ups](http://www.miage.ups-tlse.fr/intranet/cours/l3/sql_completL3.pdf)                                                                       | FR       |
 | MySQL/SQL Exemples          | [http://www.obs-vlfr.](http://www.obs-vlfr.fr/~boebion/Php-Mysql/Seance2/MySQL_exemple.pdf)                                                                    | FR       |
-| Initiation à SQL            | [ftp://ftp.software.i](ftp://ftp.software.ibm.com/ps/products/db2/info/vr7/pdf/letter/nlv/db2y0f70.pdf)                                                        | FR       |
 | SQL Dispensa                | [https://home.deib.po](https://home.deib.polimi.it/schreibe/basididati/lucidi%20es/SQL_Dispensa.pdf)                                                           | IT       |
 | Linguaggio SQL              | [http://www.di.unito.](http://www.di.unito.it/~damiani/DIDATTICA/aa03/InfAppBD/MyMAT/InfoApp86-102.pdf)                                                        | IT       |
 | Guida SQL                   | [https://www.html.it/](https://www.html.it/guide/guida-linguaggio-sql/)                                                                                        | IT       |
