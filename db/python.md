@@ -82,6 +82,7 @@
 | Python 3.4                           | [https://www.youtube.](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)                                              | EN       |
 | Python Beginners                     | [https://www.youtube.](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)                                              | EN       |
 | Socratica                            | [https://www.youtube.](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)                                              | EN       |
+| Python Algorithms for Interviews     | [https://www.youtube.](https://www.youtube.com/watch?v=p65AHm9MX80&t=)                                              | EN       |
 | Devmedia                             | [https://www.devmedia](https://www.devmedia.com.br/guia/python/37024)                                                                                    | PT       |
 | Udacity                              | [https://br.udacity.c](https://br.udacity.com/course/programming-foundations-with-python--ud036)                                                         | PT       |
 | Pyscience-brasil                     | [http://pyscience-bra](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq)                                                                        | PT       |
