@@ -49,6 +49,7 @@
 | Machine Learning Zero to Hero (Google I/O'19)  | [https://www.youtube.](https://www.youtube.com/watch?v=VwVg9jCtqaU)                                              | EN       |
 | Introduction to Machine Learning (MIT)         | [https://www.youtube.](https://www.youtube.com/watch?v=h0e2HAPTGF4)                                              | EN       |
 | The Mathematics of Machine Learning            | [https://www.youtube.](https://www.youtube.com/watch?v=r07Sofj_puQ&t)                                              | EN       |
+| Cornell CS4780                                 | [https://www.youtube.](https://www.youtube.com/watch?v=MrLPzBxG95I&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)                                              | EN       |
 | Aprendizado de Máquina UFF                     | [http://www.ic.uff.br](http://www.ic.uff.br/~bianca/aa/)                                                                                                                                                 | PT       |
 | Aprendizado de Máquina UFMG                    | [http://www.est.ufmg.](http://www.est.ufmg.br/~marcosop/est171-ML/index.htm)                                                                                                                             | PT       |
 | Introdução                                     | [http://www.inf.ufpr.](http://www.inf.ufpr.br/lesoliveira/aprendizado/introducao.pdf)                                                                                                                    | PT       |
