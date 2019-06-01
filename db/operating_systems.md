@@ -55,6 +55,7 @@
 | CS-342                                            | [https://www.youtube.](https://www.youtube.com/watch?v=9ci5g49nfdE&list=PLhwVAYxlh5dsX6aOfVMZXS8MwKwBmwVM6)                                                       | EN       |
 | OS Tutorials                                      | [https://www.youtube.](https://www.youtube.com/watch?v=2Z0yIguC5eU&list=PL86A18ACD144A1A30)                                                                       | EN       |
 | Linux Course                                      | [https://www.youtube.](https://www.youtube.com/watch?v=bju_FdCo42w&list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)                                                       | EN       |
+| Linux File System/Structure Explained             | [https://www.youtube.](https://www.youtube.com/watch?v=HbgzrKJvDRw)                                                       | EN       |
 | UNIVESP                                           | [https://www.youtube.](https://www.youtube.com/watch?v=Rl6HhDvW984&list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw)                                                       | PT       |
 | Wikibooks                                         | [https://pt.wikibooks](https://pt.wikibooks.org/wiki/Sistemas_operacionais)                                                                                       | PT       |
 | Aula 1                                            | [https://docente.ifrn](https://docente.ifrn.edu.br/igoralves/informatica-basica/sistemas-operacionais-1)                                                          | PT       |
