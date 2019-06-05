@@ -51,7 +51,8 @@
 | The Mathematics of Machine Learning            | [https://www.youtube.](https://www.youtube.com/watch?v=r07Sofj_puQ&t)                                              | EN       |
 | Cornell CS4780                                 | [https://www.youtube.](https://www.youtube.com/watch?v=MrLPzBxG95I&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)                                              | EN       |
 | Machine learning in Python with Scikit-Learn   | [https://www.youtube.](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)                                              | EN       |
-| Machine learning with Python                   | [https://www.youtube.](https://www.youtube.com/watch?v=Q59X518JZHE)                                              | EN       |
+| Machine Learning with Python                   | [https://www.youtube.](https://www.youtube.com/watch?v=Q59X518JZHE)                                              | EN       |
+| Machine Learning Crash Course                  | [https://www.youtube.](https://www.youtube.com/watch?v=a07iwuDWhys)                                              | EN       |
 | Aprendizado de Máquina UFF                     | [http://www.ic.uff.br](http://www.ic.uff.br/~bianca/aa/)                                                                                                                                                 | PT       |
 | Aprendizado de Máquina UFMG                    | [http://www.est.ufmg.](http://www.est.ufmg.br/~marcosop/est171-ML/index.htm)                                                                                                                             | PT       |
 | Introdução                                     | [http://www.inf.ufpr.](http://www.inf.ufpr.br/lesoliveira/aprendizado/introducao.pdf)                                                                                                                    | PT       |
