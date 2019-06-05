@@ -35,6 +35,7 @@
 | Sabe.io                      | [https://sabe.io/clas](https://sabe.io/classes/javascript)                                                                     | EN       |
 | Js for cats                  | [http://jsforcats.com](http://jsforcats.com/)                                                                                  | EN       |
 | Awesome Javascript           | [https://github.com/s](https://github.com/sorrycc/awesome-javascript)                                                          | EN       |
+| HTML                         | [https://html.com/jav](https://html.com/javascript/)                                                                           | EN       |
 | Nodejs Learning              | [https://github.com/s](https://github.com/sergtitov/NodeJS-Learning)                                                           | EN       |
 | Freecodecamp                 | [https://learn.freeco](https://learn.freecodecamp.org/)                                                                        | EN       |
 | Guru99                       | [https://www.guru99.c](https://www.guru99.com/node-js-tutorial.html)                                                           | EN       |
@@ -73,7 +74,6 @@
 | Wisdom Web                   | [http://www.wisdomweb](http://www.wisdomweb.ru/JS/javascript-first.php)                                                        | RU       |
 | HTMLWeb                      | [https://htmlweb.ru/j](https://htmlweb.ru/java/js.php)                                                                         | RU       |
 | Kharchuk                     | [http://kharchuk.ru/J](http://kharchuk.ru/JavaScript.pdf)                                                                      | RU       |
-| HTML                         | [https://html.com/jav](https://html.com/javascript/)                                                                           | EN       |
 | Habr                         | [https://habr.com/hub](https://habr.com/hub/javascript/)                                                                       | RU       |
 | Wm-school                    | [http://wm-school.ru/](http://wm-school.ru/js/)                                                                                | RU       |
 | Ep-z                         | [http://ep-z.ru/stroi](http://ep-z.ru/stroitelstvo/sayt/javascript)                                                            | RU       |
