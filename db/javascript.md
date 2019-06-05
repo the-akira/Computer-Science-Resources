@@ -33,12 +33,19 @@
 | Node Beginner                | [https://www.nodebegi](https://www.nodebeginner.org/)                                                                          | EN       |
 | JS The Right Way             | [http://jstherightway](http://jstherightway.org/)                                                                              | EN       |
 | Sabe.io                      | [https://sabe.io/clas](https://sabe.io/classes/javascript)                                                                     | EN       |
+| Js for cats                  | [http://jsforcats.com](http://jsforcats.com/)                                                                                  | EN       |
+| Awesome Javascript           | [https://github.com/s](https://github.com/sorrycc/awesome-javascript)                                                          | EN       |
+| Nodejs Learning              | [https://github.com/s](https://github.com/sergtitov/NodeJS-Learning)                                                           | EN       |
+| Freecodecamp                 | [https://learn.freeco](https://learn.freecodecamp.org/)                                                                        | EN       |
+| Guru99                       | [https://www.guru99.c](https://www.guru99.com/node-js-tutorial.html)                                                           | EN       |
+| Sphero                       | [https://sphero.docsa](https://sphero.docsapp.io/docs/get-started)                                                             | EN       |
 | Traversy Media               | [https://www.youtube.](https://www.youtube.com/watch?v=vEROU2XtPR8&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)                    | EN       |
 | Mosh                         | [https://www.youtube.](https://www.youtube.com/watch?v=W6NZfCO5SIk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax)                    | EN       |
 | The Net Ninja                | [https://www.youtube.](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)                    | EN       |
 | MMTuts                       | [https://www.youtube.](https://www.youtube.com/watch?v=ItYye9h_RXg&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB)                    | EN       |
 | Hitesh                       | [https://www.youtube.](https://www.youtube.com/watch?v=dlfrWbYk1v0&list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYYJPP)                    | EN       |
 | The New Boston               | [https://www.youtube.](https://www.youtube.com/watch?v=-u-j7uqU7sI&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)                    | EN       |
+| Code! Programming with p5.js | [https://www.youtube.](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)                    | EN       |
 | Tutorialspoint               | [https://www.tutorial](https://www.tutorialspoint.com/javascript/index.htm)                                                    | EN       |
 | Tutoriales Programacionya    | [https://tutorialespr](https://tutorialesprogramacionya.com/javascriptya/)                                                     | ES       |
 | El lenguaje Javascript       | [http://www.dtic.upf.](http://www.dtic.upf.edu/~tnavarrete/fcsig/javascript.pdf)                                               | ES       |
@@ -54,7 +61,6 @@
 | WikiBooks                    | [https://fr.wikibooks](https://fr.wikibooks.org/wiki/Programmation_JavaScript/Introduction)                                    | FR       |
 | Grappa                       | [http://www.grappa.un](http://www.grappa.univ-lille3.fr/~torre/Enseignement/Cours/javascript.php)                              | FR       |
 | Cril.univ                    | [http://www.cril.univ](http://www.cril.univ-artois.fr/~paris/cours/javascript/slidesJavascriptFr.pdf)                          | FR       |
-| Js for cats                  | [http://jsforcats.com](http://jsforcats.com/)                                                                                  | EN       |
 | Perso.liris                  | [https://perso.liris.](https://perso.liris.cnrs.fr/pchampin/2017/progweb-python/cours/cm4.html)                                | FR       |
 | Malgouyres                   | [https://malgouyres.o](https://malgouyres.org/cours/data/programmation-web-javascript.pdf)                                     | FR       |
 | Pierre Giraud                | [https://www.pierre-g](https://www.pierre-giraud.com/javascript/cours-complet/javascript-presentation.php)                     | FR       |
@@ -73,17 +79,11 @@
 | Ep-z                         | [http://ep-z.ru/stroi](http://ep-z.ru/stroitelstvo/sayt/javascript)                                                            | RU       |
 | Labs                         | [http://labs.org.ru/j](http://labs.org.ru/javascript-1/)                                                                       | RU       |
 | Professorweb                 | [https://professorweb](https://professorweb.ru/my/javascript/js_theory/level1/javascript_index.php)                            | RU       |
-| Awesome Javascript           | [https://github.com/s](https://github.com/sorrycc/awesome-javascript)                                                          | EN       |
-| Nodejs Learning              | [https://github.com/s](https://github.com/sergtitov/NodeJS-Learning)                                                           | EN       |
-| Guru99                       | [https://www.guru99.c](https://www.guru99.com/node-js-tutorial.html)                                                           | EN       |
 | Html.it                      | [https://www.html.it/](https://www.html.it/guide/guida-javascript-di-base/)                                                    | IT       |
 | Grimaldi                     | [https://www.grimaldi](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf)                             | IT       |
 | DispensaJS                   | [http://www.di.unipi.](http://www.di.unipi.it/~occhiuto/DispensaJS.pdf)                                                        | IT       |
 | Programmazione               | [http://pages.di.unip](http://pages.di.unipi.it/ambriola/PW/2018_06_12Programmazione_8.0.pdf)                                  | IT       |
 | Javascript Programmazione    | [http://wwwcdf.pd.inf](http://wwwcdf.pd.infn.it/AppuntiLinux/javascript_esempi_di_programmazione.htm)                          | IT       |
-| Sphero                       | [https://sphero.docsa](https://sphero.docsapp.io/docs/get-started)                                                             | EN       |
-| Liaoxuefeng                  | [https://www.liaoxuef](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)                    | ZH       |
-| OpenTutorials                | [https://opentutorial](https://opentutorials.org/course/743/4650)                                                              | KR       |
 | Devmedia                     | [https://www.devmedia](https://www.devmedia.com.br/guia/javascript/34372)                                                      | PT       |
 | Criarweb                     | [http://www.criarweb.](http://www.criarweb.com/manual/javascript/)                                                             | PT       |
 | Tableless                    | [http://tableless.git](http://tableless.github.io/iniciantes/manual/js/)                                                       | PT       |
@@ -96,4 +96,5 @@
 | UFES                         | [https://inf.ufes.br/](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20172-seminario-javascript.pdf)          | PT       |
 | Profsalu                     | [https://profsalu.fil](https://profsalu.files.wordpress.com/2014/11/k19-k02-desenvolvimento-web-com-html-css-e-javascript.pdf) | PT       |
 | Argonavis                    | [http://www.argonavis](http://www.argonavis.com.br/cursos/web/w600/JavaScript_1ed_4v.pdf)                                      | PT       |
-| Freecodecamp                 | [https://learn.freeco](https://learn.freecodecamp.org/)                                                                        | EN       |
+| Liaoxuefeng                  | [https://www.liaoxuef](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)                    | ZH       |
+| OpenTutorials                | [https://opentutorial](https://opentutorials.org/course/743/4650)                                                              | KR       |
