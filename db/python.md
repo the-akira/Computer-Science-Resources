@@ -76,6 +76,7 @@
 | PythonBiblio                         | [http://openbookproje](http://openbookproject.net/pybiblio/)                                                                                             | EN       |
 | Simplifiedpython                     | [https://www.simplifi](https://www.simplifiedpython.net/)                                                                                                | EN       |
 | Cybrary IT                           | [https://www.cybrary.](https://www.cybrary.it/course/python/)                                                                                            | EN       |
+| Scientific Programming with Python   | [https://snowball.mil](http://snowball.millersville.edu/~adecaria/ESCI386P/)                                                                                            | EN       |
 | CS Dojo                              | [https://www.youtube.](https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)                                              | EN       |
 | Edureka                              | [https://www.youtube.](https://www.youtube.com/watch?v=GRN_9YkfN5w&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)                                              | EN       |
 | Derek Banas                          | [https://www.youtube.](https://www.youtube.com/watch?v=nwjAHQERL08&list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)                                              | EN       |
