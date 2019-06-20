@@ -2,7 +2,7 @@
 
 ![alt text](https://i.imgur.com/yuAUJtQ.png "")
 
-A list of *Great Computer Science* **multiple languages resources** found on the Web. 
+A list of resources in different fields of **Computer Science** (in multiple languages).
 
 I would like to ask you to **open an issue** if any of the material exposed here is infringing some kind of copyright. 
 
