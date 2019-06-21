@@ -2,7 +2,6 @@
 
 | Project                                           | URL                                                                                                                                                        | Language |
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| Wikipedia                                         | [https://en.wikipedia](https://en.wikipedia.org/wiki/Operating_system)                                                                                            | EN       |
 | How Stuff Works                                   | [https://computer.how](https://computer.howstuffworks.com/operating-system.htm)                                                                                   | EN       |
 | Tutorialspoint                                    | [https://www.tutorial](https://www.tutorialspoint.com/operating_system/os_overview.htm)                                                                           | EN       |
 | Geeks for Geeks                                   | [https://www.geeksfor](https://www.geeksforgeeks.org/operating-system-introduction-operating-system-set-1/)                                                       | EN       |
@@ -10,9 +9,11 @@
 | University of Edinburgh                           | [https://www.inf.ed.a](https://www.inf.ed.ac.uk/teaching/courses/os/)                                                                                             | EN       |
 | Wikibooks                                         | [https://en.wikibooks](https://en.wikibooks.org/wiki/Operating_System_Design)                                                                                     | EN       |
 | Operating Systems                                 | [http://www.dc.fi.udc](http://www.dc.fi.udc.es/~so-grado/)                                                                                                        | EN       |
+| Awesome Linux                                     | [https://github.com/a](https://github.com/aleksandar-todorovic/awesome-linux)                                                                                     | EN       |
 | 10 Concepts of OS                                 | [https://medium.com/c](https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f) | EN       |
 | OS Development                                    | [https://www.whoishos](https://www.whoishostingthis.com/resources/os-development/)                                                                                | EN       |
 | David Morgan                                      | [https://homepage.smc](https://homepage.smc.edu/morgan_david/cs40/CourseProgressTemplate.htm)                                                                     | EN       |
+| CS140 Stanford                                    | [http://www.scs.stanf](http://www.scs.stanford.edu/12au-cs140/notes/)                                                                                             | EN       |
 | Reddit Linux                                      | [https://www.reddit.c](https://www.reddit.com/r/linux/)                                                                                                           | EN       |
 | Unix Tutorial                                     | [http://www.tutorials](http://www.tutorialspoint.com/unix/)                                                                                                       | EN       |
 | Linux Training                                    | [http://linux-trainin](http://linux-training.be/)                                                                                                                 | EN       |
@@ -64,6 +65,7 @@
 | UFMG                                              | [https://homepages.dc](https://homepages.dcc.ufmg.br/~scampos/cursos/so/index.html)                                                                               | PT       |
 | História dos Sistemas Operacionais                | [http://coral.ufsm.br](http://coral.ufsm.br/unitilince/index.php/noticias/63-a-historia-dos-sistemas-operacionais)                                                | PT       |
 | Unisinos                                          | [http://professor.uni](http://professor.unisinos.br/barbosa/SO/so.htm)                                                                                            | PT       |
+| Red Hat Enterprise Linux 4                        | [https://web.mit.edu/](https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-pt_br-4/index.html)                                                                         | PT       |
 | UFES                                              | [https://inf.ufes.br/](https://inf.ufes.br/~zegonc/material/Sistemas_Operacionais/Introducao.pdf)                                                                 | PT       |
 | Introdução                                        | [http://producao.virt](http://producao.virtual.ufpb.br/books/camyle/introducao-a-computacao-livro/livro/livro.chunked/ch06.html)                                  | PT       |
 | Unicamp                                           | [http://www.ic.unicam](http://www.ic.unicamp.br/~islene/mc514/index.html)                                                                                         | PT       |
@@ -79,7 +81,6 @@
 | Sistemas Operativos Book                          | [https://es.wikibooks](https://es.wikibooks.org/wiki/Sistemas_operativos/Texto_completo)                                                                          | ES       |
 | Universidad Politecnica Madrid                    | [http://www.elai.upm.](http://www.elai.upm.es/moodle/pluginfile.php/3574/mod_resource/content/1/sistemasoperativosupm.pdf)                                        | ES       |
 | Fundamentos de Sistemas Operativos                | [https://sistop.org/p](https://sistop.org/pdf/sistemas_operativos.pdf)                                                                                            | ES       |
-| Awesome Linux                                     | [https://github.com/a](https://github.com/aleksandar-todorovic/awesome-linux)                                                                                     | EN       |
 | Introducción                                      | [https://www.ac.uma.e](https://www.ac.uma.es/~sromero/so/Capitulo2.pdf)                                                                                           | ES       |
 | Sistemas Operativos                               | [http://exa.unne.edu.](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/computot.PDF)                                                            | ES       |
 | Unidade I Sistemas Operativos                     | [http://www.unistmo.e](http://www.unistmo.edu.mx/~jjap/so1415b_u1.pdf)                                                                                            | ES       |
@@ -116,5 +117,5 @@
 | OS-RU                                             | [https://vseloved.git](https://vseloved.github.io/pdf/os-ru.pdf)                                                                                                  | RU       |
 | OS Intro                                          | [http://www.stolyarov](http://www.stolyarov.info/books/pdf/osintro.pdf)                                                                                           | RU       |
 | Lecture 1                                         | [http://unesco.kemsu.](http://unesco.kemsu.ru/study_work/method/OS_DO/lect_1.pdf)                                                                                 | RU       |
-| CS140 Stanford                                    | [http://www.scs.stanf](http://www.scs.stanford.edu/12au-cs140/notes/)                                                                                             | EN       |
-| Red Hat Enterprise Linux 4                        | [https://web.mit.edu/](https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-pt_br-4/index.html)                                                                         | PT       |
+
+
