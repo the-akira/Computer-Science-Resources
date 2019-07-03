@@ -11,7 +11,7 @@
 | NTU.edu                               | [http://www.ntu.edu.s](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp0_introduction.html)                                                                      | EN       |
 | Wikipedia                             | [https://en.wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)                                                                                                        | EN       |
 | Beginners Book                        | [https://beginnersboo](https://beginnersbook.com/2017/08/c-plus-plus-tutorial-for-beginners/)                                                                        | EN       |
-| Udacity                               | [https://br.udacity.c](https://br.udacity.com/course/c-for-programmers--ud210)                                                                                       | PT       |
+| C++ for Progammers                    | [https://udacity.com/](https://www.udacity.com/course/c-for-programmers--ud210)                                                                                       | EN       |
 | Lund University                       | [http://cs.lth.se/eda](http://cs.lth.se/edaf50/vt18/lectures/)                                                                                                       | EN       |
 | C++ in Unreal Engine                  | [https://docs.unreale](https://docs.unrealengine.com/en-us/Programming/Introduction)                                                                                 | EN       |
 | Javatpoint                            | [https://www.javatpoi](https://www.javatpoint.com/cpp-tutorial)                                                                                                      | EN       |
