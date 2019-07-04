@@ -13,7 +13,7 @@
 | Java 101                                | [https://www.javaworl](https://www.javaworld.com/article/2076075/learn-java/core-java-learn-java-from-the-ground-up.html)            | EN       |
 | Programiz                               | [https://www.programi](https://www.programiz.com/java-programming)                                                                   | EN       |
 | Netbeans                                | [https://netbeans.org](https://netbeans.org/kb/articles/learn-java.html)                                                             | EN       |
-| Udacity                                 | [https://br.udacity.c](https://br.udacity.com/course/java-programming-basics--ud282)                                                 | PT       |
+| Java Programming Basics                 | [https://www.udacity.](https://www.udacity.com/course/java-programming-basics--ud282)                                                 | EN       |
 | Tutorialspoint                          | [https://www.tutorial](https://www.tutorialspoint.com/java/)                                                                         | EN       |
 | Sololearn                               | [https://www.sololear](https://www.sololearn.com/Course/Java/)                                                                       | EN       |
 | IBM Java Intro                          | [https://www.ibm.com/](https://www.ibm.com/developerworks/java/tutorials/j-introtojava1/index.html)                                  | EN       |
