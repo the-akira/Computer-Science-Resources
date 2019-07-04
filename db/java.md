@@ -29,6 +29,7 @@
 | Wikiversity                             | [https://en.wikiversi](https://en.wikiversity.org/wiki/Learning_Java)                                                                | EN       |
 | Wikipedia                               | [https://en.wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))                                                    | EN       |
 | Java Beginners                          | [https://www.androida](https://www.androidauthority.com/java-tutorial-beginners-2-582147/)                                           | EN       |
+| Princeton Java                          | [https://introcs.cs.p](https://introcs.cs.princeton.edu/java/home/)                                                                  | EN       |
 | Learn X in Y minutes                    | [https://learnxinymin](https://learnxinyminutes.com/docs/java/)                                                                      | EN       |
 | Java in One Day                         | [http://www.paradise.](http://www.paradise.caltech.edu/cook/Workshop/Java/Overview.html)                                             | EN       |
 | Java Source Codes                       | [https://www.programm](https://www.programmingsimplified.com/java-source-codes)                                                      | EN       |
@@ -90,7 +91,6 @@
 | Livret Java                             | [https://www.emse.fr/](https://www.emse.fr/~picard/cours/1A/java/livretJava.pdf)                                                     | FR       |
 | Apprendre Java                          | [https://www.ukonline](https://www.ukonline.be/cours/java/apprendre-java)                                                            | FR       |
 | Java                                    | [https://fr.wikiversi](https://fr.wikiversity.org/wiki/Java)                                                                         | FR       |
-| Princeton Java                          | [https://introcs.cs.p](https://introcs.cs.princeton.edu/java/home/)                                                                  | EN       |
 | Cours Java                              | [http://webpages.lss.](http://webpages.lss.supelec.fr/perso/hugues.mounier/Teaching/Java_files/JCours/polyBasesJavaHM.pdf)           | FR       |
 | Orientée Object                         | [http://www.i3s.unice](http://www.i3s.unice.fr/~provilla/poo/resources/pdf/cours_01.pdf)                                             | FR       |
 | Guida Java                              | [https://www.html.it/](https://www.html.it/guide/guida-java/)                                                                        | IT       |
