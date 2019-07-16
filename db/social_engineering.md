@@ -24,6 +24,9 @@
 | A Wolf in Sheep's Clothing      | [https://www.isaca.or](https://www.isaca.org/chapters2/victoria/events/Documents/Presentations/2016-05-18%20Roberto%20Salgato-A%20Wolf%20in%20Sheep%20Clothing.pdf) | EN       |
 | Defense and Popularity of SE    | [https://brage.bibsys](https://brage.bibsys.no/xmlui/bitstream/handle/11250/144040/EKHenningsen.pdf)                                                                | EN       |
 | SE Based Attacks                | [https://pdfs.semanti](https://pdfs.semanticscholar.org/presentation/a84f/ee407e55090bc62f0d638175365a481cc9a9.pdf)                                                 | EN       |
+| Defcon 21                       | [https://www.youtube.](https://www.youtube.com/watch?v=1kkOKvPrdZ4)                                                                                                 | EN       |
+| SE Explained                    | [https://www.youtube.](https://www.youtube.com/watch?v=r3qDA8AUy8U)                                                                                                 | EN       |
+| Human Resources SE              | [https://www.youtube.](https://www.youtube.com/watch?v=1pCigAw2-0g)                                                                                                 | EN       |
 | Técnicas de Engenharia Social   | [http://cio.com.br/te](http://cio.com.br/tecnologia/2017/04/09/conheca-seis-das-tecnicas-de-engenharia-social-muito-eficazes/)                                      | PT       |
 | Conceitos                       | [https://www.gestaode](https://www.gestaodesegurancaprivada.com.br/engenharia-social-o-que-e-conceitos/)                                                            | PT       |
 | Guia do Hacker                  | [https://pt.wikibooks](https://pt.wikibooks.org/wiki/Guia_do_hacker/Engenharia_social)                                                                              | PT       |
@@ -55,6 +58,3 @@
 | The Brain Hack                  | [https://medium.com/@](https://medium.com/@Emisare/socialnaya-ingeneria-9f16e0ba7fa5)                                                                               | RU       |
 | Anti-malware                    | [https://www.anti-mal](https://www.anti-malware.ru/threats/social-engineering)                                                                                      | RU       |
 | Noosfera                        | [http://noosfera.su/s](http://noosfera.su/social-engineering/)                                                                                                      | RU       |
-| Defcon 21                       | [https://www.youtube.](https://www.youtube.com/watch?v=1kkOKvPrdZ4)                                                                                                 | EN       |
-| SE Explained                    | [https://www.youtube.](https://www.youtube.com/watch?v=r3qDA8AUy8U)                                                                                                 | EN       |
-| Human Resources SE              | [https://www.youtube.](https://www.youtube.com/watch?v=1pCigAw2-0g)                                                                                                 | EN       |
