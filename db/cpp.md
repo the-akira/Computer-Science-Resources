@@ -65,6 +65,7 @@
 | Naresh Technologies                   | [https://www.youtube.](https://www.youtube.com/watch?v=l0qvxPPISuY&list=PLVlQHNRLflP8_DGKcMoRw-TYJJALgGu4J)                                                          | EN       |
 | Bjarne Stroustrup                     | [https://www.youtube.](https://www.youtube.com/watch?v=fX2W3nNjJIo&t=5s)                                                                                             | EN       |
 | Derek Banas C++ Tutorial              | [https://www.youtube.](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)                                                          | EN       |
+| Modern C++ Course                     | [https://www.youtube.](https://www.youtube.com/watch?v=F_vIB3yjxaM&list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)                                                          | EN       |
 | Excript Curso                         | [https://excript.com/](https://excript.com/curso-cpp.html)                                                                                                           | PT       |
 | Aulas C++                             | [http://www.inf.ufpr.](http://www.inf.ufpr.br/ci208/NotasAula.pdf)                                                                                                   | PT       |
 | Programação C++                       | [https://www.inf.pucr](https://www.inf.pucrs.br/manssour/LinguagemC++/index.html)                                                                                    | PT       |
