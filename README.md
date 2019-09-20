@@ -8,8 +8,6 @@ I would like to ask you to **open an issue** if any of the material exposed here
 
 Thank you for your support!
 
-**Upcoming:** Erlang, C#
-
 ## Content
 
 - Getting Started
@@ -20,7 +18,7 @@ Thank you for your support!
   - [MIT 6.00 Intro to Computer Science & Programming](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL4C4720A6F225E074)
   - [Audio/Video Courses from Colleges and Universities](http://www.infocobuild.com/education/audio-video-courses/)
   - [CS50 Harvard](https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu)
-  - [Portal Computer Science](https://en.wikipedia.org/wiki/Portal:Computer_science)
+  - [Everything Computer Science](https://everythingcomputerscience.com/)
 - Computer Fundamentals
   - [Computer Architecture](https://github.com/the-akira/computer_science_web_resources/blob/master/db/computer_architecture.md)
   - [Operating Systems](https://github.com/the-akira/computer_science_web_resources/blob/master/db/operating_systems.md)
