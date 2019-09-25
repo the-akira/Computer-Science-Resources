@@ -58,6 +58,7 @@
 | Machine learning in Python with Scikit-Learn   | [https://www.youtube.](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)                                              | EN       |
 | Machine Learning with Python                   | [https://www.youtube.](https://www.youtube.com/watch?v=Q59X518JZHE)                                              | EN       |
 | Machine Learning Crash Course                  | [https://www.youtube.](https://www.youtube.com/watch?v=a07iwuDWhys)                                              | EN       |
+| MIT 18.065 Matrix Methods in Data Analysis and Machine Learning  | [https://www.youtube.](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)                                              | EN       |
 | Elements of AI                                 | [https://course.eleme](https://course.elementsofai.com/)                                              | EN       |
 | Google Machine Learning Crash Course           | [https://developers.g](https://developers.google.com/machine-learning/crash-course/ml-intro)                                              | EN       |
 | Machine Learning, Data Science and Deep Learning with Python                      | [https://www.manning.](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)                                                                                                 | EN       |
