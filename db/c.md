@@ -39,6 +39,14 @@
 | C Programming Tutorial                 | [http://markburgess.o](http://markburgess.org/CTutorial/C-Tut-4.02.pdf)                                                                                     | EN       |
 | Include Help                           | [https://www.includeh](https://www.includehelp.com/c/)                                                                                                      | EN       |
 | C for Beginners                        | [https://o7planning.o](https://o7planning.org/en/10315/c-programming-tutorial-for-beginners)                                                                | EN       |
+| Awesome C                              | [https://github.com/a](https://github.com/aleksandar-todorovic/awesome-c)                                                                                   | EN       |
+| Mike Dane,                             | [https://www.youtube.](https://www.youtube.com/watch?v=KJgsSFOSQv0)                                                                                         | EN       |
+| The New Boston                         | [https://www.youtube.](https://www.youtube.com/watch?v=2NWeucMKrLI&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)                                                 | EN       |
+| Stanford C                             | [https://www.youtube.](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)                                                                 | EN       |
+| Naresh Technologies                    | [https://www.youtube.](https://www.youtube.com/watch?v=si-KFFOW2gw&list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh)                                                 | EN       |
+| Socket C                               | [https://www.youtube.](https://www.youtube.com/watch?v=_lQ-3S4fJ0U&list=PLPyaR5G9aNDvs6TtdpLcVO43_jvxp4emI)                                                 | EN       |
+| Neso Academy                           | [https://www.youtube.](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)                                                            | EN       |
+| Derek Banas                            | [https://www.youtube.](https://www.youtube.com/watch?v=8Ib7nwc33uA&list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7)                                                 | EN       |
 | Developer Insider                      | [https://developerins](https://developerinsider.co/introduction-c-programming/)                                                                             | EN       |
 | Try to Program                         | [http://www.trytoprog](http://www.trytoprogram.com/c-programming/)                                                                                          | EN       |
 | CS Fundamentals                        | [http://cs-fundamenta](http://cs-fundamentals.com/c-programming/c-programming-tutorials.php)                                                                | EN       |
@@ -72,6 +80,7 @@
 | Curso de C                             | [http://www2.dcc.ufmg](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf)                                                     | PT       |
 | Introdução C                           | [http://fig.if.usp.br](http://fig.if.usp.br/~esdobay/c/c.pdf)                                                                                               | PT       |
 | Programação C                          | [http://www.inf.ufpr.](http://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf)                                                                              | PT       |
+| Curso C - Papo Binário                 | [https://www.youtube.](https://www.youtube.com/watch?v=oZeezrNHxVo&list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)                                                 | PT       |
 | El Lenguaje C                          | [http://www.dc.fi.udc](http://www.dc.fi.udc.es/~so-grado/current/Varios/CursoC.pdf)                                                                         | ES       |
 | Curso Basico                           | [http://mmc.geofisica](http://mmc.geofisica.unam.mx/cursos/femp/CyC++/Lenguaje_C.pdf)                                                                       | ES       |
 | Unidad Didáctica                       | [http://www.juntadean](http://www.juntadeandalucia.es/averroes/centros-tic/14005663/helvia/aula/archivos/repositorio/0/230/html/lenguajec/frmlenguajec.htm) | ES       |
@@ -84,12 +93,3 @@
 | Langage C                              | [http://astro.ens.fr/](http://astro.ens.fr/osae/ccc.pdf)                                                                                                    | FR       |
 | Programmation C                        | [http://icube-avr.uni](http://icube-avr.unistra.fr/fr/index.php/Programmation_C)                                                                            | FR       |
 | Univ-Orleans                           | [https://www.univ-orl](https://www.univ-orleans.fr/lifo/Members/Jean-Francois.Lalande/enseignement/c/presentation-c.pdf)                                    | FR       |
-| Awesome C                              | [https://github.com/a](https://github.com/aleksandar-todorovic/awesome-c)                                                                                   | EN       |
-| Mike Dane,                             | [https://www.youtube.](https://www.youtube.com/watch?v=KJgsSFOSQv0)                                                                                         | EN       |
-| The New Boston                         | [https://www.youtube.](https://www.youtube.com/watch?v=2NWeucMKrLI&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)                                                 | EN       |
-| Stanford C                             | [https://www.youtube.](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)                                                                 | EN       |
-| Naresh Technologies                    | [https://www.youtube.](https://www.youtube.com/watch?v=si-KFFOW2gw&list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh)                                                 | EN       |
-| Socket C                               | [https://www.youtube.](https://www.youtube.com/watch?v=_lQ-3S4fJ0U&list=PLPyaR5G9aNDvs6TtdpLcVO43_jvxp4emI)                                                 | EN       |
-| Neso Academy                           | [https://www.youtube.](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)                                                            | EN       |
-| Derek Banas                            | [https://www.youtube.](https://www.youtube.com/watch?v=8Ib7nwc33uA&list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7)                                                 | EN       |
-| Papo Binário                           | [https://www.youtube.](https://www.youtube.com/watch?v=oZeezrNHxVo&list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)                                                 | PT       |

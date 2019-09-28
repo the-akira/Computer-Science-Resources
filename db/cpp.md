@@ -11,7 +11,7 @@
 | NTU.edu                               | [http://www.ntu.edu.s](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp0_introduction.html)                                                                      | EN       |
 | Wikipedia                             | [https://en.wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)                                                                                                        | EN       |
 | Beginners Book                        | [https://beginnersboo](https://beginnersbook.com/2017/08/c-plus-plus-tutorial-for-beginners/)                                                                        | EN       |
-| Udacity                               | [https://br.udacity.c](https://br.udacity.com/course/c-for-programmers--ud210)                                                                                       | PT       |
+| C++ for Progammers                    | [https://udacity.com/](https://www.udacity.com/course/c-for-programmers--ud210)                                                                                       | EN       |
 | Lund University                       | [http://cs.lth.se/eda](http://cs.lth.se/edaf50/vt18/lectures/)                                                                                                       | EN       |
 | C++ in Unreal Engine                  | [https://docs.unreale](https://docs.unrealengine.com/en-us/Programming/Introduction)                                                                                 | EN       |
 | Javatpoint                            | [https://www.javatpoi](https://www.javatpoint.com/cpp-tutorial)                                                                                                      | EN       |
@@ -65,6 +65,7 @@
 | Naresh Technologies                   | [https://www.youtube.](https://www.youtube.com/watch?v=l0qvxPPISuY&list=PLVlQHNRLflP8_DGKcMoRw-TYJJALgGu4J)                                                          | EN       |
 | Bjarne Stroustrup                     | [https://www.youtube.](https://www.youtube.com/watch?v=fX2W3nNjJIo&t=5s)                                                                                             | EN       |
 | Derek Banas C++ Tutorial              | [https://www.youtube.](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)                                                          | EN       |
+| Modern C++ Course                     | [https://www.youtube.](https://www.youtube.com/watch?v=F_vIB3yjxaM&list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)                                                          | EN       |
 | Excript Curso                         | [https://excript.com/](https://excript.com/curso-cpp.html)                                                                                                           | PT       |
 | Aulas C++                             | [http://www.inf.ufpr.](http://www.inf.ufpr.br/ci208/NotasAula.pdf)                                                                                                   | PT       |
 | Programação C++                       | [https://www.inf.pucr](https://www.inf.pucrs.br/manssour/LinguagemC++/index.html)                                                                                    | PT       |

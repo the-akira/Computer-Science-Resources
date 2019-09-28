@@ -33,14 +33,12 @@
 | PHPtpoint                    | [https://www.phptpoin](https://www.phptpoint.com/php-tutorial/)                                                                                             | EN       |
 | PHP MySQL Tutorial           | [http://www.mysqltuto](http://www.mysqltutorial.org/php-mysql/)                                                                                             | EN       |
 | Zetcode                      | [http://zetcode.com/l](http://zetcode.com/lang/php/)                                                                                                        | EN       |
-| PHP Einfach                  | [https://www.php-einf](https://www.php-einfach.de/php-tutorial/)                                                                                            | DE       |
 | Sitesbay                     | [https://www.sitesbay](https://www.sitesbay.com/php/index)                                                                                                  | EN       |
 | Landofcode                   | [http://www.landofcod](http://www.landofcode.com/php-tutorials/)                                                                                            | EN       |
 | PHP Basics                   | [https://www.howtofor](https://www.howtoforge.com/php_programming_basics)                                                                                   | EN       |
 | Phptutorial.info             | [http://www.phptutori](http://www.phptutorial.info/)                                                                                                        | EN       |
 | Tutorialsclass               | [https://tutorialscla](https://tutorialsclass.com/learn/php)                                                                                                | EN       |
 | PHP5-Tutorial                | [https://php5-tutoria](https://php5-tutorial.com/)                                                                                                          | EN       |
-| PHP Tutorial                 | [https://wiki.selfhtm](https://wiki.selfhtml.org/wiki/PHP)                                                                                                  | DE       |
 | PHP Wikipedia                | [https://en.wikipedia](https://en.wikipedia.org/wiki/PHP)                                                                                                   | EN       |
 | PHP, MySQL, Javascript       | [https://education.fs](https://education.fsu.edu/wp-content/uploads/2015/04/Learning-PHP-MySQL-JavaScript-and-CSS-2nd-Edition-1.pdf)                        | EN       |
 | Beginning PHP and MySQL      | [http://minitorn.tlu.](http://minitorn.tlu.ee/~jaagup/kool/java/kursused/14/webpr/beginning_php_and_mysql_from_novice_to_professional_4th_edition.pdf)      | EN       |
@@ -49,14 +47,13 @@
 | PHP and MySQL Web Dev        | [http://ciswebs.smc.e](http://ciswebs.smc.edu/cs85/geddes_james/PHPandMySQL/EBook/067232525X.pdf)                                                           | EN       |
 | PHP Cookbook                 | [http://web-algarve.c](http://web-algarve.com/books/MySQL%20&%20PHP/PHP%20Cookbook,%203rd%20Edition.pdf)                                                    | EN       |
 | PHP Full Course              | [https://www.youtube.](https://www.youtube.com/watch?v=OK_JCtrrv-c)                                                                                         | EN       |
-| Curso de PHP para Iniciantes | [https://www.youtube.](https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k)                                                 | PT       |
 | Derek Banas                  | [https://www.youtube.](https://www.youtube.com/watch?v=7TF00hJI78Y)                                                                                         | EN       |
 | PHP in 15 minutes            | [https://www.youtube.](https://www.youtube.com/watch?v=ZdP0KM49IVk)                                                                                         | EN       |
 | PHP mmtuts                   | [https://www.youtube.](https://www.youtube.com/watch?v=qVU3V0A05k8&list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-)                                                 | EN       |
-| Curso de PHP                 | [https://www.youtube.](https://www.youtube.com/watch?v=R_yRrYUHai0&list=PLesCEcYj003TrV2MvUOnmVtMdgIp0C4Pd)                                                 | PT       |
 | PHP Front to Back            | [https://www.youtube.](https://www.youtube.com/watch?v=oJbfyzaA2QA&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)                                                 | EN       |
 | PHP Tutorials                | [https://www.youtube.](https://www.youtube.com/watch?v=95RU58kZlbc&list=PLONQt8bJdq9ayhjJkDsNcNTzUgYg_yG-U)                                                 | EN       |
 | Curso de PHP 7               | [https://www.youtube.](https://www.youtube.com/watch?v=XwpsxPmQN2E&list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq)                                                 | PT       |
+| Curso de PHP                 | [https://www.youtube.](https://www.youtube.com/watch?v=R_yRrYUHai0&list=PLesCEcYj003TrV2MvUOnmVtMdgIp0C4Pd)                                                 | PT       |
 | Guia Básico                  | [https://www.hostinge](https://www.hostinger.com.br/tutoriais/o-que-e-php-guia-basico/)                                                                     | PT       |
 | Começando PHP                | [http://aprenderphp.c](http://aprenderphp.com.br/artigo/comecando-a-programar-em-php/)                                                                      | PT       |
 | Programação PHP              | [http://www.criarweb.](http://www.criarweb.com/manuais/programacao_php/)                                                                                    | PT       |
@@ -67,6 +64,7 @@
 | Programação Web PHP          | [https://sisacad.educ](https://sisacad.educacao.pe.gov.br/bibliotecavirtual/bibliotecavirtual/texto/CadernodeINFOLinguagemdeProgramaoparaWebRDDI.pdf)       | PT       |
 | Curso PHP Web                | [https://homepages.dc](https://homepages.dcc.ufmg.br/~igor/classes/cursophp/cursophp-aula1.pdf)                                                             | PT       |
 | PHP com MySQL                | [http://www.cin.ufpe.](http://www.cin.ufpe.br/~ags/2464_php_com_mysql.pdf)                                                                                  | PT       |
+| Curso de PHP para Iniciantes | [https://www.youtube.](https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k)                                                 | PT       |
 | PHP Cours                    | [http://www.lephpfaci](http://www.lephpfacile.com/cours/)                                                                                                   | FR       |
 | PHP La Bonne Pratique        | [https://php.developp](https://php.developpez.com/tutoriels/php-la-bonne-pratique/)                                                                         | FR       |
 | PHP Intro                    | [https://tecfa.unige.](https://tecfa.unige.ch/guides/tie/html/php-intro/php-intro-1.html)                                                                   | FR       |
@@ -105,3 +103,5 @@
 | PHP-Kurs                     | [https://www.php-kurs](https://www.php-kurs.com/anwendungen-php.htm)                                                                                        | DE       |
 | PHP-Einfach                  | [https://www.php-einf](https://www.php-einfach.de/)                                                                                                         | DE       |
 | PHP-Programmierung           | [http://algo.informat](http://algo.informatik.uni-freiburg.de/mitarbeiter/hermann/projects/sommercampus2006/phpkurs_beg.pdf)                                | DE       |
+| PHP Einfach                  | [https://www.php-einf](https://www.php-einfach.de/php-tutorial/)                                                                                            | DE       |
+| PHP Tutorial                 | [https://wiki.selfhtm](https://wiki.selfhtml.org/wiki/PHP)                                                                                                  | DE       |

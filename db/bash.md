@@ -17,6 +17,7 @@
 | Awesome Shell                           | [https://github.com/a](https://github.com/alebcay/awesome-shell)                                                                               | EN       |
 | Bash Tutorial                           | [https://linuxconfig.](https://linuxconfig.org/bash-scripting-tutorial)                                                                        | EN       |
 | Learn Shell                             | [https://www.learnshe](https://www.learnshell.org/)                                                                                            | EN       |
+| Bash Tutorial                           | [http://gdrcorelec.up](http://gdrcorelec.ups-tlse.fr/files/bash.pdf)                                                                           | EN       |
 | Bash Beginners                          | [https://help.ubuntu.](https://help.ubuntu.com/community/Beginners/BashScripting)                                                              | EN       |
 | Ryans Tutorials                         | [https://ryanstutoria](https://ryanstutorials.net/bash-scripting-tutorial/)                                                                    | EN       |
 | Learn X in Y minutes                    | [https://learnxinymin](https://learnxinyminutes.com/docs/bash/)                                                                                | EN       |
@@ -33,12 +34,17 @@
 | Bash Cheat Sheet                        | [https://learncodethe](https://learncodethehardway.org/unix/bash_cheat_sheet.pdf)                                                              | EN       |
 | Bash Cookbook                           | [http://index-of.co.u](http://index-of.co.uk/Linux/Linux%20Bash%20Programming%20CookBook.pdf)                                                  | EN       |
 | Shell Scripting Cookbook                | [https://gutl.jovencl](https://gutl.jovenclub.cu/wp-content/uploads/2013/10/Linux.Shell_.Scripting.Cookbook.pdf)                               | EN       |
+| Bash Cheat Sheet                        | [https://github.com/L](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)                                           | EN       |
 | Advanced Bash Scripting                 | [https://www.cv.nrao.](https://www.cv.nrao.edu/~jmalone/talks/bash.pdf)                                                                        | EN       |
+| Bash Great Reference                    | [https://ss64.com/bas](https://ss64.com/bash/)                                                                                                 | EN       |
+| Getting Started with Bash               | [http://www.hypexr.or](http://www.hypexr.org/bash_tutorial.php)                                                                                | EN       |
 | Programming with Bash                   | [https://media.readth](https://media.readthedocs.org/pdf/book-linux/latest/book-linux.pdf)                                                     | EN       |
 | Bash Advanced Topics                    | [https://storm.cis.fo](https://storm.cis.fordham.edu/~zhang/cs3130/slides/ShellAdvanced.pdf)                                                   | EN       |
 | Basic Shell Scripting                   | [http://www.hpc.lsu.e](http://www.hpc.lsu.edu/training/weekly-materials/2016-Fall/HPC_Shell_Scripting_Fall2016.pdf)                            | EN       |
 | Mastering Linux Scripting               | [http://www.science.s](http://www.science.smith.edu/dftwiki/images/e/e4/MasteringLinuxShellScripting_Ebrahim_Mallet.pdf)                       | EN       |
+| Run Bash Online                         | [https://rextester.co](https://rextester.com/l/bash)                                                                                           | EN       |
 | Unix Shell Programming                  | [http://www.docs.is.e](http://www.docs.is.ed.ac.uk/skills/documents/2630/2630.pdf)                                                             | EN       |
+| Bash Shell Programming in Linux         | [https://arachnoid.co](https://arachnoid.com/linux/shell_programming.html)                                                                     | EN       |
 | Derek Banas Tutorial                    | [https://www.youtube.](https://www.youtube.com/watch?v=hwrnmQumtPw)                                                                            | EN       |
 | Traversy Media Crash Course             | [https://www.youtube.](https://www.youtube.com/watch?v=v-F3YLd6oMw)                                                                            | EN       |
 | Beginners Guide                         | [https://www.youtube.](https://www.youtube.com/watch?v=oxuRxtrO2Ag)                                                                            | EN       |
@@ -55,7 +61,6 @@
 | Linux Shell Essentials                  | [https://www.devmedia](https://www.devmedia.com.br/linux-shell-essentials/20158)                                                               | PT       |
 | Bash, ou como computeiros ganham tempo  | [http://www.inf.ufpr.](http://www.inf.ufpr.br/roberto/ci064/labBash-2.html)                                                                    | PT       |
 | Programação em Shell Script             | [http://jeiks.net/wp-](http://jeiks.net/wp-content/uploads/2010/07/bash.pdf)                                                                   | PT       |
-| Bash Cheat Sheet                        | [https://github.com/L](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)                                           | EN       |
 | Seminário Shell                         | [https://inf.ufes.br/](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20151-seminario-shell.pdf)                               | PT       |
 | Introdução ao Shell Script              | [https://canaltech.co](https://canaltech.com.br/linux/Introducao-ao-Shell-Script/)                                                             | PT       |
 | Programmation en Bash                   | [http://www.iro.umont](http://www.iro.umontreal.ca/~lesagee/bash.html)                                                                         | FR       |
@@ -63,7 +68,6 @@
 | Programmation Bash                      | [https://upload.wikim](https://upload.wikimedia.org/wikipedia/commons/1/1a/Programmation_Bash-fr.pdf)                                          | FR       |
 | OpenClassRooms                          | [https://openclassroo](https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux/42867-introduction-aux-scripts-shell) | FR       |
 | Introduction à la programmation en Bash | [http://aral.iut-rode](http://aral.iut-rodez.fr/fr/sanchis/enseignement/bash/)                                                                 | FR       |
-| Bash Shell Programming in Linux         | [https://arachnoid.co](https://arachnoid.com/linux/shell_programming.html)                                                                     | EN       |
 | La Programmation Shell                  | [http://www.ai.univ-p](http://www.ai.univ-paris8.fr/~hw/unx3.pdf)                                                                              | FR       |
 | Shells de Linux                         | [http://hautrive.free](http://hautrive.free.fr/linux/page-shell-linux.html)                                                                    | FR       |
 | Programación en Bash                    | [http://es.tldp.org/C](http://es.tldp.org/COMO-INSFLUG/COMOs/Bash-Prog-Intro-COMO/Bash-Prog-Intro-COMO.html#toc2)                              | ES       |
@@ -94,13 +98,9 @@
 | Bash                                    | [http://linuxgeeks.ru](http://linuxgeeks.ru/bash-1.htm)                                                                                        | RU       |
 | Bash Tutorial                           | [https://aixportal.ru](https://aixportal.ru/bash/)                                                                                             | RU       |
 | Bash Documentation                      | [http://www.fpublishe](http://www.fpublisher.ru/documentation/bash_documentation)                                                              | RU       |
-| Run Bash Online                         | [https://rextester.co](https://rextester.com/l/bash)                                                                                           | EN       |
 | Bash Conspect                           | [http://www.ods.com.u](http://www.ods.com.ua/koi/unix/bash-conspect.html)                                                                      | RU       |
 | Bash Commands                           | [http://gahcep.github](http://gahcep.github.io/blog/2012/07/28/unix-bash-shell-prompt/)                                                        | RU       |
 | Bash Command List                       | [http://najomi.org/_n](http://najomi.org/_nix/bash)                                                                                            | RU       |
-| Bash Great Reference                    | [https://ss64.com/bas](https://ss64.com/bash/)                                                                                                 | EN       |
-| Getting Started with Bash               | [http://www.hypexr.or](http://www.hypexr.org/bash_tutorial.php)                                                                                | EN       |
 | Bash Guide                              | [https://ruvds.com/do](https://ruvds.com/doc/bash.pdf)                                                                                         | RU       |
 | Advanced Bash-Scripting Guide           | [https://disnetern.ru](https://disnetern.ru/wp-content/uploads/2016/11/Advanced-Bash-Scripting-Guide.pdf)                                      | RU       |
-| Bash Tutorial                           | [http://gdrcorelec.up](http://gdrcorelec.ups-tlse.fr/files/bash.pdf)                                                                           | EN       |
 | Bash Scripts                            | [http://mit.spbau.ru/](http://mit.spbau.ru/files/bash-scripts_0.pdf)                                                                           | RU       |
