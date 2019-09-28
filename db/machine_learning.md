@@ -49,6 +49,8 @@
 | Grokking Machine Learning                      | [https://www.manning.](https://www.manning.com/books/grokking-machine-learning)                                                                                                 | EN       |
 | How Machine Learning Works                     | [https://www.manning.](https://www.manning.com/books/how-machine-learning-works)                                                                                                 | EN       |
 | The 50 Best Free Datasets for Machine Learning | [https://gengo.ai/dat](https://gengo.ai/datasets/the-50-best-free-datasets-for-machine-learning/)                                                                                                        | EN       |
+| Edureka Machine Learning             | [https://www.youtube.](https://www.youtube.com/watch?v=Pj0neYUp9Tc&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)                                              | EN       |
+| Deep Learning with Structured Data                                 | [https://manning.com](https://www.manning.com/books/deep-learning-with-structured-data)                                 | EN       |
 | Probabilistic Deep Learning with Python        | [https://www.manning.](https://www.manning.com/books/probabilistic-deep-learning-with-python)                                                   | EN       |
 | Edureka Machine Learning                       | [https://www.youtube.](https://www.youtube.com/watch?v=Pj0neYUp9Tc&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)                                              | EN       |
 | Machine Learning Zero to Hero (Google I/O'19)  | [https://www.youtube.](https://www.youtube.com/watch?v=VwVg9jCtqaU)                                              | EN       |
