@@ -1,55 +1,79 @@
 # Mathematics
 
-| Project                                 | URL                                                                                                                                                                                                                    | Language |
-|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| MIT Math for Computer Science           | [https://courses.csai](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)                                                                                                                                                  | EN       |
-| Gentle Intro                            | [http://web.ftvs.cuni](http://web.ftvs.cuni.cz/hendl/metodologie/gentle-introduction-to-mathematics-for-computer.pdf)                                                                                                         | EN       |
-| Discrete Math                           | [https://en.wikiversi](https://en.wikiversity.org/wiki/Introductory_Discrete_Mathematics_for_Computer_Science)                                                                                                                | EN       |
-| Facts & Formulae                        | [http://www.mathcentr](http://www.mathcentre.ac.uk/resources/uploaded/43799-maths-for-computer-sci-ff-for-web.pdf)                                                                                                            | EN       |
-| Computer Mathematics                    | [https://en.wikipedia](https://en.wikipedia.org/wiki/Computer_mathematics)                                                                                                                                                    | EN       |
-| Intro to Mathematical Computing         | [http://www.maths.qmu](http://www.maths.qmul.ac.uk/~fjw/goldsmiths/2010/FJW/Introduction%20to%20Mathematical%20Computing.pdf)                                                                                                 | EN       |
-| Mathematics and Computation             | [https://www.math.ias](https://www.math.ias.edu/files/mathandcomp.pdf)                                                                                                                                                        | EN       |
-| CS 103 Stanford                         | [https://web.stanford](https://web.stanford.edu/class/cs103/)                                                                                                            | EN       |
-| CS 103 Materials                        | [https://web.stanford](https://web.stanford.edu/class/cs103//handouts/)                                                                                                                                                                 | EN       |
-| Discrete Math Tutorial                  | [https://www.tutorial](https://www.tutorialspoint.com/discrete_mathematics/index.htm)                                                                                                                                         | EN       |
-| Disc Math for CS                        | [https://www.cl.cam.a](https://www.cl.cam.ac.uk/teaching/1314/DiscMath/DiscMathNotes.pdf)                                                                                                                                     | EN       |
-| Intro to Comp Math                      | [http://www-personal.](http://www-personal.umich.edu/~paullric/AM341.pdf)                                                                                                                                                     | EN       |
-| Math for Computer Scientists            | [http://www.cs.nott.a](http://www.cs.nott.ac.uk/~psztxa/g51mcs/notes.pdf)                                                                                                                                                     | EN       |
-| Computational & Applied Mathematics     | [https://www.unige.ch](https://www.unige.ch/~gander/teaching/talk.pdf)                                                                                                                                                        | EN       |
-| Concrete Mathematics                    | [https://www.csie.ntu](https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf)                                                                                                                              | EN       |
-| Discrete Math Using a Computer          | [http://www.x.edu.uy/](http://www.x.edu.uy/inet/Springer.pdf)                                                                                                                                                                 | EN       |
-| Computational Mathematics               | [http://www.mat.uc.pt](http://www.mat.uc.pt/~ferreira/CompMathematics.pdf)                                                                                                                                                    | EN       |
-| A Guide to Writing Math                 | [http://web.cs.ucdavi](http://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf)                                                                                                                                                  | EN       |
-| Math for Computer Graphics              | [http://pdf.nsc.ac.id](http://pdf.nsc.ac.id/1-buku%20komputer%20grafis-20170515052347.pdf)                                                                                                                                    | EN       |
-| Advanced Math for Engineers             | [http://www.hs-weinga](http://www.hs-weingarten.de/~ertel/vorlesungen/mae/matheng-skript-1213.pdf)                                                                                                                            | EN       |
-| Mathematical Logic                      | [http://www.win.tue.n](http://www.win.tue.nl/~keesh/ow/2if85/Ben-Ari3rd.pdf)                                                                                                                                                  | EN       |
-| 3Blue1Brown                             | [https://www.youtube.](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)                                                                                                                                              | EN       |
-| Mathologer                              | [https://www.youtube.](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)                                                                                                                                              | EN       |
-| Numberphile                             | [https://www.youtube.](https://www.youtube.com/user/numberphile)                                                                                                                                                              | EN       |
-| MIT 6.042J                              | [https://www.youtube.](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)                                                                                                                                   | EN       |
-| Discrete Math IIT                       | [https://www.youtube.](https://www.youtube.com/watch?v=E6uhC0pT9J8&list=PLEJxKK7AcSEGD7ty8DB1aU0xVG_P_hs_0)                                                                                                                   | EN       |
-| Math for Programmers                    | [https://www.youtube.](https://www.youtube.com/watch?v=2SpuBqvNjHI&t)                                                                                                                                                           | EN       |
-| Fundamentos Matemáticos                 | [http://www.cin.ufpe.](http://www.cin.ufpe.br/~dmd/inf101/biblio/FMCCJK.pdf)                                                                                                                                                  | PT       |
-| Lógica e Aplicações                     | [https://www.cle.unic](https://www.cle.unicamp.br/prof/coniglio/LIVRO.pdf)                                                                                                                                                    | PT       |
-| Fundamentos Matemáticos para Comp       | [https://www.youtube.](https://www.youtube.com/watch?v=ib3F1c2oKpA&list=PLxI8Can9yAHcXBgFryV0AV7LYdLR1skuF)                                                                                                                   | PT       |
-| Introdução a Lógica                     | [http://infocat.ucpel](http://infocat.ucpel.tche.br/disc/log/docs/ILCC.pdf)                                                                                                                                                   | PT       |
-| Introdução Matemática Discreta          | [https://homepages.dc](https://homepages.dcc.ufmg.br/~loureiro/md/md_0Introducao.pdf)                                                                                                                                         | PT       |
-| Aplicações da Lógica                    | [http://www.inf.ufrgs](http://www.inf.ufrgs.br/~bsguedes/disc/3/inf05508/aplicacoes.pdf)                                                                                                                                      | PT       |
-| Ciência da Comp sem uso do Computador   | [https://classic.csun](https://classic.csunplugged.org/wp-content/uploads/2014/12/CSUnpluggedTeachers-portuguese-brazil-feb-2011.pdf)                                                                                         | PT       |
-| Pensamento Computacional                | [http://www.imago.ufp](http://www.imago.ufpr.br/csbc2012/anais_csbc/eventos/wei/artigos/Pensamento%20Computacional%20e%20Educacao%20Matematica%20Relacoes%20para%20o%20Ensino%20de%20Computacao%20na%20Educacao%20Basica.pdf) | PT       |
-| Apostila de Lógica                      | [https://www.cos.ufrj](https://www.cos.ufrj.br/~mario/logica/apostila.pdf)                                                                                                                                                    | PT       |
-| Matemática y Programación               | [https://www.fing.edu](https://www.fing.edu.uy/~darosa/matyprogversionfinal.pdf)                                                                                                                                              | ES       |
-| Matemática para Informática             | [http://repositorio.u](http://repositorio.uned.ac.cr/reuned/bitstream/120809/1375/1/50287%20Matematicas%20para%20informatica.pdf)                                                                                             | ES       |
-| Informática para Las Matemáticas        | [https://www.unirioja](https://www.unirioja.es/cu/joheras/papers/immiia.pdf)                                                                                                                                                  | ES       |
-| Relações entre Informática e Matemática | [http://www.matematic](http://www.matematica.pucminas.br/profs/web_silvi/calculo2/artigos/show_file.pdf)                                                                                                                      | ES       |
-| Mathématiques pour Informaticiens       | [https://www.unige.ch](https://www.unige.ch/~hairer/poly_mathinfo/math-info.pdf)                                                                                                                                              | FR       |
-| Mathématiques Appliquées                | [http://www.courstech](http://www.courstechinfo.be/Math_Info.pdf)                                                                                                                                                             | FR       |
-| Les Mathématiques                       | [https://www.ljll.mat](https://www.ljll.math.upmc.fr/ledret/mathsoipweb.pdf)                                                                                                                                                  | FR       |
-| Cours                                   | [http://www.fsr.ac.ma](http://www.fsr.ac.ma/cours/informatique/elbenani/Partie1.pdf)                                                                                                                                          | FR       |
-| Math et Info                            | [https://www.irif.fr/](https://www.irif.fr/~jep/PDF/MathInfo.pdf)                                                                                                                                                             | FR       |
-| Informatique, Math Appliquées           | [http://www.ac-grenob](http://www.ac-grenoble.fr/missionsciences/pdf/ressources/IMA_presentation_Lycees.pdf)                                                                                                                  | FR       |
-| Mathematika für Informatiker            | [http://page.mi.fu-be](http://page.mi.fu-berlin.de/baumeist/Mafi-Skript.pdf)                                                                                                                                                  | DE       |
-| Mathematika                             | [https://www.mat.univ](https://www.mat.univie.ac.at/~gerald/ftp/book-mfi/mfi1.pdf)                                                                                                                                            | DE       |
-| Diskrete Mathematik                     | [http://www.cosy.sbg.](http://www.cosy.sbg.ac.at/~held/teaching/diskrete_mathematik/dm_print.pdf)                                                                                                                             | DE       |
-| MFI                                     | [https://www.math.uni](https://www.math.uni-sb.de/ag-schreyer/images/PDFs/teaching/ss14_mfi2/MfI123_book.pdf)                                                                                                                 | DE       |
-| Mathematik und Informatik               | [https://pdfs.semanti](https://pdfs.semanticscholar.org/8045/874b19f50a958f3ccb0ebd5ed841fd1b1eea.pdf)                                                                                                                        | DE       |
+---------------------------------------
+
+[EN](https://i.imgur.com/JVHlBEw.png)
+
+- [MIT Math for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+- [Gentle Intro](http://web.ftvs.cuni.cz/hendl/metodologie/gentle-introduction-to-mathematics-for-computer.pdf)
+- [Discrete Math](https://en.wikiversity.org/wiki/Introductory_Discrete_Mathematics_for_Computer_Science)
+- [Facts & Formulae](http://www.mathcentre.ac.uk/resources/uploaded/43799-maths-for-computer-sci-ff-for-web.pdf)
+- [Computer Mathematics](https://en.wikipedia.org/wiki/Computer_mathematics)
+- [Intro to Mathematical Computing](http://www.maths.qmul.ac.uk/~fjw/goldsmiths/2010/FJW/Introduction%20to%20Mathematical%20Computing.pdf)
+- [Mathematics and Computation](https://www.math.ias.edu/files/mathandcomp.pdf)
+- [CS 103 Stanford](https://web.stanford.edu/class/cs103/)
+- [CS 103 Materials](https://web.stanford.edu/class/cs103//handouts/)
+- [Discrete Math Tutorial](https://www.tutorialspoint.com/discrete_mathematics/index.htm)
+- [Disc Math for CS](https://www.cl.cam.ac.uk/teaching/1314/DiscMath/DiscMathNotes.pdf)
+- [Intro to Comp Math](http://www-personal.umich.edu/~paullric/AM341.pdf)
+- [Math for Computer Scientists](http://www.cs.nott.ac.uk/~psztxa/g51mcs/notes.pdf)
+- [Computational & Applied Mathematics](https://www.unige.ch/~gander/teaching/talk.pdf)
+- [Concrete Mathematics](https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf)
+- [Discrete Math Using a Computer](http://www.x.edu.uy/inet/Springer.pdf)
+- [Computational Mathematics](http://www.mat.uc.pt/~ferreira/CompMathematics.pdf)
+- [A Guide to Writing Math](http://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf)
+- [Math for Computer Graphics](http://pdf.nsc.ac.id/1-buku%20komputer%20grafis-20170515052347.pdf)
+- [Advanced Math for Engineers](http://www.hs-weingarten.de/~ertel/vorlesungen/mae/matheng-skript-1213.pdf)
+- [Mathematical Logic](http://www.win.tue.nl/~keesh/ow/2if85/Ben-Ari3rd.pdf)
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
+- [Numberphile](https://www.youtube.com/user/numberphile)
+- [MIT 6.042J](https://www.youtube.com/watch?v=L3LMbpZIKhQ&amp;list=PLB7540DEDD482705B)
+- [Discrete Math IIT](https://www.youtube.com/watch?v=E6uhC0pT9J8&amp;list=PLEJxKK7AcSEGD7ty8DB1aU0xVG_P_hs_0)
+- [Math for Programmers](https://www.youtube.com/watch?v=2SpuBqvNjHI&amp;t)
+
+---------------------------------------
+
+![PT](https://i.imgur.com/2kZUDhk.png)
+
+- [Fundamentos Matemáticos](http://www.cin.ufpe.br/~dmd/inf101/biblio/FMCCJK.pdf)
+- [Lógica e Aplicações](https://www.cle.unicamp.br/prof/coniglio/LIVRO.pdf)
+- [Fundamentos Matemáticos para Comp](https://www.youtube.com/watch?v=ib3F1c2oKpA&amp;list=PLxI8Can9yAHcXBgFryV0AV7LYdLR1skuF)
+- [Introdução a Lógica](http://infocat.ucpel.tche.br/disc/log/docs/ILCC.pdf)
+- [Introdução Matemática Discreta](https://homepages.dcc.ufmg.br/~loureiro/md/md_0Introducao.pdf)
+- [Aplicações da Lógica](http://www.inf.ufrgs.br/~bsguedes/disc/3/inf05508/aplicacoes.pdf)
+- [Ciência da Comp sem uso do Computador](https://classic.csunplugged.org/wp-content/uploads/2014/12/CSUnpluggedTeachers-portuguese-brazil-feb-2011.pdf)
+- [Pensamento Computacional](http://www.imago.ufpr.br/csbc2012/anais_csbc/eventos/wei/artigos/Pensamento%20Computacional%20e%20Educacao%20Matematica%20Relacoes%20para%20o%20Ensino%20de%20Computacao%20na%20Educacao%20Basica.pdf)
+- [Apostila de Lógica](https://www.cos.ufrj.br/~mario/logica/apostila.pdf)
+
+---------------------------------------
+
+![ES](https://i.imgur.com/YrO5S0F.png)
+
+- [Matemática y Programación](https://www.fing.edu.uy/~darosa/matyprogversionfinal.pdf)
+- [Matemática para Informática](http://repositorio.uned.ac.cr/reuned/bitstream/120809/1375/1/50287%20Matematicas%20para%20informatica.pdf)
+- [Informática para Las Matemáticas](https://www.unirioja.es/cu/joheras/papers/immiia.pdf)
+- [Relações entre Informática e Matemática](http://www.matematica.pucminas.br/profs/web_silvi/calculo2/artigos/show_file.pdf)
+
+---------------------------------------
+
+![FR](https://i.imgur.com/JZEovQw.png)
+
+- [Mathématiques pour Informaticiens](https://www.unige.ch/~hairer/poly_mathinfo/math-info.pdf)
+- [Mathématiques Appliquées](http://www.courstechinfo.be/Math_Info.pdf)
+- [Les Mathématiques](https://www.ljll.math.upmc.fr/ledret/mathsoipweb.pdf)
+- [Cours](http://www.fsr.ac.ma/cours/informatique/elbenani/Partie1.pdf)
+- [Math et Info](https://www.irif.fr/~jep/PDF/MathInfo.pdf)
+- [Informatique, Math Appliquées](http://www.ac-grenoble.fr/missionsciences/pdf/ressources/IMA_presentation_Lycees.pdf)
+
+---------------------------------------
+
+![DE](https://i.imgur.com/RSPYBQi.png)
+
+- [Mathematika für Informatiker](http://page.mi.fu-berlin.de/baumeist/Mafi-Skript.pdf)
+- [Mathematika](https://www.mat.univie.ac.at/~gerald/ftp/book-mfi/mfi1.pdf)
+- [Diskrete Mathematik](http://www.cosy.sbg.ac.at/~held/teaching/diskrete_mathematik/dm_print.pdf)
+- [MFI](https://www.math.uni-sb.de/ag-schreyer/images/PDFs/teaching/ss14_mfi2/MfI123_book.pdf)
+- [Mathematik und Informatik](https://pdfs.semanticscholar.org/8045/874b19f50a958f3ccb0ebd5ed841fd1b1eea.pdf)
+
+---------------------------------------
