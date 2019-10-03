@@ -1,162 +1,196 @@
 # Artificial Neural Networks
 
-| Project                                                                 | URL                                                                                                                                                                                                                           | Language  |
-|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Wikipedia                                                               | [https://en.wikipedia](https://en.wikipedia.org/wiki/Artificial_neural_network)                                                                                                                                               | EN    |
-| Digital Trends                                                          | [https://www.digitalt](https://www.digitaltrends.com/cool-tech/what-is-an-artificial-neural-network/)                                                                                                                         | EN    |
-| Everything You Need to Know About Artificial Neural Networks            | [https://medium.com/t](https://medium.com/technology-invention-and-more/everything-you-need-to-know-about-artificial-neural-networks-57fac18245a1)                                                                            | EN    |
-| Artificial Neural Networks Technology                                   | [http://www.psych.uto](http://www.psych.utoronto.ca/users/reingold/courses/ai/cache/neural_ToC.html)                                                                                                                          | EN    |
-| Fast.ai                                                                    | [https://www.fast.ai](https://www.fast.ai/)                                                         | EN    |
-| Neural Networks and Deep Learning                                       | [http://neuralnetwork](http://neuralnetworksanddeeplearning.com/index.html)                                                                                                                                                   | EN    |
-| Information Theory, Pattern Recognition and Neural Networks                                       | [http://www.youtube.](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)                                                                                                                                                   | EN    |
-| Deep Learning at Oxford 2015                                       | [http://www.youtube.](https://www.youtube.com/watch?v=dV80NAlEins&list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)                                                                                                                                                   | EN    |
-| CS 20: Tensorflow for Deep Learning Research                       | [http://web.stanford](http://web.stanford.edu/class/cs20si/syllabus.html)                                                                                                                                                   | EN    |
-| Skymind                                                                 | [https://skymind.ai/w](https://skymind.ai/wiki/neural-network)                                                                                                                                                                | EN    |
-| Tutorialspoint                                                          | [https://www.tutorial](https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_neural_networks.htm)                                                                                                    | EN    |
-| Analytics Vidhya                                                        | [https://www.analytic](https://www.analyticsvidhya.com/blog/2014/10/ann-work-simplified/)                                                                                                                                     | EN    |
-| Neural Networks                                                         | [https://www.doc.ic.a](https://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html)                                                                                                                                | EN    |
-| Artificial Neural Networks Explained                                    | [https://blog.goodaud](https://blog.goodaudience.com/artificial-neural-networks-explained-436fcf36e75)                                                                                                                        | EN    |
-| A Basic Introduction to Neural Networks                                 | [http://pages.cs.wisc](http://pages.cs.wisc.edu/~bolo/shipyard/neural/local.html)                                                                                                                                             | EN    |
-| Artificial Neural Network Nvidia                                        | [https://developer.nv](https://developer.nvidia.com/discover/artificial-neural-network)                                                                                                                                       | EN    |
-| Artificial Neural Networks Basics                                       | [https://becominghuma](https://becominghuman.ai/artificial-neuron-networks-basics-introduction-to-neural-networks-3082f1dcca8c)                                                                                               | EN    |
-| Artificial Intelligence, Deep Learning, and Neural Networks, Explained  | [https://www.kdnugget](https://www.kdnuggets.com/2016/10/artificial-intelligence-deep-learning-neural-networks-explained.html)                                                                                                | EN    |
-| Training Artificial Neural Network                                      | [https://www.solver.c](https://www.solver.com/training-artificial-neural-network-intro)                                                                                                                                       | EN    |
-| Saed Sayad                                                              | [https://www.saedsaya](https://www.saedsayad.com/artificial_neural_network.htm)                                                                                                                                               | EN    |
-| Artificial Neural Network : Beginning of the AI revolution              | [https://hackernoon.c](https://hackernoon.com/artificial-neural-network-a843ff870338)                                                                                                                                         | EN    |
-| Intro to ANN                                                            | [http://ulcar.uml.edu](http://ulcar.uml.edu/~iag/CS/Intro-to-ANN.html)                                                                                                                                                        | EN    |
-| Deep Learning an MIT Press Book                                         | [http://www.deeplearn](https://www.deeplearningbook.org/)                                                                                                                                                        | EN    |
-| Neural Networks Stanford                                                | [https://cs.stanford.](https://cs.stanford.edu/people/eroberts/courses/soco/projects/neural-networks/)                                                                                                                        | EN    |
-| Specifics of Artificial Neural Networks, from Algorithm to Applications | [https://www.programi](https://www.programiz.com/c-programming)                                                                                                                                                               | EN    |
-| Clever Algorithms                                                       | [http://www.cleveralg](http://www.cleveralgorithms.com/nature-inspired/neural.html)                                                                                                                                           | EN    |
-| ANN Tutorialspoint                                                      | [https://www.tutorial](https://www.tutorialspoint.com/artificial_neural_network/)                                                                                                                                             | EN    |
-| Neural Networks Tutorial                                                | [http://adventuresinm](http://adventuresinmachinelearning.com/neural-networks-tutorial/)                                                                                                                                      | EN    |
-| Guru99                                                                  | [https://www.guru99.c](https://www.guru99.com/artificial-neural-network-tutorial.html)                                                                                                                                        | EN    |
-| How to Build a Neural Network                                           | [http://stevenmiller8](http://stevenmiller888.github.io/mind-how-to-build-a-neural-network/)                                                                                                                                  | EN    |
-| Edureka                                                                 | [https://www.edureka.](https://www.edureka.co/blog/neural-network-tutorial/)                                                                                                                                                  | EN    |
-| Colah's Blog                                                            | [https://colah.github](https://colah.github.io/)                                                                                                                                                  | EN    |
-| Quick Intro to Neural Networks                                          | [https://ujjwalkarn.m](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)                                                                                                                                         | EN    |
-| Neural Networks in Plain English                                        | [http://www.ai-junkie](http://www.ai-junkie.com/ann/evolved/nnt1.html)                                                                                                                                                        | EN    |
-| Awesome Deep Learning                                                   | [https://github.com/C](https://github.com/ChristosChristofidis/awesome-deep-learning)                                                                                                                                         | EN    |
-| Awesome Deep Learning Papers                                            | [https://github.com/t](https://github.com/terryum/awesome-deep-learning-papers)                                                                                                                                               | EN    |
-| Geoffrey E. Hinton's Publications                                       | [https://cs.toronto.e](https://www.cs.toronto.edu/~hinton/papers.html)                                                                                                                                               | EN    |
-| Awesome Recurrent Neural Networks                                       | [https://github.com/k](https://github.com/kjw0612/awesome-rnn)                                                                                                                                                                | EN    |
-| A Neural Network Playground                                             | [https://playground.t](https://playground.tensorflow.org/)                                                                                                                                                                    | EN    |
-| Neural Networks, Manifolds, and Topology                                | [http://colah.github.](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)                                                                                                                                           | EN    |
-| Artificial Neural Network (ANN)                                         | [http://www.cs.kumamo](http://www.cs.kumamoto-u.ac.jp/epslab/ICinPS/Lecture-2.pdf)                                                                                                                                            | EN    |
-| A Brief Introduction to Neural Networks                                 | [http://www.dkriesel.](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)                                                                                                                   | EN    |
-| Introduction to ANN                                                     | [https://www.cse.unr.](https://www.cse.unr.edu/~bebis/MathMethods/NNs/lecture.pdf)                                                                                                                                            | EN    |
-| Intro to ANN                                                            | [http://www2.imm.dtu.](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/2443/pdf/)                                                                                                                                        | EN    |
-| An Introduction to Neural Networks                                      | [https://www.inf.ed.a](https://www.inf.ed.ac.uk/teaching/courses/nlu/assets/reading/Gurney_et_al.pdf)                                                                                                                         | EN    |
-| Fundamentals of ANN                                                     | [http://pami.uwaterlo](http://pami.uwaterloo.ca/~karray/Fundamentals_of_ANN.pdf)                                                                                                                                              | EN    |
-| Introduction to the Artificial Neural Networks                          | [http://cdn.intechweb](http://cdn.intechweb.org/pdfs/14881.pdf)                                                                                                                                                               | EN    |
-| Basics of ANN                                                           | [https://ijcsmc.com/d](https://ijcsmc.com/docs/papers/September2014/V3I9201465.pdf)                                                                                                                                           | EN    |
-| Neural Networks and Learning Machines                                   | [https://dai.fmph.uni](https://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf)                                                                                                                              | EN    |
-| Artificial Neural Networks: A Tutorial                                  | [https://csc.lsu.edu/](https://csc.lsu.edu/~jianhua/nn.pdf)                                                                                                                                                                   | EN    |
-| An Introduction to Neural Networks                                      | [http://www2.econ.ias](http://www2.econ.iastate.edu/tesfatsi/NeuralNetworks.CheungCannonNotes.pdf)                                                                                                                            | EN    |
-| Ronan Collobert                                                         | [https://ronan.collob](https://ronan.collobert.com/pub/courses/2011-04-20-epfl.pdf)                                                                                                                                           | EN    |
-| Neural Network Design                                                   | [http://hagan.okstate](http://hagan.okstate.edu/NNDesign.pdf)                                                                                                                                                                 | EN    |
-| Artificial Neural Network (ANN)                                         | [http://zsi.tech.us.e](http://zsi.tech.us.edu.pl/~nowak/bien/w7.pdf)                                                                                                                                                          | EN    |
-| Artificial Neural Networks for Beginners                                | [https://datajobs.com](https://datajobs.com/data-science-repo/Neural-Net-[Carlos-Gershenson].pdf)                                                                                                                             | EN    |
-| Edward Gatt                                                             | [https://www.um.edu.m](https://www.um.edu.mt/__data/assets/pdf_file/0011/77276/ann.pdf)                                                                                                                                       | EN    |
-| Neural Networks: A Systematic Introduction                              | [https://page.mi.fu-b](https://page.mi.fu-berlin.de/rojas/neural/neuron.pdf)                                                                                                                                                  | EN    |
-| Neural Networks Structures                                              | [https://www.ieee.cz/](https://www.ieee.cz/knihovna/Zhang/Zhang100-ch03.pdf)                                                                                                                                                  | EN    |
-| Introduction ANN                                                        | [http://cis.poly.edu/](http://cis.poly.edu/~mleung/CS6673/s09/introductionANN.pdf)                                                                                                                                            | EN    |
-| Neural Networks: MATLAB Examples                                        | [http://lab.fs.uni-lj](http://lab.fs.uni-lj.si/lasin/wp/IMIT_files/neural/NN-examples.pdf)                                                                                                                                    | EN    |
-| Neural Networks and Introduction to Deep Learning                       | [https://www.math.uni](https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-hdstat-rnn-deep-learning.pdf)                                                                                                               | EN    |
-| An Introduction to Neural Networks with Python                          | [https://victorzhou.c](https://victorzhou.com/blog/intro-to-neural-networks/)                                                                                                               | EN    |
-| Convolutional Neural Network                                            | [https://deeplearning](http://deeplearning.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork/)                                                                                                               | EN    |
-| An Intuitive Explanation of Convolutional Neural Networks               | [https://ujjwalkarn.m](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)                                                                                                               | EN    |
-| Neural Networks: Feedforward and Backpropagation Explained              | [https://mlfromscratc](https://mlfromscratch.com/neural-networks-explained/)                                                                                                               | EN    |
-| MIT 6.S191: Introduction to Deep Learning                               | [https://www.youtube.](https://www.youtube.com/watch?v=JN6H4rQvwgY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)                                                                                                                   | EN    |
-| 3Blue1Brown                                                             | [https://www.youtube.](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)                                                                                                                                                      | EN    |
-| A Friendly Introduction to Deep Learning                                | [https://www.youtube.](https://www.youtube.com/watch?v=BR9h47Jtqyw&t=9s)                                                                                                                                                      | EN    |
-| Neural Networks Explained                                               | [https://www.youtube.](https://www.youtube.com/watch?v=GvQwE2OhL8I)                                                                                                                                                           | EN    |
-| Beginner Intro to Neural Networks                                       | [https://www.youtube.](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)                                                                                                                   | EN    |
-| Neural Network that Changes Everything                                  | [https://www.youtube.](https://www.youtube.com/watch?v=py5byOOHZM8&t=57s)                                                                                                                                                     | EN    |
-| How Deep Neural Networks Work                                           | [https://www.youtube.](https://www.youtube.com/watch?v=ILsA4nyG7I0)                                                                                                                                                           | EN    |
-| Deep Learning, Computerphile                                            | [https://www.youtube.](https://www.youtube.com/watch?v=l42lr8AlrHk)                                                                                                                                                           | EN    |
-| How Convolutional Neural Networks Work                                  | [https://www.youtube.](https://www.youtube.com/watch?v=FmpDIaiMIeA)                                                                                                                                                           | EN    |
-| Neural Network Programming                                              | [https://www.youtube.](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)                                                                                                                   | EN    |
-| Neural Networks Demystified                                             | [https://www.youtube.](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)                                                                                                                   | EN    |
-| Neural Differential Equations                                           | [https://www.youtube.](https://www.youtube.com/watch?v=AD3K8j12EIE)                                                                                                                   | EN    |
-| Getting Started with TensorFlow and Deep Learning                       | [https://www.youtube.](https://www.youtube.com/watch?v=tYYVSEHq-io)                                                                                                                   | EN    |
-| Deep Learning with TensorFlow                                           | [https://www.youtube.](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)                                                                                                                   | EN    |
-| Neural Network 3D Simulation                                            | [https://www.youtube.](https://www.youtube.com/watch?v=3JQ3hYko51Y)                                                                                                                   | EN    |
-| Geoffrey Hinton: The Foundations of Deep Learning                       | [https://www.youtube.](https://www.youtube.com/watch?v=zl99IZvW7rE)                                                                                                                   | EN    |
-| Deep Learning: A Crash Course                                           | [https://www.youtube.](https://www.youtube.com/watch?v=r0Ogt-q956I&t=8799s)                                                                                                                   | EN    |
-| Matheus Facure                                                          | [https://matheusfacur](https://matheusfacure.github.io/2017/03/05/ann-intro/)                                                                                                                                                 | PT |
-| Deep Learning Book                                                      | [http://deeplearningb](http://deeplearningbook.com.br/o-que-sao-redes-neurais-artificiais-profundas/)                                                                                                                         | PT |
-| USP                                                                     | [http://conteudo.icmc](http://conteudo.icmc.usp.br/pessoas/andre/research/neural/)                                                                                                                                            | PT |
-| UFCG                                                                    | [http://www.dsc.ufcg.](http://www.dsc.ufcg.edu.br/~pet/jornal/setembro2011/materias/informatica.html)                                                                                                                         | PT |
-| O Algoritmo Backpropagation                                             | [https://www.devmedia](https://www.devmedia.com.br/redes-neurais-artificiais-algoritmo-backpropagation/28559)                                                                                                                 | PT |
-| Introdução às Redes Neurais Artificiais                                 | [http://www.inf.ufsc.](http://www.inf.ufsc.br/~j.barreto/tutoriais/Survey.pdf)                                                                                                                                                | PT |
-| Redes Neurais Artificiais                                               | [https://andreric.git](https://andreric.github.io/files/pdfs/redes_neurais.pdf)                                                                                                                                               | PT |
-| Guia de Aulas Práticas                                                  | [http://repositorio.u](http://repositorio.ufla.br/jspui/bitstream/1/29980/1/APOSTILA_Guia%20de%20aulas%20pr%C3%A1ticas%20de%20redes%20neurais%20artificiais%3A%20vers%C3%A3o%201.2.pdf)                                       | PT |
-| Aula 18 - Redes Neurais                                                 | [http://edirlei.3dgb.](http://edirlei.3dgb.com.br/aulas/ia_2012_1/IA_Aula_18_Redes_Neurais.pdf)                                                                                                                               | PT |
-| Redes Neuronales                                                        | [http://avellano.fis.](http://avellano.fis.usal.es/~lalonso/RNA/index.htm)                                                                                                                                                    | ES  |
-| Introducción Redes Neuronales                                           | [https://www2.ulpgc.e](https://www2.ulpgc.es/hege/almacen/download/38/38584/practica_ia_2.pdf)                                                                                                                                | ES  |
-| Fundamentos de Redes Neuronales Artificiales                            | [http://conceptos.soc](http://conceptos.sociales.unam.mx/conceptos_final/598trabajo.pdf)                                                                                                                                      | ES  |
-| Las Redes Neuronales Artificiales                                       | [http://catarina.udla](http://catarina.udlap.mx/u_dl_a/tales/documentos/lis/navarrete_g_j/capitulo2.pdf)                                                                                                                      | ES  |
-| Clasificación de las Redes Neuronales Artificiales                      | [http://www.redes-neu](http://www.redes-neuronales.com.es/tutorial-redes-neuronales/clasificacion-de-las-redes-neuronales-artificiales.htm)                                                                                   | ES  |
-| Redes Neuronales Slides                                                 | [https://elvex.ugr.es](https://elvex.ugr.es/decsai/computational-intelligence/slides/N1%20Neural%20Networks.pdf)                                                                                                              | ES  |
-| Redes Neuronales: Conceptos Básicos y Aplicaciones                      | [https://www.frro.utn](https://www.frro.utn.edu.ar/repositorio/catedras/quimica/5_anio/orientadora1/monograias/matich-redesneuronales.pdf)                                                                                    | ES  |
-| Redes Neuronales Artificiales y sus Aplicaciones                        | [https://ocw.ehu.eus/](https://ocw.ehu.eus/pluginfile.php/9047/mod_resource/content/1/redes_neuro/contenidos/pdf/libro-del-curso.pdf)                                                                                         | ES  |
-| Introducción a las Redes Neuronales y su Aplicación...                  | [http://www.iac.es/si](http://www.iac.es/sieinvens/SINFIN/Sie_Courses_PDFs/NNets/confiac.pdf)                                                                                                                                 | ES  |
-| Estudio de Los Principales Tipos de Redes...                            | [https://dspace.ups.e](https://dspace.ups.edu.ec/bitstream/123456789/4098/1/UPS-CT002584.pdf)                                                                                                                                 | ES  |
-| Redes Neuronales Artificiales aplicadas al...                           | [https://www.tesisenr](https://www.tesisenred.net/bitstream/handle/10803/9441/tjjmm1de1.pdf?sequence=1)                                                                                                                       | ES  |
-| Libro OCW                                                               | [http://ocw.uv.es/ing](http://ocw.uv.es/ingenieria-y-arquitectura/1-2/libro_ocw_libro_de_redes.pdf)                                                                                                                           | ES  |
-| Simulación de Redes Neuronales Artificiales                             | [http://exa.unne.edu.](http://exa.unne.edu.ar/informatica/SO/SimulacionRNA.PDF)                                                                                                                                               | ES  |
-| Introducción y Aplicaciones en Bioinformática                           | [http://www.pdg.cnb.u](http://www.pdg.cnb.uam.es/cursos/Complutense/Complutense2007/pages/ANN_introduccion_FMoran.pdf)                                                                                                        | ES  |
-| Les Reseaux de Neurones Artificiels                                     | [http://www.touzet.or](http://www.touzet.org/Claude/Web-Fac-Claude/Les_reseaux_de_neurones_artificiels.pdf)                                                                                                                   | FR   |
-| Wikipedia                                                               | [https://fr.wikipedia](https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels)                                                                                                                                     | FR   |
-| Reseaux de Neurones Artificiels Slides                                  | [http://www-lisic.uni](http://www-lisic.univ-littoral.fr/~verel/TEACHING/08-09/sac-M1/cRdNV9.pdf)                                                                                                                             | FR   |
-| Les Reseaux de Neurones Artificiels Slides                              | [http://www2.agropari](http://www2.agroparistech.fr/ufr-info/membres/cornuejols/Teaching/Centrale-Executive/Tr-NNs-2017x4.pdf)                                                                                                | FR   |
-| Apprentissage et Mémoires                                               | [https://www.labri.fr](https://www.labri.fr/perso/nrougier/downloads/LearningAndMemory.pdf)                                                                                                                                   | FR   |
-| Doncescu Reseaux Neurones                                               | [http://conf.laas.fr/](http://conf.laas.fr/ignotus/archives/Doncescu_reseaux_neuronnes.pdf)                                                                                                                                   | FR   |
-| Journals                                                                | [https://journals.ope](https://journals.openedition.org/bmsap/4463)                                                                                                                                                           | FR   |
-| Entraînez un réseau de neurones simple                                  | [https://openclassroo](https://openclassrooms.com/fr/courses/4470406-utilisez-des-modeles-supervises-non-lineaires/4730716-entrainez-un-reseau-de-neurones-simple)                                                            | FR   |
-| Accromath                                                               | [http://accromath.uqa](http://accromath.uqam.ca/2018/09/reseaux-de-neurones-artificiels/)                                                                                                                                     | FR   |
-| Wikiversity                                                             | [https://fr.wikiversi](https://fr.wikiversity.org/wiki/R%C3%A9seaux_de_neurones/Applications_des_r%C3%A9seaux_de_neurones)                                                                                                    | FR   |
-| Les réseaux de neurones: quand l’informatique est capable d’apprendre   | [http://www.acsysteme](http://www.acsysteme.com/fr/reseaux-de-neurones)                                                                                                                                                       | FR   |
-| Introduction au Deep Learning                                           | [https://meritis.fr/i](https://meritis.fr/ia/deep-learning/)                                                                                                                                                                  | FR   |
-| Deep Learning Perceptrons simples et multicouches                       | [http://eric.univ-lyo](http://eric.univ-lyon2.fr/~ricco/cours/slides/reseaux_neurones_perceptron.pdf)                                                                                                                         | FR   |
-| Reti Neurali                                                            | [http://www.intellige](http://www.intelligenzaartificiale.it/reti-neurali/)                                                                                                                                                   | IT  |
-| Introduzione alle reti neurali                                          | [http://matematica.un](http://matematica.unibocconi.it/articoli/introduzione-alle-reti-neurali)                                                                                                                               | IT  |
-| UNIPV                                                                   | [https://vision.unipv](https://vision.unipv.it/IA/aa2001-2002/10-RetiNeurali.pdf)                                                                                                                                             | IT  |
-| Semeion.it                                                              | [http://www.semeion.i](http://www.semeion.it/semeion/index.php/it/reti-neurali-artificiali.html)                                                                                                                              | IT  |
-| Reti Neurali Artificiali in Medicina                                    | [http://www.irccsdebe](http://www.irccsdebellis.it/html/reti_neurali/home_RetiNeurali.htm)                                                                                                                                    | IT  |
-| Le reti neurali informatiche                                            | [http://www.andreamin](http://www.andreaminini.com/ai/le-reti-neurali-informatiche)                                                                                                                                           | IT  |
-| Lucidi Reti Neurali                                                     | [https://areeweb.poli](https://areeweb.polito.it/didattica/gcia/Apprendimento_Mimetico/Lucidi/Lucidi_Reti_Neurali1.pdf)                                                                                                       | IT  |
-| Le Reti Neurali Artificiali                                             | [http://www.introni.i](http://www.introni.it/reti%20neurali.html)                                                                                                                                                             | IT  |
-| Appunti di reti neurali                                                 | [http://www.dsi.unive](http://www.dsi.unive.it/~srotabul/files/AppuntiRetiNeurali.pdf)                                                                                                                                        | IT  |
-| Reti Neurali in Generale                                                | [https://www.math.uni](https://www.math.unipd.it/~sperduti/ML12/reti_neurali.pdf)                                                                                                                                             | IT  |
-| Reti Neurali di Convoluzione                                            | [https://dnlcrl.githu](https://dnlcrl.github.io/assets/cv/TM16.pdf)                                                                                                                                                           | IT  |
-| Reti Neurali Slides                                                     | [http://cirlab.det.un](http://cirlab.det.unifi.it/ComplementiET/NN_2015-16.pdf)                                                                                                                                               | IT  |
-| Seminari di Sistemi Informatici                                         | [http://torlone.dia.u](http://torlone.dia.uniroma3.it/sistelab/retineurali.pdf)                                                                                                                                               | IT  |
-| Storia delle reti neurali artificiali                                   | [http://people.na.inf](http://people.na.infn.it/~murano/SICSI-VIII/Labonia.pdf)                                                                                                                                               | IT  |
-| Neuronale Netze                                                         | [http://www.neuronale](http://www.neuronalesnetz.de/downloads/neuronalesnetz_de.pdf)                                                                                                                                          | DE    |
-| Einführung in Neuronale Netze                                           | [https://www.dbai.tuw](https://www.dbai.tuwien.ac.at/education/AIKonzepte/Folien/NeuronaleNetze.pdf)                                                                                                                          | DE    |
-| Neuronales Netz                                                         | [http://www.enzyklopa](http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/technologien-methoden/KI-und-Softcomputing/Neuronales-Netz)                                                                              | DE    |
-| Konstruktion eines künstlichen Gehirns                                  | [http://www.natur-str](http://www.natur-struktur.ch/ai/neuronale.html)                                                                                                                                                        | DE    |
-| Künstliche Neuronale Netze                                              | [https://www.fernuni-](https://www.fernuni-hagen.de/mi/studium/module/knn.shtml?sg=mscinf)                                                                                                                                    | DE    |
-| Tu-Dresden                                                              | [https://tu-dresden.d](https://tu-dresden.de/ing/informatik/ti/vlsi/ressourcen/dateien/dateien_studium/dateien_lehstuhlseminar/vortraege_lehrstuhlseminar/lehrstuhlseminar_ws17_18/KNN_Knoefel_Praesentation.pdf?lang=en)     | DE    |
-| Einführung in Neuronale Netze                                           | [http://www.bongards.](http://www.bongards.de/nn_v.pdf)                                                                                                                                                                       | DE    |
-| Neuronale Netze                                                         | [https://www.thphys.u](https://www.thphys.uni-heidelberg.de/~horner/NN.pdf)                                                                                                                                                   | DE    |
-| Künstliche Neuronale Netze                                              | [https://imsc.uni-gra](https://imsc.uni-graz.at/modellwoche/2012/FachArbeitPucher.pdf)                                                                                                                                        | DE    |
-| Einführung in Künstliche Neuronale Netze                                | [https://nms.kcl.ac.u](https://nms.kcl.ac.uk/stefan.edelkamp/lectures/ml/slides/neuronale%20netze.pdf)                                                                                                                        | DE    |
-| Neuronale Netze, Deep Learning                                          | [https://www.cs.uni-p](https://www.cs.uni-potsdam.de/ml/teaching/ss14/ml2/NeuronaleNetze2.pdf)                                                                                                                                | DE    |
-| NN                                                                      | [http://fuzzy.cs.ovgu](http://fuzzy.cs.ovgu.de/ci/nn/nn-all.pdf)                                                                                                                                                              | DE    |
-| Wikipedia                                                               | [https://ru.wikipedia](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C)          | RU     |
-| Neuralnet                                                               | [https://neuralnet.in](https://neuralnet.info/chapter/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B8%D0%BD%D1%81/)                                                                                                               | RU     |
-| Neuronus                                                                | [https://neuronus.com](https://neuronus.com/theory/nn/)                                                                                                                                                                       | RU     |
-| Neuropro                                                                | [http://neuropro.ru/n](http://neuropro.ru/neu.shtml)                                                                                                                                                                          | RU     |
-| Intro                                                                   | [http://www.igce.comc](http://www.igce.comcor.ru/AI_mag/NN/Intro.html)                                                                                                                                                        | RU     |
-| Cryptowiki                                                              | [http://cryptowiki.ne](http://cryptowiki.net/index.php?title=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B5%D1%82%D0%B8_%D0%B2_%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8) | RU     |
-| Proglib                                                                 | [https://proglib.io/p](https://proglib.io/p/neural-networks/)                                                                                                                                                                 | RU     |
-| Neural Nets                                                             | [http://www.ccas.ru/v](http://www.ccas.ru/voron/download/NeuralNets.pdf)                                                                                                                                                      | RU     |
-| Neural Network Slides                                                   | [http://isdwiki.rsuh.](http://isdwiki.rsuh.ru/moodle/pluginfile.php/77/mod_resource/content/1/NeuralNetwork.pdf)                                                                                                              | RU     |
-| Baskin Lecture                                                          | [http://www.ibmc.msk.](http://www.ibmc.msk.ru/content/524BaskinLecture.pdf)                                                                                                                                                   | RU     |
-| 03 ANN                                                                  | [https://logic.pdmi.r](https://logic.pdmi.ras.ru/~sergey/teaching/mlcsclub/03-ann.pdf)                                                                                                                                        | RU     |
-| Book                                                                    | [http://iit1.mpei.ac.](http://iit1.mpei.ac.ru/pubkrug1.pdf)                                                                                                                                                                   | RU     |
-| Burakov Neuro                                                           | [http://window.edu.ru](http://window.edu.ru/resource/206/80206/files/Burakov_Neuro.pdf)                                                                                                                                       | RU     |
-| Students Repository                                                     | [http://rain.ifmo.ru/](http://rain.ifmo.ru/cat/data/students/repository/neural-network-2010/NeuralNetworks.pdf)                                                                                                               | RU     |
+---------------------------------------
+
+![EN](https://i.imgur.com/JVHlBEw.png)
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Artificial_neural_network)
+- [Digital Trends](https://www.digitaltrends.com/cool-tech/what-is-an-artificial-neural-network/)
+- [Everything You Need to Know About Artificial Neural Networks](https://medium.com/technology-invention-and-more/everything-you-need-to-know-about-artificial-neural-networks-57fac18245a1)
+- [Artificial Neural Networks Technology](http://www.psych.utoronto.ca/users/reingold/courses/ai/cache/neural_ToC.html)
+- [Fast.ai](https://www.fast.ai/)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+- [Information Theory, Pattern Recognition and Neural Networks](https://www.youtube.com/watch?v=BCiZc0n6COY&amp;list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
+- [Deep Learning at Oxford 2015](https://www.youtube.com/watch?v=dV80NAlEins&amp;list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+- [CS 20: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
+- [Skymind](https://skymind.ai/wiki/neural-network)
+- [Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_neural_networks.htm)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2014/10/ann-work-simplified/)
+- [Neural Networks](https://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html)
+- [Artificial Neural Networks Explained](https://blog.goodaudience.com/artificial-neural-networks-explained-436fcf36e75)
+- [A Basic Introduction to Neural Networks](http://pages.cs.wisc.edu/~bolo/shipyard/neural/local.html)
+- [Artificial Neural Network Nvidia](https://developer.nvidia.com/discover/artificial-neural-network)
+- [Artificial Neural Networks Basics](https://becominghuman.ai/artificial-neuron-networks-basics-introduction-to-neural-networks-3082f1dcca8c)
+- [Artificial Intelligence, Deep Learning, and Neural Networks, Explained](https://www.kdnuggets.com/2016/10/artificial-intelligence-deep-learning-neural-networks-explained.html)
+- [Training Artificial Neural Network](https://www.solver.com/training-artificial-neural-network-intro)
+- [Saed Sayad](https://www.saedsayad.com/artificial_neural_network.htm)
+- [Artificial Neural Network : Beginning of the AI revolution](https://hackernoon.com/artificial-neural-network-a843ff870338)
+- [Intro to ANN](http://ulcar.uml.edu/~iag/CS/Intro-to-ANN.html)
+- [Deep Learning an MIT Press Book](https://www.deeplearningbook.org/)
+- [Neural Networks Stanford](https://cs.stanford.edu/people/eroberts/courses/soco/projects/neural-networks/)
+- [Specifics of Artificial Neural Networks, from Algorithm to Applications](https://www.programiz.com/c-programming)
+- [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/neural.html)
+- [ANN Tutorialspoint](https://www.tutorialspoint.com/artificial_neural_network/)
+- [Neural Networks Tutorial](http://adventuresinmachinelearning.com/neural-networks-tutorial/)
+- [Guru99](https://www.guru99.com/artificial-neural-network-tutorial.html)
+- [How to Build a Neural Network](http://stevenmiller888.github.io/mind-how-to-build-a-neural-network/)
+- [Edureka](https://www.edureka.co/blog/neural-network-tutorial/)
+- [Colah's Blog](https://colah.github.io/)
+- [Quick Intro to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
+- [Neural Networks in Plain English](http://www.ai-junkie.com/ann/evolved/nnt1.html)
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+- [Geoffrey E. Hinton's Publications](https://www.cs.toronto.edu/~hinton/papers.html)
+- [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn)
+- [A Neural Network Playground](https://playground.tensorflow.org/)
+- [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+- [Artificial Neural Network (ANN)](http://www.cs.kumamoto-u.ac.jp/epslab/ICinPS/Lecture-2.pdf)
+- [A Brief Introduction to Neural Networks](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
+- [Introduction to ANN](https://www.cse.unr.edu/~bebis/MathMethods/NNs/lecture.pdf)
+- [Intro to ANN](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/2443/pdf/)
+- [An Introduction to Neural Networks](https://www.inf.ed.ac.uk/teaching/courses/nlu/assets/reading/Gurney_et_al.pdf)
+- [Fundamentals of ANN](http://pami.uwaterloo.ca/~karray/Fundamentals_of_ANN.pdf)
+- [Introduction to the Artificial Neural Networks](http://cdn.intechweb.org/pdfs/14881.pdf)
+- [Basics of ANN](https://ijcsmc.com/docs/papers/September2014/V3I9201465.pdf)
+- [Neural Networks and Learning Machines](https://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf)
+- [Artificial Neural Networks: A Tutorial](https://csc.lsu.edu/~jianhua/nn.pdf)
+- [An Introduction to Neural Networks](http://www2.econ.iastate.edu/tesfatsi/NeuralNetworks.CheungCannonNotes.pdf)
+- [Ronan Collobert](https://ronan.collobert.com/pub/courses/2011-04-20-epfl.pdf)
+- [Neural Network Design](http://hagan.okstate.edu/NNDesign.pdf)
+- [Artificial Neural Network (ANN)](http://zsi.tech.us.edu.pl/~nowak/bien/w7.pdf)
+- [Artificial Neural Networks for Beginners](https://datajobs.com/data-science-repo/Neural-Net-%5BCarlos-Gershenson%5D.pdf)
+- [Edward Gatt](https://www.um.edu.mt/__data/assets/pdf_file/0011/77276/ann.pdf)
+- [Neural Networks: A Systematic Introduction](https://page.mi.fu-berlin.de/rojas/neural/neuron.pdf)
+- [Neural Networks Structures](https://www.ieee.cz/knihovna/Zhang/Zhang100-ch03.pdf)
+- [Introduction ANN](http://cis.poly.edu/~mleung/CS6673/s09/introductionANN.pdf)
+- [Neural Networks: MATLAB Examples](http://lab.fs.uni-lj.si/lasin/wp/IMIT_files/neural/NN-examples.pdf)
+- [Neural Networks and Introduction to Deep Learning](https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-hdstat-rnn-deep-learning.pdf)
+- [An Introduction to Neural Networks with Python](https://victorzhou.com/blog/intro-to-neural-networks/)
+- [Convolutional Neural Network](http://deeplearning.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork/)
+- [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+- [Neural Networks: Feedforward and Backpropagation Explained](https://mlfromscratch.com/neural-networks-explained/)
+- [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/watch?v=JN6H4rQvwgY&amp;list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&amp;list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [A Friendly Introduction to Deep Learning](https://www.youtube.com/watch?v=BR9h47Jtqyw&amp;t=9s)
+- [Neural Networks Explained](https://www.youtube.com/watch?v=GvQwE2OhL8I)
+- [Beginner Intro to Neural Networks](https://www.youtube.com/watch?v=ZzWaow1Rvho&amp;list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
+- [Neural Network that Changes Everything](https://www.youtube.com/watch?v=py5byOOHZM8&amp;t=57s)
+- [How Deep Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0)
+- [Deep Learning, Computerphile](https://www.youtube.com/watch?v=l42lr8AlrHk)
+- [How Convolutional Neural Networks Work](https://www.youtube.com/watch?v=FmpDIaiMIeA)
+- [Neural Network Programming](https://www.youtube.com/watch?v=v5cngxo4mIg&amp;list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+- [Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs&amp;list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
+- [Neural Differential Equations](https://www.youtube.com/watch?v=AD3K8j12EIE)
+- [Getting Started with TensorFlow and Deep Learning](https://www.youtube.com/watch?v=tYYVSEHq-io)
+- [Deep Learning with TensorFlow](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)
+- [Neural Network 3D Simulation](https://www.youtube.com/watch?v=3JQ3hYko51Y)
+- [Geoffrey Hinton: The Foundations of Deep Learning](https://www.youtube.com/watch?v=zl99IZvW7rE)
+- [Deep Learning: A Crash Course](https://www.youtube.com/watch?v=r0Ogt-q956I&amp;t=8799s)
+
+---------------------------------------
+
+![PT](https://i.imgur.com/2kZUDhk.png)
+
+- [Matheus Facure](https://matheusfacure.github.io/2017/03/05/ann-intro/)
+- [Deep Learning Book](http://deeplearningbook.com.br/o-que-sao-redes-neurais-artificiais-profundas/)
+- [USP](http://conteudo.icmc.usp.br/pessoas/andre/research/neural/)
+- [UFCG](http://www.dsc.ufcg.edu.br/~pet/jornal/setembro2011/materias/informatica.html)
+- [O Algoritmo Backpropagation](https://www.devmedia.com.br/redes-neurais-artificiais-algoritmo-backpropagation/28559)
+- [Introdução às Redes Neurais Artificiais](http://www.inf.ufsc.br/~j.barreto/tutoriais/Survey.pdf)
+- [Redes Neurais Artificiais](https://andreric.github.io/files/pdfs/redes_neurais.pdf)
+- [Guia de Aulas Práticas](http://repositorio.ufla.br/jspui/bitstream/1/29980/1/APOSTILA_Guia%20de%20aulas%20pr%C3%A1ticas%20de%20redes%20neurais%20artificiais%3A%20vers%C3%A3o%201.2.pdf)
+- [Aula 18 - Redes Neurais](http://edirlei.3dgb.com.br/aulas/ia_2012_1/IA_Aula_18_Redes_Neurais.pdf)
+
+---------------------------------------
+
+![ES](https://i.imgur.com/YrO5S0F.png)
+
+- [Redes Neuronales](http://avellano.fis.usal.es/~lalonso/RNA/index.htm)
+- [Introducción Redes Neuronales](https://www2.ulpgc.es/hege/almacen/download/38/38584/practica_ia_2.pdf)
+- [Fundamentos de Redes Neuronales Artificiales](http://conceptos.sociales.unam.mx/conceptos_final/598trabajo.pdf)
+- [Las Redes Neuronales Artificiales](http://catarina.udlap.mx/u_dl_a/tales/documentos/lis/navarrete_g_j/capitulo2.pdf)
+- [Clasificación de las Redes Neuronales Artificiales](http://www.redes-neuronales.com.es/tutorial-redes-neuronales/clasificacion-de-las-redes-neuronales-artificiales.htm)
+- [Redes Neuronales Slides](https://elvex.ugr.es/decsai/computational-intelligence/slides/N1%20Neural%20Networks.pdf)
+- [Redes Neuronales: Conceptos Básicos y Aplicaciones](https://www.frro.utn.edu.ar/repositorio/catedras/quimica/5_anio/orientadora1/monograias/matich-redesneuronales.pdf)
+- [Redes Neuronales Artificiales y sus Aplicaciones](https://ocw.ehu.eus/pluginfile.php/9047/mod_resource/content/1/redes_neuro/contenidos/pdf/libro-del-curso.pdf)
+- [Introducción a las Redes Neuronales y su Aplicación...](http://www.iac.es/sieinvens/SINFIN/Sie_Courses_PDFs/NNets/confiac.pdf)
+- [Estudio de Los Principales Tipos de Redes...](https://dspace.ups.edu.ec/bitstream/123456789/4098/1/UPS-CT002584.pdf)
+- [Redes Neuronales Artificiales aplicadas al...](https://www.tesisenred.net/bitstream/handle/10803/9441/tjjmm1de1.pdf?sequence=1)
+- [Libro OCW](http://ocw.uv.es/ingenieria-y-arquitectura/1-2/libro_ocw_libro_de_redes.pdf)
+- [Simulación de Redes Neuronales Artificiales](http://exa.unne.edu.ar/informatica/SO/SimulacionRNA.PDF)
+- [Introducción y Aplicaciones en Bioinformática](http://www.pdg.cnb.uam.es/cursos/Complutense/Complutense2007/pages/ANN_introduccion_FMoran.pdf)
+
+---------------------------------------
+
+![FR](https://i.imgur.com/JZEovQw.png)
+
+- [Les Reseaux de Neurones Artificiels](http://www.touzet.org/Claude/Web-Fac-Claude/Les_reseaux_de_neurones_artificiels.pdf)
+- [Wikipedia](https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels)
+- [Reseaux de Neurones Artificiels Slides](http://www-lisic.univ-littoral.fr/~verel/TEACHING/08-09/sac-M1/cRdNV9.pdf)
+- [Les Reseaux de Neurones Artificiels Slides](http://www2.agroparistech.fr/ufr-info/membres/cornuejols/Teaching/Centrale-Executive/Tr-NNs-2017x4.pdf)
+- [Apprentissage et Mémoires](https://www.labri.fr/perso/nrougier/downloads/LearningAndMemory.pdf)
+- [Doncescu Reseaux Neurones](http://conf.laas.fr/ignotus/archives/Doncescu_reseaux_neuronnes.pdf)
+- [Journals](https://journals.openedition.org/bmsap/4463)
+- [Entraînez un réseau de neurones simple](https://openclassrooms.com/fr/courses/4470406-utilisez-des-modeles-supervises-non-lineaires/4730716-entrainez-un-reseau-de-neurones-simple)
+- [Accromath](http://accromath.uqam.ca/2018/09/reseaux-de-neurones-artificiels/)
+- [Wikiversity](https://fr.wikiversity.org/wiki/R%C3%A9seaux_de_neurones/Applications_des_r%C3%A9seaux_de_neurones)
+- [Les réseaux de neurones: quand l’informatique est capable d’apprendre](http://www.acsysteme.com/fr/reseaux-de-neurones)
+- [Introduction au Deep Learning](https://meritis.fr/ia/deep-learning/)
+- [Deep Learning Perceptrons simples et multicouches](http://eric.univ-lyon2.fr/~ricco/cours/slides/reseaux_neurones_perceptron.pdf)
+
+---------------------------------------
+
+![IT](https://i.imgur.com/lzqVMS4.png)
+
+- [Reti Neurali](http://www.intelligenzaartificiale.it/reti-neurali/)
+- [Introduzione alle reti neurali](http://matematica.unibocconi.it/articoli/introduzione-alle-reti-neurali)
+- [UNIPV](https://vision.unipv.it/IA/aa2001-2002/10-RetiNeurali.pdf)
+- [Semeion.it](http://www.semeion.it/semeion/index.php/it/reti-neurali-artificiali.html)
+- [Reti Neurali Artificiali in Medicina](http://www.irccsdebellis.it/html/reti_neurali/home_RetiNeurali.htm)
+- [Le reti neurali informatiche](http://www.andreaminini.com/ai/le-reti-neurali-informatiche)
+- [Lucidi Reti Neurali](https://areeweb.polito.it/didattica/gcia/Apprendimento_Mimetico/Lucidi/Lucidi_Reti_Neurali1.pdf)
+- [Le Reti Neurali Artificiali](http://www.introni.it/reti%20neurali.html)
+- [Appunti di reti neurali](http://www.dsi.unive.it/~srotabul/files/AppuntiRetiNeurali.pdf)
+- [Reti Neurali in Generale](https://www.math.unipd.it/~sperduti/ML12/reti_neurali.pdf)
+- [Reti Neurali di Convoluzione](https://dnlcrl.github.io/assets/cv/TM16.pdf)
+- [Reti Neurali Slides](http://cirlab.det.unifi.it/ComplementiET/NN_2015-16.pdf)
+- [Seminari di Sistemi Informatici](http://torlone.dia.uniroma3.it/sistelab/retineurali.pdf)
+- [Storia delle reti neurali artificiali](http://people.na.infn.it/~murano/SICSI-VIII/Labonia.pdf)
+
+---------------------------------------
+
+![DE](https://i.imgur.com/RSPYBQi.png)
+
+- [Neuronale Netze](http://www.neuronalesnetz.de/downloads/neuronalesnetz_de.pdf)
+- [Einführung in Neuronale Netze](https://www.dbai.tuwien.ac.at/education/AIKonzepte/Folien/NeuronaleNetze.pdf)
+- [Neuronales Netz](http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/technologien-methoden/KI-und-Softcomputing/Neuronales-Netz)
+- [Konstruktion eines künstlichen Gehirns](http://www.natur-struktur.ch/ai/neuronale.html)
+- [Künstliche Neuronale Netze](https://www.fernuni-hagen.de/mi/studium/module/knn.shtml?sg=mscinf)
+- [Tu-Dresden](https://tu-dresden.de/ing/informatik/ti/vlsi/ressourcen/dateien/dateien_studium/dateien_lehstuhlseminar/vortraege_lehrstuhlseminar/lehrstuhlseminar_ws17_18/KNN_Knoefel_Praesentation.pdf?lang=en)
+- [Einführung in Neuronale Netze](http://www.bongards.de/nn_v.pdf)
+- [Neuronale Netze](https://www.thphys.uni-heidelberg.de/~horner/NN.pdf)
+- [Künstliche Neuronale Netze](https://imsc.uni-graz.at/modellwoche/2012/FachArbeitPucher.pdf)
+- [Einführung in Künstliche Neuronale Netze](https://nms.kcl.ac.uk/stefan.edelkamp/lectures/ml/slides/neuronale%20netze.pdf)
+- [Neuronale Netze, Deep Learning](https://www.cs.uni-potsdam.de/ml/teaching/ss14/ml2/NeuronaleNetze2.pdf)
+- [Neuronale Netze, Dr. Rudolf Kruse](http://fuzzy.cs.ovgu.de/ci/nn/nn-all.pdf)
+
+---------------------------------------
+
+![RU](https://i.imgur.com/xH8HWn4.png)
+
+- [Wikipedia](http://fuzzy.cs.ovgu.de/ci/nn/nn-all.pdf)
+- [Neuralnet](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C)
+- [Neuronus](https://neuralnet.info/chapter/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B8%D0%BD%D1%81/)
+- [Neuropro](https://neuronus.com/theory/nn/)
+- [Intro](http://neuropro.ru/neu.shtml)
+- [Cryptowiki](http://www.igce.comcor.ru/AI_mag/NN/Intro.html)
+- [Proglib](http://cryptowiki.net/index.php?title=%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B5%D1%82%D0%B8_%D0%B2_%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8)
+- [Neural Nets](https://proglib.io/p/neural-networks/)
+- [Neural Network Slides](http://www.ccas.ru/voron/download/NeuralNets.pdf)
+- [Baskin Lecture](http://isdwiki.rsuh.ru/moodle/pluginfile.php/77/mod_resource/content/1/NeuralNetwork.pdf)
+- [03 ANN](http://www.ibmc.msk.ru/content/524BaskinLecture.pdf)
+- [Book](https://logic.pdmi.ras.ru/~sergey/teaching/mlcsclub/03-ann.pdf)
+- [Burakov Neuro](http://iit1.mpei.ac.ru/pubkrug1.pdf)
+- [Students Repository](http://window.edu.ru/resource/206/80206/files/Burakov_Neuro.pdf)
+
+---------------------------------------
