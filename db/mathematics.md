@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-[EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [MIT Math for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 - [Gentle Intro](http://web.ftvs.cuni.cz/hendl/metodologie/gentle-introduction-to-mathematics-for-computer.pdf)
