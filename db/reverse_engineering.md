@@ -1,64 +1,88 @@
 # Reverse Engineering
 
-| Project                                          | URL                                                                                                                                                                   | Language |
-|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| Udemy Tutorial                                   | [https://blog.udemy.c](https://blog.udemy.com/reverse-engineering-tutorial/)                                                                                                 | EN       |
-| Reddit                                           | [https://www.reddit.c](https://www.reddit.com/r/ReverseEngineering/)                                                                                                         | EN       |
-| Beginners RE                                     | [https://beginners.re](https://beginners.re/)                                                                                                                                | EN       |
-| RE 101                                           | [https://sites.google](https://sites.google.com/secured.org/malwareunicorn/reverse-engineering/re101)                                                                                                                                | EN       |
-| RE for Beginners                                 | [https://news.asis.io](https://news.asis.io/sites/default/files/RE_for_beginners-en.pdf)                                                                                     | EN       |
-| RE Lecture                                       | [https://www.cs.tau.a](https://www.cs.tau.ac.il/~tromer/courses/infosec11/lecture9.pdf)                                                                                      | EN       |
-| Road to RE                                       | [https://medium.com/s](https://medium.com/secjuice/the-road-to-reverse-engineering-malware-7c0bc1bda9d2)                                                                     | EN       |
-| Intro to x86 RE                                  | [https://leotindall.c](https://leotindall.com/tutorial/an-intro-to-x86_64-reverse-engineering/)                                                                              | EN       |
-| RE using Radare2                                 | [https://medium.com/@](https://medium.com/@jacob16682/reverse-engineering-using-radare2-588775ea38d5)                                                                        | EN       |
-| Reversing with IDA                               | [https://jlospinoso.g](https://jlospinoso.github.io/developing/software/software%20engineering/reverse%20engineering/assembly/2015/03/06/reversing-with-ida.html)            | EN       |
-| Reversing a multi stage binary                   | [https://0x00sec.org/](https://0x00sec.org/t/tutorial-reversing-a-multi-stage-binary-step-by-step/2692)                                                                      | EN       |
-| RE Instruments File Format                       | [http://jamie-wong.co](http://jamie-wong.com/post/reverse-engineering-instruments-file-format/)                                                                              | EN       |
-| How to crack a Binary File                       | [http://www.iwriteiam](http://www.iwriteiam.nl/Ha_HTCABFF.html)                                                                                                              | EN       |
-| Awesome RE                                       | [https://github.com/t](https://github.com/tylerha97/awesome-reversing)                                                                                                       | EN       |
-| RE Linux ELF                                     | [http://repository.ro](http://repository.root-me.org/Reverse%20Engineering/x86/Unix/EN%20-%20Reverse%20engineering%20Linux%20ELF%20binaries%20on%20the%20x86%20platform.pdf) | EN       |
-| RE Resources                                     | [https://github.com/w](https://github.com/wtsxDev/reverse-engineering)                                                                                                       | EN       |
-| Reversing ARM                                    | [http://zygosec.com/p](http://zygosec.com/post1.html)                                                                                                                        | EN       |
-| LiveOverFlow Tutorials                           | [https://liveoverflow](https://liveoverflow.com/binary_hacking/reverse_engineering.html)                                                                                     | EN       |
-| Primer to RE                                     | [https://puri.sm/post](https://puri.sm/posts/primer-to-reverse-engineering/)                                                                                                 | EN       |
-| Reverse Engineering Resources                    | [https://pewpewthespe](https://pewpewthespells.com/re.html)                                                                                                                  | EN       |
-| RE Linux x86                                     | [http://repository.ro](http://repository.root-me.org/Reverse%20Engineering/x86/Unix/EN%20-%20Reverse%20engineering%20linux%20x86%20binaries.pdf)                             | EN       |
-| How to Learn RE                                  | [https://gynvael.cold](https://gynvael.coldwind.pl/?id=664)                                                                                                                  | EN       |
-| Secrets of RE                                    | [https://www.foo.be/c](https://www.foo.be/cours/dess-20122013/b/Eldad_Eilam-Reversing__Secrets_of_Reverse_Engineering-Wiley(2005).pdf)                                       | EN       |
-| x86 Assembly for RE                              | [https://sensepost.co](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf)                                                                 | EN       |
-| X86 Disassembly                                  | [https://en.wikibooks](https://en.wikibooks.org/wiki/X86_Disassembly)                                                                                                        | EN       |
-| Radare2 Intro                                    | [https://sushant94.me](https://sushant94.me/2015/05/31/Introduction_to_radare2/)                                                                                             | EN       |
-| A Journey into Radare2                           | [https://www.megabeet](https://www.megabeets.net/a-journey-into-radare-2-part-1/)                                                                                            | EN       |
-| Disassembling with Radare2                       | [https://www.linuxday](https://www.linuxdays.cz/2017/video/Tomas_Antecky-Disassembling_with_radare2.pdf)                                                                     | EN       |
-| RE using Linux GDB                               | [https://medium.com/@](https://medium.com/@rickharris_dev/reverse-engineering-using-linux-gdb-a99611ab2d32)                                                                  | EN       |
-| GDB for RE                                       | [http://legacydirs.um](http://legacydirs.umiacs.umd.edu/~tdumitra/courses/ENEE757/Fall15/misc/gdb_tutorial.html)                                                             | EN       |
-| RE in Computer Applications                      | [https://www.t-gr.com](https://www.t-gr.com/fotis/books/re.pdf)                                                                                                              | EN       |
-| Reversing Basics                                 | [https://www.exploit-](https://www.exploit-db.com/docs/english/16981-reversing-basics---a-practical-approach-[tutorial].pdf)                                                 | EN       |
-| Tools and Basic RE                               | [http://security.cs.r](http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/2/02_lecture.pdf)                                                                       | EN       |
-| Reversing with Radare2                           | [https://radare.org/g](https://radare.org/get/rwr2-overdrive-2016.pdf)                                                                                                       | EN       |
-| Useful commands                                  | [https://exitno.de/re](https://exitno.de/reversing/)                                                                                                                         | EN       |
-| Radare2 Tutorials                                | [https://github.com/i](https://github.com/ifding/radare2-tutorial)                                                                                                           | EN       |
-| Radare2 Book                                     | [https://radare.gitbo](https://radare.gitbooks.io/radare2book/content/first_steps/history.html)                                                                              | EN       |
-| Understand What a Linux Binary is Doing          | [https://unix.stackex](https://unix.stackexchange.com/questions/418354/understanding-what-a-linux-binary-is-doing)                                                           | EN       |
-| Pwn Tools Tutorial                               | [https://github.com/G](https://github.com/Gallopsled/pwntools-tutorial)                                                                                                      | EN       |
-| Cutter                                           | [https://radareorg.gi](https://radareorg.github.io/cutter/)                                                                                                                  | EN       |
-| Intro to RE                                      | [https://www.youtube.](https://www.youtube.com/watch?v=byK0tXH5axQ&list=PL416CEDF4A931DB0D)                                                                                  | EN       |
-| RE and Exploit Dev                               | [https://www.youtube.](https://www.youtube.com/watch?v=8V4mFJIdjhQ&list=PLtNErhYMkHnHbpmZBw_IC207wh5oLtw_F)                                                                  | EN       |
-| John Hammond                                     | [https://www.youtube.](https://www.youtube.com/watch?v=xnGNStPg4GI&list=PL1H1sBF1VAKXYkYf20zni60THPxkbSC8i)                                                                  | EN       |
-| Reversing for Newbies                            | [https://www.youtube.](https://www.youtube.com/watch?v=wqzZB31zDSs&list=PLcFUp5WYCxVYeR7AgsmjzGW6PjamaY6JO)                                                                  | EN       |
-| Reverse Engineering Basics                       | [https://www.youtube.](https://www.youtube.com/watch?v=a2EkORFcSZo)                                                                                                          | EN       |
-| Curso de Engenharia Reversa Online               | [https://www.youtube.](https://www.youtube.com/watch?v=IkUfXfnnKH4&list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA)                                                                  | PT       |
-| Apresentação ER                                  | [http://www2.ic.uff.b](http://www2.ic.uff.br/~otton/graduacao/informaticaI/apresentacoes/eng_reversa.pdf)                                                                    | PT       |
-| Mente Binária Fórum                              | [https://www.mentebin](https://www.mentebinaria.com.br/forums/forum/6-engenharia-reversa/)                                                                                   | PT       |
-| ER o início de uma grande aventura               | [https://medium.com/@](https://medium.com/@leonardomarciano/engenharia-reversa-1-in%C3%ADcio-de-uma-grande-aventura-9526447ee50e)                                            | PT       |
-| Ingeniería inversa de software                   | [http://ccom.uprrp.ed](http://ccom.uprrp.edu/~rarce/ccom4995/gitbook/_book/index.html)                                                                                       | ES       |
-| underc0de forum                                  | [https://underc0de.or](https://underc0de.org/foro/ingenieria-inversa/)                                                                                                       | ES       |
-| PFM Ingeniería inversa                           | [http://www.adminso.e](http://www.adminso.es/recursos/Proyectos/PFM/2014_15/PFM_ingenieria_inversa/PFM_ingenieria_inversa.pdf)                                               | ES       |
-| Universidad Zaragoza                             | [http://webdiis.uniza](http://webdiis.unizar.es/~ftricas/Asignaturas/seguridadD/Transparencias/RicardoRodriguez.pdf)                                                         | ES       |
-| Fundamentos RE                                   | [http://www.joxeankor](http://www.joxeankoret.com/download/fundamentos_re.pdf)                                                                                               | ES       |
-| Ingeniería Inversa para Principiantes            | [https://yurichev.com](https://yurichev.com/tmp/RE4B-ES.pdf)                                                                                                                 | ES       |
-| Introduccion Reversing                           | [https://www.fwhibbit](https://www.fwhibbit.es/introduccion-reversing-0x00-introduccion)                                                                                     | ES       |
-| Cos'è il Reverse Engineering                     | [https://www.scribd.c](https://www.scribd.com/document/334772815/TUTORIAL-1-Cos-e-il-Reverse-Engineering)                                                                    | IT |
-| Reverse Engineering                              | [http://people.unica.](http://people.unica.it/giorgiogiacinto/files/2016/05/14.ReverseEngineering.pdf)                                                                       | IT |
-| Python Reverse Engineering                       | [https://dsec.ru/wp-c](https://dsec.ru/wp-content/uploads/pdf-dsec-old/7d5/7d5e8a49b25b285b37800480a41583f8.pdf)                                                             | FR       |
-| Introduction au reverse engineering avec Radare2 | [https://jugulaire.gi](https://jugulaire.github.io/Reverse_engineering_1/)                                                                                                   | FR       |
+---------------------------------------
+
+![EN](https://i.imgur.com/JVHlBEw.png)
+
+- [Udemy Tutorial](https://blog.udemy.com/reverse-engineering-tutorial/)
+- [Reddit](https://www.reddit.com/r/ReverseEngineering/)
+- [Beginners RE](https://beginners.re/)
+- [RE 101](https://sites.google.com/secured.org/malwareunicorn/reverse-engineering/re101)
+- [RE for Beginners](https://news.asis.io/sites/default/files/RE_for_beginners-en.pdf)
+- [RE Lecture](https://www.cs.tau.ac.il/~tromer/courses/infosec11/lecture9.pdf)
+- [Road to RE](https://medium.com/secjuice/the-road-to-reverse-engineering-malware-7c0bc1bda9d2)
+- [Intro to x86 RE](https://leotindall.com/tutorial/an-intro-to-x86_64-reverse-engineering/)
+- [RE using Radare2](https://medium.com/@jacob16682/reverse-engineering-using-radare2-588775ea38d5)
+- [Reversing with IDA](https://jlospinoso.github.io/developing/software/software%20engineering/reverse%20engineering/assembly/2015/03/06/reversing-with-ida.html)
+- [Reversing a multi stage binary](https://0x00sec.org/t/tutorial-reversing-a-multi-stage-binary-step-by-step/2692)
+- [RE Instruments File Format](http://jamie-wong.com/post/reverse-engineering-instruments-file-format/)
+- [How to crack a Binary File](http://www.iwriteiam.nl/Ha_HTCABFF.html)
+- [Awesome RE](https://github.com/tylerha97/awesome-reversing)
+- [RE Linux ELF](http://repository.root-me.org/Reverse%20Engineering/x86/Unix/EN%20-%20Reverse%20engineering%20Linux%20ELF%20binaries%20on%20the%20x86%20platform.pdf)
+- [RE Resources](https://github.com/wtsxDev/reverse-engineering)
+- [Reversing ARM](http://zygosec.com/post1.html)
+- [LiveOverFlow Tutorials](https://liveoverflow.com/binary_hacking/reverse_engineering.html)
+- [Primer to RE](https://puri.sm/posts/primer-to-reverse-engineering/)
+- [Reverse Engineering Resources](https://pewpewthespells.com/re.html)
+- [RE Linux x86](http://repository.root-me.org/Reverse%20Engineering/x86/Unix/EN%20-%20Reverse%20engineering%20linux%20x86%20binaries.pdf)
+- [How to Learn RE](https://gynvael.coldwind.pl/?id=664)
+- [Secrets of RE](https://www.foo.be/cours/dess-20122013/b/Eldad_Eilam-Reversing__Secrets_of_Reverse_Engineering-Wiley(2005).pdf)
+- [x86 Assembly for RE](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf)
+- [X86 Disassembly](https://en.wikibooks.org/wiki/X86_Disassembly)
+- [Radare2 Intro](https://sushant94.me/2015/05/31/Introduction_to_radare2/)
+- [A Journey into Radare2](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
+- [Disassembling with Radare2](https://www.linuxdays.cz/2017/video/Tomas_Antecky-Disassembling_with_radare2.pdf)
+- [RE using Linux GDB](https://medium.com/@rickharris_dev/reverse-engineering-using-linux-gdb-a99611ab2d32)
+- [GDB for RE](http://legacydirs.umiacs.umd.edu/~tdumitra/courses/ENEE757/Fall15/misc/gdb_tutorial.html)
+- [RE in Computer Applications](https://www.t-gr.com/fotis/books/re.pdf)
+- [Reversing Basics](https://www.exploit-db.com/docs/english/16981-reversing-basics---a-practical-approach-%5Btutorial%5D.pdf)
+- [Tools and Basic RE](http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/2/02_lecture.pdf)
+- [Reversing with Radare2](https://radare.org/get/rwr2-overdrive-2016.pdf)
+- [Useful commands](https://exitno.de/reversing/)
+- [Radare2 Tutorials](https://github.com/ifding/radare2-tutorial)
+- [Radare2 Book](https://radare.gitbooks.io/radare2book/content/first_steps/history.html)
+- [Understand What a Linux Binary is Doing](https://unix.stackexchange.com/questions/418354/understanding-what-a-linux-binary-is-doing)
+- [Pwn Tools Tutorial](https://github.com/Gallopsled/pwntools-tutorial)
+- [Cutter](https://radareorg.github.io/cutter/)
+- [Intro to RE](https://www.youtube.com/watch?v=byK0tXH5axQ&amp;list=PL416CEDF4A931DB0D)
+- [RE and Exploit Dev](https://www.youtube.com/watch?v=8V4mFJIdjhQ&amp;list=PLtNErhYMkHnHbpmZBw_IC207wh5oLtw_F)
+- [John Hammond](https://www.youtube.com/watch?v=xnGNStPg4GI&amp;list=PL1H1sBF1VAKXYkYf20zni60THPxkbSC8i)
+- [Reversing for Newbies](https://www.youtube.com/watch?v=wqzZB31zDSs&amp;list=PLcFUp5WYCxVYeR7AgsmjzGW6PjamaY6JO)
+- [Reverse Engineering Basics](https://www.youtube.com/watch?v=a2EkORFcSZo)
+
+---------------------------------------
+
+![PT](https://i.imgur.com/2kZUDhk.png)
+
+- [Curso de Engenharia Reversa Online](https://www.youtube.com/watch?v=IkUfXfnnKH4&amp;list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA)
+- [Apresentação ER](http://www2.ic.uff.br/~otton/graduacao/informaticaI/apresentacoes/eng_reversa.pdf)
+- [Mente Binária Fórum](https://www.mentebinaria.com.br/forums/forum/6-engenharia-reversa/)
+- [ER o início de uma grande aventura](https://medium.com/@leonardomarciano/engenharia-reversa-1-in%C3%ADcio-de-uma-grande-aventura-9526447ee50e)
+
+---------------------------------------
+
+![ES](https://i.imgur.com/YrO5S0F.png)
+
+- [Ingeniería inversa de software](http://ccom.uprrp.edu/~rarce/ccom4995/gitbook/_book/index.html)
+- [underc0de forum](https://underc0de.org/foro/ingenieria-inversa/)
+- [PFM Ingeniería inversa](http://www.adminso.es/recursos/Proyectos/PFM/2014_15/PFM_ingenieria_inversa/PFM_ingenieria_inversa.pdf)
+- [Universidad Zaragoza](http://webdiis.unizar.es/~ftricas/Asignaturas/seguridadD/Transparencias/RicardoRodriguez.pdf)
+- [Fundamentos RE](http://www.joxeankoret.com/download/fundamentos_re.pdf)
+- [Ingeniería Inversa para Principiantes](https://yurichev.com/tmp/RE4B-ES.pdf)
+- [Introduccion Reversing](https://www.fwhibbit.es/introduccion-reversing-0x00-introduccion)
+
+---------------------------------------
+
+![IT](https://i.imgur.com/lzqVMS4.png)
+
+- [Cos'è il Reverse Engineering](https://www.scribd.com/document/334772815/TUTORIAL-1-Cos-e-il-Reverse-Engineering)
+- [Reverse Engineering](http://people.unica.it/giorgiogiacinto/files/2016/05/14.ReverseEngineering.pdf)
+
+---------------------------------------
+
+![FR](https://i.imgur.com/JZEovQw.png)
+
+- [Python Reverse Engineering](https://dsec.ru/wp-content/uploads/pdf-dsec-old/7d5/7d5e8a49b25b285b37800480a41583f8.pdf)
+- [Introduction au reverse engineering avec Radare2](https://jugulaire.github.io/Reverse_engineering_1/)
+
+---------------------------------------
