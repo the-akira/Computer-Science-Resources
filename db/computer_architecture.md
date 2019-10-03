@@ -37,6 +37,8 @@
 - [Stony Brook University](https://compas.cs.stonybrook.edu/course/cse502-s13/lectures/cse502-L4-pipelining.pdf)
 - [Evolution of CPU Processing Power](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU)
 
+---------------------------------------
+
 ![PT](https://i.imgur.com/2kZUDhk.png)
 
 - [Introdução a Arquitetura de Computadores](https://pt.wikibooks.org/wiki/Introdu%C3%A7%C3%A3o_%C3%A0_Arquitetura_de_Computadores)
@@ -55,6 +57,8 @@
 - [Arquitetura de Computadores Moderna](http://www.ufjf.br/eduardo_barrere/files/2013/03/Aula011.pdf)
 - [UNIVESP](https://www.youtube.com/watch?v=HgA-oXOV7kI&amp;list=PLxI8Can9yAHdG-xUDj6i-HGB7IAsAU-t1)
 
+---------------------------------------
+
 ![ES](https://i.imgur.com/YrO5S0F.png)
 
 - [Arquitectura de Computadoras](http://www.aliat.org.mx/BibliotecasDigitales/sistemas/Arquitectura_computadoras_I.pdf)
@@ -66,6 +70,8 @@
 - [Organización y arquitectura computacional](http://edacunob.ult.edu.cu/bitstream/123456789/37/1/Organizaci%C3%B3n%20y%20Arquitectura%20de%20computadoras.%20Un%20enfoque%20pr%C3%A1ctico.pdf)
 - [CC 4301](https://users.dcc.uchile.cl/~jfabry/arq/arquitectura.pdf)
 - [Fundamentos del Diseño de Computadores](http://ocw.uc3m.es/ingenieria-informatica/arquitectura-de-computadores/materiales/es-m1-01-fund-ocw.pdf)
+
+---------------------------------------
 
 ![FR](https://i.imgur.com/JZEovQw.png)
 
@@ -82,6 +88,8 @@
 - [Architecture des Ordinateurs](http://www.insea.ma/download/coursarchi.pdf)
 - [Architecture de base d’un ordinateur](http://www.ucd.ac.ma/gptn/Files/Other/Web%20Info/Architecture.pdf)
 
+---------------------------------------
+
 ![IT](https://i.imgur.com/lzqVMS4.png)
 
 - [Architettura del calcolatore](https://home.deib.polimi.it/roveri/SlideInformaticaGrafica/2_Architettura_del_calcolatore.pdf)
@@ -91,12 +99,16 @@
 - [L'hardware del PC](http://www.dsi.unive.it/~mace/web/Teaching/InfBase2010/03-10set-Hardware.pdf)
 - [Personal Computer](https://it.wikibooks.org/wiki/Personal_computer/Architettura)
 
+---------------------------------------
+
 ![DE](https://i.imgur.com/RSPYBQi.png)
 
 - [Rechnerarchitektur](https://www.tu-chemnitz.de/informatik/friz/Grundl-Inf/Rechnerarchitektur/Vorlesung/vorlesung_1.pdf)
 - [Rechnerarchitektur mit Simulator](https://wiki.zum.de/wiki/Rechnerarchitektur_mit_Simulator_JOHNNY)
 - [Rechnerarchitektur I/II](https://www.in.tu-clausthal.de/uploads/media/Rechnerarchitektur_Skript_02.pdf)
 - [Grundlagen der Rechnerarchitektur](https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.050/vorlesungen/wise1415/gdra/GdRA-falk-WS1415-6-Rechnerarchitektur.pdf)
+
+---------------------------------------
 
 ![RU](https://i.imgur.com/xH8HWn4.png)
 
