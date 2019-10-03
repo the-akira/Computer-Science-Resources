@@ -1,113 +1,147 @@
 # Machine Learning
 
-| Project                                        | URL                                                                                                                                                                                               | Language |
-|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| Intro to Machine Learning - Kaggle             | [https://www.kaggle.c](https://www.kaggle.com/learn/intro-to-machine-learning)                                                                                                                                                          | EN       |
-| Learn Machine Learning - Elite Data Science    | [https://elitedatasci](https://elitedatascience.com/learn-machine-learning)                                                                                                                              | EN       |
-| Harvard Data Science                           | [https://cs109.github](https://cs109.github.io/2015/)                                                                                                                                                    | EN       |
-| An Intro to Statistical Learning               | [https://www-bcf.usc.](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)                                                                                                                  | EN       |
-| Elements of Statistical Learning               | [https://web.stanford](https://web.stanford.edu/~hastie/ElemStatLearn/)                                                                                                                                  | EN       |
-| Coursera Machine Learning                      | [https://www.coursera](https://www.coursera.org/learn/machine-learning)                                                                                                                                  | EN       |
-| Learning Machine Learning - Cloud AI           | [https://cloud.google](https://cloud.google.com/products/ai/ml-comic-1/)                                                                                                                                  | EN       |
-| Machine Learning Mastery                       | [https://machinelearn](https://machinelearningmastery.com/start-here/)                                                                                                                                   | EN       |
-| Mathematics for Machine Learning               | [https://mml-book.git](https://mml-book.github.io/)                                                                                                                                   | EN       |
-| Analytics Vidhya                               | [https://www.analytic](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)                                                                                                            | EN       |
-| Edx Machine Learning                           | [https://www.edx.org/](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-4)                                                                                                                | EN       |
-| Reddit Learn ML                                | [https://www.reddit.c](https://www.reddit.com/r/machinelearning)                                                                                                                                         | EN       |
-| CS 229 Stanford                                | [http://cs229.stanfor](http://cs229.stanford.edu/)                                                                                                                                                       | EN       |
-| CS340 Machine Learning                         | [http://cs.ubc.ca/~mu](https://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall07/)                                                                                                                                                       | EN       |
-| Scikit-Learn ML                                | [https://www.edureka.](https://www.edureka.co/blog/scikit-learn-machine-learning/)                                                                                                                       | EN       |
-| Spring Board                                   | [https://www.springbo](https://www.springboard.com/resources/learning-paths/machine-learning-python)                                                                                                     | EN       |
-| ML Introduction                                | [https://www.toptal.c](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)                                                                                           | EN       |
-| ML Tutorial                                    | [https://www.python-c](https://www.python-course.eu/machine_learning.php)                                                                                                                                | EN       |
-| Tutorialspoint                                 | [https://www.tutorial](https://www.tutorialspoint.com/machine_learning_with_python/index.htm)                                                                                                            | EN       |
-| Guru99                                         | [https://www.guru99.c](https://www.guru99.com/machine-learning-tutorial.html)                                                                                                                            | EN       |
-| Digital Ocean                                  | [https://www.digitalo](https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning)                                                                                             | EN       |
-| Geeks for Geeks                                | [https://www.geeksfor](https://www.geeksforgeeks.org/machine-learning/)                                                                                                                                  | EN       |
-| Tutorial List                                  | [https://github.com/u](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)                                                                                                                         | EN       |
-| Awesome Machine Learning                       | [https://github.com/j](https://github.com/josephmisiti/awesome-machine-learning)                                                                                                                         | EN       |
-| Data Quest                                     | [https://www.dataques](https://www.dataquest.io/blog/)                                                                                                                                                   | EN       |
-| J. P. Morgan                                     | [https://www.jpmorgan](https://www.jpmorgan.com/global/research/machine-learning)                                                                                                                                                   | EN       |
-| Real Python Tutorials                          | [https://realpython.c](https://realpython.com/tutorials/machine-learning/)                                                                                                                               | EN       |
-| ML Articles                                    | [https://web.engr.ore](https://web.engr.oregonstate.edu/~tgd/projects/tutorials.html)                                                                                                                    | EN       |
-| Adventures in ML                               | [http://adventuresinm](http://adventuresinmachinelearning.com/)                                                                                                                                          | EN       |
-| ML Lectures                                    | [https://www.cs.cmu.e](https://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)                                                                                                                            | EN       |
-| SciLab                                         | [https://scilab.io/ca](https://scilab.io/category/machine-learning/)                                                                                                                                     | EN       |
-| Neural Networks and Deep Learning              | [http://neuralnetwork](http://neuralnetworksanddeeplearning.com/index.html)                                                                                                                              | EN       |
-| ML from Theory to Algorithms                   | [https://www.cs.huji.](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)                                                               | EN       |
-| ML for Everyone                   | [https://vas3k.com/](https://vas3k.com/blog/machine_learning/)                                                               | EN       |
-| Introduction to ML                             | [http://alex.smola.or](http://alex.smola.org/drafts/thebook.pdf)                                                                                                                                         | EN       |
-| A Course in ML                                 | [http://ciml.info/dl/](http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf)                                                                                                                                       | EN       |
-| Tutorial Book                                  | [http://disp.ee.ntu.e](http://disp.ee.ntu.edu.tw/~pujols/Machine%20Learning%20Tutorial.pdf)                                                                                                              | EN       |
-| ML for Dummies                                 | [https://mscdss.ds.un](https://mscdss.ds.unipi.gr/wp-content/uploads/2018/02/Untitled-attachment-00056-2-1.pdf)                                                                                          | EN       |
-| ML in Action                                   | [http://www2.ift.ulav](http://www2.ift.ulaval.ca/~chaib/IFT-4102-7025/public_html/Fichiers/Machine_Learning_in_Action.pdf)                                                                               | EN       |
-| ML: Power and Promise                          | [https://royalsociety](https://royalsociety.org/~/media/policy/projects/machine-learning/publications/machine-learning-report.pdf)                                                                       | EN       |
-| Theoretical Machine Learning                   | [https://www.cs.princ](https://www.cs.princeton.edu/courses/archive/spr08/cos511/scribe_notes/0204.pdf)                                                                                                  | EN       |
-| Intro to ML                                    | [https://www.seas.upe](https://www.seas.upenn.edu/~cis519/fall2017/lectures/01_introduction.pdf)                                                                                                         | EN       |
-| Basic Concepts                                 | [https://courses.edx.](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf)                                                                              | EN       |
-| ML using Python                                | [https://in.pycon.org](https://in.pycon.org/2011/static/files/talks/11/Introduction_To_ML_Partial_2.pdf)                                                                                                 | EN       |
-| Grokking Machine Learning                      | [https://www.manning.](https://www.manning.com/books/grokking-machine-learning)                                                                                                 | EN       |
-| How Machine Learning Works                     | [https://www.manning.](https://www.manning.com/books/how-machine-learning-works)                                                                                                 | EN       |
-| The 50 Best Free Datasets for Machine Learning | [https://gengo.ai/dat](https://gengo.ai/datasets/the-50-best-free-datasets-for-machine-learning/)                                                                                                        | EN       |
-| Edureka Machine Learning             | [https://www.youtube.](https://www.youtube.com/watch?v=Pj0neYUp9Tc&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)                                              | EN       |
-| Deep Learning with Structured Data                                 | [https://manning.com](https://www.manning.com/books/deep-learning-with-structured-data)                                 | EN       |
-| Probabilistic Deep Learning with Python        | [https://www.manning.](https://www.manning.com/books/probabilistic-deep-learning-with-python)                                                   | EN       |
-| Edureka Machine Learning                       | [https://www.youtube.](https://www.youtube.com/watch?v=Pj0neYUp9Tc&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)                                              | EN       |
-| Machine Learning Zero to Hero (Google I/O'19)  | [https://www.youtube.](https://www.youtube.com/watch?v=VwVg9jCtqaU)                                              | EN       |
-| Introduction to Machine Learning (MIT)         | [https://www.youtube.](https://www.youtube.com/watch?v=h0e2HAPTGF4)                                              | EN       |
-| The Mathematics of Machine Learning            | [https://www.youtube.](https://www.youtube.com/watch?v=r07Sofj_puQ&t)                                              | EN       |
-| Cornell CS4780                                 | [https://www.youtube.](https://www.youtube.com/watch?v=MrLPzBxG95I&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)                                              | EN       |
-| Machine learning in Python with Scikit-Learn   | [https://www.youtube.](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)                                              | EN       |
-| Machine Learning with Python                   | [https://www.youtube.](https://www.youtube.com/watch?v=Q59X518JZHE)                                              | EN       |
-| Machine Learning Crash Course                  | [https://www.youtube.](https://www.youtube.com/watch?v=a07iwuDWhys)                                              | EN       |
-| MIT 18.065 Matrix Methods in Data Analysis and Machine Learning  | [https://www.youtube.](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)                                              | EN       |
-| Real-World Python Machine Learning Tutorial w/ Sci-kit Learn     | [https://www.youtube.](https://www.youtube.com/watch?v=M9Itm95JzL0)                                              | EN       |
-| Elements of AI                                 | [https://course.eleme](https://course.elementsofai.com/)                                              | EN       |
-| Google Machine Learning Crash Course           | [https://developers.g](https://developers.google.com/machine-learning/crash-course/ml-intro)                                              | EN       |
-| Machine Learning, Data Science and Deep Learning with Python                      | [https://www.manning.](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)                                                                                                 | EN       |
-| Aprendizado de Máquina UFF                     | [http://www.ic.uff.br](http://www.ic.uff.br/~bianca/aa/)                                                                                                                                                 | PT       |
-| Aprendizado de Máquina UFMG                    | [http://www.est.ufmg.](http://www.est.ufmg.br/~marcosop/est171-ML/index.htm)                                                                                                                             | PT       |
-| Introdução                                     | [http://www.inf.ufpr.](http://www.inf.ufpr.br/lesoliveira/aprendizado/introducao.pdf)                                                                                                                    | PT       |
-| AM Introdução                                  | [http://www.ppgia.puc](http://www.ppgia.pucpr.br/~alekoe/AM/2007/1-Introducao-ApreMaq-2007.pdf)                                                                                                          | PT       |
-| AM usando Python                               | [http://thiagomarzaga](http://thiagomarzagao.com/assets/teaching/ipea/slides1.pdf)                                                                                                                       | PT       |
-| Introducción                                   | [http://www.cs.us.es/](http://www.cs.us.es/~fsancho/?e=75)                                                                                                                                               | ES       |
-| Tipos de aprendizaje automático                | [https://medium.com/s](https://medium.com/soldai/tipos-de-aprendizaje-autom%C3%A1tico-6413e3c615e2)                                                                                                      | ES       |
-| Aprendizaje Automático                         | [http://www.lsi.upc.e](http://www.lsi.upc.es/~bejar/ia/transpas/teoria/6-AP-aprendizaje.pdf)                                                                                                             | ES       |
-| Aprendizaje Automático Book                    | [https://upcommons.up](https://upcommons.upc.edu/bitstream/handle/2099.3/36157/9788483019962.pdf)                                                                                                        | ES       |
-| Introdución AA                                 | [http://habla.dc.uba.](http://habla.dc.uba.ar/gravano/ith-2014/09-aprendizaje-automatico.pdf)                                                                                                            | ES       |
-| Métodos y Aplicaciones                         | [http://www.eui.uva.e](http://www.eui.uva.es/doc/anuncios/curso.2013.2014/aprendizajeAutomatico.pdf)                                                                                                     | ES       |
-| Aprendizaje Profundo                           | [https://ccc.inaoep.m](https://ccc.inaoep.mx/~pgomez/conferences/PggTSys16.pdf)                                                                                                                          | ES       |
-| ML Introducción                                | [https://www.zemsania](https://www.zemsania.com/recursos-zemsania/whitepapers/DTS/Machine_learning.pdf)                                                                                                  | ES       |
-| Fundamentos de AA                              | [http://www.famaf.pro](http://www.famaf.proed.unc.edu.ar/pluginfile.php/19002/mod_resource/content/2/01.introduccion.pdf)                                                                                | ES       |
-| Intro al AA                                    | [http://ocw.uc3m.es/i](http://ocw.uc3m.es/ingenieria-informatica/herramientas-de-la-inteligencia-artificial/contenidos/transparencias/MDWEBHIA-clase.pdf)                                                | ES       |
-| L'apprentissage automatique                    | [https://www.univ-tle](https://www.univ-tlemcen.dz/~benmammar/IA2.pdf)                                                                                                                                   | FR       |
-| Apprentissage Automatique                      | [http://www.math-info](http://www.math-info.univ-paris5.fr/~bouzy/Doc/AA1/Seance1.pdf)                                                                                                                   | FR       |
-| Algorithmes d’apprentissage automatique        | [https://www.di.ens.f](https://www.di.ens.fr/~germain/publis/memoire.pdf)                                                                                                                                | FR       |
-| Apprentissage Automatique (Master)             | [http://www.cril.univ](http://www.cril.univ-artois.fr/~koriche/courses.html)                                                                                                                             | FR       |
-| Apprentissage Artificiel                       | [http://members.cbio.](http://members.cbio.mines-paristech.fr/~thocking/mines-course/2011-05-13-clustering/coursFM-apprentissage.pdf)                                                                    | FR       |
-| Fondements                                     | [http://www.lifl.fr/~](http://www.lifl.fr/~pietquin/teaching/FAACours1.pdf)                                                                                                                              | FR       |
-| Exemples                                       | [https://www.irisa.fr](https://www.irisa.fr/symbiose/people/fcoste/data/ens/bioinfo/Induction/InductionModeles2pp.pdf)                                                                                   | FR       |
-| Cours                                          | [http://www.grappa.un](http://www.grappa.univ-lille3.fr/~torre/Enseignement/Cours/Apprentissage-Automatique/)                                                                                            | FR       |
-| Univ-Lyon                                      | [http://eric.univ-lyo](http://eric.univ-lyon2.fr/~jahpine/cours/m2_dm-ml/cm.pdf)                                                                                                                         | FR       |
-| Machine Learning It                            | [http://www.intellige](http://www.intelligenzaartificiale.it/machine-learning/)                                                                                                                          | IT       |
-| Wikibooks                                      | [https://it.wikibooks](https://it.wikibooks.org/wiki/Intelligenza_artificiale/Apprendimento_automatico)                                                                                                  | IT       |
-| Politecnico Milano                             | [https://home.deib.po](https://home.deib.polimi.it/lanzi/msi/gray/Unit%2001%20-%20Apprendimento%20automatico.pdf)                                                                                        | IT       |
-| Introduzione                                   | [http://www.uniroma2.](http://www.uniroma2.it/didattica/MGRI/deposito/ml_intro.pdf)                                                                                                                      | IT       |
-| Leziones                                       | [https://www.math.uni](https://www.math.unipd.it/~aiolli/corsi/1516/aa/)                                                                                                                                 | IT       |
-| AA Introduzione                                | [http://twiki.di.unir](http://twiki.di.uniroma1.it/pub/ApprAuto/AnnoAcc0708/1Intro.pdf)                                                                                                                  | IT       |
-| Maschinelles Lernen Riedel                     | [http://morrisriedel.](http://morrisriedel.de/wp-content/uploads/2017/12/2016-10-13-1-Maschinelles-Lernen-Riedel-v1.pdf)                                                                                 | DE       |
-| Maschinelles Lernen                            | [https://www-ai.cs.un](https://www-ai.cs.uni-dortmund.de/LEHRE/VORLESUNGEN/MLRN/WS1314/mlv_skript_ws1314.pdf)                                                                                            | DE       |
-| Presentation                                   | [https://www.bigdata.](https://www.bigdata.fraunhofer.de/content/dam/bigdata/de/documents/Publikationen/Fraunhofer_Studie_ML_201809.pdf)                                                                 | DE       |
-| Maschinelles Lernen Book                       | [https://www.bigdata.](https://www.bigdata.fraunhofer.de/content/dam/bigdata/de/documents/Publikationen/BMBF_Fraunhofer_ML-Ergebnisbericht_Gesamt.pdf)                                                   | DE       |
-| Maschinelles Lernen auf FPGAs                  | [https://tu-dresden.d](https://tu-dresden.de/ing/informatik/ti/vlsi/ressourcen/dateien/dateien_studium/dateien_lehstuhlseminar/vortraege_lehrstuhlseminar/lehrstuhlseminar_ss18/Maschinelles-Lernen.pdf) | DE       |
-| Karlsruhe Institue of Technology               | [http://semantic-web-](http://semantic-web-grundlagen.de/w/images/b/b5/IntroAI-V05.pdf)                                                                                                                  | DE       |
-| Uni Bielefeld                                  | [https://www.techfak.](https://www.techfak.uni-bielefeld.de/~ugrossek/media/da_ugtl.pdf)                                                                                                                 | DE       |
-| Felix Wichmann                                 | [https://www.chaosber](https://www.chaosbern.ch/files/slides-Vortrag-Maschinelles-Lernen.pdf)                                                                                                            | DE       |
-| Goethe Universitat                             | [https://www.ki.infor](https://www.ki.informatik.uni-frankfurt.de/lehre/WS2012/KI/folien/13-machinelleslernen.pdf)                                                                                       | DE       |
-| Vas3k                                          | [https://vas3k.ru/blo](https://vas3k.ru/blog/machine_learning/)                                                                                                                                          | RU       |
-| ML Presentation                                | [http://bioinformatic](http://bioinformaticsinstitute.ru/sites/default/files/vvedenie_v_mashinnoe_obuchenie.pdf)                                                                                         | RU       |
-| ML Presentation                                | [http://www.machinele](http://www.machinelearning.ru/wiki/images/c/cc/Voron-2017-10-08.pdf)                                                                                                              | RU       |
-| ML and Data Mining                             | [http://www.uic.unn.r](http://www.uic.unn.ru/~zny/ml/Course/ml_pres.pdf)                                                                                                                                 | RU       |
-| ML 2015                                        | [https://compscicente](https://compscicenter.ru/media/slides/machine_learning_1_2015_autumn/2015_09_18_machine_learning_1_2015_autumn.pdf)                                                               | RU       |
-| FMLDM                                          | [https://cs.hse.ru/da](https://cs.hse.ru/data/2015/05/25/1096949400/FMLDM.pdf)                                                                                                                           | RU       |
-| Intro                                          | [https://logic.pdmi.r](https://logic.pdmi.ras.ru/~sergey/teaching/mlkazan14/01-intro.pdf)                                                                                                                | RU       |
+---------------------------------------
+
+![EN](https://i.imgur.com/JVHlBEw.png)
+
+- [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [Elite Data Science Learn Machine Learning](https://elitedatascience.com/learn-machine-learning)
+- [Harvard Data Science](https://cs109.github.io/2015/)
+- [An Intro to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
+- [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [Learning Machine Learning - Cloud AI](https://cloud.google.com/products/ai/ml-comic-1/)
+- [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
+- [Edx Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-4)
+- [Reddit Learn ML](https://www.reddit.com/r/machinelearning)
+- [CS 229 Stanford](http://cs229.stanford.edu/)
+- [CS340 Machine Learning](https://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall07/)
+- [Scikit-Learn ML](https://www.edureka.co/blog/scikit-learn-machine-learning/)
+- [Spring Board](https://www.springboard.com/resources/learning-paths/machine-learning-python)
+- [ML Introduction](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
+- [ML Tutorial](https://www.python-course.eu/machine_learning.php)
+- [Tutorialspoint](https://www.tutorialspoint.com/machine_learning_with_python/index.htm)
+- [Guru99](https://www.guru99.com/machine-learning-tutorial.html)
+- [Digital Ocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/machine-learning/)
+- [Tutorial List](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Data Quest](https://www.dataquest.io/blog/)
+- [J. P. Morgan](https://www.jpmorgan.com/global/research/machine-learning)
+- [Real Python Tutorials](https://realpython.com/tutorials/machine-learning/)
+- [ML Articles](https://web.engr.oregonstate.edu/~tgd/projects/tutorials.html)
+- [Adventures in ML](http://adventuresinmachinelearning.com/)
+- [ML Lectures](https://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+- [SciLab](https://scilab.io/category/machine-learning/)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+- [ML from Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+- [ML for Everyone](https://vas3k.com/blog/machine_learning/)
+- [Introduction to ML](http://alex.smola.org/drafts/thebook.pdf)
+- [A Course in ML](http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf)
+- [Tutorial Book](http://disp.ee.ntu.edu.tw/~pujols/Machine%20Learning%20Tutorial.pdf)
+- [ML for Dummies](https://mscdss.ds.unipi.gr/wp-content/uploads/2018/02/Untitled-attachment-00056-2-1.pdf)
+- [ML in Action](http://www2.ift.ulaval.ca/~chaib/IFT-4102-7025/public_html/Fichiers/Machine_Learning_in_Action.pdf)
+- [ML: Power and Promise](https://royalsociety.org/~/media/policy/projects/machine-learning/publications/machine-learning-report.pdf)
+- [Theoretical Machine Learning](https://www.cs.princeton.edu/courses/archive/spr08/cos511/scribe_notes/0204.pdf)
+- [Intro to ML](https://www.seas.upenn.edu/~cis519/fall2017/lectures/01_introduction.pdf)
+- [Basic Concepts](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf)
+- [ML using Python](https://in.pycon.org/2011/static/files/talks/11/Introduction_To_ML_Partial_2.pdf)
+- [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)
+- [How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works)
+- [The 50 Best Free Datasets for Machine Learning](https://gengo.ai/datasets/the-50-best-free-datasets-for-machine-learning/)
+- [Edureka Machine Learning](https://www.youtube.com/watch?v=Pj0neYUp9Tc&amp;list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
+- [Deep Learning with Structured Data](https://www.manning.com/books/deep-learning-with-structured-data)
+- [Probabilistic Deep Learning with Python](https://www.manning.com/books/probabilistic-deep-learning-with-python)
+- [Edureka Machine Learning](https://www.youtube.com/watch?v=Pj0neYUp9Tc&amp;list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
+- [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU)
+- [Introduction to Machine Learning (MIT)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
+- [The Mathematics of Machine Learning](https://www.youtube.com/watch?v=r07Sofj_puQ&amp;t)
+- [Cornell CS4780](https://www.youtube.com/watch?v=MrLPzBxG95I&amp;list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
+- [Machine learning in Python with Scikit-Learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
+- [Machine Learning with Python](https://www.youtube.com/watch?v=Q59X518JZHE)
+- [Machine Learning Crash Course](https://www.youtube.com/watch?v=a07iwuDWhys)
+- [MIT 18.065 Matrix Methods in Data Analysis and Machine Learning](https://www.youtube.com/watch?v=Cx5Z-OslNWE&amp;list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+- [Real-World Python Machine Learning Tutorial w/ Sci-kit Learn](https://www.youtube.com/watch?v=M9Itm95JzL0)
+- [Elements of AI](https://course.elementsofai.com/)
+- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
+- [Machine Learning, Data Science and Deep Learning with Python](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
+
+---------------------------------------
+
+![PT](https://i.imgur.com/2kZUDhk.png)
+
+- [Aprendizado de Máquina UFF](http://www.ic.uff.br/~bianca/aa/)
+- [Aprendizado de Máquina UFMG](http://www.est.ufmg.br/~marcosop/est171-ML/index.htm)
+- [Introdução](http://www.inf.ufpr.br/lesoliveira/aprendizado/introducao.pdf)
+- [AM Introdução](http://www.ppgia.pucpr.br/~alekoe/AM/2007/1-Introducao-ApreMaq-2007.pdf)
+- [AM usando Python](http://thiagomarzagao.com/assets/teaching/ipea/slides1.pdf)
+
+---------------------------------------
+
+![ES](https://i.imgur.com/YrO5S0F.png)
+
+- [Introducción](http://www.cs.us.es/~fsancho/?e=75)
+- [Tipos de aprendizaje automático](https://medium.com/soldai/tipos-de-aprendizaje-autom%C3%A1tico-6413e3c615e2)
+- [Aprendizaje Automático](http://www.lsi.upc.es/~bejar/ia/transpas/teoria/6-AP-aprendizaje.pdf)
+- [Aprendizaje Automático Book](https://upcommons.upc.edu/bitstream/handle/2099.3/36157/9788483019962.pdf)
+- [Introdución AA](http://habla.dc.uba.ar/gravano/ith-2014/09-aprendizaje-automatico.pdf)
+- [Métodos y Aplicaciones](http://www.eui.uva.es/doc/anuncios/curso.2013.2014/aprendizajeAutomatico.pdf)
+- [Aprendizaje Profundo](https://ccc.inaoep.mx/~pgomez/conferences/PggTSys16.pdf)
+- [ML Introducción](https://www.zemsania.com/recursos-zemsania/whitepapers/DTS/Machine_learning.pdf)
+- [Fundamentos de AA](http://www.famaf.proed.unc.edu.ar/pluginfile.php/19002/mod_resource/content/2/01.introduccion.pdf)
+- [Intro al AA](http://ocw.uc3m.es/ingenieria-informatica/herramientas-de-la-inteligencia-artificial/contenidos/transparencias/MDWEBHIA-clase.pdf)
+
+---------------------------------------
+
+![FR](https://i.imgur.com/JZEovQw.png)
+
+- [L'apprentissage automatique](https://www.univ-tlemcen.dz/~benmammar/IA2.pdf)
+- [Apprentissage Automatique](http://www.math-info.univ-paris5.fr/~bouzy/Doc/AA1/Seance1.pdf)
+- [Algorithmes d’apprentissage automatique](https://www.di.ens.fr/~germain/publis/memoire.pdf)
+- [Apprentissage Automatique (Master)](http://www.cril.univ-artois.fr/~koriche/courses.html)
+- [Apprentissage Artificiel](http://members.cbio.mines-paristech.fr/~thocking/mines-course/2011-05-13-clustering/coursFM-apprentissage.pdf)
+- [Fondements](http://www.lifl.fr/~pietquin/teaching/FAACours1.pdf)
+- [Exemples](https://www.irisa.fr/symbiose/people/fcoste/data/ens/bioinfo/Induction/InductionModeles2pp.pdf)
+- [Cours](http://www.grappa.univ-lille3.fr/~torre/Enseignement/Cours/Apprentissage-Automatique/)
+- [Univ-Lyon](http://eric.univ-lyon2.fr/~jahpine/cours/m2_dm-ml/cm.pdf)
+
+---------------------------------------
+
+![IT](https://i.imgur.com/lzqVMS4.png)
+
+- [Machine Learning It](http://www.intelligenzaartificiale.it/machine-learning/)
+- [Wikibooks](https://it.wikibooks.org/wiki/Intelligenza_artificiale/Apprendimento_automatico)
+- [Politecnico Milano](https://home.deib.polimi.it/lanzi/msi/gray/Unit%2001%20-%20Apprendimento%20automatico.pdf)
+- [Introduzione](http://www.uniroma2.it/didattica/MGRI/deposito/ml_intro.pdf)
+- [Leziones](https://www.math.unipd.it/~aiolli/corsi/1516/aa/)
+- [AA Introduzione](http://twiki.di.uniroma1.it/pub/ApprAuto/AnnoAcc0708/1Intro.pdf)
+
+---------------------------------------
+
+![DE](https://i.imgur.com/RSPYBQi.png)
+
+- [Maschinelles Lernen Riedel](http://morrisriedel.de/wp-content/uploads/2017/12/2016-10-13-1-Maschinelles-Lernen-Riedel-v1.pdf)
+- [Maschinelles Lernen](https://www-ai.cs.uni-dortmund.de/LEHRE/VORLESUNGEN/MLRN/WS1314/mlv_skript_ws1314.pdf)
+- [Presentation](https://www.bigdata.fraunhofer.de/content/dam/bigdata/de/documents/Publikationen/Fraunhofer_Studie_ML_201809.pdf)
+- [Maschinelles Lernen Book](https://www.bigdata.fraunhofer.de/content/dam/bigdata/de/documents/Publikationen/BMBF_Fraunhofer_ML-Ergebnisbericht_Gesamt.pdf)
+- [Maschinelles Lernen auf FPGAs](https://tu-dresden.de/ing/informatik/ti/vlsi/ressourcen/dateien/dateien_studium/dateien_lehstuhlseminar/vortraege_lehrstuhlseminar/lehrstuhlseminar_ss18/Maschinelles-Lernen.pdf)
+- [Karlsruhe Institue of Technology](http://semantic-web-grundlagen.de/w/images/b/b5/IntroAI-V05.pdf)
+- [Uni Bielefeld](https://www.techfak.uni-bielefeld.de/~ugrossek/media/da_ugtl.pdf)
+- [Felix Wichmann](https://www.chaosbern.ch/files/slides-Vortrag-Maschinelles-Lernen.pdf)
+- [Goethe Universitat](https://www.ki.informatik.uni-frankfurt.de/lehre/WS2012/KI/folien/13-machinelleslernen.pdf)
+
+---------------------------------------
+
+![RU](https://i.imgur.com/xH8HWn4.png)
+
+- [Vas3k](https://vas3k.ru/blog/machine_learning/)
+- [ML Presentation](http://bioinformaticsinstitute.ru/sites/default/files/vvedenie_v_mashinnoe_obuchenie.pdf)
+- [ML Presentation](http://www.machinelearning.ru/wiki/images/c/cc/Voron-2017-10-08.pdf)
+- [ML and Data Mining](http://www.uic.unn.ru/~zny/ml/Course/ml_pres.pdf)
+- [ML 2015](https://compscicenter.ru/media/slides/machine_learning_1_2015_autumn/2015_09_18_machine_learning_1_2015_autumn.pdf)
+- [FMLDM](https://cs.hse.ru/data/2015/05/25/1096949400/FMLDM.pdf)
+- [Intro](https://logic.pdmi.ras.ru/~sergey/teaching/mlkazan14/01-intro.pdf)
+
+---------------------------------------
