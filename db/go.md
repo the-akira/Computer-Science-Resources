@@ -1,80 +1,109 @@
 # Go
 
-| Project                           | URL                                                                                                                       | Language |
-|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
-| The Go Programming Language       | [https://golang.org/](https://golang.org/)                                                                                       | EN       |
-| Wikipedia                         | [https://en.wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))                                                  | EN       |
-| Geeks for Geeks                   | [https://www.geeksfor](https://www.geeksforgeeks.org/go-programming-language-introduction/)                                      | EN       |
-| Go by Example                     | [https://gobyexample.](https://gobyexample.com/)                                                                                 | EN       |
-| Go Overview                       | [https://blog.learngo](https://blog.learngoprogramming.com/about-go-language-an-overview-f0bee143597c)                           | EN       |
-| Go Intro                          | [https://www.toptal.c](https://www.toptal.com/go/go-programming-a-step-by-step-introductory-tutorial)                            | EN       |
-| Awesome Go                        | [https://awesome-go.c](https://awesome-go.com/)                                                                                  | EN       |
-| Learning Go                       | [https://miek.nl/down](https://miek.nl/downloads/2015/go.pdf)                                                                    | EN       |
-| Go Bootcamp                       | [http://www.golangboo](http://www.golangbootcamp.com/book/frontmatter)                                                           | EN       |
-| Godoc                             | [https://godoc.org/](https://godoc.org/)                                                                                         | EN       |
-| Tutorialspoint                    | [https://www.tutorial](https://www.tutorialspoint.com/go/)                                                                       | EN       |
-| Reddit                            | [https://www.reddit.c](https://www.reddit.com/r/golang/)                                                                         | EN       |
-| Go for Beginners                  | [https://thenewstack.](https://thenewstack.io/the-new-stack-intros-go-programming-for-beginners/)                                | EN       |
-| Golangbot                         | [https://golangbot.co](https://golangbot.com/)                                                                                   | EN       |
-| VS Code Go                        | [https://code.visuals](https://code.visualstudio.com/docs/languages/go)                                                          | EN       |
-| Go for Industrial Programming     | [https://peter.bourgo](https://peter.bourgon.org/go-for-industrial-programming/)                                                 | EN       |
-| The Go Language                   | [https://www.cs.tau.a](https://www.cs.tau.ac.il/~msagiv/courses/pl16/go.pdf)                                                     | EN       |
-| Go Resources                      | [http://go-lang.cat-v](http://go-lang.cat-v.org/)                                                                                | EN       |
-| Essential Go                      | [https://www.programm](https://www.programming-books.io/essential/go/)                                                           | EN       |
-| Go in Practice                    | [http://lup.lub.lu.se](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=4461224&fileOId=4461233)                   | EN       |
-| Monads for Go                     | [https://awalterschul](https://awalterschulze.github.io/blog/post/monads-for-goprogrammers/)                                     | EN       |
-| Learn-Golang                      | [https://www.learn-go](https://www.learn-golang.org/g)                                                                           | EN       |
-| Learn X in Y minutes              | [https://learnxinymin](https://learnxinyminutes.com/docs/go/)                                                                    | EN       |
-| Gophercises                       | [https://gophercises.](https://gophercises.com/)                                                                                 | EN       |
-| Go Book                           | [https://miek.nl/go/](https://miek.nl/go/)                                                                                       | EN       |
-| Cosmic Learn                      | [https://www.cosmicle](https://www.cosmiclearn.com/go/)                                                                          | EN       |
-| Go Web Examples                   | [https://gowebexample](https://gowebexamples.com/)                                                                               | EN       |
-| Golang Programs                   | [https://www.golangpr](https://www.golangprograms.com/advance-programs.html)                                                     | EN       |
-| Golang Code                       | [https://golangcode.c](https://golangcode.com/)                                                                                  | EN       |
-| Golearn                           | [https://github.com/g](https://github.com/golang/go/wiki/Learn)                                                                  | EN       |
-| Golang Course                     | [https://tutorialedge](https://tutorialedge.net/course/golang/)                                                                  | EN       |
-| Go Getting Started                | [https://dev.to/codeh](https://dev.to/codehakase/golang---getting-started-16c)                                                   | EN       |
-| Xahlee Golang Tutorial            | [http://xahlee.info/g](http://xahlee.info/golang/golang_index.html)                                                              | EN       |
-| Edureka                           | [https://www.edureka.](https://www.edureka.co/blog/golang-tutorial/)                                                             | EN       |
-| Java to Go                        | [https://yourbasic.or](https://yourbasic.org/golang/go-java-tutorial/)                                                           | EN       |
-| Guide to Go                       | [https://www.calhoun.](https://www.calhoun.io/guide-to-go/)                                                                      | EN       |
-| Go Basics                         | [http://aqualab.cs.no](http://aqualab.cs.northwestern.edu/component/attachments/download/531)                                    | EN       |
-| Javatpoint                        | [https://www.javatpoi](https://www.javatpoint.com/go-tutorial)                                                                   | EN       |
-| Little Go Book                    | [https://www.openmymi](https://www.openmymind.net/assets/go/go.pdf)                                                              | EN       |
-| Programming in Go                 | [http://www.iakovlev.](http://www.iakovlev.org/zip/go.pdf)                                                                       | EN       |
-| Go for Python Programmers         | [https://media.readth](https://media.readthedocs.org/pdf/golang-for-python-programmers/latest/golang-for-python-programmers.pdf) | EN       |
-| Go for Optimization               | [http://www.sce.carle](http://www.sce.carleton.ca/faculty/chinneck/docs/GoForOptimization.pdf)                                   | EN       |
-| Evaluating the Go Language        | [https://ecs.victoria](https://ecs.victoria.ac.nz/foswiki/pub/Main/TechnicalReportSeries/ECSTR11-01.pdf)                         | EN       |
-| Another Go                        | [https://web.stanford](https://web.stanford.edu/class/ee380/Abstracts/100428-pike-stanford.pdf)                                  | EN       |
-| Introduction to Programming in Go | [https://www.golang-b](https://www.golang-book.com/public/pdf/gobook.0.pdf)                                                      | EN       |
-| Go Crash Course                   | [https://www.youtube.](https://www.youtube.com/watch?v=SqrbIlUwR0U)                                                              | EN       |
-| Go in One Video                   | [https://www.youtube.](https://www.youtube.com/watch?v=CF9S4QZuV30)                                                              | EN       |
-| Go Practical Basics               | [https://www.youtube.](https://www.youtube.com/watch?v=G3PvTWRIhZA&list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)                      | EN       |
-| Web Apps with Go                  | [https://www.youtube.](https://www.youtube.com/watch?v=Vlie-srOU8c)                                                              | EN       |
-| Concurrency in Go                 | [https://www.youtube.](https://www.youtube.com/watch?v=LvgVSSpwND8)                                                              | EN       |
-| Go in 12 minutes                  | [https://www.youtube.](https://www.youtube.com/watch?v=C8LgvuEBraI)                                                              | EN       |
-| Go Concurrency Patterns           | [https://www.youtube.](https://www.youtube.com/watch?v=f6kdp27TYZs)                                                              | EN       |
-| Go Programming Language           | [https://www.youtube.](https://www.youtube.com/watch?v=rKnDgT73v8s)                                                              | EN       |
-| Get Started with Go               | [https://www.youtube.](https://www.youtube.com/watch?v=2KmHtgtEZ1s)                                                              | EN       |
-| Golangbr                          | [http://www.golangbr.](http://www.golangbr.org/)                                                                                 | PT       |
-| Trabalhando com Go                | [https://imasters.com](https://imasters.com.br/back-end/trabalhando-com-go-golang-a-linguagem-do-google)                         | PT       |
-| Seminário Go                      | [https://inf.ufes.br/](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20162-seminario-go.pdf)                    | PT       |
-| Porque Golang                     | [https://gopher.net.b](https://gopher.net.br/o-que-e-e-por-que-go-golang/)                                                       | PT       |
-| Go Lang - A Linguagem da Google   | [https://www.ime.usp.](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf)                                      | PT       |
-| Programação Concorrente           | [http://cocic.cm.utfp](http://cocic.cm.utfpr.edu.br/progconcorrente/doku.php?id=go)                                              | PT       |
-| Um Tour por Go                    | [https://go-tour-br.a](https://go-tour-br.appspot.com/welcome/1)                                                                 | PT       |
-| Tutoriel Go                       | [https://brice-colucc](https://brice-colucci.developpez.com/tutoriels/go/tutoriel-programmation/)                                | FR  |
-| Langage Go                        | [https://www.scriptol](https://www.scriptol.fr/programmation/go.php)                                                             | FR  |
-| Le Langage Go                     | [https://www.bortzmey](https://www.bortzmeyer.org/files/go-lang-intro-SHOW.pdf)                                                  | FR  |
-| Programmation en Go               | [https://fr.wikibooks](https://fr.wikibooks.org/wiki/Programmation_en_Go)                                                        | FR  |
-| Go con Ejemplos                   | [http://goconejemplos](http://goconejemplos.com/)                                                                                | ES       |
-| Introduccion al Go                | [https://www.genbeta.](https://www.genbeta.com/desarrollo/introduccion-al-lenguaje-de-programacion-go)                           | ES       |
-| Curso de Go                       | [https://codigofacili](https://codigofacilito.com/cursos/go)                                                                     | ES       |
-| El Lenguaje Go                    | [https://nasciiboy.la](https://nasciiboy.land/prog/tgpl/)                                                                        | ES       |
-| Curso de Go                       | [http://roberto.costu](http://roberto.costumero.es/slides/Go2010/manual_go.pdf)                                                  | ES       |
-| Il Linguaggio Go                  | [http://tesi.cab.unip](http://tesi.cab.unipd.it/33111/1/Tesina_562011.pdf)                                                       | IT       |
-| Golang Basics                     | [https://tproger.ru/t](https://tproger.ru/translations/golang-basics/)                                                           | RU       |
-| 4Gophers                          | [https://4gophers.ru/](https://4gophers.ru/tags/golang/)                                                                         | RU       |
-| Golang-Book                       | [http://golang-book.r](http://golang-book.ru/)                                                                                   | RU       |
-| Gobook                            | [https://losst.ru/wp-](https://losst.ru/wp-content/uploads/2016/08/Vvedenie-v-programmirovanie-na-Go-Keleb-Doksi.pdf)            | RU       |
-| Go Presentation                   | [https://devconf.ru/d](https://devconf.ru/data/devconf2016/ppt/185.pdf)                                                          | RU       |
+---------------------------------------
+
+![EN](https://i.imgur.com/JVHlBEw.png)
+
+- [The Go Programming Language](https://golang.org/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
+- [Geeks for Geeks](https://www.geeksforgeeks.org/go-programming-language-introduction/)
+- [Go by Example](https://gobyexample.com/)
+- [Go Overview](https://blog.learngoprogramming.com/about-go-language-an-overview-f0bee143597c)
+- [Go Intro](https://www.toptal.com/go/go-programming-a-step-by-step-introductory-tutorial)
+- [Awesome Go](https://awesome-go.com/)
+- [Learning Go](https://miek.nl/downloads/2015/go.pdf)
+- [Go Bootcamp](http://www.golangbootcamp.com/book/frontmatter)
+- [Godoc](https://godoc.org/)
+- [Tutorialspoint](https://www.tutorialspoint.com/go/)
+- [Reddit](https://www.reddit.com/r/golang/)
+- [Go for Beginners](https://thenewstack.io/the-new-stack-intros-go-programming-for-beginners/)
+- [Golangbot](https://golangbot.com/)
+- [VS Code Go](https://code.visualstudio.com/docs/languages/go)
+- [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
+- [The Go Language](https://www.cs.tau.ac.il/~msagiv/courses/pl16/go.pdf)
+- [Go Resources](http://go-lang.cat-v.org/)
+- [Essential Go](https://www.programming-books.io/essential/go/)
+- [Go in Practice](http://lup.lub.lu.se/luur/download?func=downloadFile&amp;recordOId=4461224&amp;fileOId=4461233)
+- [Monads for Go](https://awalterschulze.github.io/blog/post/monads-for-goprogrammers/)
+- [Learn-Golang](https://www.learn-golang.org/g)
+- [Learn X in Y minutes](https://learnxinyminutes.com/docs/go/)
+- [Gophercises](https://gophercises.com/)
+- [Go Book](https://miek.nl/go/)
+- [Cosmic Learn](https://www.cosmiclearn.com/go/)
+- [Go Web Examples](https://gowebexamples.com/)
+- [Golang Programs](https://www.golangprograms.com/advance-programs.html)
+- [Golang Code](https://golangcode.com/)
+- [Golearn](https://github.com/golang/go/wiki/Learn)
+- [Golang Course](https://tutorialedge.net/course/golang/)
+- [Go Getting Started](https://dev.to/codehakase/golang---getting-started-16c)
+- [Xahlee Golang Tutorial](http://xahlee.info/golang/golang_index.html)
+- [Edureka](https://www.edureka.co/blog/golang-tutorial/)
+- [Java to Go](https://yourbasic.org/golang/go-java-tutorial/)
+- [Guide to Go](https://www.calhoun.io/guide-to-go/)
+- [Go Basics](http://aqualab.cs.northwestern.edu/component/attachments/download/531)
+- [Javatpoint](https://www.javatpoint.com/go-tutorial)
+- [Little Go Book](https://www.openmymind.net/assets/go/go.pdf)
+- [Programming in Go](http://www.iakovlev.org/zip/go.pdf)
+- [Go for Python Programmers](https://media.readthedocs.org/pdf/golang-for-python-programmers/latest/golang-for-python-programmers.pdf)
+- [Go for Optimization](http://www.sce.carleton.ca/faculty/chinneck/docs/GoForOptimization.pdf)
+- [Evaluating the Go Language](https://ecs.victoria.ac.nz/foswiki/pub/Main/TechnicalReportSeries/ECSTR11-01.pdf)
+- [Another Go](https://web.stanford.edu/class/ee380/Abstracts/100428-pike-stanford.pdf)
+- [Introduction to Programming in Go](https://www.golang-book.com/public/pdf/gobook.0.pdf)
+- [Go Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
+- [Go in One Video](https://www.youtube.com/watch?v=CF9S4QZuV30)
+- [Go Practical Basics](https://www.youtube.com/watch?v=G3PvTWRIhZA&amp;list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)
+- [Web Apps with Go](https://www.youtube.com/watch?v=Vlie-srOU8c)
+- [Concurrency in Go](https://www.youtube.com/watch?v=LvgVSSpwND8)
+- [Go in 12 minutes](https://www.youtube.com/watch?v=C8LgvuEBraI)
+- [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
+- [Go Programming Language](https://www.youtube.com/watch?v=rKnDgT73v8s)
+- [Get Started with Go](https://www.youtube.com/watch?v=2KmHtgtEZ1s)
+
+---------------------------------------
+
+![PT](https://i.imgur.com/2kZUDhk.png)
+
+- [Golangbr](http://www.golangbr.org/)
+- [Trabalhando com Go](https://imasters.com.br/back-end/trabalhando-com-go-golang-a-linguagem-do-google)
+- [Seminário Go](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20162-seminario-go.pdf)
+- [Porque Golang](https://gopher.net.br/o-que-e-e-por-que-go-golang/)
+- [Go Lang - A Linguagem da Google](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf)
+- [Programação Concorrente](http://cocic.cm.utfpr.edu.br/progconcorrente/doku.php?id=go)
+- [Um Tour por Go](https://go-tour-br.appspot.com/welcome/1)
+
+---------------------------------------
+
+![FR](https://i.imgur.com/JZEovQw.png)
+
+- [Tutoriel Go](https://brice-colucci.developpez.com/tutoriels/go/tutoriel-programmation/)
+- [Langage Go](https://www.scriptol.fr/programmation/go.php)
+- [Le Langage Go](https://www.bortzmeyer.org/files/go-lang-intro-SHOW.pdf)
+- [Programmation en Go](https://fr.wikibooks.org/wiki/Programmation_en_Go)
+
+---------------------------------------
+
+![ES](https://i.imgur.com/YrO5S0F.png)
+
+- [Go con Ejemplos](http://goconejemplos.com/)
+- [Introduccion al Go](https://www.genbeta.com/desarrollo/introduccion-al-lenguaje-de-programacion-go)
+- [Curso de Go](https://codigofacilito.com/cursos/go)
+- [El Lenguaje Go](https://nasciiboy.land/prog/tgpl/)
+- [Curso de Go](http://roberto.costumero.es/slides/Go2010/manual_go.pdf)
+
+---------------------------------------
+
+![IT](https://i.imgur.com/lzqVMS4.png)
+
+- [Il Linguaggio Go](http://tesi.cab.unipd.it/33111/1/Tesina_562011.pdf)
+
+---------------------------------------
+
+![RU](https://i.imgur.com/xH8HWn4.png)
+
+- [Golang Basics](https://tproger.ru/translations/golang-basics/)
+- [4Gophers](https://4gophers.ru/tags/golang/)
+- [Golang-Book](http://golang-book.ru/)
+- [Gobook](https://losst.ru/wp-content/uploads/2016/08/Vvedenie-v-programmirovanie-na-Go-Keleb-Doksi.pdf)
+- [Go Presentation](https://devconf.ru/data/devconf2016/ppt/185.pdf)
+
+---------------------------------------
