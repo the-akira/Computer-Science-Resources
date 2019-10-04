@@ -99,7 +99,6 @@
 - [Ruby](https://www.scriptol.fr/programmation/ruby.php)
 - [Le Langage Ruby](https://www.alphorm.com/Upload/slideshare/alphorm.com-Support-de-la-formation-RubySS.pdf)
 - [Programmation Ruby](https://upload.wikimedia.org/wikipedia/commons/d/d7/Programmation_Ruby-fr.pdf)
-- [Apprendre à programmer avec Ruby](http://jaquet.org/pdfs/programmer_apprendre_1.pdf)
 
 ---------------------------------------
 
@@ -110,21 +109,21 @@
 - [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
 - [Introduzione  al  linguaggio  Ruby](http://www.fisica.unipg.it/borromeo/Appunti/FisComp/FisComp2013/pdf/ruby.pdf)
 - [Ruby on Rails](http://railsgirls.com/files/ticino/ticino_pres_ita.pdf)
-- [Books It](http://b-simple.de/download/ruby.pdf)
 
 ---------------------------------------
 
 ![DE](https://i.imgur.com/RSPYBQi.png)
 
-- [Ruby Grundlagen](https://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf)
-- [Praxiswissen Ruby](https://www.guug.de/veranstaltungen/ffg2002/papers/ffg2002-roehrl.pdf)
-- [Programmieren mit Ruby](http://progopedia.ru/language/ruby/)
+- [Ruby Grundlagen](http://b-simple.de/download/ruby.pdf)
+- [Praxiswissen Ruby](https://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf)
+- [Programmieren mit Ruby](https://www.guug.de/veranstaltungen/ffg2002/papers/ffg2002-roehrl.pdf)
 
 ---------------------------------------
 
 ![RU](https://i.imgur.com/xH8HWn4.png)
 
-- [Progopedia](http://ru-wiki.org/wiki/Ruby)
+- [Progopedia](http://progopedia.ru/language/ruby/)
+- [RU-Wiki](http://ru-wiki.org/wiki/Ruby)
 - [RU-Wiki](http://mit.spbau.ru/files/%20%D0%B2%20Ruby.pdf)
 - [Ruby](http://komar.bitcheese.net/files/Ruby.pdf)
 
