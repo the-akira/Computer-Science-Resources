@@ -124,7 +124,7 @@
 
 - [Progopedia](http://progopedia.ru/language/ruby/)
 - [RU-Wiki](http://ru-wiki.org/wiki/Ruby)
-- [RU-Wiki](http://mit.spbau.ru/files/%20%D0%B2%20Ruby.pdf)
+- [Ruby Book](http://mit.spbau.ru/files/%20%D0%B2%20Ruby.pdf)
 - [Ruby](http://komar.bitcheese.net/files/Ruby.pdf)
 
 ---------------------------------------
