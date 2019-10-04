@@ -1,174 +1,206 @@
 # Python
 
-| Project                              | URL                                                                                                                                               | Language |
-|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| Python.org                           | [https://www.python.o](https://www.python.org/)                                                                                                          | EN       |
-| Programiz                            | [https://www.programi](https://www.programiz.com)                                                                                                        | EN       |
-| Python Programming                   | [https://pythonprogra](https://pythonprogramming.net/)                                                                                                   | EN       |
-| Real Python                          | [https://realpython.c](https://realpython.com/)                                                                                                          | EN       |
-| Introduction to Python Programming   | [https://www.udemy.co](https://www.udemy.com/pythonforbeginnersintro/)                                                                                   | EN       |
-| Geeks for Geeks                      | [https://www.geeksfor](https://www.geeksforgeeks.org/python-programming-language/)                                                                       | EN       |
-| Code Academy                         | [https://www.codecade](https://www.codecademy.com/learn/learn-python)                                                                                    | EN       |
-| Thinkful                             | [https://www.thinkful](https://www.thinkful.com/learn/intro-to-python-tutorial/)                                                                         | EN       |
-| Programming with Python              | [https://www.udemy.co](https://www.udemy.com/python-programming-beginners/)                                                                              | EN       |
-| The Hitchhiker's Guide to Python     | [https://docs.python-](https://docs.python-guide.org/)                                                                                                   | EN       |
-| Invent with Python                   | [http://inventwithpyt](http://inventwithpython.com/)                                                                                                     | EN       |
-| Green Tea Press                      | [https://greenteapres](https://greenteapress.com/wp/)                                                                                                    | EN       |
-| Python Central                       | [https://www.pythonce](https://www.pythoncentral.io/)                                                                                                    | EN       |
-| Python Programming Language          | [https://pythonprogra](https://pythonprogramminglanguage.com/)                                                                                           | EN       |
-| Data Quest                           | [https://www.dataques](https://www.dataquest.io/course/python-programming-beginner#!)                                                                    | EN       |
-| Swcarpentry                          | [https://swcarpentry.](https://swcarpentry.github.io/python-novice-inflammation/)                                                                        | EN       |
-| Python 3 Patterns                    | [https://python-3-pat](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/)                                                                  | EN       |
-| Python Tutor                         | [http://www.pythontut](http://www.pythontutor.com/)                                                                                                      | EN       |
-| Tutorialspoint                       | [http://www.tutorials](http://www.tutorialspoint.com/python)                                                                                             | EN       |
-| Twitter Hashtag                      | [https://twitter.com/](https://twitter.com/hashtag/python)                                                                                               | EN       |
-| CIS 192                              | [https://www.cis.upen](https://www.cis.upenn.edu/~cis192/)                                                                                               | EN       |
-| Fundamentals of Programming          | [https://6009.cat-soo](https://6009.cat-soop.org/fall18)                                                                                                 | EN       |
-| Edureka                              | [https://www.edureka.](https://www.edureka.co/blog/python-programming-language)                                                                          | EN       |
-| ICS                                  | [https://www.ics.uci.](https://www.ics.uci.edu/~pattis/common/handouts/introtopythonineclipse/)                                                          | EN       |
-| Python Programming Exercises         | [https://github.com/z](https://github.com/zhiwehu/Python-programming-exercises)                                                                          | EN       |
-| CPython                              | [https://github.com/p](https://github.com/python/cpython)                                                                                                | EN       |
-| Awesome Python                       | [https://github.com/v](https://github.com/vinta/awesome-python)                                                                                          | EN       |
-| Fucking awesome Python               | [https://github.com/t](https://github.com/trananhkma/fucking-awesome-python)                                                                             | EN       |
-| Python awesome                       | [https://pythonawesom](https://pythonawesome.com/)                                                                                                       | EN       |
-| Python Libhunt                       | [https://python.libhu](https://python.libhunt.com/)                                                                                                      | EN       |
-| W3Shools                             | [https://www.w3school](https://www.w3schools.com/python/)                                                                                                | EN       |
-| A Byte of Python                     | [https://python.swaro](https://python.swaroopch.com/)                                                                                                    | EN       |
-| Wikiversity                          | [https://en.wikiversi](https://en.wikiversity.org/wiki/Python_Programming)                                                                               | EN       |
-| Learn Python                         | [https://www.learnpyt](https://www.learnpython.org/)                                                                                                     | EN       |
-| The Python Guru                      | [https://thepythongur](https://thepythonguru.com/)                                                                                                       | EN       |
-| Guru99                               | [https://www.guru99.c](https://www.guru99.com/python-tutorials.html)                                                                                     | EN       |
-| Python Course                        | [https://www.python-c](https://www.python-course.eu/)                                                                                                    | EN       |
-| Sthurlow                             | [http://sthurlow.com/](http://sthurlow.com/python/)                                                                                                      | EN       |
-| Wikibooks                            | [https://en.wikibooks](https://en.wikibooks.org/wiki/A_Beginner's_Python_Tutorial)                                                                       | EN       |
-| Visual Studio                        | [https://code.visuals](https://code.visualstudio.com/docs/python/python-tutorial)                                                                        | EN       |
-| CS231n                               | [http://cs231n.github](http://cs231n.github.io/python-numpy-tutorial/)                                                                                   | EN       |
-| Python for you and me                | [https://pymbook.read](https://pymbook.readthedocs.io/en/latest/)                                                                                        | EN       |
-| Solo Learn                           | [https://www.sololear](https://www.sololearn.com/Course/Python/)                                                                                         | EN       |
-| Pitt                                 | [https://www.pitt.edu](https://www.pitt.edu/~naraehan/python2/)                                                                                          | EN       |
-| Otree                                | [https://otree.readth](https://otree.readthedocs.io/en/latest/python.html)                                                                               | EN       |
-| Python Spot                          | [https://pythonspot.c](https://pythonspot.com/)                                                                                                          | EN       |
-| Python Learn                         | [http://www.pythonlea](http://www.pythonlearn.com/)                                                                                                      | EN       |
-| i2tutorials                          | [https://www.i2tutori](https://www.i2tutorials.com/python-tutorial/)                                                                                     | EN       |
-| Postgresql Python                    | [http://www.postgresq](http://www.postgresqltutorial.com/postgresql-python/)                                                                             | EN       |
-| DigitalOcean                         | [https://www.digitalo](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3)                                                   | EN       |
-| Study of Night                       | [https://www.studyton](https://www.studytonight.com/python/)                                                                                             | EN       |
-| Microsoft                            | [https://docs.microso](https://docs.microsoft.com/en-us/visualstudio/python/)                                                                            | EN       |
-| Python Turtle                        | [http://pythonturtle.](http://pythonturtle.org/)                                                                                                         | EN       |
-| Fullstack Python                     | [https://www.fullstac](https://www.fullstackpython.com/)                                                                                                 | EN       |
-| Intellipaat                          | [https://intellipaat.](https://intellipaat.com/tutorial/python-tutorial/)                                                                                | EN       |
-| After Hours                          | [https://www.afterhou](https://www.afterhoursprogramming.com/tutorial/python/)                                                                           | EN       |
-| Django Girls                         | [https://tutorial.dja](https://tutorial.djangogirls.org/en/python_introduction/)                                                                         | EN       |
-| Python Tips                          | [http://book.pythonti](http://book.pythontips.com/en/latest/index.html)                                                                                  | EN       |
-| Matloff                              | [http://heather.cs.uc](http://heather.cs.ucdavis.edu/~matloff/python.html)                                                                               | EN       |
-| Rabbit MQ                            | [https://www.rabbitmq](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)                                                                      | EN       |
-| Scikit-Learn                         | [http://scikit-learn.](http://scikit-learn.org/stable/tutorial/index.html)                                                                               | EN       |
-| Journaldev                           | [https://www.journald](https://www.journaldev.com/13949/python-tutorial-beginners)                                                                       | EN       |
-| Quackit                              | [https://www.quackit.](https://www.quackit.com/python/tutorial/)                                                                                         | EN       |
-| Arangodb                             | [https://www.arangodb](https://www.arangodb.com/tutorials/tutorial-python/)                                                                              | EN       |
-| Python Programming                   | [http://www-personal.](http://www-personal.umich.edu/~mejn/cp/chapters/programming.pdf)                                                                  | EN       |
-| Computational Physics                | [http://www.fizika.un](http://www.fizika.unios.hr/rf/wp-content/uploads/sites/67/2011/02/CPwP.pdf)                                                       | EN       |
-| Python for Physics and Astronomy     | [http://prancer.physi](http://prancer.physics.louisville.edu/astrowiki/index.php/Python_for_Physics_and_Astronomy)                                       | EN       |
-| Utoronto                             | [https://www.physics.](https://www.physics.utoronto.ca/~phy224_324/web-pages/Python_info.htm)                                                            | EN       |
-| Python for Science                   | [http://www.physics.n](http://www.physics.nyu.edu/pine/pymanual/html/pymanMaster.html)                                                                   | EN       |
-| Pandas                               | [https://pandas.pydat](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)                                                                      | EN       |
-| Devcenter Heroku                     | [https://devcenter.he](https://devcenter.heroku.com/articles/getting-started-with-python)                                                                | EN       |
-| Essentia                             | [http://essentia.upf.](http://essentia.upf.edu/documentation/essentia_python_tutorial.html)                                                              | EN       |
-| SQLite Tutorial                      | [http://www.sqlitetut](http://www.sqlitetutorial.net/sqlite-python/)                                                                                     | EN       |
-| W3resource                           | [https://www.w3resour](https://www.w3resource.com/python/python-tutorial.php)                                                                            | EN       |
-| Google Python                        | [https://developers.g](https://developers.google.com/edu/python/)                                                                                        | EN       |
-| Think CS                             | [http://openbookproje](http://openbookproject.net/thinkcs/python/english2e/)                                                                             | EN       |
-| Python Sheets                        | [https://www.pythonsh](https://www.pythonsheets.com/)                                                                                                    | EN       |
-| Reddit Python                        | [https://www.reddit.c](https://www.reddit.com/r/Python/)                                                                                                 | EN       |
-| PythonBiblio                         | [http://openbookproje](http://openbookproject.net/pybiblio/)                                                                                             | EN       |
-| Simplifiedpython                     | [https://www.simplifi](https://www.simplifiedpython.net/)                                                                                                | EN       |
-| Cybrary IT                           | [https://www.cybrary.](https://www.cybrary.it/course/python/)                                                                                            | EN       |
-| Scientific Programming with Python   | [https://snowball.mil](http://snowball.millersville.edu/~adecaria/ESCI386P/)                                                                                            | EN       |
-| CS Dojo                              | [https://www.youtube.](https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)                                              | EN       |
-| Edureka                              | [https://www.youtube.](https://www.youtube.com/watch?v=GRN_9YkfN5w&list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)                                              | EN       |
-| Derek Banas                          | [https://www.youtube.](https://www.youtube.com/watch?v=nwjAHQERL08&list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)                                              | EN       |
-| Python 3.4                           | [https://www.youtube.](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)                                              | EN       |
-| Python Beginners                     | [https://www.youtube.](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)                                              | EN       |
-| Socratica                            | [https://www.youtube.](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)                                              | EN       |
-| Python Algorithms for Interviews     | [https://www.youtube.](https://www.youtube.com/watch?v=p65AHm9MX80&t=)                                              | EN       |
-| MIT 6.0001                           | [https://www.youtube.](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)                                              | EN       |
-| MIT 6.00                             | [https://www.youtube.](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL4C4720A6F225E074)                                                              | EN       |
-| MIT 6.00SC                           | [https://www.youtube.](https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7)                                                              | EN       |
-| Computational Physics                | [http://www-personal.](http://www-personal.umich.edu/~mejn/computational-physics/)                                                                       | EN       |
-| Devmedia                             | [https://www.devmedia](https://www.devmedia.com.br/guia/python/37024)                                                                                    | PT       |
-| Udacity                              | [https://br.udacity.c](https://br.udacity.com/course/programming-foundations-with-python--ud036)                                                         | PT       |
-| Pyscience-brasil                     | [http://pyscience-bra](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq)                                                                        | PT       |
-| Python.org.br                        | [https://python.org.b](https://python.org.br/introducao/)                                                                                                | PT       |
-| Progbio Python                       | [https://www.inf.pucr](https://www.inf.pucrs.br/flash/progbio/aulas/seq/build/progbio/Python.html)                                                       | PT       |
-| RRA Python                           | [http://www.rra.etc.b](http://www.rra.etc.br/linux/apresentacoes/Python.pdf)                                                                             | PT       |
-| Pythonclub                           | [http://pythonclub.co](http://pythonclub.com.br/)                                                                                                        | PT       |
-| Programacao Funcional                | [http://blog.caelum.c](http://blog.caelum.com.br/programacao-funcional-no-python/)                                                                       | PT       |
-| UFF                                  | [http://www.telecom.u](http://www.telecom.uff.br/pet/petws/downloads/tutoriais/python/tut_python_2k100127.pdf)                                           | PT       |
-| UFRJ                                 | [http://www.dcc.ufrj.](http://www.dcc.ufrj.br/~fabiom/mab225/03comandos.pdf)                                                                             | PT       |
-| Minicurso Python                     | [http://www.ufjf.br/g](http://www.ufjf.br/getcomp/files/2012/04/minicurso-python-getmeeting.pdf)                                                         | PT       |
-| Apresentacao Python                  | [http://www.ufjf.br/d](http://www.ufjf.br/deptocomputacao/files/2010/08/apresentacao.pdf)                                                                | PT       |
-| UFES                                 | [https://inf.ufes.br/](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20142-seminario-python.pdf)                                        | PT       |
-| Bioengenharia UFPR                   | [http://www.grupo.bio](http://www.grupo.bioengenharia.ufpr.br/arquivos/Cursodepython.pdf)                                                                | PT       |
-| IFRN                                 | [http://www3.ifrn.edu](http://www3.ifrn.edu.br/~diegonascimento/dokuwiki/lib/exe/fetch.php?media=fp_slides.pdf)                                          | PT       |
-| Pluzzardi                            | [http://pluzzardi.w.p](http://pluzzardi.w.pw/Python.pdf)                                                                                                 | PT       |
-| Google Python                        | [https://www.research](https://www.researchgate.net/publication/307925106_Computacao_Cientifica_usando_Python_uma_introducao_a_linguagem_de_programacao) | PT       |
-| Aprenda Programar Python             | [https://edisciplinas](https://edisciplinas.usp.br/pluginfile.php/342664/mod_resource/content/0/AprendaProgramarPython.pdf)                              | PT       |
-| Curso Python                         | [https://media.readth](https://media.readthedocs.org/pdf/curso-python/latest/curso-python.pdf)                                                           | PT       |
-| Curso de Python                      | [https://www.youtube.](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)                                              | PT       |
-| Aulas Python                         | [https://www.youtube.](https://www.youtube.com/watch?v=lJjR906426o&list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)                                              | PT       |
-| Python 101                           | [https://www.youtube.](https://www.youtube.com/watch?v=tS0BsCSDbzM&list=PLV7VqBqvsd_3yRYYWrHkziPL6izzrUIkp)                                              | PT       |
-| Python Academy                       | [https://pythonacadem](https://pythonacademy.com.br/blog/)                                                                                               | PT       |
-| Python Basico                        | [https://entrenamient](https://entrenamiento-python-basico.readthedocs.io/es/latest/)                                                                    | ES       |
-| El Tutorial de Python                | [http://docs.python.o](http://docs.python.org.ar/tutorial/pdfs/TutorialPython2.pdf)                                                                      | ES       |
-| Python para Principiantes            | [https://www.iaa.csic](https://www.iaa.csic.es/python/curso-python-para-principiantes.pdf)                                                               | ES       |
-| Algoritmos Python                    | [https://librosweb.es](https://librosweb.es/libro/algoritmos_python/)                                                                                    | ES       |
-| Python desde 0                       | [https://www.youtube.](https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC)                                              | ES       |
-| Codigo facilito                      | [https://www.youtube.](https://www.youtube.com/watch?v=mGH1uooFhGs&list=PLagErt3C7iltgifmiGFQFI1GhUAKQvvyb)                                              | ES       |
-| Python by Vilar                      | [http://fcaglp.unlp.e](http://fcaglp.unlp.edu.ar/~observacional/manuales/python-by-vilar.pdf)                                                            | ES       |
-| Aprenda a pensar como um programador | [https://argentinaenp](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf)                         | ES       |
-| Programacion Avanzada                | [https://sites.google](https://sites.google.com/site/upiitaobduliapichardo/programacion-avanzada-python)                                                 | ES       |
-| OpenClassRooms                       | [https://openclassroo](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)                                                     | FR       |
-| Programmer en Deux Minutes           | [https://fr.wikibooks](https://fr.wikibooks.org/wiki/Programmation_Python/Programmer_en_deux_minutes)                                                    | FR       |
-| Apprendre Python                     | [http://apprendre-pyt](http://apprendre-python.com/)                                                                                                     | FR       |
-| Developpez                           | [https://python.devel](https://python.developpez.com/tutoriels/apprendre-programmation-python/les-bases/)                                                | FR       |
-| Ukonline                             | [https://www.ukonline](https://www.ukonline.be/cours/python/apprendre-python)                                                                            | FR       |
-| Inforef                              | [https://inforef.be/s](https://inforef.be/swi/download/apprendre_python3_5.pdf)                                                                          | FR       |
-| Python Lycee                         | [http://python.lycee.](http://python.lycee.free.fr/)                                                                                                     | FR       |
-| Pixees                               | [https://pixees.fr/ap](https://pixees.fr/apprendre-les-bases-de-la-programmation-avec-python/)                                                           | FR       |
-| Grappa                               | [http://www.grappa.un](http://www.grappa.univ-lille3.fr/~torre/Enseignement/Cours/python.php)                                                            | FR       |
-| Fsincere                             | [http://fsincere.free](http://fsincere.free.fr/isn/python/cours_python_webographie.php)                                                                  | FR       |
-| Poppy                                | [https://docs.poppy-p](https://docs.poppy-project.org/fr/programming/python.html)                                                                        | FR       |
-| Python Cours                         | [https://www.youtube.](https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC)                                              | FR       |
-| Python.it                            | [https://www.python.i](https://www.python.it/)                                                                                                           | IT       |
-| Guida Python                         | [https://www.html.it/](https://www.html.it/guide/guida-python/)                                                                                          | IT       |
-| ProgrammareinPython                  | [https://www.programm](https://www.programmareinpython.it/esercizi-python/)                                                                              | IT       |
-| Tut Python                           | [https://docs.python.](https://docs.python.it/paper-a4/tut.pdf)                                                                                          | IT       |
-| Fraccaro                             | [https://fraccaro.org](https://fraccaro.org/python/guida_python_3_ita.pdf)                                                                               | IT       |
-| Python V2                            | [http://linuxdidattic](http://linuxdidattica.org/polito/manuale-python-V2.pdf)                                                                           | IT       |
-| Corse Python                         | [http://www.officina9](http://www.officina99.org/hacklab/download/corso_python/lezione1.pdf)                                                             | IT       |
-| CS Unibo                             | [http://www.cs.unibo.](http://www.cs.unibo.it/~martini/MATH/disp20130218.pdf)                                                                            | IT       |
-| Appunti Python                       | [http://www.helldrago](http://www.helldragon.eu/marcello/galli_python/appunti_python.pdf)                                                                | IT       |
-| Classi Python                        | [http://www.iet.unipi](http://www.iet.unipi.it/c.vallati/files/classi-python.pdf)                                                                        | IT       |
-| Python Funzionale                    | [http://art.uniroma2.](http://art.uniroma2.it/teaching/lmp/part_II/ppt/fp_python.pdf)                                                                    | IT       |
-| Corso Rapido                         | [http://codex.altervi](http://codex.altervista.org/corsopython/corsopython.pdf)                                                                          | IT       |
-| Corso Python 3                       | [https://www.youtube.](https://www.youtube.com/watch?v=mXWXUzgok_I&list=PLHUQL6-_n9Zes1VLMgJbLa8IIOHT9x4Nu)                                              | IT       |
-| Python World                         | [https://pythonworld.](https://pythonworld.ru/samouchitel-python)                                                                                        | RU       |
-| Metanit                              | [https://metanit.com/](https://metanit.com/python/tutorial/)                                                                                             | RU       |
-| Losst                                | [https://losst.ru/osn](https://losst.ru/osnovy-programmirovaniya-python)                                                                                 | RU       |
-| Rus-Python                           | [http://rus-linux.net](http://rus-linux.net/MyLDP/BOOKS/python.pdf)                                                                                      | RU       |
-| Why Python                           | [https://khashtamov.c](https://khashtamov.com/ru/why-python/)                                                                                            | RU       |
-| Tproger                              | [https://tproger.ru/t](https://tproger.ru/tag/python/)                                                                                                   | RU       |
-| Progopedia                           | [http://progopedia.ru](http://progopedia.ru/language/python/)                                                                                            | RU       |
-| Python.ru                            | [https://python.ru/](https://python.ru/)                                                                                                                 | RU       |
-| Pythonic Way                         | [http://pythonicway.c](http://pythonicway.com/python-operators)                                                                                          | RU       |
-| Academic.ru                          | [https://dvc.academic](https://dvc.academic.ru/dic.nsf/ruwiki/1447)                                                                                      | RU       |
-| Young Linux                          | [https://younglinux.i](https://younglinux.info/python.php)                                                                                               | RU       |
-| Prog.tversu                          | [http://prog.tversu.r](http://prog.tversu.ru/library/Python.pdf)                                                                                         | RU       |
-| Lurkmore                             | [https://lurkmore.co/](https://lurkmore.co/Python)                                                                                                       | RU       |
-| Book Web Master                      | [http://www.bookwebma](http://www.bookwebmaster.narod.ru/python.html)                                                                                    | RU       |
-| Python-Scripts                       | [https://python-scrip](https://python-scripts.com/create-pdf-pyfpdf)                                                                                     | RU       |
-| Python.jp                            | [https://www.python.j](https://www.python.jp/)                                                                                                           | JP       |
-| Sejuku                               | [https://www.sejuku.n](https://www.sejuku.net/blog/7720)                                                                                                 | JP       |
-| Dividable                            | [https://dividable.ne](https://dividable.net/python/python-basic-tutorial)                                                                               | JP       |
-| Runoob                               | [http://www.runoob.co](http://www.runoob.com/python/python-tutorial.html)                                                                                | ZH       |
-| Harmash                              | [http://harmash.com/p](http://harmash.com/python/python-overview/)                                                                                       | AR       |
+---------------------------------------
+
+![EN](https://i.imgur.com/JVHlBEw.png)
+
+- [Python.org](https://www.python.org/)
+- [Programiz](https://www.programiz.com)
+- [Python Programming](https://pythonprogramming.net/)
+- [Real Python](https://realpython.com/)
+- [Introduction to Python Programming](https://www.udemy.com/pythonforbeginnersintro/)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)
+- [Code Academy](https://www.codecademy.com/learn/learn-python)
+- [Thinkful](https://www.thinkful.com/learn/intro-to-python-tutorial/)
+- [Programming with Python](https://www.udemy.com/python-programming-beginners/)
+- [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+- [Invent with Python](http://inventwithpython.com/)
+- [Green Tea Press](https://greenteapress.com/wp/)
+- [Python Central](https://www.pythoncentral.io/)
+- [Python Programming Language](https://pythonprogramminglanguage.com/)
+- [Data Quest](https://www.dataquest.io/course/python-programming-beginner#!)
+- [Swcarpentry](https://swcarpentry.github.io/python-novice-inflammation/)
+- [Python 3 Patterns](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/)
+- [Python Tutor](http://www.pythontutor.com/)
+- [Tutorialspoint](http://www.tutorialspoint.com/python)
+- [Twitter Hashtag](https://twitter.com/hashtag/python)
+- [CIS 192](https://www.cis.upenn.edu/~cis192/)
+- [Fundamentals of Programming](https://6009.cat-soop.org/fall18)
+- [Edureka](https://www.edureka.co/blog/python-programming-language)
+- [ICS](https://www.ics.uci.edu/~pattis/common/handouts/introtopythonineclipse/)
+- [Python Programming Exercises](https://github.com/zhiwehu/Python-programming-exercises)
+- [CPython](https://github.com/python/cpython)
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [Fucking awesome Python](https://github.com/trananhkma/fucking-awesome-python)
+- [Python awesome](https://pythonawesome.com/)
+- [Python Libhunt](https://python.libhunt.com/)
+- [W3Shools](https://www.w3schools.com/python/)
+- [A Byte of Python](https://python.swaroopch.com/)
+- [Wikiversity](https://en.wikiversity.org/wiki/Python_Programming)
+- [Learn Python](https://www.learnpython.org/)
+- [The Python Guru](https://thepythonguru.com/)
+- [Guru99](https://www.guru99.com/python-tutorials.html)
+- [Python Course](https://www.python-course.eu/)
+- [Sthurlow](http://sthurlow.com/python/)
+- [Wikibooks](https://en.wikibooks.org/wiki/A_Beginner)
+- [Visual Studio](https://code.visualstudio.com/docs/python/python-tutorial)
+- [CS231n](http://cs231n.github.io/python-numpy-tutorial/)
+- [Python for you and me](https://pymbook.readthedocs.io/en/latest/)
+- [Solo Learn](https://www.sololearn.com/Course/Python/)
+- [Pitt](https://www.pitt.edu/~naraehan/python2/)
+- [Otree](https://otree.readthedocs.io/en/latest/python.html)
+- [Python Spot](https://pythonspot.com/)
+- [Python Learn](http://www.pythonlearn.com/)
+- [i2tutorials](https://www.i2tutorials.com/python-tutorial/)
+- [Postgresql Python](http://www.postgresqltutorial.com/postgresql-python/)
+- [DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3)
+- [Study of Night](https://www.studytonight.com/python/)
+- [Microsoft](https://docs.microsoft.com/en-us/visualstudio/python/)
+- [Python Turtle](http://pythonturtle.org/)
+- [Fullstack Python](https://www.fullstackpython.com/)
+- [Intellipaat](https://intellipaat.com/tutorial/python-tutorial/)
+- [After Hours](https://www.afterhoursprogramming.com/tutorial/python/)
+- [Django Girls](https://tutorial.djangogirls.org/en/python_introduction/)
+- [Python Tips](http://book.pythontips.com/en/latest/index.html)
+- [Matloff](http://heather.cs.ucdavis.edu/~matloff/python.html)
+- [Rabbit MQ](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
+- [Scikit-Learn](http://scikit-learn.org/stable/tutorial/index.html)
+- [Journaldev](https://www.journaldev.com/13949/python-tutorial-beginners)
+- [Quackit](https://www.quackit.com/python/tutorial/)
+- [Arangodb](https://www.arangodb.com/tutorials/tutorial-python/)
+- [Python Programming](http://www-personal.umich.edu/~mejn/cp/chapters/programming.pdf)
+- [Computational Physics](http://www.fizika.unios.hr/rf/wp-content/uploads/sites/67/2011/02/CPwP.pdf)
+- [Python for Physics and Astronomy](http://prancer.physics.louisville.edu/astrowiki/index.php/Python_for_Physics_and_Astronomy)
+- [Utoronto](https://www.physics.utoronto.ca/~phy224_324/web-pages/Python_info.htm)
+- [Python for Science](http://www.physics.nyu.edu/pine/pymanual/html/pymanMaster.html)
+- [Pandas](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+- [Devcenter Heroku](https://devcenter.heroku.com/articles/getting-started-with-python)
+- [Essentia](http://essentia.upf.edu/documentation/essentia_python_tutorial.html)
+- [SQLite Tutorial](http://www.sqlitetutorial.net/sqlite-python/)
+- [W3resource](https://www.w3resource.com/python/python-tutorial.php)
+- [Google Python](https://developers.google.com/edu/python/)
+- [Think CS](http://openbookproject.net/thinkcs/python/english2e/)
+- [Python Sheets](https://www.pythonsheets.com/)
+- [Reddit Python](https://www.reddit.com/r/Python/)
+- [PythonBiblio](http://openbookproject.net/pybiblio/)
+- [Simplifiedpython](https://www.simplifiedpython.net/)
+- [Cybrary IT](https://www.cybrary.it/course/python/)
+- [Scientific Programming with Python](http://snowball.millersville.edu/~adecaria/ESCI386P/)
+- [CS Dojo](https://www.youtube.com/watch?v=Z1Yd7upQsXY&amp;list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
+- [Edureka](https://www.youtube.com/watch?v=GRN_9YkfN5w&amp;list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu)
+- [Derek Banas](https://www.youtube.com/watch?v=nwjAHQERL08&amp;list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
+- [Python 3.4](https://www.youtube.com/watch?v=HBxCHonP6Ro&amp;list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+- [Python Beginners](https://www.youtube.com/watch?v=YYXdXT2l-Gg&amp;list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+- [Socratica](https://www.youtube.com/watch?v=bY6m6_IIN94&amp;list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
+- [Python Algorithms for Interviews](https://www.youtube.com/watch?v=p65AHm9MX80&amp;t=)
+- [MIT 6.0001](https://www.youtube.com/watch?v=ytpJdnlu9ug&amp;list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+- [MIT 6.00](https://www.youtube.com/watch?v=k6U-i4gXkLM&amp;list=PL4C4720A6F225E074)
+- [MIT 6.00SC](https://www.youtube.com/watch?v=bX3jvD7XFPs&amp;list=PLB2BE3D6CA77BB8F7)
+- [Computational Physics](http://www-personal.umich.edu/~mejn/computational-physics/)
+
+---------------------------------------
+
+![PT](https://i.imgur.com/2kZUDhk.png)
+
+- [Devmedia](https://www.devmedia.com.br/guia/python/37024)
+- [Udacity](https://br.udacity.com/course/programming-foundations-with-python--ud036)
+- [Pyscience-brasil](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq)
+- [Python.org.br](https://python.org.br/introducao/)
+- [Progbio Python](https://www.inf.pucrs.br/flash/progbio/aulas/seq/build/progbio/Python.html)
+- [RRA Python](http://www.rra.etc.br/linux/apresentacoes/Python.pdf)
+- [Pythonclub](http://pythonclub.com.br/)
+- [Programacao Funcional](http://blog.caelum.com.br/programacao-funcional-no-python/)
+- [UFF](http://www.telecom.uff.br/pet/petws/downloads/tutoriais/python/tut_python_2k100127.pdf)
+- [UFRJ](http://www.dcc.ufrj.br/~fabiom/mab225/03comandos.pdf)
+- [Minicurso Python](http://www.ufjf.br/getcomp/files/2012/04/minicurso-python-getmeeting.pdf)
+- [Apresentacao Python](http://www.ufjf.br/deptocomputacao/files/2010/08/apresentacao.pdf)
+- [UFES](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20142-seminario-python.pdf)
+- [Bioengenharia UFPR](http://www.grupo.bioengenharia.ufpr.br/arquivos/Cursodepython.pdf)
+- [IFRN](http://www3.ifrn.edu.br/~diegonascimento/dokuwiki/lib/exe/fetch.php?media=fp_slides.pdf)
+- [Pluzzardi](http://pluzzardi.w.pw/Python.pdf)
+- [Google Python](https://www.researchgate.net/publication/307925106_Computacao_Cientifica_usando_Python_uma_introducao_a_linguagem_de_programacao)
+- [Aprenda Programar Python](https://edisciplinas.usp.br/pluginfile.php/342664/mod_resource/content/0/AprendaProgramarPython.pdf)
+- [Curso Python](https://media.readthedocs.org/pdf/curso-python/latest/curso-python.pdf)
+- [Curso de Python](https://www.youtube.com/watch?v=S9uPNppGsGo&amp;list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+- [Aulas Python](https://www.youtube.com/watch?v=lJjR906426o&amp;list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
+- [Python 101](https://www.youtube.com/watch?v=tS0BsCSDbzM&amp;list=PLV7VqBqvsd_3yRYYWrHkziPL6izzrUIkp)
+- [Python Academy](https://pythonacademy.com.br/blog/)
+
+---------------------------------------
+
+![ES](https://i.imgur.com/YrO5S0F.png)
+
+- [Python Basico](https://entrenamiento-python-basico.readthedocs.io/es/latest/)
+- [El Tutorial de Python](http://docs.python.org.ar/tutorial/pdfs/TutorialPython2.pdf)
+- [Python para Principiantes](https://www.iaa.csic.es/python/curso-python-para-principiantes.pdf)
+- [Algoritmos Python](https://librosweb.es/libro/algoritmos_python/)
+- [Python desde 0](https://www.youtube.com/watch?v=HWxBtxPBCAc&amp;list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC)
+- [Codigo facilito](https://www.youtube.com/watch?v=mGH1uooFhGs&amp;list=PLagErt3C7iltgifmiGFQFI1GhUAKQvvyb)
+- [Python by Vilar](http://fcaglp.unlp.edu.ar/~observacional/manuales/python-by-vilar.pdf)
+- [Aprenda a pensar como um programador](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf)
+- [Programacion Avanzada](https://sites.google.com/site/upiitaobduliapichardo/programacion-avanzada-python)
+
+---------------------------------------
+
+![FR](https://i.imgur.com/JZEovQw.png)
+
+- [OpenClassRooms](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
+- [Programmer en Deux Minutes](https://fr.wikibooks.org/wiki/Programmation_Python/Programmer_en_deux_minutes)
+- [Apprendre Python](http://apprendre-python.com/)
+- [Developpez](https://python.developpez.com/tutoriels/apprendre-programmation-python/les-bases/)
+- [Ukonline](https://www.ukonline.be/cours/python/apprendre-python)
+- [Inforef](https://inforef.be/swi/download/apprendre_python3_5.pdf)
+- [Python Lycee](http://python.lycee.free.fr/)
+- [Pixees](https://pixees.fr/apprendre-les-bases-de-la-programmation-avec-python/)
+- [Grappa](http://www.grappa.univ-lille3.fr/~torre/Enseignement/Cours/python.php)
+- [Fsincere](http://fsincere.free.fr/isn/python/cours_python_webographie.php)
+- [Poppy](https://docs.poppy-project.org/fr/programming/python.html)
+- [Python Cours](https://www.youtube.com/watch?v=HWxBtxPBCAc&amp;list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC)
+
+---------------------------------------
+
+![IT](https://i.imgur.com/lzqVMS4.png)
+
+- [Python.it](https://www.python.it/)
+- [Guida Python](https://www.html.it/guide/guida-python/)
+- [ProgrammareinPython](https://www.programmareinpython.it/esercizi-python/)
+- [Tut Python](https://docs.python.it/paper-a4/tut.pdf)
+- [Fraccaro](https://fraccaro.org/python/guida_python_3_ita.pdf)
+- [Python V2](http://linuxdidattica.org/polito/manuale-python-V2.pdf)
+- [Corse Python](http://www.officina99.org/hacklab/download/corso_python/lezione1.pdf)
+- [CS Unibo](http://www.cs.unibo.it/~martini/MATH/disp20130218.pdf)
+- [Appunti Python](http://www.helldragon.eu/marcello/galli_python/appunti_python.pdf)
+- [Classi Python](http://www.iet.unipi.it/c.vallati/files/classi-python.pdf)
+- [Python Funzionale](http://art.uniroma2.it/teaching/lmp/part_II/ppt/fp_python.pdf)
+- [Corso Rapido](http://codex.altervista.org/corsopython/corsopython.pdf)
+- [Corso Python 3](https://www.youtube.com/watch?v=mXWXUzgok_I&amp;list=PLHUQL6-_n9Zes1VLMgJbLa8IIOHT9x4Nu)
+
+---------------------------------------
+
+![RU](https://i.imgur.com/xH8HWn4.png)
+
+- [Python World](https://pythonworld.ru/samouchitel-python)
+- [Metanit](https://metanit.com/python/tutorial/)
+- [Losst](https://losst.ru/osnovy-programmirovaniya-python)
+- [Rus-Python](http://rus-linux.net/MyLDP/BOOKS/python.pdf)
+- [Why Python](https://khashtamov.com/ru/why-python/)
+- [Tproger](https://tproger.ru/tag/python/)
+- [Progopedia](http://progopedia.ru/language/python/)
+- [Python.ru](https://python.ru/)
+- [Pythonic Way](http://pythonicway.com/python-operators)
+- [Academic.ru](https://dvc.academic.ru/dic.nsf/ruwiki/1447)
+- [Young Linux](https://younglinux.info/python.php)
+- [Prog.tversu](http://prog.tversu.ru/library/Python.pdf)
+- [Lurkmore](https://lurkmore.co/Python)
+- [Book Web Master](http://www.bookwebmaster.narod.ru/python.html)
+- [Python-Scripts](https://python-scripts.com/create-pdf-pyfpdf)
+
+---------------------------------------
+
+![JP](https://i.imgur.com/v05gNcC.png)
+
+- [Python.jp](https://www.python.jp/)
+- [Sejuku](https://www.sejuku.net/blog/7720)
+- [Dividable](https://dividable.net/python/python-basic-tutorial)
+
+---------------------------------------
