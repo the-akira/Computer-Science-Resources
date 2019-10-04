@@ -109,8 +109,7 @@
 - [Panoramica Ruby](https://www.flameeyes.eu/articles/ld-ruby.pdf)
 - [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
 - [Introduzione  al  linguaggio  Ruby](http://www.fisica.unipg.it/borromeo/Appunti/FisComp/FisComp2013/pdf/ruby.pdf)
-- [www.fisica.unipg.it/](http://railsgirls.com/files/ticino/ticino_pres_ita.pdf)
-- [Ruby on Rails](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-it.md)
+- [Ruby on Rails](http://railsgirls.com/files/ticino/ticino_pres_ita.pdf)
 - [Books It](http://b-simple.de/download/ruby.pdf)
 
 ---------------------------------------
