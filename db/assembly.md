@@ -1,102 +1,136 @@
 # Assembly
 
-| Project                                                   | URL                                                                                                                                                                                         | Language |
-|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| Awesome asm                                               | [https://github.com/j](https://github.com/jaspergould/awesome-asm)                                                                                                                                 | EN       |
-| Wikipedia                                                 | [https://en.wikipedia](https://en.wikipedia.org/wiki/Assembly_language)                                                                                                                            | EN       |
-| Tutorialspoint                                            | [https://www.tutorial](https://www.tutorialspoint.com/assembly_programming/)                                                                                                                       | EN       |
-| Assembly Programming                                      | [https://homepage.cs.](https://homepage.cs.uiowa.edu/~ghosh/8-29-13.pdf)                                                                                                                           | EN       |
-| Programming in Assembly Language                          | [https://bob.cs.sonom](https://bob.cs.sonoma.edu/IntroCompOrg-RPi/chp-asm.html)                                                                                                                    | EN       |
-| Nayuki                                                    | [https://www.nayuki.i](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)                                                                                          | EN       |
-| Assembly Programming                                      | [https://www.freebsd.](https://www.freebsd.org/doc/en_US.ISO8859-1/books/developers-handbook/x86.html)                                                                                             | EN       |
-| x86 Assembly Guide                                        | [http://www.cs.virgin](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)                                                                                                                    | EN       |
-| Easy x86-64                                               | [https://ian.seyler.m](https://ian.seyler.me/easy_x86-64/)                                                                                                                                         | EN       |
-| Wikibooks                                                 | [https://en.wikibooks](https://en.wikibooks.org/wiki/X86_Assembly)                                                                                                                                 | EN       |
-| Assembly Beginners                                        | [https://securityxplo](https://securityxploded.com/assembly-programming-beginners-guide.php)                                                                                                       | EN       |
-| Assembly Ubuntu                                           | [http://www.egr.unlv.](http://www.egr.unlv.edu/~ed/x86.html)                                                                                                                                       | EN       |
-| x86 Assembly                                              | [https://teambi0s.git](https://teambi0s.gitlab.io/bi0s-wiki/reversing/asm/)                                                                                                                        | EN       |
-| MIPS Assembly                                             | [https://www.cs.ucsb.](https://www.cs.ucsb.edu/~franklin/64/lectures/mipsassemblytutorial.pdf)                                                                                                     | EN       |
-| Assembly Programming                                      | [http://www.peter-coc](http://www.peter-cockerell.net/aalp/html/frames.html)                                                                                                                       | EN       |
-| IA-32 Assembly Programming                                | [http://www.cs.umd.ed](http://www.cs.umd.edu/~meesh/cmsc311/links/handouts/ia32.pdf)                                                                                                               | EN       |
-| The Art of Assembly Language                              | [https://www.ic.unica](https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf)                                                                                  | EN       |
-| x86 Assembly                                              | [https://www.engr.mun](https://www.engr.mun.ca/~anderson/teaching/8894/reference/x86-assembly/)                                                                                                    | EN       |
-| Introduction to MIPS                                      | [https://cupola.getty](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1001&context=oer)                                                                                                 | EN       |
-| Assembly Atari Computers                                  | [https://www.atariarc](https://www.atariarchives.org/alp/)                                                                                                                                         | EN       |
-| Assembly Language Programming                             | [http://www.ece.utep.](http://www.ece.utep.edu/courses/web3376/Notes_files/ee3376-assembly.pdf)                                                                                                    | EN       |
-| Assembly Mid-Range PIC                                    | [http://cs.hadassah.a](http://cs.hadassah.ac.il/staff/martin/embedded/slide05-1.pdf)                                                                                                               | EN       |
-| Introduction to Assembly                                  | [https://staffwww.ful](https://staffwww.fullcoll.edu/zding/fc241/f241.htm)                                                                                                                         | EN       |
-| Elements of Assembly                                      | [https://www.mikroe.c](https://www.mikroe.com/ebooks/architecture-and-programming-of-8051-mcus/elements-of-assembly-language)                                                                      | EN       |
-| Machine Language and Assembly                             | [https://www.eit.lth.](https://www.eit.lth.se/fileadmin/eit/courses/eit070/Laborationer/EIT070Lab03.pdf)                                                                                           | EN       |
-| Assembly Programming                                      | [http://support.techn](http://support.technologicalarts.ca/docs/NanoCore12/ThirdParty/HUANG-Chap02%20-%20HC12%20Assembler.pdf)                                                                     | EN       |
-| Assembly                                                  | [https://yurichev.com](https://yurichev.com/writings/UAL-EN.pdf)                                                                                                                                   | EN       |
-| Assembly of ATMEL-AVR                                     | [http://www.cse.unsw.](http://www.cse.unsw.edu.au/~cs2121/AVR/AVR-Assembler-Tutorial.pdf)                                                                                                          | EN       |
-| PC Assembly Language                                      | [http://www.scs.stanf](http://www.scs.stanford.edu/05au-cs240c/lab/pcasm-book.pdf)                                                                                                                 | EN       |
-| Assembly Step by Step                                     | [http://www.starocean](http://www.staroceans.org/kernel-and-driver/Assembly%20Language%20Step-By-Step%20-%20Programming%20with%20Linux%2C%203rd%20edition%20(Wiley%2C%202009%2C%200470497025).pdf) | EN       |
-| ARM Book                                                  | [http://arantxa.ii.ua](http://arantxa.ii.uam.es/~gdrivera/sed/docs/ARMBook.pdf)                                                                                                                    | EN       |
-| Guide to Assembly                                         | [https://doc.lagout.o](https://doc.lagout.org/programmation/asm/Guide%20to%20Assembly%20Language%20Programming%20in%20Linux%20%5BDandamudi%202005-07-15%5D.pdf)                                    | EN       |
-| Computer Organization & Assembly Languages                | [https://www.csie.ntu](https://www.csie.ntu.edu.tw/~pjcheng/course/asm2008/asm_ch1.pdf)                                                                                                            | EN       |
-| Assembly Programming                                      | [https://www.utdallas](https://www.utdallas.edu/~dodge/EE2310/lec10.pdf)                                                                                                                           | EN       |
-| Assembly for IBM System Servers                           | [http://idcp.marist.e](http://idcp.marist.edu/enterprisesystemseducation/Assembler%20Language%20Programming%20for%20IBM%20z%20System%20Servers.pdf)                                                | EN       |
-| Tiny Guide to Assembly                                    | [https://www.cs.dartm](https://www.cs.dartmouth.edu/sergey/cs258/tiny-guide-to-x86-assembly.pdf)                                                                                                   | EN       |
-| Computer Architecture and Assembly Language               | [https://www.cs.bgu.a](https://www.cs.bgu.ac.il/~caspl152/wiki.files/PS01_152[2].pdf)                                                                                                              | EN       |
-| Computer Organization & Assembly Language                 | [https://www.csee.umb](https://www.csee.umbc.edu/~chang/cs313/topics/Slides01.pdf)                                                                                                                 | EN       |
-| Assembly for x86 Processors                               | [http://lms.uop.edu.j](http://lms.uop.edu.jo/lms/pluginfile.php/2420/mod_resource/content/1/assembly_language_for_x86_processors.pdf)                                                              | EN       |
-| Assembly Reference                                        | [https://docs.oracle.](https://docs.oracle.com/cd/E19253-01/817-5477/817-5477.pdf)                                                                                                                 | EN       |
-| Introduction to ARM Assembly                              | [https://azeria-labs.](https://azeria-labs.com/writing-arm-assembly-part-1/)                                                                                                                       | EN       |
-| Learn Assembly Language                                   | [http://asmtutor.com/](http://asmtutor.com/)                                                                                                                                                       | EN       |
-| MIPS Overview                                             | [http://logos.cs.uic.](http://logos.cs.uic.edu/366/notes/mips%20quick%20tutorial.htm)                                                                                                              | EN       |
-| x86 Assembly Tutorial                                     | [http://www.hep.wisc.](http://www.hep.wisc.edu/~pinghc/x86AssmTutorial.htm)                                                                                                                        | EN       |
-| Assembly Language                                         | [https://os.mbed.com/](https://os.mbed.com/cookbook/Assembly-Language)                                                                                                                             | EN       |
-| Assemnly in One Step                                      | [https://dwheeler.com](https://dwheeler.com/6502/oneelkruns/asm1step.html)                                                                                                                         | EN       |
-| C++, C and Assembly Tutorials                             | [http://www.kegel.com](http://www.kegel.com/academy/tutorials.html)                                                                                                                                | EN       |
-| Win32 Assembly                                            | [http://win32assembly](http://win32assembly.programminghorizon.com/tutorials.html)                                                                                                                 | EN       |
-| x86 Assembly for the PC                                   | [http://spot.pcc.edu/](http://spot.pcc.edu/~wlara/asmx86/)                                                                                                                                         | EN       |
-| Assembly Tutorial                                         | [https://wiki.skullse](https://wiki.skullsecurity.org/Assembly)                                                                                                                                    | EN       |
-| Assembly Raspberry Pi                                     | [http://www.science.s](http://www.science.smith.edu/dftwiki/index.php/Tutorial:_Assembly_Language_with_the_Raspberry_Pi)                                                                           | EN       |
-| Assembly Tutorial                                         | [http://programmedles](http://programmedlessons.org/AssemblyTutorial/)                                                                                                                             | EN       |
-| Assembler Simulator                                       | [https://schweigi.git](https://schweigi.github.io/assembler-simulator/)                                                                                                                            | EN       |
-| Assembly Links                                            | [https://www.csie.ntu](https://www.csie.ntu.edu.tw/~cyy/courses/assembly/08fall/links/)                                                                                                            | EN       |
-| MASM and Visual Studio                                    | [http://kipirvine.com](http://kipirvine.com/asm/gettingstartedvs2015/index.htm)                                                                                                                    | EN       |
-| Assembly Guide                                            | [https://ocw.cs.pub.r](https://ocw.cs.pub.ro/courses/cns/labs/lab-02)                                                                                                                              | EN       |
-| Intro to x86 Assembly                                     | [https://www.youtube.](https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)                                                                                        | EN       |
-| Assembly for Hackers                                      | [https://www.youtube.](https://www.youtube.com/watch?v=K0g-twyhmQ4&list=PLue5IPmkmZ-P1pDbF3vSQtuNquX0SZHpB)                                                                                        | EN       |
-| Derek Banas                                               | [https://www.youtube.](https://www.youtube.com/watch?v=ViNnfoE56V8&list=PLGLfVvz_LVvQu9IwUcpn8KOZsOvoHx8sU)                                                                                        | EN       |
-| MIPS 1                                                    | [https://www.youtube.](https://www.youtube.com/watch?v=PlavjNH_RRU&list=PLylNWPMX1lPlmEeeMdbEFQo20eHAJL8hx)                                                                                        | EN       |
-| MIPS 2                                                    | [https://www.youtube.](https://www.youtube.com/watch?v=qzSdglU0SBc&list=PLylNWPMX1lPnipZzKdCWRj2-un5xvLLdK)                                                                                        | EN       |
-| MIT 6.004 Assembly                                        | [https://www.youtube.](https://www.youtube.com/watch?v=LbptX5Ac74s)                                                                                                                                | EN       |
-| Assembly Intro                                            | [https://www.youtube.](https://www.youtube.com/watch?v=xOm_jOeip_c)                                                                                                                                | EN       |
-| Intro to Assembly                                         | [https://www.youtube.](https://www.youtube.com/watch?v=H4Z0S9ZbC0g&list=PL6y3-kASCE338MJ1tIGF-qmuGQqZMWUMz)                                                                                        | EN       |
-| Getting Started with Assembly                             | [https://riptutorial.](https://riptutorial.com/assembly)                                                                                                                                           | EN       |
-| Programación en Ensamblador                               | [https://www.exabytei](https://www.exabyteinformatica.com/uoc/Informatica/Estructura_de_computadores/Estructura_de_computadores_(Modulo_6).pdf)                                                    | ES       |
-| Instrucciones en Ensamblador                              | [http://www.sc.ehu.es](http://www.sc.ehu.es/sbweb/webcentro/automatica/web_8051/Contenido/set_8051/set8051.htm)                                                                                    | ES       |
-| El Ensamblador                                            | [https://upcommons.up](https://upcommons.upc.edu/bitstream/handle/2117/115067/asm.pdf)                                                                                                             | ES       |
-| Programación en Ensamblador                               | [http://www.dacya.ucm](http://www.dacya.ucm.es/hidalgo/estructura/ensamblador.pdf)                                                                                                                 | ES       |
-| Programación en Assembler                                 | [http://curso-cm.spec](http://curso-cm.speccy.org/fr_cap4.html)                                                                                                                                    | ES       |
-| Ensamblador Conceptos Básicos                             | [https://previa.uclm.](https://previa.uclm.es/profesorado/licesio/Docencia/ETC/17_CBas-ProgEnsamblador_itis.pdf)                                                                                   | ES       |
-| Assembly Iniciante                                        | [http://www.avr-asm-d](http://www.avr-asm-download.de/beginner_pt.pdf)                                                                                                                             | PT       |
-| Introdução à Programção em Assembly                       | [https://fenix.tecnic](https://fenix.tecnico.ulisboa.pt/downloadFile/1970943312312149/3-intro-assembly.pdf)                                                                                        | PT       |
-| Linguagem Assembly                                        | [http://www.dca.fee.u](http://www.dca.fee.unicamp.br/~leopini/DISCIPLINAS/EA869/2018-1/c3-ARM-3.pdf)                                                                                               | PT       |
-| Programmation en Assembleur                               | [http://www.fsr.ac.ma](http://www.fsr.ac.ma/cours/informatique/amrani/archi.pdf)                                                                                                                   | FR       |
-| Assembleur                                                | [https://repo.zenk-se](https://repo.zenk-security.com/Programmation/initiation%20a%20la%20programmation%20en%20assembleur.pdf)                                                                     | FR       |
-| Programmation en Assembleur                               | [http://www.technolog](http://www.technologuepro.com/microprocesseur/programmation-assembleur-microprocesseur.htm)                                                                                 | FR       |
-| Apprende l'assembleur                                     | [https://benoit-m.dev](https://benoit-m.developpez.com/assembleur/tutoriel/)                                                                                                                       | FR       |
-| Pratiques d'assembleur                                    | [http://www.lifl.fr/~](http://www.lifl.fr/~sedoglav/Archi/TP)                                                                                                                                      | FR       |
-| Introduction en assembleur                                | [http://e-ressources.](http://e-ressources.univ-avignon.fr/assembleur/co/Module_cours_1.html)                                                                                                      | FR       |
-| Architecture et Langage Assembleur                        | [http://www-lisic.uni](http://www-lisic.univ-littoral.fr/~ramat/downloads/archi.pdf)                                                                                                               | FR       |
-| Initiation à l'assembleur                                 | [http://www2.ift.ulav](http://www2.ift.ulaval.ca/~marchand/ift17583/Supplement2.pdf)                                                                                                               | FR       |
-| Assembleur x86                                            | [http://ecariou.perso](http://ecariou.perso.univ-pau.fr/cours/archi/cours-8-assembleur.pdf)                                                                                                        | FR       |
-| Programmazione Assembly                                   | [http://citeseerx.ist](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.5365&rep=rep1&type=pdf)                                                                                        | IT       |
-| Programmazione Assembly                                   | [https://home.deib.po](https://home.deib.polimi.it/brandole/acsocr/L14%20-%20Assembly%20Programming.pdf)                                                                                           | IT       |
-| La CPU Intel 8086: Architettura e Programmazione Assembly | [http://www.ce.unipr.](http://www.ce.unipr.it/didattica/calcolatoriA/free-docs/lucidi.pdf)                                                                                                         | IT       |
-| Programmazione Assembly                                   | [https://www.diag.uni](https://www.diag.uniroma1.it/~pellegrini/didattica/2012/calcolatori/assembly.pdf)                                                                                           | IT       |
-| La Programmazione Assembly                                | [https://www.docenti.](https://www.docenti.unina.it/webdocenti-be/allegati/materiale-didattico/73771)                                                                                              | IT       |
-| Assembly                                                  | [https://users.dimi.u](https://users.dimi.uniud.it/~pietro.digianantonio/architetturaInf/lucidi_4x/07_arm.pdf)                                                                                     | IT       |
-| Programmare in Assembly in GNU/Linux                      | [http://linuxdidattic](http://linuxdidattica.org/docs/altre_scuole/planck/assembly-linux/assembly-linux.pdf)                                                                                       | IT       |
-| Assembly Language                                         | [http://en.academic.r](http://en.academic.ru/dic.nsf/enwiki/446)                                                                                                                                   | RU       |
-| Assembly                                                  | [https://habr.com/pos](https://habr.com/post/345748/)                                                                                                                                              | RU       |
-| Assembly Programming                                      | [http://natalia.appma](http://natalia.appmat.ru/c%26c%2B%2B/assembler.html)                                                                                                                        | RU       |
-| Get Started with Assembly                                 | [http://rus-linux.net](http://rus-linux.net/MyLDP/algol/get_started_with_assembly_language_1.html)                                                                                                 | RU       |
-| Assembler                                                 | [http://progopedia.ru](http://progopedia.ru/language/assembler/)                                                                                                                                   | RU       |
-| Asm                                                       | [https://prog-cpp.ru/](https://prog-cpp.ru/asm/)                                                                                                                                                   | RU       |
-| Linux Assembler                                           | [http://www.lcs-chemi](http://www.lcs-chemie.de/assemb.htm)                                                                                                                                        | DE       |
-| Assembler                                                 | [http://assembler.hpf](http://assembler.hpfsc.de/)                                                                                                                                                 | DE       |
+---------------------------------------
+
+![EN](https://i.imgur.com/JVHlBEw.png)
+
+- [Awesome asm](https://github.com/jaspergould/awesome-asm)
+- [Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
+- [Tutorialspoint](https://www.tutorialspoint.com/assembly_programming/)
+- [Assembly Programming](https://homepage.cs.uiowa.edu/~ghosh/8-29-13.pdf)
+- [Programming in Assembly Language](https://bob.cs.sonoma.edu/IntroCompOrg-RPi/chp-asm.html)
+- [Nayuki](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
+- [Assembly Programming](https://www.freebsd.org/doc/en_US.ISO8859-1/books/developers-handbook/x86.html)
+- [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+- [Easy x86-64](https://ian.seyler.me/easy_x86-64/)
+- [Wikibooks](https://en.wikibooks.org/wiki/X86_Assembly)
+- [Assembly Beginners](https://securityxploded.com/assembly-programming-beginners-guide.php)
+- [Assembly Ubuntu](http://www.egr.unlv.edu/~ed/x86.html)
+- [x86 Assembly](https://teambi0s.gitlab.io/bi0s-wiki/reversing/asm/)
+- [MIPS Assembly](https://www.cs.ucsb.edu/~franklin/64/lectures/mipsassemblytutorial.pdf)
+- [Assembly Programming](http://www.peter-cockerell.net/aalp/html/frames.html)
+- [IA-32 Assembly Programming](http://www.cs.umd.edu/~meesh/cmsc311/links/handouts/ia32.pdf)
+- [The Art of Assembly Language](https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf)
+- [x86 Assembly](https://www.engr.mun.ca/~anderson/teaching/8894/reference/x86-assembly/)
+- [Introduction to MIPS](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1001&amp;context=oer)
+- [Assembly Atari Computers](https://www.atariarchives.org/alp/)
+- [Assembly Language Programming](http://www.ece.utep.edu/courses/web3376/Notes_files/ee3376-assembly.pdf)
+- [Assembly Mid-Range PIC](http://cs.hadassah.ac.il/staff/martin/embedded/slide05-1.pdf)
+- [Introduction to Assembly](https://staffwww.fullcoll.edu/zding/fc241/f241.htm)
+- [Elements of Assembly](https://www.mikroe.com/ebooks/architecture-and-programming-of-8051-mcus/elements-of-assembly-language)
+- [Machine Language and Assembly](https://www.eit.lth.se/fileadmin/eit/courses/eit070/Laborationer/EIT070Lab03.pdf)
+- [Assembly Programming](http://support.technologicalarts.ca/docs/NanoCore12/ThirdParty/HUANG-Chap02%20-%20HC12%20Assembler.pdf)
+- [Assembly](https://yurichev.com/writings/UAL-EN.pdf)
+- [Assembly of ATMEL-AVR](http://www.cse.unsw.edu.au/~cs2121/AVR/AVR-Assembler-Tutorial.pdf)
+- [PC Assembly Language](http://www.scs.stanford.edu/05au-cs240c/lab/pcasm-book.pdf)
+- [Assembly Step by Step](http://www.staroceans.org/kernel-and-driver/Assembly%20Language%20Step-By-Step%20-%20Programming%20with%20Linux%2C%203rd%20edition%20(Wiley%2C%202009%2C%200470497025).pdf)
+- [ARM Book](http://arantxa.ii.uam.es/~gdrivera/sed/docs/ARMBook.pdf)
+- [Guide to Assembly](https://doc.lagout.org/programmation/asm/Guide%20to%20Assembly%20Language%20Programming%20in%20Linux%20%5BDandamudi%202005-07-15%5D.pdf)
+- [Computer Organization & Assembly Languages](https://www.csie.ntu.edu.tw/~pjcheng/course/asm2008/asm_ch1.pdf)
+- [Assembly Programming](https://www.utdallas.edu/~dodge/EE2310/lec10.pdf)
+- [Assembly for IBM System Servers](http://idcp.marist.edu/enterprisesystemseducation/Assembler%20Language%20Programming%20for%20IBM%20z%20System%20Servers.pdf)
+- [Tiny Guide to Assembly](https://www.cs.dartmouth.edu/sergey/cs258/tiny-guide-to-x86-assembly.pdf)
+- [Computer Architecture and Assembly Language](https://www.cs.bgu.ac.il/~caspl152/wiki.files/PS01_152%5B2%5D.pdf)
+- [Computer Organization & Assembly Language](https://www.csee.umbc.edu/~chang/cs313/topics/Slides01.pdf)
+- [Assembly for x86 Processors](http://lms.uop.edu.jo/lms/pluginfile.php/2420/mod_resource/content/1/assembly_language_for_x86_processors.pdf)
+- [Assembly Reference](https://docs.oracle.com/cd/E19253-01/817-5477/817-5477.pdf)
+- [Introduction to ARM Assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
+- [Learn Assembly Language](http://asmtutor.com/)
+- [MIPS Overview](http://logos.cs.uic.edu/366/notes/mips%20quick%20tutorial.htm)
+- [x86 Assembly Tutorial](http://www.hep.wisc.edu/~pinghc/x86AssmTutorial.htm)
+- [Assembly Language](https://os.mbed.com/cookbook/Assembly-Language)
+- [Assemnly in One Step](https://dwheeler.com/6502/oneelkruns/asm1step.html)
+- [C++, C and Assembly Tutorials](http://www.kegel.com/academy/tutorials.html)
+- [Win32 Assembly](http://win32assembly.programminghorizon.com/tutorials.html)
+- [x86 Assembly for the PC](http://spot.pcc.edu/~wlara/asmx86/)
+- [Assembly Tutorial](https://wiki.skullsecurity.org/Assembly)
+- [Assembly Raspberry Pi](http://www.science.smith.edu/dftwiki/index.php/Tutorial:_Assembly_Language_with_the_Raspberry_Pi)
+- [Assembly Tutorial](http://programmedlessons.org/AssemblyTutorial/)
+- [Assembler Simulator](https://schweigi.github.io/assembler-simulator/)
+- [Assembly Links](https://www.csie.ntu.edu.tw/~cyy/courses/assembly/08fall/links/)
+- [MASM and Visual Studio](http://kipirvine.com/asm/gettingstartedvs2015/index.htm)
+- [Assembly Guide](https://ocw.cs.pub.ro/courses/cns/labs/lab-02)
+- [Intro to x86 Assembly](https://www.youtube.com/watch?v=wLXIWKUWpSs&amp;list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
+- [Assembly for Hackers](https://www.youtube.com/watch?v=K0g-twyhmQ4&amp;list=PLue5IPmkmZ-P1pDbF3vSQtuNquX0SZHpB)
+- [Derek Banas](https://www.youtube.com/watch?v=ViNnfoE56V8&amp;list=PLGLfVvz_LVvQu9IwUcpn8KOZsOvoHx8sU)
+- [MIPS 1](https://www.youtube.com/watch?v=PlavjNH_RRU&amp;list=PLylNWPMX1lPlmEeeMdbEFQo20eHAJL8hx)
+- [MIPS 2](https://www.youtube.com/watch?v=qzSdglU0SBc&amp;list=PLylNWPMX1lPnipZzKdCWRj2-un5xvLLdK)
+- [MIT 6.004 Assembly](https://www.youtube.com/watch?v=LbptX5Ac74s)
+- [Assembly Intro](https://www.youtube.com/watch?v=xOm_jOeip_c)
+- [Intro to Assembly](https://www.youtube.com/watch?v=H4Z0S9ZbC0g&amp;list=PL6y3-kASCE338MJ1tIGF-qmuGQqZMWUMz)
+- [Getting Started with Assembly](https://riptutorial.com/assembly)
+
+---------------------------------------
+
+![ES](https://i.imgur.com/YrO5S0F.png)
+
+- [Programación en Ensamblador](https://www.exabyteinformatica.com/uoc/Informatica/Estructura_de_computadores/Estructura_de_computadores_(Modulo_6).pdf)
+- [Instrucciones en Ensamblador](http://www.sc.ehu.es/sbweb/webcentro/automatica/web_8051/Contenido/set_8051/set8051.htm)
+- [El Ensamblador](https://upcommons.upc.edu/bitstream/handle/2117/115067/asm.pdf)
+- [Programación en Ensamblador](http://www.dacya.ucm.es/hidalgo/estructura/ensamblador.pdf)
+- [Programación en Assembler](http://curso-cm.speccy.org/fr_cap4.html)
+- [Ensamblador Conceptos Básicos](https://previa.uclm.es/profesorado/licesio/Docencia/ETC/17_CBas-ProgEnsamblador_itis.pdf)
+
+---------------------------------------
+
+![PT](https://i.imgur.com/2kZUDhk.png)
+
+- [Assembly Iniciante](http://www.avr-asm-download.de/beginner_pt.pdf)
+- [Introdução à Programção em Assembly](https://fenix.tecnico.ulisboa.pt/downloadFile/1970943312312149/3-intro-assembly.pdf)
+- [Linguagem Assembly](http://www.dca.fee.unicamp.br/~leopini/DISCIPLINAS/EA869/2018-1/c3-ARM-3.pdf)
+
+---------------------------------------
+
+![FR](https://i.imgur.com/JZEovQw.png)
+
+- [Programmation en Assembleur](http://www.fsr.ac.ma/cours/informatique/amrani/archi.pdf)
+- [Assembleur](https://repo.zenk-security.com/Programmation/initiation%20a%20la%20programmation%20en%20assembleur.pdf)
+- [Programmation en Assembleur](http://www.technologuepro.com/microprocesseur/programmation-assembleur-microprocesseur.htm)
+- [Apprende l'assembleur](https://benoit-m.developpez.com/assembleur/tutoriel/)
+- [Pratiques d'assembleur](http://www.lifl.fr/~sedoglav/Archi/TP)
+- [Introduction en assembleur](http://e-ressources.univ-avignon.fr/assembleur/co/Module_cours_1.html)
+- [Architecture et Langage Assembleur](http://www-lisic.univ-littoral.fr/~ramat/downloads/archi.pdf)
+- [Initiation à l'assembleur](http://www2.ift.ulaval.ca/~marchand/ift17583/Supplement2.pdf)
+- [Assembleur x86](http://ecariou.perso.univ-pau.fr/cours/archi/cours-8-assembleur.pdf)
+
+---------------------------------------
+
+![IT](https://i.imgur.com/lzqVMS4.png)
+
+- [Programmazione Assembly](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.5365&amp;rep=rep1&amp;type=pdf)
+- [Programmazione Assembly](https://home.deib.polimi.it/brandole/acsocr/L14%20-%20Assembly%20Programming.pdf)
+- [La CPU Intel 8086: Architettura e Programmazione Assembly](http://www.ce.unipr.it/didattica/calcolatoriA/free-docs/lucidi.pdf)
+- [Programmazione Assembly](https://www.diag.uniroma1.it/~pellegrini/didattica/2012/calcolatori/assembly.pdf)
+- [La Programmazione Assembly](https://www.docenti.unina.it/webdocenti-be/allegati/materiale-didattico/73771)
+- [Assembly](https://users.dimi.uniud.it/~pietro.digianantonio/architetturaInf/lucidi_4x/07_arm.pdf)
+- [Programmare in Assembly in GNU/Linux](http://linuxdidattica.org/docs/altre_scuole/planck/assembly-linux/assembly-linux.pdf)
+
+---------------------------------------
+
+![RU](https://i.imgur.com/xH8HWn4.png)
+
+- [Assembly Language](http://en.academic.ru/dic.nsf/enwiki/446)
+- [Assembly](https://habr.com/post/345748/)
+- [Assembly Programming](http://natalia.appmat.ru/c%26c%2B%2B/assembler.html)
+- [Get Started with Assembly](http://rus-linux.net/MyLDP/algol/get_started_with_assembly_language_1.html)
+- [Assembler](http://progopedia.ru/language/assembler/)
+- [ASM](https://prog-cpp.ru/asm/)
+
+---------------------------------------
+
+![DE](https://i.imgur.com/RSPYBQi.png)
+
+- [Linux Assembler](http://www.lcs-chemie.de/assemb.htm)
+- [Assembler](http://assembler.hpfsc.de/)
+
+---------------------------------------
