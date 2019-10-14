@@ -31,6 +31,7 @@
 - [MIT 6.042J](https://www.youtube.com/watch?v=L3LMbpZIKhQ&amp;list=PLB7540DEDD482705B)
 - [Discrete Math IIT](https://www.youtube.com/watch?v=E6uhC0pT9J8&amp;list=PLEJxKK7AcSEGD7ty8DB1aU0xVG_P_hs_0)
 - [Math for Programmers](https://www.youtube.com/watch?v=2SpuBqvNjHI&amp;t)
+- [University of Waterloo CEMC Courseware](https://courseware.cemc.uwaterloo.ca/)
 
 ---------------------------------------
 
