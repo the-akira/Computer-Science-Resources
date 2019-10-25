@@ -1,6 +1,6 @@
 # Computer Science Resources
 
-![alt text](https://i.imgur.com/yuAUJtQ.png "")
+![alt text](https://i.imgur.com/eIFnGfg.png "")
 
 A list of resources in different fields of **Computer Science** (in multiple languages).
 
