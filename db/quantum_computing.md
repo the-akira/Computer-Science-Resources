@@ -6,6 +6,7 @@
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Quantum_computing)
 - [IBM Quantum Computing](https://www.research.ibm.com/ibm-q/learn/what-is-quantum-computing/)
+- [IBM On “Quantum Supremacy”](https://www.ibm.com/blogs/research/2019/10/on-quantum-supremacy)
 - [D-Wave Systems](https://www.dwavesys.com/quantum-computing)
 - [Quantum Computing 101](https://uwaterloo.ca/institute-for-quantum-computing/quantum-computing-101)
 - [Microsoft Quantum Computing](https://www.microsoft.com/en-us/quantum/what-is-quantum-computing)
