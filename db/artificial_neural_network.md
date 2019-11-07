@@ -80,7 +80,6 @@
 - [How Convolutional Neural Networks Work](https://www.youtube.com/watch?v=FmpDIaiMIeA)
 - [Neural Network Programming](https://www.youtube.com/watch?v=v5cngxo4mIg&amp;list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
 - [Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs&amp;list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
-- [Neural Differential Equations](https://www.youtube.com/watch?v=AD3K8j12EIE)
 - [Getting Started with TensorFlow and Deep Learning](https://www.youtube.com/watch?v=tYYVSEHq-io)
 - [Deep Learning with TensorFlow](https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)
 - [Neural Network 3D Simulation](https://www.youtube.com/watch?v=3JQ3hYko51Y)
