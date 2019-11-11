@@ -78,6 +78,7 @@
 - [Introdução](http://www.inf.ufpr.br/lesoliveira/aprendizado/introducao.pdf)
 - [AM Introdução](http://www.ppgia.pucpr.br/~alekoe/AM/2007/1-Introducao-ApreMaq-2007.pdf)
 - [AM usando Python](http://thiagomarzagao.com/assets/teaching/ipea/slides1.pdf)
+- [Desmistificando a Inteligência Artificial](https://www.youtube.com/watch?v=c8C_EJcZbdU)
 
 ---------------------------------------
 
