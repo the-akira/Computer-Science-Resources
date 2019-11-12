@@ -36,6 +36,7 @@
 - [Big Data Too Big to Ignore](https://people.cs.kuleuven.be/~joost.vennekens/DN/bigdata.pdf)
 - [Big Data Analytics](https://pdfs.semanticscholar.org/d392/0f02dbb15da19b04d782fc0546ef113e0bf7.pdf)
 - [Big Data Overview](https://www.sics.se/sites/default/files/pub/davidradbergbig_data_overview_-_sics_keynote_session_24septv4.pdf)
+- [Overview of Big Data - Stanford](https://web.stanford.edu/class/cs102/lecturenotes/Overview102.pdf)
 - [Big Data Challenge](http://www.dbjournal.ro/archive/13/13_4.pdf)
 - [Understanding Big Data](https://www.immagic.com/eLibrary/ARCHIVES/EBOOKS/I111025E.pdf)
 - [Big Data Fujitsu](https://www.fujitsu.com/rs/Images/WhiteBookofBigData.pdf)
