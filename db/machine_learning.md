@@ -61,7 +61,7 @@
 - [Cornell CS4780](https://www.youtube.com/watch?v=MrLPzBxG95I&amp;list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 - [Machine learning in Python with Scikit-Learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
 - [Machine Learning with Python](https://www.youtube.com/watch?v=Q59X518JZHE)
-- [Machine Learning Crash Course](https://www.youtube.com/watch?v=a07iwuDWhys)
+- [Machine Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 - [MIT 18.065 Matrix Methods in Data Analysis and Machine Learning](https://www.youtube.com/watch?v=Cx5Z-OslNWE&amp;list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 - [Real-World Python Machine Learning Tutorial w/ Sci-kit Learn](https://www.youtube.com/watch?v=M9Itm95JzL0)
 - [Elements of AI](https://course.elementsofai.com/)
