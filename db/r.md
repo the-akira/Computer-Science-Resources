@@ -78,6 +78,7 @@
 - [Statistics with R](https://www.youtube.com/watch?v=ANMuuq502rE)
 - [Data Camp](https://www.youtube.com/watch?v=SWxoJqTqo08&amp;list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg)
 - [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg)
+- [Exploring Data with R](https://www.manning.com/books/exploring-data-with-r)
 
 ---------------------------------------
 
