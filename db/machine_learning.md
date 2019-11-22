@@ -13,6 +13,7 @@
 - [Learning Machine Learning - Cloud AI](https://cloud.google.com/products/ai/ml-comic-1/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Machine Learning From Scratch](https://mlfromscratch.com/)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
 - [Edx Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-4)
 - [Reddit Learn ML](https://www.reddit.com/r/machinelearning)
