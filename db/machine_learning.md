@@ -30,6 +30,7 @@
 - [Geeks for Geeks](https://www.geeksforgeeks.org/machine-learning/)
 - [Tutorial List](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Notes On Using Data Science & Artificial Intelligence](https://chrisalbon.com/)
 - [Data Quest](https://www.dataquest.io/blog/)
 - [J. P. Morgan](https://www.jpmorgan.com/global/research/machine-learning)
 - [Real Python Tutorials](https://realpython.com/tutorials/machine-learning/)
