@@ -39,6 +39,9 @@
 - [Advanced Computer Architecture](https://cs.baylor.edu/~maurer/aida/courses/archintro.pdf)
 - [Stony Brook University](https://compas.cs.stonybrook.edu/course/cse502-s13/lectures/cse502-L4-pipelining.pdf)
 - [Evolution of CPU Processing Power](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU)
+- [CENG 311 Computer Architecture](http://web.iyte.edu.tr/~tolgaayav/courses/ceng311/)
+- [Computer Architecture:  A Constructive Approach](http://csg.csail.mit.edu/6.375/6_375_2019_www/resources/archbook.pdf)
+- [Von Neumann Architecture](https://www2.cs.siu.edu/~cs401/Textbook/ch2.pdf)
 
 ---------------------------------------
 
