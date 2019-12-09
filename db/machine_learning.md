@@ -64,6 +64,7 @@
 - [The Mathematics of Machine Learning](https://www.youtube.com/watch?v=r07Sofj_puQ&amp;t)
 - [Cornell CS4780](https://www.youtube.com/watch?v=MrLPzBxG95I&amp;list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 - [Machine learning in Python with Scikit-Learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
+- [Machine Learning with Scikit-Learn](https://www.youtube.com/playlist?list=PLonlF40eS6nynU5ayxghbz2QpDsUAyCVF)
 - [How do I select features for Machine Learning?](https://www.youtube.com/watch?v=YaKMeAlHgqQ)
 - [Machine Learning with Python](https://www.youtube.com/watch?v=Q59X518JZHE)
 - [Machine Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
