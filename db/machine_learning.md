@@ -61,6 +61,7 @@
 - [Edureka Machine Learning](https://www.youtube.com/watch?v=Pj0neYUp9Tc&amp;list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
 - [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU)
 - [Introduction to Machine Learning (MIT)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
+- [Intro to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 - [The Mathematics of Machine Learning](https://www.youtube.com/watch?v=r07Sofj_puQ&amp;t)
 - [Cornell CS4780](https://www.youtube.com/watch?v=MrLPzBxG95I&amp;list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 - [Machine learning in Python with Scikit-Learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
