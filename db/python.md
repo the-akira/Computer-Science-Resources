@@ -65,6 +65,7 @@
 - [Matloff](http://heather.cs.ucdavis.edu/~matloff/python.html)
 - [Rabbit MQ](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
 - [Scikit-Learn](http://scikit-learn.org/stable/tutorial/index.html)
+- [Python Programming Language](http://www.msrblog.com/python/index.html)
 - [Journaldev](https://www.journaldev.com/13949/python-tutorial-beginners)
 - [Quackit](https://www.quackit.com/python/tutorial/)
 - [Arangodb](https://www.arangodb.com/tutorials/tutorial-python/)
