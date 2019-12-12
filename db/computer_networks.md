@@ -31,6 +31,7 @@
 - [Introduction to Computer Networking](https://www.vfu.bg/en/e-Learning/Computer-Networks--Introduction_Computer_Networking.pdf)
 - [Web Resources for Computer Networks](https://www.cs.vu.nl/~ast/CN5/)
 - [Network World](https://www.networkworld.com/article/3239677/lan-wan/the-osi-model-explained-how-to-understand-and-remember-the-7-layer-network-model.html)
+- [Msrblog](http://www.msrblog.com/operating-system/index.html)
 - [Basic Networking Tutorial](http://www.mowhs.gov.bt/wp-content/uploads/2011/08/What-is-a-computer-Network.pdf)
 - [NPTEL](https://nptel.ac.in/courses/106105081/#)
 - [Computer And Data Networks](http://www.ee.surrey.ac.uk/Projects/CAL/networks/)
