@@ -31,6 +31,7 @@
 - [CS 401](https://learn.saylor.org/course/cs401)
 - [OS: From 0 to 1](https://tuhdo.github.io/os01/)
 - [Study to Night](https://www.studytonight.com/operating-system/)
+- [Msr Blog](http://www.msrblog.com/operating-system/index.html)
 - [CS 167](https://cs.brown.edu/courses/cs167/lectures.html)
 - [The Structure and Function of an Operating System](https://www.sqa.org.uk/e-learning/COS101CD/index.htm)
 - [Writing a Simple OS from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
