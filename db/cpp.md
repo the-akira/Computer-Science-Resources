@@ -40,6 +40,7 @@
 - [Learn C++](https://www.learncpp.com/)
 - [Learn X in Y minutes](https://learnxinyminutes.com/docs/c++/)
 - [Learning C++](https://blog.tartanllama.xyz/learning-cpp/)
+- [C++ Basics](http://www.msrblog.com/cpp/index.html)
 - [Win32 and C++](https://docs.microsoft.com/en-us/windows/desktop/learnwin32/learn-to-program-for-windows)
 - [Try to Program](http://www.trytoprogram.com/cplusplus-programming/)
 - [Fresh 2 Fresh](https://fresh2refresh.com/cpp-tutorial/)
