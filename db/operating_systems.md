@@ -28,6 +28,7 @@
 - [Unix Introduction](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
 - [Lessons](https://courses.cs.vt.edu/csonline/OS/Lessons/index.html)
 - [Javatpoint](https://www.javatpoint.com/os-tutorial)
+- [Msr Blog](http://www.msrblog.com/operating-system/)
 - [CS 401](https://learn.saylor.org/course/cs401)
 - [OS: From 0 to 1](https://tuhdo.github.io/os01/)
 - [Study to Night](https://www.studytonight.com/operating-system/)
