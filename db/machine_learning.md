@@ -35,6 +35,7 @@
 - [J. P. Morgan](https://www.jpmorgan.com/global/research/machine-learning)
 - [Real Python Tutorials](https://realpython.com/tutorials/machine-learning/)
 - [Modern Machine Learning in Python](http://www.cs.tut.fi/~hehu/MMLP.pdf)
+- [Machine Learning Notebooks](https://sebastianraschka.com/notebooks/python-notebooks.html)
 - [ML Articles](https://web.engr.oregonstate.edu/~tgd/projects/tutorials.html)
 - [Adventures in ML](http://adventuresinmachinelearning.com/)
 - [ML Lectures](https://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
