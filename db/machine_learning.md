@@ -63,6 +63,7 @@
 - [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU)
 - [Introduction to Machine Learning (MIT)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
 - [Intro to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
+- [Introduction to Statistical Learning Series](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
 - [Machine Learning Fundamentals](https://www.youtube.com/watch?v=FqcKTNcRH88&list=PL_onPhFCkVQhUzcTVgQiC8W2ShZKWlm0s)
 - [The Mathematics of Machine Learning](https://www.youtube.com/watch?v=r07Sofj_puQ&amp;t)
 - [Cornell CS4780](https://www.youtube.com/watch?v=MrLPzBxG95I&amp;list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
