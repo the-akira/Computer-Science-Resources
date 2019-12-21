@@ -65,6 +65,7 @@
 - [Intro to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 - [Introduction to Statistical Learning Series](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
 - [Machine Learning Fundamentals](https://www.youtube.com/watch?v=FqcKTNcRH88&list=PL_onPhFCkVQhUzcTVgQiC8W2ShZKWlm0s)
+- [Machine Learning Crash Course || Samuel Taylor](https://www.youtube.com/watch?v=bwNY-pd8Ups&t=)
 - [The Mathematics of Machine Learning](https://www.youtube.com/watch?v=r07Sofj_puQ&amp;t)
 - [Cornell CS4780](https://www.youtube.com/watch?v=MrLPzBxG95I&amp;list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 - [Machine learning in Python with Scikit-Learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
