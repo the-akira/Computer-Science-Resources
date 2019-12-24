@@ -62,6 +62,7 @@
 - [Edureka Machine Learning](https://www.youtube.com/watch?v=Pj0neYUp9Tc&amp;list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
 - [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU)
 - [Introduction to Machine Learning (MIT)](https://www.youtube.com/watch?v=h0e2HAPTGF4)
+- [Introduction to Machine Learning - Prof. Arti Ramesh](https://www.youtube.com/playlist?list=PLUZjIBGiCHFfRJwflq6NqU3CuiPhAhSfi)
 - [Intro to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH)
 - [Introduction to Statistical Learning Series](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
 - [Machine Learning Fundamentals](https://www.youtube.com/watch?v=FqcKTNcRH88&list=PL_onPhFCkVQhUzcTVgQiC8W2ShZKWlm0s)
