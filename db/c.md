@@ -114,7 +114,7 @@
 
 ---------------------------------------
 
-![CN]
+![CN](https://i.imgur.com/XdOAGvb.png)
 
 - [C程序设计语言（第2版）](http://read.pudn.com/downloads128/ebook/548703/TheCProgrammingLanguage(SecondEdition).pdf)
 - [C语言程序设计-谭浩强](http://image.sciencenet.cn/olddata/kexue.com.cn/upload/blog/file/2010/5/2010510183555815223.pdf)
