@@ -78,6 +78,7 @@
 - [The Development of the C Language](https://heim.ifi.uio.no/inf2270/programmer/historien-om-C.pdf)
 - [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)
 - [C Programming ASMR](https://www.youtube.com/playlist?list=PLPt8EM4KxGEVdozTFQ_taOdS6OFlNU7ki)
+- [C Traps and Pitfalls](http://www.literateprogramming.com/ctraps.pdf)
 
 ---------------------------------------
 
