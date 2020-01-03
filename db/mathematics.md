@@ -33,6 +33,7 @@
 - [MIT 18.02 Multivariable Calculus](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)
 - [MIT 18.03 Differential Equations](https://www.youtube.com/watch?v=XDhJ8lVGbl8&list=PLEC88901EBADDD980)
 - [MIT 18.06 Linear Algebra](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8)
+- [MIT 18.06SC Linear Algebra](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 - [MIT Calculus Revisited](https://www.youtube.com/results?search_query=MIT+Calculus+Revisited)
 - [MIT 18.085 Computational Science and Engineering](https://www.youtube.com/playlist?list=PLF706B428FB7BD52C)
 - [Discrete Math IIT](https://www.youtube.com/watch?v=E6uhC0pT9J8&amp;list=PLEJxKK7AcSEGD7ty8DB1aU0xVG_P_hs_0)
