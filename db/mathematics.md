@@ -36,6 +36,7 @@
 - [MIT 18.06SC Linear Algebra](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 - [MIT Calculus Revisited](https://www.youtube.com/results?search_query=MIT+Calculus+Revisited)
 - [MIT 18.085 Computational Science and Engineering](https://www.youtube.com/playlist?list=PLF706B428FB7BD52C)
+- [School of Mathematics and Statistics UNSW](https://www.youtube.com/user/MathsStatsUNSW/playlists)
 - [Discrete Math IIT](https://www.youtube.com/watch?v=E6uhC0pT9J8&amp;list=PLEJxKK7AcSEGD7ty8DB1aU0xVG_P_hs_0)
 - [Math for Programmers](https://www.youtube.com/watch?v=2SpuBqvNjHI&amp;t)
 - [University of Waterloo CEMC Courseware](https://courseware.cemc.uwaterloo.ca/)
