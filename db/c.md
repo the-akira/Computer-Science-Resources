@@ -78,6 +78,7 @@
 - [The Development of the C Language](https://heim.ifi.uio.no/inf2270/programmer/historien-om-C.pdf)
 - [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)
 - [C Programming ASMR](https://www.youtube.com/playlist?list=PLPt8EM4KxGEVdozTFQ_taOdS6OFlNU7ki)
+- [C Traps and Pitfalls](http://www.literateprogramming.com/ctraps.pdf)
 
 ---------------------------------------
 
@@ -111,5 +112,12 @@
 - [Langage C](http://astro.ens.fr/osae/ccc.pdf)
 - [Programmation C](http://icube-avr.unistra.fr/fr/index.php/Programmation_C)
 - [Univ-Orleans](https://www.univ-orleans.fr/lifo/Members/Jean-Francois.Lalande/enseignement/c/presentation-c.pdf)
+
+---------------------------------------
+
+![CN](https://i.imgur.com/XdOAGvb.png)
+
+- [C程序设计语言（第2版）](http://read.pudn.com/downloads128/ebook/548703/TheCProgrammingLanguage(SecondEdition).pdf)
+- [C语言程序设计-谭浩强](http://image.sciencenet.cn/olddata/kexue.com.cn/upload/blog/file/2010/5/2010510183555815223.pdf)
 
 ---------------------------------------

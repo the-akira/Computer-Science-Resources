@@ -63,6 +63,7 @@
 - [What is Database and SQL](https://www.youtube.com/watch?v=FR4QIeZaPeM)
 - [SQL in 1 Hour](https://www.youtube.com/watch?v=9Pzj7Aj25lw)
 - [SQL Tutorial 2019](https://www.youtube.com/watch?v=XqIk2PwP0To&t)
+- [How to Design and Create Tables in MySQL](https://www.youtube.com/watch?v=4oMJIyVOWL4)
 
 ---------------------------------------
 
