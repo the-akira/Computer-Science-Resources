@@ -8,6 +8,8 @@ I would like to ask you to **open an issue** if any of the material exposed here
 
 Thank you for your support!
 
+---------------------------------------
+
 ## Content
 
 - Getting Started
