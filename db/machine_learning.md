@@ -15,6 +15,7 @@
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Machine Learning From Scratch](https://mlfromscratch.com/)
 - [A guide to machine learning algorithms and their applications](https://www.sas.com/en_ie/insights/articles/analytics/machine-learning-algorithms.html)
+- [CS221: Artificial Intelligence: Principles and Techniques | Stanford University](https://www.newworldai.com/cs221-artificial-intelligence-principles-and-techniques-stanford-university/)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
 - [Edx Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-4)
 - [Reddit Learn ML](https://www.reddit.com/r/machinelearning)
