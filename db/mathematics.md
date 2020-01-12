@@ -28,6 +28,7 @@
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
 - [Numberphile](https://www.youtube.com/user/numberphile)
+- [The Applications of Matrices](https://www.youtube.com/watch?v=rowWM-MijXU)
 - [MIT 6.042J Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&amp;list=PLB7540DEDD482705B)
 - [MIT 18.01 Single Variable Calculus](https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL590CCC2BC5AF3BC1)
 - [MIT 18.02 Multivariable Calculus](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)
