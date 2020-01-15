@@ -33,6 +33,7 @@
 - [Virtual Reality and Computer Simulation](https://ethicsandtechnology.eu/wp-content/uploads/downloadable-content/Brey_2008_VR-CS.pdf)
 - [VR/AR White Paper](http://www-file.huawei.com/-/media/CORPORATE/PDF/ilab/vr-ar-en.pdf)
 - [VR: Past, Present and Future](http://www.crs4.it/vic/data/papers/vr-report98.pdf)
+- [Virtual Reality - Computerphile](https://www.youtube.com/watch?v=PJ5LJkpwBAI&list=PLzH6n4zXuckrOPXf9THuMOKnXnUJ55xw5)
 
 ---------------------------------------
 
