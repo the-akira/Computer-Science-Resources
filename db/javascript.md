@@ -50,6 +50,7 @@
 - [The New Boston](https://www.youtube.com/watch?v=-u-j7uqU7sI&amp;list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
 - [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 - [Tutorialspoint](https://www.tutorialspoint.com/javascript/index.htm)
+- [JavaScript for Beginners](https://www.youtube.com/playlist?list=PLzMcBGfZo4-njtc5xy3qli4cN2zlKsoxd)
 
 ---------------------------------------
 
