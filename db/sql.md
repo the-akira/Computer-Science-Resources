@@ -64,6 +64,8 @@
 - [SQL in 1 Hour](https://www.youtube.com/watch?v=9Pzj7Aj25lw)
 - [SQL Tutorial 2019](https://www.youtube.com/watch?v=XqIk2PwP0To&t)
 - [How to Design and Create Tables in MySQL](https://www.youtube.com/watch?v=4oMJIyVOWL4)
+- [MySQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+- [How To Install MySQL on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04)
 
 ---------------------------------------
 
@@ -82,6 +84,7 @@
 - [Linguagem SQL](http://itatechjr.com.br/wp-content/uploads/2012/01/03-SQL-Parte-I.pdf)
 - [SQL Avançado](http://professor.unisinos.br/ltonietto/ccti/sql/SQLAvancado.pdf)
 - [Use a Cabeça SQL](http://ldemetrio.com.br/Livros/Use%20_a_Cabe%C3%A7a_SQL_Beighley.pdf)
+- [Curso de Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
 
 ---------------------------------------
 
