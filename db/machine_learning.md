@@ -14,6 +14,7 @@
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Machine Learning From Scratch](https://mlfromscratch.com/)
+- [Python Machine Learning Getting Started](https://www.w3schools.com/python/python_ml_getting_started.asp)
 - [A guide to machine learning algorithms and their applications](https://www.sas.com/en_ie/insights/articles/analytics/machine-learning-algorithms.html)
 - [CS221: Artificial Intelligence: Principles and Techniques | Stanford University](https://www.newworldai.com/cs221-artificial-intelligence-principles-and-techniques-stanford-university/)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
