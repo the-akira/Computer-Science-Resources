@@ -54,6 +54,7 @@
 - [IST Austria](http://pub.ist.ac.at/~chl/publications.html)
 - [Computational Vision Caltech](http://www.vision.caltech.edu/publications/publications.html)
 - [OpenCV](https://opencv.org/)
+- [PyImageSearch](https://www.pyimagesearch.com/)
 - [Kaggle Computer Vision](https://www.kaggle.com/dansbecker/intro-to-deep-learning-and-computer-vision)
 - [J G Daugman Lectures](https://www.cl.cam.ac.uk/teaching/0809/CompVision/CompVisNotes.pdf)
 - [CS 131 Lectures](http://vision.stanford.edu/teaching/cs131_fall1617/lectures/)
