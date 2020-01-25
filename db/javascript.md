@@ -51,6 +51,7 @@
 - [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 - [Tutorialspoint](https://www.tutorialspoint.com/javascript/index.htm)
 - [JavaScript for Beginners](https://www.youtube.com/playlist?list=PLzMcBGfZo4-njtc5xy3qli4cN2zlKsoxd)
+- [ES6 Javascript Tutorial For Beginners](https://www.youtube.com/watch?v=WZQc7RUAg18)
 
 ---------------------------------------
 
