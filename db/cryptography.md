@@ -70,6 +70,7 @@
 - [Udacity Course](https://www.youtube.com/watch?v=ATJ-xUYEACg&amp;list=PLAwxTw4SYaPnCeih6BPvJ5GdqqThGcWlX)
 - [Episode 1: Gambling with Secrets (Cryptography)](https://www.youtube.com/watch?v=lICOtR078Gw&amp;list=PLB4D701646DAF0817)
 - [Mini Course: Public Key Cryptography](https://www.youtube.com/watch?v=8CluknrLeys&amp;list=PLbg3ZX2pWlgLoapF5VvM_8h5OR-XW9pbr)
+- [AES Explained (Advanced Encryption Standard) - Computerphile](https://www.youtube.com/watch?v=O4xNJsjtN6E)
 
 ---------------------------------------
 
