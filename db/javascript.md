@@ -26,6 +26,7 @@
 - [Solo Learn](https://www.sololearn.com/Course/JavaScript/)
 - [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2018/learning/javascript.html)
 - [Javascript Enlightenment](http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf)
+- [JavaScript: The World's Most Misunderstood Programming Language](https://crockford.com/javascript/javascript.html)
 - [Eloquent Javascript](https://eloquentjavascript.net/)
 - [Bitdegree](https://www.bitdegree.org/learn/javascript-basics/)
 - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/)
@@ -53,6 +54,7 @@
 - [Tutorialspoint](https://www.tutorialspoint.com/javascript/index.htm)
 - [JavaScript for Beginners](https://www.youtube.com/playlist?list=PLzMcBGfZo4-njtc5xy3qli4cN2zlKsoxd)
 - [ES6 Javascript Tutorial For Beginners](https://www.youtube.com/watch?v=WZQc7RUAg18)
+- [Learn Javascript in just 5 Minutes](https://www.youtube.com/watch?v=c-I5S_zTwAc)
 
 ---------------------------------------
 
