@@ -7,6 +7,7 @@
 - [Codecademy](https://www.codecademy.com/learn/learn-javascript)
 - [Learn-JS](https://www.learn-js.org/)
 - [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+- [A re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [W3Schools](https://www.w3schools.com/js/)
 - [Modern Javascript](https://javascript.info/)
 - [Introduction to Javascript](https://scrimba.com/g/gintrotojavascript)
