@@ -84,6 +84,8 @@
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Machine Learning, Data Science and Deep Learning with Python](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 - [Succeeding with AI](https://www.manning.com/books/succeeding-with-ai)
+- [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp)
+
 
 ---------------------------------------
 
