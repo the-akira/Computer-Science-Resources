@@ -251,7 +251,7 @@
 
 - [LeetCode in Python - Michelle小梦想家](https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8)
 - [Data Biancheng](http://data.biancheng.net/view/156.html)
-- [数据结构与算法（Python](https://www.ranxiaolang.com/static/python_algorithm/python_algorithm.html)
+- [数据结构与算法（Python)](https://www.ranxiaolang.com/static/python_algorithm/python_algorithm.html)
 - [LeetCode 题解](https://github.com/soulmachine/leetcode)
 - [LeetCode Algorithm](https://github.com/haoel/leetcode)
 - [LeetCode Animation All in One](https://github.com/MisterBooo/LeetCodeAnimation)
