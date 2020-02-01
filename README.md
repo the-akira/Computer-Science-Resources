@@ -24,6 +24,7 @@ Thank you for your support!
 - Computer Fundamentals
   - [Computer Architecture](https://github.com/the-akira/computer_science_web_resources/blob/master/db/computer_architecture.md)
   - [Operating Systems](https://github.com/the-akira/computer_science_web_resources/blob/master/db/operating_systems.md)
+  - [Algorithms and Data Structures](https://github.com/the-akira/Computer-Science-Resources/blob/master/db/algorithms_data_structures.md)
   - [Mathematics](https://github.com/the-akira/computer_science_web_resources/blob/master/db/mathematics.md)
   - [Regular Expressions](https://github.com/the-akira/computer_science_web_resources/blob/master/db/regular_expressions.md)
   - [Physics](https://github.com/the-akira/computer_science_web_resources/blob/master/db/physics.md)
