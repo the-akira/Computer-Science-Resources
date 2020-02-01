@@ -86,7 +86,6 @@
 - [Succeeding with AI](https://www.manning.com/books/succeeding-with-ai)
 - [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp)
 
-
 ---------------------------------------
 
 ![PT](https://i.imgur.com/2kZUDhk.png)
