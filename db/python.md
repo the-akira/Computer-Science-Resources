@@ -98,6 +98,7 @@
 - [MIT 6.00](https://www.youtube.com/watch?v=k6U-i4gXkLM&amp;list=PL4C4720A6F225E074)
 - [MIT 6.00SC](https://www.youtube.com/watch?v=bX3jvD7XFPs&amp;list=PLB2BE3D6CA77BB8F7)
 - [Computational Physics](http://www-personal.umich.edu/~mejn/computational-physics/)
+- [Tiny Python Projects](https://github.com/kyclark/tiny_python_projects) - Teaches test-driven development and Python skills to beginners
 
 ---------------------------------------
 
