@@ -8,6 +8,7 @@
 - [Learn-JS](https://www.learn-js.org/)
 - [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - [A re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 - [W3Schools](https://www.w3schools.com/js/)
 - [Modern Javascript](https://javascript.info/)
 - [Introduction to Javascript](https://scrimba.com/g/gintrotojavascript)
