@@ -43,6 +43,7 @@
 - [CENG 311 Computer Architecture](http://web.iyte.edu.tr/~tolgaayav/courses/ceng311/)
 - [Computer Architecture:  A Constructive Approach](http://csg.csail.mit.edu/6.375/6_375_2019_www/resources/archbook.pdf)
 - [Von Neumann Architecture](https://www2.cs.siu.edu/~cs401/Textbook/ch2.pdf)
+- [Jim Keller: Moore's Law, Microprocessors, Abstractions, and First Principles](https://www.youtube.com/watch?v=Nb2tebYAaOA)
 
 ---------------------------------------
 
