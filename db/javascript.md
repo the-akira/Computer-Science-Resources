@@ -29,6 +29,8 @@
 - [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2018/learning/javascript.html)
 - [Javascript Enlightenment](http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf)
 - [JavaScript: The World's Most Misunderstood Programming Language](https://crockford.com/javascript/javascript.html)
+- [So you think you know JavaScript?](https://www.amanexplains.com/so-you-think-you-know-JavaScript/)
+- [The JavaScript Runtime Environment](http://dolszewski.com/javascript/javascript-runtime-environment/)
 - [Eloquent Javascript](https://eloquentjavascript.net/)
 - [Bitdegree](https://www.bitdegree.org/learn/javascript-basics/)
 - [Learn Javascript](https://gitbookio.gitbooks.io/javascript/)
