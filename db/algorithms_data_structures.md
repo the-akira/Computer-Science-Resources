@@ -97,6 +97,7 @@
 - [Data Structures and Algorithms - Beau teaches Javascript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
 - [Data Structures you MUST know](https://www.youtube.com/watch?v=sVxBVvlnJsM)
 - [Data Structures Easy to Advanced Course](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+- [Data Structures in Javascript](https://www.youtube.com/playlist?list=PLu_sD_1ixKmhufvEeg2cCq4Wah7t3f91d)
 - [P vs. NP and the Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s)
 - [Donald Knuth: Algorithms, Complexity, Life, and The Art of Computer Programming](https://www.youtube.com/watch?v=2BdBfsXbST8)
 - [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
