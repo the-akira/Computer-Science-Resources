@@ -60,6 +60,7 @@
 - [JavaScript Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 - [ES6 Javascript Tutorial For Beginners](https://www.youtube.com/watch?v=WZQc7RUAg18)
 - [Learn Javascript in just 5 Minutes](https://www.youtube.com/watch?v=c-I5S_zTwAc)
+- [That Weird JavaScript Course](https://www.youtube.com/playlist?list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI)
 
 ---------------------------------------
 
