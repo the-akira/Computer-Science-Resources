@@ -12,6 +12,7 @@
 - [Google-Gruyere](https://google-gruyere.appspot.com/)
 - [Hackthissite](https://www.hackthissite.org/)
 - [How they Hack your Website](https://www.cmswire.com/web-cms/how-they-hack-your-website-the-ultimate-updated-overview-of-common-techniques/)
+- [Shodan Pentesting Guide](https://community.turgensec.com/shodan-pentesting-guide/)
 - [Hacking Tutorials](https://www.hackingtutorials.org/category/web-application-hacking/)
 - [Grey Campus](https://www.greycampus.com/opencampus/ethical-hacking/web-application-and-its-types-of-attacks)
 - [Blackhat Presentation](https://www.blackhat.com/presentations/bh-asia-02/bh-asia-02-shah.pdf)
