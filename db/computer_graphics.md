@@ -89,6 +89,9 @@
 - [MIT 6.837](https://www.youtube.com/watch?v=E1-_15Vfddk&amp;list=PLkHIj5SCfn3_PCotoqTetMpJc_jkpkgLt)
 - [CG Course](https://www.youtube.com/watch?v=m5YbqpL7BIY&amp;list=PLLOxZwkBK52DkMLAYhRLA_VtePq5wW_N4)
 - [Awesome Graphics](https://github.com/ericjang/awesome-graphics)
+- [Discover Three.js](https://discoverthreejs.com/book/contents/)
+- [Three.js Introduction](https://threejs.org/docs/#manual/en/introduction/Creating-a-scene)
+- [Beginning with 3D WebGL](https://codepen.io/rachsmith/post/beginning-with-3d-webgl-pt-1-the-scene)
 
 ---------------------------------------
 
