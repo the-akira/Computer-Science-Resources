@@ -99,6 +99,7 @@
 - [MIT 6.00SC](https://www.youtube.com/watch?v=bX3jvD7XFPs&amp;list=PLB2BE3D6CA77BB8F7)
 - [Computational Physics](http://www-personal.umich.edu/~mejn/computational-physics/)
 - [Tiny Python Projects](https://github.com/kyclark/tiny_python_projects) - Teaches test-driven development and Python skills to beginners
+- [The Well-Grounded Python Developer](https://www.manning.com/books/the-well-grounded-python-developer?a_aid=the_well_grounded_python_developer&a_bid=e505681b)
 
 ---------------------------------------
 
