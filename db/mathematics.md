@@ -48,9 +48,12 @@
 
 ![PT](https://i.imgur.com/2kZUDhk.png)
 
+- [Cálculo I](http://euler.mat.ufrgs.br/~mendes/OCursocomApli.pdf)
 - [Fundamentos Matemáticos](http://www.cin.ufpe.br/~dmd/inf101/biblio/FMCCJK.pdf)
 - [Lógica e Aplicações](https://www.cle.unicamp.br/prof/coniglio/LIVRO.pdf)
 - [Fundamentos Matemáticos para Comp](https://www.youtube.com/watch?v=ib3F1c2oKpA&amp;list=PLxI8Can9yAHcXBgFryV0AV7LYdLR1skuF)
+- [Cálculo Diferencial e Integral - Notas de Aula](https://sites.icmc.usp.br/andcarva/sma301/Calculo1c-AM6.pdf)
+- [Cálculo e Equações Diferenciais com Aplicações](http://euler.mat.ufrgs.br/~mendes/OCursocomApli.pdf)
 - [Introdução a Lógica](http://infocat.ucpel.tche.br/disc/log/docs/ILCC.pdf)
 - [Introdução Matemática Discreta](https://homepages.dcc.ufmg.br/~loureiro/md/md_0Introducao.pdf)
 - [Aplicações da Lógica](http://www.inf.ufrgs.br/~bsguedes/disc/3/inf05508/aplicacoes.pdf)
