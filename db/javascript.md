@@ -48,6 +48,7 @@
 - [Freecodecamp](https://learn.freecodecamp.org/)
 - [Guru99](https://www.guru99.com/node-js-tutorial.html)
 - [Sphero](https://sphero.docsapp.io/docs/get-started)
+- [30 Seconds of JS](https://www.30secondsofcode.org/js/p/1/)
 - [Traversy Media](https://www.youtube.com/watch?v=vEROU2XtPR8&amp;list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
 - [Mosh](https://www.youtube.com/watch?v=W6NZfCO5SIk&amp;list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax)
 - [The Net Ninja](https://www.youtube.com/watch?v=qoSksQ4s_hg&amp;list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
