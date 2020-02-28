@@ -100,6 +100,7 @@
 - [Data Structures in Javascript](https://www.youtube.com/playlist?list=PLu_sD_1ixKmhufvEeg2cCq4Wah7t3f91d)
 - [P vs. NP and the Computational Complexity Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s)
 - [Donald Knuth: Algorithms, Complexity, Life, and The Art of Computer Programming](https://www.youtube.com/watch?v=2BdBfsXbST8)
+- [Efficiency with Algorithms, Performance with Data Structures](https://www.youtube.com/watch?v=fHNmRkzxHWs)
 - [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
 - [Advanced Algorithms (COMPSCI 224)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 - [Algorithms Part I](https://www.coursera.org/learn/algorithms-part1)
@@ -244,7 +245,7 @@
 - [2019年度「アルゴリズムとデータ構造」のページ](http://taurus.ics.nara-wu.ac.jp/algo/)
 - [アルゴリズムとデータ構造](http://web-ext.u-aizu.ac.jp/course/alg1/ex/jp/index.html)
 - [計算の複雑さ入門](https://www.jaist.ac.jp/~uehara/course/2011/si216/pdf/03comp.pdf)
-- [python - アルゴリズムの複雑さの計算（Big-O](https://tutorialmore.com/questions-1141026.htm)
+- [python - アルゴリズムの複雑さの計算（Big-O)](https://tutorialmore.com/questions-1141026.htm)
 
 ---------------------------------------
 
