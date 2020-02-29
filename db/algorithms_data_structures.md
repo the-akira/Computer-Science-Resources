@@ -109,6 +109,7 @@
 - [Pathfinding Algorithms](https://www.youtube.com/watch?v=X3x7BlLgS-4)
 - [A* (A Star) Search Algorithm - Computerphile](https://www.youtube.com/watch?v=ySN5Wnu88nE)
 - [Dijkstra's Algorithm](https://www.youtube.com/watch?v=GazC3A4OQTE)
+- [Sorting Visualizer Tutorial (Software Engineering Project)](https://www.youtube.com/watch?v=pFXYym4Wbkc)
 
 ---------------------------------------
 
