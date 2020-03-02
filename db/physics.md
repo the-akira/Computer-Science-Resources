@@ -6,6 +6,7 @@
 
 - [Physics from Computer Science](https://www.cs.ox.ac.uk/files/349/YORKIJUC.pdf)
 - [Computing Between Logic and Physics](http://www.cmls.polytechnique.fr/perso/paul/gius-thier-sent.pdf)
+- [Physics for Computer Science Students](https://www.cin.ufpe.br/~gcs/Springer%20-%20Physics%20for%20Computer%20Science%20Students.pdf)
 - [Computational Physics](https://farside.ph.utexas.edu/teaching/329/329.pdf)
 - [Comp Physics Book](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/docs/computational_physics.pdf)
 - [EDX Circuits and Electronics](https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x-0)
