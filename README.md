@@ -50,9 +50,6 @@ Thank you for your support!
   - [R](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/r.md)
   - [Julia](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/julia.md)
   - [Elixir](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/elixir.md)
-- Document Markup Languages
-  - [LaTeX](https://github.com/flying-yogurt/Computer-Science-Resources/blob/master/db/latex.md)
-  - [Markdown](https://github.com/flying-yogurt/Computer-Science-Resources/blob/master/db/markdown.md)
 - Artificial Intelligence
   - [Machine Learning](https://github.com/the-akira/computer_science_web_resources/blob/master/db/machine_learning.md)
   - [Artificial Neural Networks](https://github.com/the-akira/Computer_Science_Web_Resources/blob/master/db/artificial_neural_network.md)
