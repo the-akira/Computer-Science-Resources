@@ -46,6 +46,7 @@
 - [InfoSec Handbook](http://www.panynj.gov/business-opportunities/pdf/corporate-information-security-handbook.pdf)
 - [Information Technology Security Handbook](https://www.infodev.org/infodev-files/resource/InfodevDocuments_18.pdf)
 - [Info Security Handbook](https://www.nisc.go.jp/security-site/campaign/files/aj-sec/handbook-all_eng.pdf)
+- [Penetration Testing Bootcamp](https://www.youtube.com/playlist?list=PLBf0hzazHTGOepimcP15eS6Y-aR4m6ql3)
 
 ---------------------------------------
 
