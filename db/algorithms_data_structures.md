@@ -6,6 +6,7 @@
 
 - [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
 - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
+- [Algorithms - FreeCodeCamp](https://guide.freecodecamp.org/algorithms)
 - [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 - [Programiz - Data Structures and Algorithms](https://www.programiz.com/dsa)
 - [Data Structures using C](http://masterraghu.com/subjects/Datastructures/ebooks/rema%20thareja.pdf)
@@ -90,7 +91,7 @@
 - [Data Structures and Algorithm Analysis](https://people.cs.vt.edu/shaffer/Book/C++3elatest.pdf)
 - [Notes on Data Structures and Programming](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)
 - [Fast Fourier Transform](https://towardsdatascience.com/fast-fourier-transform-937926e591cb)
-- [Fourier Transforms and theFast Fourier Transform (FFT) Algorithm](https://www.cs.cmu.edu/afs/andrew/scs/cs/15-463/2001/pub/www/notes/fourier/fourier.pdf)
+- [Fourier Transforms and the Fast Fourier Transform (FFT) Algorithm](https://www.cs.cmu.edu/afs/andrew/scs/cs/15-463/2001/pub/www/notes/fourier/fourier.pdf)
 - [Understanding the FFT Algorithm](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
 - [How the FFT Works](https://www.dspguide.com/ch12/2.htm)
 - [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
