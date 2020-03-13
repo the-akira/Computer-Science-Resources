@@ -47,6 +47,7 @@
 - [Information Technology Security Handbook](https://www.infodev.org/infodev-files/resource/InfodevDocuments_18.pdf)
 - [Info Security Handbook](https://www.nisc.go.jp/security-site/campaign/files/aj-sec/handbook-all_eng.pdf)
 - [Penetration Testing Bootcamp](https://www.youtube.com/playlist?list=PLBf0hzazHTGOepimcP15eS6Y-aR4m6ql3)
+- [Basic Penetration Testing](https://www.youtube.com/watch?v=xl2Xx5YOKcI)
 
 ---------------------------------------
 
