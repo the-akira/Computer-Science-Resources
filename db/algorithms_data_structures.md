@@ -95,6 +95,7 @@
 - [Understanding the FFT Algorithm](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
 - [How the FFT Works](https://www.dspguide.com/ch12/2.htm)
 - [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+- [Understanding Peak-Finding](https://www.filipekberg.se/2014/02/10/understanding-peak-finding/)
 - [Data Structures and Algorithms - CSDojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 - [Algorithms - Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [MIT Data Structures and Algorithms 2015](https://www.youtube.com/playlist?list=PLkToMFwOtNHiJtcBu0piSLKnLVGOF9vaV)
