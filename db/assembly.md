@@ -8,6 +8,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
 - [Tutorialspoint](https://www.tutorialspoint.com/assembly_programming/)
 - [Assembly Programming](https://homepage.cs.uiowa.edu/~ghosh/8-29-13.pdf)
+- [6502 Introduction](http://www.obelisk.me.uk/6502/)
 - [Programming in Assembly Language](https://bob.cs.sonoma.edu/IntroCompOrg-RPi/chp-asm.html)
 - [Nayuki](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 - [Assembly Programming](https://www.freebsd.org/doc/en_US.ISO8859-1/books/developers-handbook/x86.html)
