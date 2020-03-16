@@ -62,6 +62,7 @@
 - [ES6 Javascript Tutorial For Beginners](https://www.youtube.com/watch?v=WZQc7RUAg18)
 - [Learn Javascript in just 5 Minutes](https://www.youtube.com/watch?v=c-I5S_zTwAc)
 - [That Weird JavaScript Course](https://www.youtube.com/playlist?list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI)
+- [The Nature of Code 2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM)
 
 ---------------------------------------
 
