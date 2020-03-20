@@ -8,6 +8,7 @@
 - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
 - [Algorithms - FreeCodeCamp](https://guide.freecodecamp.org/algorithms)
 - [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
+- [CS 171 Course](https://www.mathcs.emory.edu/~cheung/Courses/171/Syllabus/)
 - [Programiz - Data Structures and Algorithms](https://www.programiz.com/dsa)
 - [Data Structures using C](http://masterraghu.com/subjects/Datastructures/ebooks/rema%20thareja.pdf)
 - [Algo Expert Questions](https://www.algoexpert.io/questions)
