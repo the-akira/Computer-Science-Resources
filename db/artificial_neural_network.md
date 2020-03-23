@@ -19,6 +19,7 @@
 - [Neural Networks](https://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html)
 - [Artificial Neural Networks Explained](https://blog.goodaudience.com/artificial-neural-networks-explained-436fcf36e75)
 - [A Basic Introduction to Neural Networks](http://pages.cs.wisc.edu/~bolo/shipyard/neural/local.html)
+- [Deep Learning’s Mathematics](https://medium.com/@ismail.mebsout.pro/deep-learnings-mathematics-f52b3c4d2576)
 - [Artificial Neural Network Nvidia](https://developer.nvidia.com/discover/artificial-neural-network)
 - [Artificial Neural Networks Basics](https://becominghuman.ai/artificial-neuron-networks-basics-introduction-to-neural-networks-3082f1dcca8c)
 - [Artificial Intelligence, Deep Learning, and Neural Networks, Explained](https://www.kdnuggets.com/2016/10/artificial-intelligence-deep-learning-neural-networks-explained.html)
