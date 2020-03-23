@@ -5,6 +5,7 @@
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
+- [Stanford CS 253 Web Security](https://web.stanford.edu/class/cs253/)
 - [Darknet](https://www.darknet.org.uk/category/web-hacking/)
 - [Guru99](https://www.guru99.com/how-to-hack-website.html)
 - [Null-byte](https://null-byte.wonderhowto.com/how-to/hacking-web-apps/)
