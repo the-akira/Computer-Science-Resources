@@ -23,6 +23,7 @@
 - [Solo Learn SQL](https://www.sololearn.com/Course/SQL/)
 - [SQL Join Types](https://www.sql-join.com/sql-join-types/)
 - [SQL Cheat Sheet](http://www.cheat-sheets.org/sites/sql.su/)
+- [SQL Cheat Sheet Kdnuggets](https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html)
 - [Javatpoint](https://www.javatpoint.com/sql-tutorial)
 - [SQL and Databases](https://awesome-tech.readthedocs.io/databases/)
 - [SQL Zoo](https://sqlzoo.net/)
