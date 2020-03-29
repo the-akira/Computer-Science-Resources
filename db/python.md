@@ -23,6 +23,7 @@
 - [Python 3 Patterns](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/)
 - [Python Tutor](http://www.pythontutor.com/)
 - [Tutorialspoint](http://www.tutorialspoint.com/python)
+- [Python Examples](https://pythonexamples.org)
 - [Twitter Hashtag](https://twitter.com/hashtag/python)
 - [CIS 192](https://www.cis.upenn.edu/~cis192/)
 - [Fundamentals of Programming](https://6009.cat-soop.org/fall18)
