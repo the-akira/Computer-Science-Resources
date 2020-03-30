@@ -64,6 +64,8 @@
 - [Beginners Guide to Quantum Computing](https://www.youtube.com/watch?v=JRIPV0dPAd4)
 - [Current State of Quantum Computing](https://www.youtube.com/watch?v=PN7mPYcWFKg)
 - [Quantum Computers Explained](https://www.youtube.com/watch?v=JhHMJCUmq28)
+- [Google and NASA's Quantum Artificial Intelligence Lab](https://www.youtube.com/watch?v=CMdHDHEuOUE)
+- [Demonstrating Quantum Supremacy](https://www.youtube.com/watch?v=-ZNEzzDcllU)
 
 ---------------------------------------
 
