@@ -49,7 +49,7 @@
 - [Brief Intro to OS](http://greenteapress.com/thinkos/thinkos.pdf)
 - [Computer System Architecture](http://www.cs.nott.ac.uk/~psztxa/g51csa/jon-guest-lecture.pdf)
 - [OS Modules](http://www.vssut.ac.in/lecture_notes/lecture1423726024.pdf)
-- [Vilnius Gediminas Technical University](http://gama.vtu.lt/biblioteka/Operating_systems/Operating_systems.pdf
+- [Vilnius Gediminas Technical University](http://gama.vtu.lt/biblioteka/Operating_systems/Operating_systems.pdf)
 - [Linux Command Line for You and Me](https://readthedocs.org/projects/lym/downloads/pdf/latest/)
 - [Linux Fundamentals](http://linux-training.be/linuxfun.pdf)
 - [Linux Bible](https://doc.lagout.org/operating%20system%20/linux/Linux%20Bible%2C%202010%20Edition.pdf)
