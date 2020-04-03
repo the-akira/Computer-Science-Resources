@@ -75,6 +75,7 @@
 - [Python for Physics and Astronomy](http://prancer.physics.louisville.edu/astrowiki/index.php/Python_for_Physics_and_Astronomy)
 - [Utoronto](https://www.physics.utoronto.ca/~phy224_324/web-pages/Python_info.htm)
 - [Python for Science](http://www.physics.nyu.edu/pine/pymanual/html/pymanMaster.html)
+- [From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 - [Devcenter Heroku](https://devcenter.heroku.com/articles/getting-started-with-python)
 - [Essentia](http://essentia.upf.edu/documentation/essentia_python_tutorial.html)
