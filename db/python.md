@@ -84,6 +84,7 @@
 - [Google Python](https://developers.google.com/edu/python/)
 - [Think CS](http://openbookproject.net/thinkcs/python/english2e/)
 - [Python Sheets](https://www.pythonsheets.com/)
+- [Python Cheatsheet](https://cheatsheets.tutorials24x7.com/programming/python)
 - [Reddit Python](https://www.reddit.com/r/Python/)
 - [PythonBiblio](http://openbookproject.net/pybiblio/)
 - [Simplifiedpython](https://www.simplifiedpython.net/)
