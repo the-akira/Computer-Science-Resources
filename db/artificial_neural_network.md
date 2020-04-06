@@ -9,6 +9,7 @@
 - [Everything You Need to Know About Artificial Neural Networks](https://medium.com/technology-invention-and-more/everything-you-need-to-know-about-artificial-neural-networks-57fac18245a1)
 - [Artificial Neural Networks Technology](http://www.psych.utoronto.ca/users/reingold/courses/ai/cache/neural_ToC.html)
 - [Fast.ai](https://www.fast.ai/)
+- [Dive into Deep Learning](https://d2l.ai/index.html)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - [Information Theory, Pattern Recognition and Neural Networks](https://www.youtube.com/watch?v=BCiZc0n6COY&amp;list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
 - [Deep Learning at Oxford 2015](https://www.youtube.com/watch?v=dV80NAlEins&amp;list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
