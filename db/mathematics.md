@@ -4,6 +4,7 @@
 
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
+- [Mathematics in Computer Science Curricula](https://www.cs.cmu.edu/~wing/publications/talk.pdf)
 - [MIT Math for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 - [Real not Complex (Math Resources)](https://realnotcomplex.com/)
 - [Gentle Intro to Math for CS](http://web.ftvs.cuni.cz/hendl/metodologie/gentle-introduction-to-mathematics-for-computer.pdf)
