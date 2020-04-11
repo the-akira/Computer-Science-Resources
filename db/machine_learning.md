@@ -32,6 +32,8 @@
 - [Geeks for Geeks](https://www.geeksforgeeks.org/machine-learning/)
 - [Tutorial List](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
+- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 - [Notes On Using Data Science & Artificial Intelligence](https://chrisalbon.com/)
 - [Data Quest](https://www.dataquest.io/blog/)
 - [J. P. Morgan](https://www.jpmorgan.com/global/research/machine-learning)
