@@ -4,6 +4,7 @@
 
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
+- [Cybernetics MIT](http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF)
 - [Wikipedia Cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
 - [Pangaro](http://www.pangaro.com/definition-cybernetics.html)
 - [Web Dictionary of Cybernetics](http://pespmc1.vub.ac.be/ASC/INdexASC.html)
