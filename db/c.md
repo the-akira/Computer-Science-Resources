@@ -79,6 +79,7 @@
 - [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)
 - [C Programming ASMR](https://www.youtube.com/playlist?list=PLPt8EM4KxGEVdozTFQ_taOdS6OFlNU7ki)
 - [C Traps and Pitfalls](http://www.literateprogramming.com/ctraps.pdf)
+- [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
 
 ---------------------------------------
 
