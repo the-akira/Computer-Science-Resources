@@ -4,9 +4,10 @@
 
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
+- [Harvard Data Science](https://cs109.github.io/2015/)
 - [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [Elite Data Science Learn Machine Learning](https://elitedatascience.com/learn-machine-learning)
-- [Harvard Data Science](https://cs109.github.io/2015/)
+- [Learning from Data - Machine Learning Course](https://work.caltech.edu/telecourse.html)
 - [An Intro to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
 - [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
