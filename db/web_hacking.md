@@ -44,6 +44,7 @@
 - [Mozilla Web Security](https://developer.mozilla.org/en-US/docs/Web/Security)
 - [Web Security in 2017](http://johannh.me/slides/web_security_2017.pdf)
 - [MIT 6.858](https://www.youtube.com/watch?v=WlmKwIe9z1Q)
+- [Introduction to Web Security](https://www.sonntag.cc/teaching/Web_Security_Budapest_2018/1_Computer_security_basics/Introduction_to_Web_Security.pdf)
 
 ---------------------------------------
 
