@@ -18,6 +18,7 @@
 - [Python Machine Learning Getting Started](https://www.w3schools.com/python/python_ml_getting_started.asp)
 - [A guide to machine learning algorithms and their applications](https://www.sas.com/en_ie/insights/articles/analytics/machine-learning-algorithms.html)
 - [CS221: Artificial Intelligence: Principles and Techniques | Stanford University](https://www.newworldai.com/cs221-artificial-intelligence-principles-and-techniques-stanford-university/)
+- [COS 511 Theoretical Machine Learning](https://www.cs.princeton.edu/courses/archive/spring19/cos511/)
 - [CS50's Introduction to Artificial Intelligence with Python 2020](https://www.youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
 - [Edx Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-4)
