@@ -72,7 +72,7 @@
 - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 - [Neural Networks: Feedforward and Backpropagation Explained](https://mlfromscratch.com/neural-networks-explained/)
 - [Deep Learning - NYU Center for Data Science](https://atcold.github.io/pytorch-Deep-Learning/)
-- [https://www.manning.com/books/math-and-architectures-of-deep-learning](https://www.manning.com/books/math-and-architectures-of-deep-learning/)
+- [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning/)
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/watch?v=JN6H4rQvwgY&amp;list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&amp;list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [A Friendly Introduction to Deep Learning](https://www.youtube.com/watch?v=BR9h47Jtqyw&amp;t=9s)
