@@ -88,6 +88,7 @@
 - [Neural Network 3D Simulation](https://www.youtube.com/watch?v=3JQ3hYko51Y)
 - [Geoffrey Hinton: The Foundations of Deep Learning](https://www.youtube.com/watch?v=zl99IZvW7rE)
 - [Deep Learning: A Crash Course](https://www.youtube.com/watch?v=r0Ogt-q956I&amp;t=8799s)
+- [Neural Networks from Scratch](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 
 ---------------------------------------
 
