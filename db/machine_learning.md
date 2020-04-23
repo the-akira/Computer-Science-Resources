@@ -84,6 +84,7 @@
 - [Machine Learning with Python](https://www.youtube.com/watch?v=Q59X518JZHE)
 - [Machine Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 - [MIT 18.065 Matrix Methods in Data Analysis and Machine Learning](https://www.youtube.com/watch?v=Cx5Z-OslNWE&amp;list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+- [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Real-World Python Machine Learning Tutorial w/ Sci-kit Learn](https://www.youtube.com/watch?v=M9Itm95JzL0)
 - [Elements of AI](https://course.elementsofai.com/)
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
