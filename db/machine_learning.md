@@ -5,6 +5,7 @@
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Harvard Data Science](https://cs109.github.io/2015/)
+- [COS 402 Artificial Intelligence](https://www.cs.princeton.edu/courses/archive/fall12/cos402/)
 - [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [Elite Data Science Learn Machine Learning](https://elitedatascience.com/learn-machine-learning)
 - [Learning from Data - Machine Learning Course](https://work.caltech.edu/telecourse.html)
@@ -56,7 +57,6 @@
 - [ML for Dummies](https://mscdss.ds.unipi.gr/wp-content/uploads/2018/02/Untitled-attachment-00056-2-1.pdf)
 - [ML in Action](http://www2.ift.ulaval.ca/~chaib/IFT-4102-7025/public_html/Fichiers/Machine_Learning_in_Action.pdf)
 - [ML: Power and Promise](https://royalsociety.org/~/media/policy/projects/machine-learning/publications/machine-learning-report.pdf)
-- [Theoretical Machine Learning](https://www.cs.princeton.edu/courses/archive/spr08/cos511/scribe_notes/0204.pdf)
 - [Intro to ML](https://www.seas.upenn.edu/~cis519/fall2017/lectures/01_introduction.pdf)
 - [Basic Concepts](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf)
 - [ML using Python](https://in.pycon.org/2011/static/files/talks/11/Introduction_To_ML_Partial_2.pdf)
