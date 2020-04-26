@@ -110,6 +110,7 @@
 
 ![PT](https://i.imgur.com/2kZUDhk.png)
 
+- [Python Iluminado](https://pythoniluminado.netlify.app)
 - [Devmedia](https://www.devmedia.com.br/guia/python/37024)
 - [Udacity](https://br.udacity.com/course/programming-foundations-with-python--ud036)
 - [Pyscience-brasil](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq)
