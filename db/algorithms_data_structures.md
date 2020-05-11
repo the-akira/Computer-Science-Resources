@@ -102,6 +102,7 @@
 - [Algorithms - William Fiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsAPGSY7R63cFtDfi6h9ij0f)
 - [Algorithms - Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [MIT Data Structures and Algorithms 2015](https://www.youtube.com/playlist?list=PLkToMFwOtNHiJtcBu0piSLKnLVGOF9vaV)
+- [MIT 6.046J / 18.410J Introduction to Algorithms](https://www.youtube.com/playlist?list=PL8B24C31197EC371C)
 - [Algorithms and Data Structures Lectures](https://www.youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
 - [Data Structures and Algorithms - Beau teaches Javascript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
 - [Data Structures you MUST know](https://www.youtube.com/watch?v=sVxBVvlnJsM)
