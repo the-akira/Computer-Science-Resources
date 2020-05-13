@@ -28,6 +28,7 @@
 - [CMSC 202 Lecture Notes: Recursion](https://www.csee.umbc.edu/~chang/cs202.f98/readings/recursion.html)
 - [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action)
 - [Data Structures and Algorithms in Java](https://www.javaguides.net/p/data-structures-and-algorithms-in-java.html)
+- [Algorithms in Java](https://github.com/nishantc1527/Algorithms)
 - [Lecture Notes for Data Structures and Algorithms](https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf)
 - [Collection of Algorithms and Data Structures](https://github.com/sherxon/AlgoDS)
 - [Algorithms and Data Structures Research & Reference Material](http://users.monash.edu/~lloyd/tildeAlgDS/)
