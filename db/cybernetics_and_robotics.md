@@ -36,6 +36,7 @@
 - [Understanding Understanding](http://www.alice.id.tue.nl/references/foerster-2003.pdf)
 - [Cybernetics in the Soviet Union](https://apps.dtic.mil/dtic/tr/fulltext/u2/602705.pdf)
 - [The Future of Artificial Intelligence and Cybernetics](https://www.technologyreview.com/s/602830/the-future-of-artificial-intelligence-and-cybernetics/)
+- [A Logical Calculus of the Ideas Immanent in Nervous Activity](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf)
 - [Python Robotics Programming](http://academy.visualcomponents.com/courses/python-robotics-programming-a-robot-with-python/)
 - [What is Robotics](http://www.electronicsteacher.com/robotics/what-is-robotics.php)
 - [Robotics Tutorial](https://www.javatpoint.com/robotics-tutorial)
