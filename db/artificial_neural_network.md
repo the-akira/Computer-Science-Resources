@@ -4,9 +4,12 @@
 
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Artificial_neural_network)
+- [Artificial Neuron](https://en.wikipedia.org/wiki/Artificial_neuron)
+- [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
 - [Digital Trends](https://www.digitaltrends.com/cool-tech/what-is-an-artificial-neural-network/)
 - [Everything You Need to Know About Artificial Neural Networks](https://medium.com/technology-invention-and-more/everything-you-need-to-know-about-artificial-neural-networks-57fac18245a1)
+- [McCulloch-Pitts Neuron - Mankind’s First Mathematical Model of A Biological Neuron](https://towardsdatascience.com/mcculloch-pitts-model-5fdf65ac5dd1)
+- [McCulloch-Pitts Neurons](http://www.mind.ilstu.edu/curriculum/modOverview.php?modGUI=212)
 - [Artificial Neural Networks Technology](http://www.psych.utoronto.ca/users/reingold/courses/ai/cache/neural_ToC.html)
 - [Fast.ai](https://www.fast.ai/)
 - [Dive into Deep Learning](https://d2l.ai/index.html)
