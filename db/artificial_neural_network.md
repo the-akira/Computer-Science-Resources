@@ -71,6 +71,7 @@
 - [Neural Networks: MATLAB Examples](http://lab.fs.uni-lj.si/lasin/wp/IMIT_files/neural/NN-examples.pdf)
 - [Neural Networks and Introduction to Deep Learning](https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-hdstat-rnn-deep-learning.pdf)
 - [An Introduction to Neural Networks with Python](https://victorzhou.com/blog/intro-to-neural-networks/)
+- [A Lightning-Fast Introduction to Deep Learning and Tensorflow 2.0](https://builtin.com/machine-learning/introduction-deep-learning-tensorflow-20)
 - [Convolutional Neural Network](http://deeplearning.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork/)
 - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 - [Neural Networks: Feedforward and Backpropagation Explained](https://mlfromscratch.com/neural-networks-explained/)
