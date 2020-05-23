@@ -5,7 +5,8 @@
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Harvard Data Science](https://cs109.github.io/2015/)
-- [A history of machine learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
+- [A History of Machine Learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
+- [Common ML Problems](https://developers.google.com/machine-learning/problem-framing/cases)
 - [Timeline of Machine Learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
 - [COS 402 Artificial Intelligence](https://www.cs.princeton.edu/courses/archive/fall12/cos402/)
 - [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
