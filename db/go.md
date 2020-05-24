@@ -58,6 +58,7 @@
 - [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
 - [Go Programming Language](https://www.youtube.com/watch?v=rKnDgT73v8s)
 - [Get Started with Go](https://www.youtube.com/watch?v=2KmHtgtEZ1s)
+- [Golang Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q)
 
 ---------------------------------------
 
