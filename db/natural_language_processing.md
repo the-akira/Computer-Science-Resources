@@ -7,6 +7,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Natural_language_processing)
 - [What is NLP](https://www.sas.com/en_us/insights/analytics/what-is-natural-language-processing-nlp.html)
 - [Intro to NLP](https://towardsdatascience.com/an-easy-introduction-to-natural-language-processing-b1e2801291c1)
+- [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 - [Introduction NLP](https://blog.algorithmia.com/introduction-natural-language-processing-nlp/)
 - [Edx](https://www.edx.org/course/natural-language-processing-1)
 - [Machine Learning Mastery](https://machinelearningmastery.com/natural-language-processing/)
