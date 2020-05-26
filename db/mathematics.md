@@ -63,6 +63,12 @@
 - [Ciência da Comp sem uso do Computador](https://classic.csunplugged.org/wp-content/uploads/2014/12/CSUnpluggedTeachers-portuguese-brazil-feb-2011.pdf)
 - [Pensamento Computacional](http://www.imago.ufpr.br/csbc2012/anais_csbc/eventos/wei/artigos/Pensamento%20Computacional%20e%20Educacao%20Matematica%20Relacoes%20para%20o%20Ensino%20de%20Computacao%20na%20Educacao%20Basica.pdf)
 - [Apostila de Lógica](https://www.cos.ufrj.br/~mario/logica/apostila.pdf)
+- [Cálculo I - UNIVESP](https://www.youtube.com/watch?v=XJCmMuZV-JA&list=PL2D9B691A704C6F7B)
+- [Cálculo II - UNIVESP](https://www.youtube.com/watch?v=4elA1yVc5oo&list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER)
+- [Cálculo III - UNIVESP](https://www.youtube.com/watch?v=lempeC72Tyg&list=PLFBA21F349930F92F)
+- [Cálculo IV - UNIVESP](https://www.youtube.com/watch?v=BrufXJ2AhNo&list=PLxI8Can9yAHeOiMYCBlkyCALloROQ58OY)
+- [Geometria Analítica e Vetores - UNIVESP](https://www.youtube.com/watch?v=64f2s5-jy4U&list=PLxI8Can9yAHdmzItRKhWYl_ZsDe44PUrp)
+- [Álgebra Linear - USP](https://www.youtube.com/watch?v=-JcQJFNVjaA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI)
 
 ---------------------------------------
 
