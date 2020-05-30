@@ -11,6 +11,7 @@
 - [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 - [W3Schools](https://www.w3schools.com/js/)
 - [Modern Javascript](https://javascript.info/)
+- [Human JavaScript](https://read.humanjavascript.com/)
 - [Introduction to Javascript](https://scrimba.com/g/gintrotojavascript)
 - [Javascript is Sexy](https://javascriptissexy.com/)
 - [Codementor](https://www.codementor.io/community/topic/javascript)
