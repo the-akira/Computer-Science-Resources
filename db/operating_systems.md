@@ -22,6 +22,7 @@
 - [Linux Training](http://linux-training.be/)
 - [Linux Journey](https://linuxjourney.com/)
 - [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
+- [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 - [Practical Linux Tutorial](http://xahlee.info/linux/linux_index.html)
 - [Guru 99 Linux](https://www.guru99.com/unix-linux-tutorial.html)
 - [Linux Survival](https://linuxsurvival.com/)
