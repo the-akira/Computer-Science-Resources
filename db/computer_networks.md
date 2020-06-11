@@ -10,6 +10,7 @@
 - [Understand Computer Networks](https://medium.freecodecamp.org/computer-networks-and-how-to-actually-understand-them-c1401908172d)
 - [An Educator's Guide to School Networks](https://fcit.usf.edu/network/chap1/chap1.htm)
 - [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking)
+- [The History of the URL](https://blog.cloudflare.com/the-history-of-the-url/)
 - [Computer Networking by Georgia Tech](https://www.udacity.com/course/computer-networking--ud436)
 - [An Introduction to Computer Networks](https://intronetworks.cs.luc.edu/current/html/)
 - [Basic computer network components](https://en.wikiversity.org/wiki/Basic_computer_network_components)
