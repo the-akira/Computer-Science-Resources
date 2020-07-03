@@ -38,6 +38,7 @@
 - [W3Shools](https://www.w3schools.com/python/)
 - [A Byte of Python](https://python.swaroopch.com/)
 - [Introduction to Programming in Python](https://introcs.cs.princeton.edu/python/home/)
+- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - [Wikiversity](https://en.wikiversity.org/wiki/Python_Programming)
 - [Learn Python](https://www.learnpython.org/)
 - [The Python Guru](https://thepythonguru.com/)
