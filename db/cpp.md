@@ -69,6 +69,7 @@
 - [Bjarne Stroustrup](https://www.youtube.com/watch?v=fX2W3nNjJIo&amp;t=5s)
 - [Derek Banas C++ Tutorial](https://www.youtube.com/watch?v=DamuE8TM3xo&amp;list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
 - [Modern C++ Course](https://www.youtube.com/watch?v=F_vIB3yjxaM&amp;list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)
+- [C++ Programming All-in-One Tutorial Series](https://www.youtube.com/watch?v=_bYFu9mBnr4)
 
 ---------------------------------------
 
