@@ -18,6 +18,8 @@ Thank you for your support!
   - [Map of Physics](https://www.youtube.com/watch?v=ZihywtixUYo&t)
   - [MIT Courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
   - [MIT 6.00 Intro to Computer Science & Programming](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL4C4720A6F225E074)
+  - [MIT 6.0001 Introduction to Computer Science & Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+  - [MIT 6.0002 Introduction to Computational Thinking and Data Science](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
   - [Audio/Video Courses from Colleges and Universities](http://www.infocobuild.com/education/audio-video-courses/)
   - [CS50 Harvard](https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu)
   - [Everything Computer Science](https://everythingcomputerscience.com/)
