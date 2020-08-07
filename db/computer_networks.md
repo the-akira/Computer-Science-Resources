@@ -92,6 +92,7 @@
 - [PowerCert Animated Videos](https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q/videos)
 - [Professor Messer](https://www.youtube.com/watch?v=IErQm8wsaxg&amp;list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd)
 - [Python Networking](https://www.youtube.com/watch?v=XiVVYfgDolU)
+- [Network Programming with Python Course](https://www.youtube.com/watch?v=FGdiSJakIS4&t)
 - [How DNS Works - Computerphile](https://www.youtube.com/watch?v=uOfonONtIuk)
 
 ---------------------------------------
