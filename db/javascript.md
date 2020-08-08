@@ -64,6 +64,7 @@
 - [Learn Javascript in just 5 Minutes](https://www.youtube.com/watch?v=c-I5S_zTwAc)
 - [That Weird JavaScript Course](https://www.youtube.com/playlist?list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI)
 - [JavaScript Algorithms Course - Basics, Time Complexity (Big O) & More](https://www.youtube.com/watch?v=JgWm6sQwS_I)
+- [JavaScript Data Structures: Getting Started](https://www.youtube.com/watch?v=41GSinwoMYA)
 - [The Nature of Code 2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM)
 
 ---------------------------------------
