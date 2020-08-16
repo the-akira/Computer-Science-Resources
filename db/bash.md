@@ -28,6 +28,7 @@
 - [Reddit](https://www.reddit.com/r/bash/)
 - [Bash Commands](https://www.unr.edu/research-computing/the-grid/using-the-grid/bash-commands)
 - [Basic Bash Programming](https://www.uio.no/studier/emner/matnat/ifi/INF3331/h11/bash.pdf)
+- [Bash Scripting for Beginning System Administrators](https://www.ibm.com/developerworks/aix/library/au-getstartedbash/index.html)
 - [Bash Overview](https://www.cs.cmu.edu/~15131/f17/topics/bash/)
 - [Cheat.sh](https://cheat.sh/)
 - [Chapter 5 Bash](https://bookdown.org/sean/the-unix-workbench/bash-programming.html)
