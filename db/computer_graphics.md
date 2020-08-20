@@ -11,6 +11,7 @@
 - [Geeks for Geeks](https://www.geeksforgeeks.org/computer-graphics-2/)
 - [Explain That Stuff](https://www.explainthatstuff.com/computer-graphics.html)
 - [Stanford Computer Graphics](https://graphics.stanford.edu/)
+- [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
 - [MIT 6.837](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/)
 - [Columbia Computer Graphics Group](http://www.cs.columbia.edu/cg/pubs.php)
 - [Gabriel Gambetta](http://www.gabrielgambetta.com/computer-graphics-from-scratch/table-of-contents.html)
