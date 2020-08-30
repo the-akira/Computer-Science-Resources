@@ -100,6 +100,7 @@
 - [Python Beginners](https://www.youtube.com/watch?v=YYXdXT2l-Gg&amp;list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
 - [Socratica](https://www.youtube.com/watch?v=bY6m6_IIN94&amp;list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 - [Python Algorithms for Interviews](https://www.youtube.com/watch?v=p65AHm9MX80&amp;t=)
+- [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo)
 - [MIT 6.0001](https://www.youtube.com/watch?v=ytpJdnlu9ug&amp;list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 - [MIT 6.00](https://www.youtube.com/watch?v=k6U-i4gXkLM&amp;list=PL4C4720A6F225E074)
 - [MIT 6.00SC](https://www.youtube.com/watch?v=bX3jvD7XFPs&amp;list=PLB2BE3D6CA77BB8F7)
