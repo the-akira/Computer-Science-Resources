@@ -40,6 +40,7 @@
 - [Tutorial List](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
+- [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/table_of_contents.html)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 - [Notes On Using Data Science & Artificial Intelligence](https://chrisalbon.com/)
 - [Data Quest](https://www.dataquest.io/blog/)
