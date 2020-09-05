@@ -22,6 +22,7 @@
 - [W3resource](https://www.w3resource.com/c-programming-exercises/)
 - [Overiq](https://overiq.com/c-programming/101/intro-to-c-programming/)
 - [The C Programming Language 2nd Edition](http://www2.cs.uregina.ca/~hilder/cs833/Other%20Reference%20Materials/The%20C%20Programming%20Language.pdf)
+- [Modern C](https://modernc.gforge.inria.fr/)
 - [Reddit](https://www.reddit.com/r/C_Programming/)
 - [Di-mgt](https://www.di-mgt.com.au/cprog.html)
 - [C Language](https://en.cppreference.com/w/c/language)
