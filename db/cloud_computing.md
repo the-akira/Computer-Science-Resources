@@ -35,6 +35,7 @@
 - [Edureka Tutorial](https://www.youtube.com/watch?v=kQnNd-DyrpA)
 - [Eli the Computer Guy](https://www.youtube.com/watch?v=QYzJl0Zrc4M)
 - [Getting Started with Kubernetes](https://www.manning.com/books/getting-started-with-kubernetes)
+- [Cloud Native Spring in Action - With Spring Boot and Kubernetes](https://www.manning.com/books/cloud-native-spring-in-action)
 
 ---------------------------------------
 
