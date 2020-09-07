@@ -11,6 +11,7 @@
 - [Why Julia?](https://ucidatascienceinitiative.github.io/IntroToJulia/Html/WhyJulia)
 - [Intro to Julia](https://ucidatascienceinitiative.github.io/IntroToJulia/)
 - [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls-julia-companion.pdf)
+- [Introduction to Computational Thinking](https://mitmath.github.io/18S191/Fall20/)
 - [Calculus with Julia](https://calculuswithjulia.github.io/)
 - [Julia for Machine Learning](http://www.cs.toronto.edu/~jsnell/assets/julia-tutorial.pdf)
 - [Julia Optimization Packages](https://www.juliaopt.org/)
