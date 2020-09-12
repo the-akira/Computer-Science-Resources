@@ -114,6 +114,7 @@
 - [Efficiency with Algorithms, Performance with Data Structures](https://www.youtube.com/watch?v=fHNmRkzxHWs)
 - [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
 - [Advanced Algorithms (COMPSCI 224)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
+- [CS2: Data Structures and Algorithms - Richard Buckland](https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1)
 - [Algorithms Part I](https://www.coursera.org/learn/algorithms-part1)
 - [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 - [Algorithms Lessons](https://www.youtube.com/playlist?list=PL89B61F78B552C1AB)
