@@ -65,6 +65,7 @@
 - [That Weird JavaScript Course](https://www.youtube.com/playlist?list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI)
 - [JavaScript Algorithms Course - Basics, Time Complexity (Big O) & More](https://www.youtube.com/watch?v=JgWm6sQwS_I)
 - [JavaScript Data Structures: Getting Started](https://www.youtube.com/watch?v=41GSinwoMYA)
+- [Asynchronous JavaScript](https://www.youtube.com/watch?v=ZcQyJ-gxke0&list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu&ab_channel=TheNetNinja)
 - [The Nature of Code 2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM)
 
 ---------------------------------------
