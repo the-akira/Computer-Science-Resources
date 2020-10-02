@@ -11,6 +11,7 @@
 - [McCulloch-Pitts Neuron - Mankind’s First Mathematical Model of A Biological Neuron](https://towardsdatascience.com/mcculloch-pitts-model-5fdf65ac5dd1)
 - [McCulloch-Pitts Neurons](http://www.mind.ilstu.edu/curriculum/modOverview.php?modGUI=212)
 - [Artificial Neural Networks Technology](http://www.psych.utoronto.ca/users/reingold/courses/ai/cache/neural_ToC.html)
+- [A Brief History of Neural Nets and Deep Learning](https://www.skynettoday.com/overviews/neural-net-history)
 - [A Beginner's Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
 - [Fast.ai](https://www.fast.ai/)
 - [Dive into Deep Learning](https://d2l.ai/index.html)
