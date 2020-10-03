@@ -8,6 +8,7 @@
 - [A History of Machine Learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
 - [Common ML Problems](https://developers.google.com/machine-learning/problem-framing/cases)
 - [Timeline of Machine Learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
+- [A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)
 - [COS 402 Artificial Intelligence](https://www.cs.princeton.edu/courses/archive/fall12/cos402/)
 - [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [Elite Data Science Learn Machine Learning](https://elitedatascience.com/learn-machine-learning)
