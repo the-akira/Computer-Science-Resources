@@ -112,6 +112,7 @@
 - [Redes Neurais Artificiais](https://andreric.github.io/files/pdfs/redes_neurais.pdf)
 - [Guia de Aulas Práticas](http://repositorio.ufla.br/jspui/bitstream/1/29980/1/APOSTILA_Guia%20de%20aulas%20pr%C3%A1ticas%20de%20redes%20neurais%20artificiais%3A%20vers%C3%A3o%201.2.pdf)
 - [Aula 18 - Redes Neurais](http://edirlei.3dgb.com.br/aulas/ia_2012_1/IA_Aula_18_Redes_Neurais.pdf)
+- [Curso Deep Learning](https://www.youtube.com/watch?v=6yYUc6nU3Cw&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&ab_channel=DeepLearningBrasil%28Emportugu%C3%AAs%29)
 
 ---------------------------------------
 
