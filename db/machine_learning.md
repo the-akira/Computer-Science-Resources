@@ -19,6 +19,7 @@
 - [Learning Machine Learning - Cloud AI](https://cloud.google.com/products/ai/ml-comic-1/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Machine Learning Engineering](http://www.mlebook.com/wiki/doku.php)
 - [Machine Learning From Scratch](https://mlfromscratch.com/)
 - [Python Machine Learning Getting Started](https://www.w3schools.com/python/python_ml_getting_started.asp)
 - [A guide to machine learning algorithms and their applications](https://www.sas.com/en_ie/insights/articles/analytics/machine-learning-algorithms.html)
