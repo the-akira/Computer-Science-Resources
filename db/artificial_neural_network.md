@@ -6,6 +6,7 @@
 
 - [Artificial Neuron](https://en.wikipedia.org/wiki/Artificial_neuron)
 - [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+- [Intro to Deep Learning - Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning)
 - [Digital Trends](https://www.digitaltrends.com/cool-tech/what-is-an-artificial-neural-network/)
 - [Everything You Need to Know About Artificial Neural Networks](https://medium.com/technology-invention-and-more/everything-you-need-to-know-about-artificial-neural-networks-57fac18245a1)
 - [McCulloch-Pitts Neuron - Mankind’s First Mathematical Model of A Biological Neuron](https://towardsdatascience.com/mcculloch-pitts-model-5fdf65ac5dd1)
