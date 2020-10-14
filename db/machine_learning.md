@@ -85,6 +85,8 @@
 - [Machine Learning Fundamentals](https://www.youtube.com/watch?v=FqcKTNcRH88&list=PL_onPhFCkVQhUzcTVgQiC8W2ShZKWlm0s)
 - [Machine Learning Crash Course || Samuel Taylor](https://www.youtube.com/watch?v=bwNY-pd8Ups&t=)
 - [The Mathematics of Machine Learning](https://www.youtube.com/watch?v=r07Sofj_puQ&amp;t)
+- [Mathematics for Machine Learning - Multivariate Calculus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
+- [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
 - [Cornell CS4780](https://www.youtube.com/watch?v=MrLPzBxG95I&amp;list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 - [Machine learning in Python with Scikit-Learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
 - [Machine Learning with Scikit-Learn](https://www.youtube.com/playlist?list=PLonlF40eS6nynU5ayxghbz2QpDsUAyCVF)
