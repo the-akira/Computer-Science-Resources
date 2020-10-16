@@ -1,12 +1,12 @@
-# Computer Science Resources
+<h1 align="center">Computer Science Resources</h1>
 
-![alt text](https://i.imgur.com/Q5d8RG3.png "")
+<h1 align="center">
+    <img alt="CS" title="Computer-Science-Resources" src="https://i.imgur.com/Q5d8RG3.png"> </br>
+</h1>
 
-A list of resources in different fields of **Computer Science** (in multiple languages).
-
-I would like to ask you to **open an issue** if any of the material exposed here is infringing some kind of copyright. 
-
-Thank you for your support!
+<p align="center">
+	A list of resources in different fields of **Computer Science** (in multiple languages).
+</p>
 
 ---------------------------------------
 
