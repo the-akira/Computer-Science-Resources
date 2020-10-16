@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-	A list of resources in different fields of **Computer Science** (in multiple languages).
+	A list of resources in different fields of <b>Computer Science</b> (in multiple languages).
 </p>
 
 ---------------------------------------
@@ -20,8 +20,8 @@
   - [MIT 6.00 Intro to Computer Science & Programming](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL4C4720A6F225E074)
   - [MIT 6.0001 Introduction to Computer Science & Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
   - [MIT 6.0002 Introduction to Computational Thinking and Data Science](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
-  - [Audio/Video Courses from Colleges and Universities](http://www.infocobuild.com/education/audio-video-courses/)
   - [CS50 Harvard](https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu)
+  - [Audio/Video Courses from Colleges and Universities](http://www.infocobuild.com/education/audio-video-courses/)
   - [Everything Computer Science](https://everythingcomputerscience.com/)
 - Computer Fundamentals
   - [Algorithms & Data Structures](https://github.com/the-akira/Computer-Science-Resources/blob/master/db/algorithms_data_structures.md)
