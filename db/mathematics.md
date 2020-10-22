@@ -29,6 +29,7 @@
 - [Advanced Math for Engineers](http://www.hs-weingarten.de/~ertel/vorlesungen/mae/matheng-skript-1213.pdf)
 - [Mathematical Logic](http://www.win.tue.nl/~keesh/ow/2if85/Ben-Ari3rd.pdf)
 - [Professor Kleitman's Homepage](http://www-math.mit.edu/~djk/index.html)
+- [Mathematical Thinking (Keith Devlin)](https://www.youtube.com/playlist?list=PL_onPhFCkVQiZgE9U539_QmKLJV_0YvlQ)
 - [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
 - [The Applications of Matrices](https://www.youtube.com/watch?v=rowWM-MijXU)
 - [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
