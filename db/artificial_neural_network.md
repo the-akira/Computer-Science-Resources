@@ -82,6 +82,7 @@
 - [Deep Learning Mini-Course](https://www.brainstobytes.com/deep-learning-basics-introduction)
 - [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning/)
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/watch?v=JN6H4rQvwgY&amp;list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
 - [Neural Networks - 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&amp;list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Artificial Neural Networks - IIT Kharagpur](https://www.youtube.com/playlist?list=PLA9E0359014169D37)
 - [A Friendly Introduction to Deep Learning](https://www.youtube.com/watch?v=BR9h47Jtqyw&amp;t=9s)
