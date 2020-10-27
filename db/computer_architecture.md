@@ -7,6 +7,7 @@
 - [Computer Architecture](https://en.wikipedia.org/wiki/Computer_architecture)
 - [CIS 501](https://www.cis.upenn.edu/~milom/cis501-Fall11/)
 - [CS 429: Spring, 2020](https://www.cs.utexas.edu/~byoung/cs429/syllabus429.html)
+- [MIT 6.823 Computer System Architecture](http://csg.csail.mit.edu/6.823/lecnotes.html)
 - [CS301 Computer Architecture](https://learn.saylor.org/course/view.php?id=71)
 - [Introduction to Computer Architecture](http://people.cs.ksu.edu/~schmidt/300s05/Lectures/ArchNotes/arch.html)
 - [18-447 Introduction to Computer Architecture](https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture)
