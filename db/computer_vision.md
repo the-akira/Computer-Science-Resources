@@ -6,6 +6,7 @@
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Computer_vision)
 - [History of Computer Vision](https://www.sas.com/en_us/insights/analytics/computer-vision.html)
+- [Learn Computer Vision - Kaggle](https://www.kaggle.com/learn/computer-vision)
 - [MIT News](https://news.mit.edu/topic/computer-vision)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/)
 - [Introduction to Computer Vision](https://blog.algorithmia.com/introduction-to-computer-vision/)
