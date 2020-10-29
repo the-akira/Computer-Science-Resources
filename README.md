@@ -8,8 +8,6 @@
 	A list of resources in different fields of <b>Computer Science</b> (in multiple languages).
 </p>
 
----------------------------------------
-
 ## Content
 
 - Getting Started
