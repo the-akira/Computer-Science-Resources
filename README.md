@@ -1,7 +1,7 @@
 <h1 align="center">Computer Science Resources</h1>
 
 <h1 align="center">
-    <img alt="CS" title="Computer-Science-Resources" src="https://i.imgur.com/Q5d8RG3.png"> </br>
+    <img alt="CS" title="Computer-Science-Resources" src="https://i.ibb.co/3rMXLmY/Computer-Sience-Resources.png"> </br>
 </h1>
 
 <p align="center">
