@@ -24,6 +24,7 @@
 - [Python Tutor](http://www.pythontutor.com/)
 - [Tutorialspoint](http://www.tutorialspoint.com/python)
 - [Python Examples](https://pythonexamples.org)
+- [Python Resources for Everybody](https://learnbyexample.github.io/py_resources/)
 - [Twitter Hashtag](https://twitter.com/hashtag/python)
 - [CIS 192](https://www.cis.upenn.edu/~cis192/)
 - [Fundamentals of Programming](https://6009.cat-soop.org/fall18)
