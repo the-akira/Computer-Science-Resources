@@ -66,6 +66,7 @@
 - [Intro to ML](https://www.seas.upenn.edu/~cis519/fall2017/lectures/01_introduction.pdf)
 - [Basic Concepts](https://courses.edx.org/asset-v1:ColumbiaX+CSMM.101x+1T2017+type@asset+block@AI_edx_ml_5.1intro.pdf)
 - [ML using Python](https://in.pycon.org/2011/static/files/talks/11/Introduction_To_ML_Partial_2.pdf)
+- [Machine Learning in Haskell](https://mmhaskell.com/machine-learning)
 - [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)
 - [How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works)
 - [The 50 Best Free Datasets for Machine Learning](https://gengo.ai/datasets/the-50-best-free-datasets-for-machine-learning/)
