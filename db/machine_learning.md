@@ -98,6 +98,7 @@
 - [MIT RES.LL-005 Mathematics of Big Data and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
 - [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Real-World Python Machine Learning Tutorial w/ Sci-kit Learn](https://www.youtube.com/watch?v=M9Itm95JzL0)
+- [The History of Artificial Intelligence (Documentary)](https://www.youtube.com/watch?v=R3YFxF0n8n8&ab_channel=Futurology)
 - [Elements of AI](https://course.elementsofai.com/)
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Machine Learning, Data Science and Deep Learning with Python](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
