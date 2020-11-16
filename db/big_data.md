@@ -58,6 +58,7 @@
 - [Hadoop Beginner's Guide](https://tecnoclub4u.files.wordpress.com/2015/05/hadoop_-beginners-guide.pdf)
 - [Big Data Glossary](https://eecs.wsu.edu/~yinghui/mat/courses/fall%202015/resources/Big%20Data%20Glossary.pdf)
 - [Big Data and Data Quality](https://www.uni-muenster.de/Jura.itm/hoeren/itm/wp-content/uploads/Big-Data-in-Context.pdf)
+- [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
 - [Apache Hadoop Tutorial Beginners](https://www.youtube.com/watch?v=mafw2-CVYnA)
 - [Big Data Tutorial for Beginners](https://www.youtube.com/watch?v=zez2Tv-bcXY)
 - [Explaining Big Data](https://www.youtube.com/watch?v=7D1CQ_LOizA)
