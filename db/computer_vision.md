@@ -91,7 +91,7 @@
 - [IIT Madras](http://www.cse.iitm.ac.in/~vplab/courses.html)
 - [Stanford CV Course](https://www.youtube.com/watch?v=vT1JzLTH4G4&amp;list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
 - [CS231n](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
-
+- [Deploying a Deep Learning Model on Web and Mobile Applications Using TensorFlow](https://www.manning.com/liveproject/deploying-a-deep-learning-model-on-web-and-mobile-applications-using-tensorflow) 
 ---------------------------------------
 
 ![PT](https://i.imgur.com/2kZUDhk.png)
