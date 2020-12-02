@@ -1,7 +1,5 @@
 # Algorithms and Data Structures
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
