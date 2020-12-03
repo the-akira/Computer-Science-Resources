@@ -121,6 +121,7 @@
 - [A* (A Star) Search Algorithm - Computerphile](https://www.youtube.com/watch?v=ySN5Wnu88nE)
 - [Dijkstra's Algorithm](https://www.youtube.com/watch?v=GazC3A4OQTE)
 - [Sorting Visualizer Tutorial (Software Engineering Project)](https://www.youtube.com/watch?v=pFXYym4Wbkc)
+- [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk&ab_channel=freeCodeCamp.org)
 - [50+ Sorts, Visualized - Swirl Dots](https://www.youtube.com/watch?v=LOZTuMds3LM)
 
 ---------------------------------------
