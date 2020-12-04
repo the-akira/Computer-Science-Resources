@@ -1,7 +1,5 @@
 # Artificial Neural Networks
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Artificial Neuron](https://en.wikipedia.org/wiki/Artificial_neuron)
@@ -102,6 +100,7 @@
 - [Deep Learning: A Crash Course](https://www.youtube.com/watch?v=r0Ogt-q956I&amp;t=8799s)
 - [Neural Networks from Scratch](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 - [New York University Deep Learning 2020](https://www.youtube.com/playlist?list=PLderfcX9H9MqVNCMRnZEjP4-ajPm2hEFa)
+- [DeepMind x UCL | Intro to Machine Learning & AI](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 
 ---------------------------------------
 
