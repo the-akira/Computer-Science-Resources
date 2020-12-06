@@ -1,7 +1,5 @@
 # Operating Systems
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [How Stuff Works](https://computer.howstuffworks.com/operating-system.htm)
@@ -59,6 +57,7 @@
 - [How Linux Works](http://index-of.es/Varios-2/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know.pdf)
 - [Linux: The Complete Reference](http://www.khuisf.ac.ir/prof/images/Uploaded_files/Linux%20The%20Complete%20Reference.6th.Edition(Nov.2007)[2842313].PDF)
 - [OS and Middleware](https://gustavus.edu/mcs/max/os-book/free-osbook.pdf)
+- [Lecture Notes on Operating Systems](http://www.crectirupati.com/sites/default/files/lecture_notes/Operating%20Systems%20Lecture%20Notes.pdf)
 - [Short Intro](http://markburgess.org/os/os.pdf)
 - [Basics Video](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
 - [CS 377](https://www.youtube.com/watch?v=dv4mXBsv6TI&amp;list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k)
