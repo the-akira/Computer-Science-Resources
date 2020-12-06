@@ -1,7 +1,5 @@
 # Computer Architecture
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Computer Architecture](https://en.wikipedia.org/wiki/Computer_architecture)
