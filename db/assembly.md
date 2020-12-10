@@ -1,7 +1,5 @@
 # Assembly
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Awesome asm](https://github.com/jaspergould/awesome-asm)
