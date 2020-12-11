@@ -33,6 +33,7 @@
 - [The Applications of Matrices](https://www.youtube.com/watch?v=rowWM-MijXU)
 - [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [In-Depth Linear Algebra Course](https://www.youtube.com/playlist?list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv)
 - [Highlights of Calculus](https://www.youtube.com/playlist?list=PLBE9407EA64E2C318)
 - [MIT 6.042J Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&amp;list=PLB7540DEDD482705B)
 - [MIT 18.01 Single Variable Calculus](https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL590CCC2BC5AF3BC1)
