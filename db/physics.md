@@ -1,7 +1,5 @@
 # Physics
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [History of Physics](https://www.youtube.com/watch?v=acUf7PuGWXA)
@@ -116,5 +114,6 @@
 - [Basics](https://books.ifmo.ru/file/pdf/206.pdf)
 - [Digital Design](http://easyelectronics.ru/files/Book/digital-design-and-computer-architecture-russian-translation.pdf)
 - [Digital Electronics](https://www.bsuir.by/m/12_100229_1_85482.pdf)
+- [The Physical Foundations of the Operation of Modern Computers](https://www.kazedu.kz/referat/53306)
 
 ---------------------------------------
