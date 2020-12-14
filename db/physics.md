@@ -10,6 +10,7 @@
 - [Computational Physics](https://farside.ph.utexas.edu/teaching/329/329.pdf)
 - [Comp Physics Book](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/docs/computational_physics.pdf)
 - [EDX Circuits and Electronics](https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x-0)
+- [Hyper Physics - Electricity and Magnetism](http://hyperphysics.phy-astr.gsu.edu/hbase/emcon.html)
 - [How to Learn Electronics](https://www.build-electronic-circuits.com/how-to-learn-electronics/)
 - [Learn About Electronics](http://www.learnabout-electronics.org/)
 - [Tutorialspoint Electronic](https://www.tutorialspoint.com/electronic_circuits/)
