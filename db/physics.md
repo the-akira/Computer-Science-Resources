@@ -30,6 +30,7 @@
 - [MIT 6.002 Circuits and Electronics](https://www.youtube.com/watch?v=AfQxyVuLeCs&amp;list=PL9F74AFA03AA06A11)
 - [MIT 8.962 General Relativity](https://www.youtube.com/watch?v=iRVfaR3N5K4&list=PLUl4u3cNGP629n_3fX7HmKKgin_rqGzbx&ab_channel=MITOpenCourseWare)
 - [Fundamentals of Physics with Ramamurti Shankar](https://www.youtube.com/watch?v=KOKnWaLiL8w&list=PLFE3074A4CB751B2B&ab_channel=YaleCourses)
+- [Fundamentals of Physics II with Ramamurti Shankar](https://www.youtube.com/watch?v=NK-BxowMIfg&list=PLD07B2225BB40E582&ab_channel=YaleCourses)
 - [Digital Electronics](https://www.youtube.com/watch?v=M0mx8S05v60&amp;list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
 - [Digital Circuits Systems](https://www.youtube.com/watch?v=CeD2L6KbtVM&amp;list=PL803563859BF7ED8C)
 - [Circuits Physics](https://www.youtube.com/watch?v=F_vLWkkOETI&amp;list=PLqwfRVlgGdFC7HLoajCVjUk23cqy4QvRL)
