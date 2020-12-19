@@ -1,7 +1,5 @@
 # Java
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [W3Schools](https://www.w3schools.com/java/default.asp)
@@ -60,6 +58,7 @@
 - [Java Applets](http://www2.gsu.edu/~matpxp/SwIG/talks/java_applets.pdf)
 - [Effective Java](https://the-eye.eu/public/Books/IT%20Various/Effective%20Java%2C%202nd%20Edition.pdf)
 - [Java Quickreference](https://web.fe.up.pt/~aaguiar/teaching/pc/Java-QuickReferenceGuide.pdf)
+- [Java Tutorial - For Beginners](https://www.youtube.com/watch?v=Yv_4RXyLjL8&ab_channel=TechWithTim)
 
 ---------------------------------------
 
