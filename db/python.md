@@ -1,7 +1,5 @@
 # Python
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Python.org](https://www.python.org/)
@@ -32,6 +30,7 @@
 - [ICS](https://www.ics.uci.edu/~pattis/common/handouts/introtopythonineclipse/)
 - [Python Programming Exercises](https://github.com/zhiwehu/Python-programming-exercises)
 - [CPython](https://github.com/python/cpython)
+- [Python Behind the Scenes](https://tenthousandmeters.com/materials/python-behind-the-scenes-a-list-of-resources/)
 - [Awesome Python](https://github.com/vinta/awesome-python)
 - [Fucking awesome Python](https://github.com/trananhkma/fucking-awesome-python)
 - [Python awesome](https://pythonawesome.com/)
