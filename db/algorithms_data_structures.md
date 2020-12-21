@@ -243,6 +243,7 @@
 - [АЛГОРИТМЫ + СТРУКТУРЫДАННЫХ = ПРОГРАММЫ](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Algorithms%20and%20Data%20Structures%20%28RU%29.pdf)
 - [Алгоритмы Структуры Данных Slides](http://kspt.icc.spbstu.ru/media/files/2017/asd/01_Intro.pdf)
 - [Анализ сложности алгоритмов. Примеры](https://pro-prof.com/archives/1660)
+- [MAXimal](http://e-maxx.ru/algo/)
 
 ---------------------------------------
 
