@@ -1,11 +1,10 @@
 # C++
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Programiz](https://www.programiz.com/cpp-programming)
 - [Cplusplus](http://www.cplusplus.com/doc/tutorial/)
+- [C++ Docs](https://docs.microsoft.com/en-us/cpp/cpp/)
 - [WikiBooks](https://en.wikibooks.org/wiki/C%2B%2B_Programming)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/c-plus-plus/)
 - [Learn Cpp](https://www.learn-cpp.org/)
