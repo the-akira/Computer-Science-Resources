@@ -6,6 +6,7 @@
 - [The Physics of Computers](http://ffden-2.phys.uaf.edu/212_fall2009.web/chris_plutt/index.html)
 - [Physics from Computer Science](https://www.cs.ox.ac.uk/files/349/YORKIJUC.pdf)
 - [Computing Between Logic and Physics](http://www.cmls.polytechnique.fr/perso/paul/gius-thier-sent.pdf)
+- [Computational Physics: Teach yourself C++](http://compphysics.github.io/ComputationalPhysics/doc/pub/learningcpp/html/learningcpp-bs.html)
 - [Physics for Computer Science Students](https://www.cin.ufpe.br/~gcs/Springer%20-%20Physics%20for%20Computer%20Science%20Students.pdf)
 - [Computational Physics](https://farside.ph.utexas.edu/teaching/329/329.pdf)
 - [Comp Physics Book](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/docs/computational_physics.pdf)
