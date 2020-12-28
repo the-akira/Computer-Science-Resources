@@ -67,6 +67,7 @@
 - [MIT 6.004 Assembly](https://www.youtube.com/watch?v=LbptX5Ac74s)
 - [Assembly Intro](https://www.youtube.com/watch?v=xOm_jOeip_c)
 - [Intro to Assembly](https://www.youtube.com/watch?v=H4Z0S9ZbC0g&amp;list=PL6y3-kASCE338MJ1tIGF-qmuGQqZMWUMz)
+- [Assembly Language & Computer Architecture](https://www.youtube.com/watch?v=L1ung0wil9Y&ab_channel=MITOpenCourseWare)
 - [Getting Started with Assembly](https://riptutorial.com/assembly)
 
 ---------------------------------------
