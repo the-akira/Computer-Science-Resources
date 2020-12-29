@@ -8,6 +8,7 @@
 - [Gentle Intro to Math for CS](http://web.ftvs.cuni.cz/hendl/metodologie/gentle-introduction-to-mathematics-for-computer.pdf)
 - [Discrete Math](https://en.wikiversity.org/wiki/Introductory_Discrete_Mathematics_for_Computer_Science)
 - [Discrete Mathematics for Computer Science](https://www.skylineuniversity.ac.ae/pdf/math/DISCRETE%20MATHEMATICAL%20STRUCTURES%20%20APLNS%20COMPTR%20SC.pdf)
+- [The Princeton Companion to Applied Mathematics](http://index-of.es/Varios-2/The%20Princeton%20Companion%20to%20Applied%20Mathemathics.pdf)
 - [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
 - [Facts & Formulae](http://www.mathcentre.ac.uk/resources/uploaded/43799-maths-for-computer-sci-ff-for-web.pdf)
 - [Computer Mathematics](https://en.wikipedia.org/wiki/Computer_mathematics)
