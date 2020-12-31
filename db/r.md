@@ -1,10 +1,9 @@
 # R
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [R-Project](https://www.r-project.org/about.html)
+- [R W3Schools](https://www.w3schools.com/r/default.asp)
 - [Wikipedia](https://en.wikipedia.org/wiki/R_(programming_language))
 - [Edx](https://www.edx.org/learn/r-programming)
 - [Awesome R](https://github.com/qinwf/awesome-R)
