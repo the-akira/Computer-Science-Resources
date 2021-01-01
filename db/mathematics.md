@@ -4,6 +4,7 @@
 
 - [Mathematics in Computer Science Curricula](https://www.cs.cmu.edu/~wing/publications/talk.pdf)
 - [MIT Math for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+- [Everything in our Life has only Mathematical Patterns](https://medium.com/however-mathematics/everything-in-our-life-has-only-mathematical-patterns-504a0e87ab3)
 - [Real not Complex (Math Resources)](https://realnotcomplex.com/)
 - [Gentle Intro to Math for CS](http://web.ftvs.cuni.cz/hendl/metodologie/gentle-introduction-to-mathematics-for-computer.pdf)
 - [Discrete Math](https://en.wikiversity.org/wiki/Introductory_Discrete_Mathematics_for_Computer_Science)
