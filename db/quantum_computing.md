@@ -1,7 +1,5 @@
 # Quantum Computing
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Quantum_computing)
@@ -66,6 +64,7 @@
 - [Quantum Computers Explained](https://www.youtube.com/watch?v=JhHMJCUmq28)
 - [Google and NASA's Quantum Artificial Intelligence Lab](https://www.youtube.com/watch?v=CMdHDHEuOUE)
 - [Demonstrating Quantum Supremacy](https://www.youtube.com/watch?v=-ZNEzzDcllU)
+- [Quantum Computing with Andrea Morello](https://www.youtube.com/watch?v=jDW9bWSepB0&ab_channel=EEVdiscover)
 
 ---------------------------------------
 
