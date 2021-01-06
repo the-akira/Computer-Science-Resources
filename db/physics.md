@@ -11,6 +11,7 @@
 - [Computational Physics](https://farside.ph.utexas.edu/teaching/329/329.pdf)
 - [Comp Physics Book](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/docs/computational_physics.pdf)
 - [Hyper Physics - Electricity and Magnetism](http://hyperphysics.phy-astr.gsu.edu/hbase/emcon.html)
+- [A Primer on Basic Electronics and Circuits](https://dev.to/erikaheidi/a-primer-on-basic-electronics-and-circuits-n3e)
 - [How to Learn Electronics](https://www.build-electronic-circuits.com/how-to-learn-electronics/)
 - [Learn About Electronics](http://www.learnabout-electronics.org/)
 - [Tutorialspoint Electronic](https://www.tutorialspoint.com/electronic_circuits/)
