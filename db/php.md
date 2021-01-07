@@ -1,7 +1,5 @@
 # PHP
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
@@ -54,6 +52,7 @@
 - [PHP mmtuts](https://www.youtube.com/watch?v=qVU3V0A05k8&amp;list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-)
 - [PHP Front to Back](https://www.youtube.com/watch?v=oJbfyzaA2QA&amp;list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
 - [PHP Tutorials](https://www.youtube.com/watch?v=95RU58kZlbc&amp;list=PLONQt8bJdq9ayhjJkDsNcNTzUgYg_yG-U)
+- [PHP For Absolute Beginners | 6.5 Hour Course](https://www.youtube.com/watch?v=2eebptXfEvw&ab_channel=TraversyMedia)
 
 ---------------------------------------
 
