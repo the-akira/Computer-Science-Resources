@@ -30,6 +30,7 @@
 - [A Guide to Writing Math](http://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf)
 - [Math for Computer Graphics](http://pdf.nsc.ac.id/1-buku%20komputer%20grafis-20170515052347.pdf)
 - [Advanced Math for Engineers](http://www.hs-weingarten.de/~ertel/vorlesungen/mae/matheng-skript-1213.pdf)
+- [Mathematical Python](https://www.math.ubc.ca/~pwalls/math-python/)
 - [Mathematical Logic](http://www.win.tue.nl/~keesh/ow/2if85/Ben-Ari3rd.pdf)
 - [Professor Kleitman's Homepage](http://www-math.mit.edu/~djk/index.html)
 - [Mathematical Thinking (Keith Devlin)](https://www.youtube.com/playlist?list=PL_onPhFCkVQiZgE9U539_QmKLJV_0YvlQ)
