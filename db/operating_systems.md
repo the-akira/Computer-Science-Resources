@@ -68,6 +68,7 @@
 - [OS Tutorials](https://www.youtube.com/watch?v=2Z0yIguC5eU&amp;list=PL86A18ACD144A1A30)
 - [Linux Course](https://www.youtube.com/watch?v=bju_FdCo42w&amp;list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
 - [Linux File System/Structure Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw)
+- [Linux for Programmers](https://www.youtube.com/watch?v=ebHX9c75H8I&list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h&ab_channel=TechWithTim)
 
 ---------------------------------------
 
