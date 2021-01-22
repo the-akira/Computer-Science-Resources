@@ -38,6 +38,7 @@
 - [Circuits Physics](https://www.youtube.com/watch?v=F_vLWkkOETI&amp;list=PLqwfRVlgGdFC7HLoajCVjUk23cqy4QvRL)
 - [Electric Circuits](https://www.youtube.com/watch?v=-Rb9guSEeVE&amp;list=PLkyBCj4JhHt8DFH9QysGWm4h_DOxT93fb)
 - [Simulating Physics](https://people.eecs.berkeley.edu/~christos/classics/Feynman.pdf)
+- [Quantum made simple](https://toutestquantique.fr/en/)
 
 ---------------------------------------
 
