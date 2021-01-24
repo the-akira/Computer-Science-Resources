@@ -9,6 +9,7 @@
 - [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 - [Sorting Algorithms](https://www.interviewbit.com/tutorial/sorting-algorithms/)
 - [CS 171 Course](https://www.mathcs.emory.edu/~cheung/Courses/171/Syllabus/)
+- [CS 521 - Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall13/cos521/)
 - [Programiz - Data Structures and Algorithms](https://www.programiz.com/dsa)
 - [Data Structures using C](http://masterraghu.com/subjects/Datastructures/ebooks/rema%20thareja.pdf)
 - [Algo Expert Questions](https://www.algoexpert.io/questions)
