@@ -45,6 +45,7 @@
 ![PT](https://i.imgur.com/2kZUDhk.png)
 
 - [Física Computacional](https://pt.wikipedia.org/wiki/F%C3%ADsica_computacional)
+- [QuBit: O Bit Quântico](https://www.youtube.com/watch?v=Nc-xoGjkqPw)
 - [Carreira em Física Computacional](https://www.ifi.unicamp.br/gfs/Abner/FM003-A/Maurice.pdf)
 - [Física Aplicada](http://www.posselt.com.br/graduacao/fisica/Correnteeletrica.pdf)
 - [Fundamentos Físicos dos Comp Quânticos](http://www.infis.ufu.br/infis_sys/pdf/MARCO%20ANTONIO%20DOS%20SANTOS.pdf)
