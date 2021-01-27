@@ -2,6 +2,7 @@
 
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
+- [The Map of Mathematics](https://mathmap.quantamagazine.org/map/)
 - [Mathematics in Computer Science Curricula](https://www.cs.cmu.edu/~wing/publications/talk.pdf)
 - [MIT Math for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 - [Mathematics for Computer Science Book](https://www.iith.ac.in/~aravind/Files-DM/LLM-MFCS-2004.pdf)
