@@ -7,6 +7,7 @@
 - [Python Programming](https://pythonprogramming.net/)
 - [Real Python](https://realpython.com/)
 - [Computer Science Circles - University of Waterloo](https://cscircles.cemc.uwaterloo.ca/)
+- [CS 1110: Introduction to Computing Using Python](https://www.cs.cornell.edu/courses/cs1110/2016sp/lectures/index.php)
 - [Introduction to Python Programming](https://www.udemy.com/pythonforbeginnersintro/)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)
 - [Code Academy](https://www.codecademy.com/learn/learn-python)
