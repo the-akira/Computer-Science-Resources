@@ -1,13 +1,12 @@
 # C
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Programiz](https://www.programiz.com/c-programming)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
 - [Learn C](https://www.learn-c.org/)
 - [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Beej's Guide to C Programming](http://beej.us/guide/bgc/html/)
 - [Tutorialspoint](https://www.tutorialspoint.com/cprogramming/)
 - [C Programming](https://www.cprogramming.com/)
 - [Fresh2fresh](https://fresh2refresh.com/c-programming/)
