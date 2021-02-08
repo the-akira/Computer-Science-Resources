@@ -51,6 +51,7 @@
 - [Visual Studio](https://code.visualstudio.com/docs/python/python-tutorial)
 - [CS231n](http://cs231n.github.io/python-numpy-tutorial/)
 - [Python for you and me](https://pymbook.readthedocs.io/en/latest/)
+- [Kids Python](https://kidspython.com/)
 - [Solo Learn](https://www.sololearn.com/Course/Python/)
 - [Pitt](https://www.pitt.edu/~naraehan/python2/)
 - [Otree](https://otree.readthedocs.io/en/latest/python.html)
