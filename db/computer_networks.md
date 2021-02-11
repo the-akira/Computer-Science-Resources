@@ -1,7 +1,5 @@
 # Computer Networks
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Computer_network)
@@ -12,6 +10,7 @@
 - [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking)
 - [The History of the URL](https://blog.cloudflare.com/the-history-of-the-url/)
 - [Computer Networking by Georgia Tech](https://www.udacity.com/course/computer-networking--ud436)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 - [An Introduction to Computer Networks](https://intronetworks.cs.luc.edu/current/html/)
 - [Basic computer network components](https://en.wikiversity.org/wiki/Basic_computer_network_components)
 - [Data Communication & Computer Network](https://www.tutorialspoint.com/data_communication_computer_network/)
