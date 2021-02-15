@@ -1,7 +1,5 @@
 # Computer Vision
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Computer_vision)
@@ -91,6 +89,7 @@
 - [IIT Madras](http://www.cse.iitm.ac.in/~vplab/courses.html)
 - [Stanford CV Course](https://www.youtube.com/watch?v=vT1JzLTH4G4&amp;list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
 - [CS231n](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+- [OpenCV Python Tutorials](https://www.youtube.com/watch?v=qCR2Weh64h4&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&ab_channel=TechWithTim)
 - [Deploying a Deep Learning Model on Web and Mobile Applications Using TensorFlow](https://www.manning.com/liveproject/deploying-a-deep-learning-model-on-web-and-mobile-applications-using-tensorflow) 
 ---------------------------------------
 
