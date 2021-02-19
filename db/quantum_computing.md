@@ -89,6 +89,7 @@
 - [Trabalho de Graduação, Computação Quântica](http://professor.ufabc.edu.br/~jair.donadelli/tg/QC.html)
 - [Renascimento Quântico](https://www.spf.pt/magazines/GFIS/52/article/235/pdf)
 - [Arquitetura de Computadores Quânticos](https://www.dcce.ibilce.unesp.br/~aleardo/cursos/arqcomp/Semin_ArqQuant.pdf)
+- [Sutilezas do Mundo Quântico - Prof. Luiz Davidovich - UFRJ](https://www.youtube.com/watch?v=fp0tufHVuyE&ab_channel=InstitutodeF%C3%ADsicaUSP)
 
 ---------------------------------------
 
