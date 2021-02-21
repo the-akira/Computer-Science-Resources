@@ -55,6 +55,7 @@
 - [Quantum Computing for Computer Scientists](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/40655.compressed.pdf)
 - [Quantum Computer Science](http://www.dphu.org/uploads/attachements/books/books_3092_0.pdf)
 - [Quantum Computation](https://notendur.hi.is/hh/kennsla/rrr/QuantumComputation.pdf)
+- [Quantum Experiments at Space Scale](https://en.wikipedia.org/wiki/Quantum_Experiments_at_Space_Scale)
 - [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp)
 - [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers)
 - [Quantum Computing for Computer Scientists Lecture](https://www.youtube.com/watch?v=F_Riqjdh2oM)
