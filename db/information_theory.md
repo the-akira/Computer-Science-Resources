@@ -1,7 +1,5 @@
 # Information Theory
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Information_theory)
@@ -11,6 +9,7 @@
 - [Information Theory Made Simple](https://evo2.org/information-theory-made-simple/)
 - [Medium Article](https://medium.com/aint-nobody-got-time-for-that/information-theory-f3b11050a3ae)
 - [The Beginnings of Information Theory](https://ils.unc.edu/~losee/b5/node7.html)
+- [A Gentle Introduction to Information Entropy](https://machinelearningmastery.com/what-is-information-entropy/)
 - [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
 - [Information Theory Article](http://bactra.org/notebooks/information-theory.html)
 - [A Mini-Introduction to Information Theory](https://arxiv.org/pdf/1805.11965.pdf)
