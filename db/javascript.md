@@ -1,7 +1,5 @@
 # Javascript 
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Codecademy](https://www.codecademy.com/learn/learn-javascript)
@@ -38,6 +36,7 @@
 - [Academind](https://www.academind.com/learn/javascript/)
 - [Full Stack Academy](https://www.fullstackacademy.com/blog/learn-javascript-for-free-11-online-tutorials-resources)
 - [Javascript Source](https://javascriptsource.com/)
+- [JavaScript Fetch API](https://www.javascripttutorial.net/javascript-fetch-api/)
 - [HTML Dog](http://www.htmldog.com/guides/javascript/)
 - [Node Beginner](https://www.nodebeginner.org/)
 - [JS The Right Way](http://jstherightway.org/)
