@@ -93,6 +93,7 @@
 - [Notas sobre Sistemas Operacionais](https://docente.ifrn.edu.br/rodrigotertulino/livros/notas-sobre-sistemas-operacionais)
 - [Evolução dos Sistemas Operacionais](http://www-di.inf.puc-rio.br/~endler/courses/inf1019/transp/aulas-teoricas/cap-1-historia.pdf)
 - [Introdução aos Sistemas Operacionais](https://www.ime.usp.br/~adao/sos2y.pdf)
+- [Apostila de Linux](https://www.inf.ufpr.br/cursos/ci055/linux.pdf)
 
 ---------------------------------------
 
