@@ -1,10 +1,6 @@
 # SQL
 
----------------------------------------
-
-![EN](https://i.imgur.com/JVHlBEw.png)
-
-- [Wikipedia](https://en.wikipedia.org/wiki/SQL)
+- [Learn SQL Online](https://www.learnsqlonline.org/)
 - [W3Schools](https://www.w3schools.com/sql/)
 - [SQL Course](http://www.sqlcourse.com/intro.html)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
