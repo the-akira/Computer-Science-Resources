@@ -3,8 +3,9 @@
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Awesome asm](https://github.com/jaspergould/awesome-asm)
-- [Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
-- [Tutorialspoint](https://www.tutorialspoint.com/assembly_programming/)
+- [Wikipedia Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)
+- [Tutorialspoint Assembly](https://www.tutorialspoint.com/assembly_programming/)
+- [How to Read Assembly Language](https://wolchok.org/posts/how-to-read-assembly-language/)
 - [Assembly Programming](https://homepage.cs.uiowa.edu/~ghosh/8-29-13.pdf)
 - [6502 Introduction](http://www.obelisk.me.uk/6502/)
 - [Programming in Assembly Language](https://bob.cs.sonoma.edu/IntroCompOrg-RPi/chp-asm.html)
