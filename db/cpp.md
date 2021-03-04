@@ -7,6 +7,7 @@
 - [C++ Docs](https://docs.microsoft.com/en-us/cpp/cpp/)
 - [WikiBooks](https://en.wikibooks.org/wiki/C%2B%2B_Programming)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/c-plus-plus/)
+- [C++ W3Schools](https://www.w3schools.com/cpp/default.asp)
 - [Learn Cpp](https://www.learn-cpp.org/)
 - [Tutorialspoint](https://www.tutorialspoint.com/cplusplus/)
 - [NTU.edu](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp0_introduction.html)
