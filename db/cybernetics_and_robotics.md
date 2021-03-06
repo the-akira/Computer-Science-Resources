@@ -1,7 +1,5 @@
 # Cybernetics & Robotics
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Cybernetics MIT](http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF)
@@ -33,6 +31,7 @@
 - [How We Became Posthuman](http://faculty.georgetown.edu/irvinem/theory/Hayles-Posthuman-excerpts.pdf)
 - [Cybernetics and Military Applications](https://apps.dtic.mil/dtic/tr/fulltext/u2/727887.pdf)
 - [Normalizing Soviet Cybernetics](http://nevzlin.huji.ac.il/userfiles/files/47.2.peters.pdf)
+- [Soviet Cybernetics Research](https://www.rand.org/content/dam/rand/pubs/reports/2007/R909.pdf)
 - [Understanding Understanding](http://www.alice.id.tue.nl/references/foerster-2003.pdf)
 - [Cybernetics in the Soviet Union](https://apps.dtic.mil/dtic/tr/fulltext/u2/602705.pdf)
 - [The Future of Artificial Intelligence and Cybernetics](https://www.technologyreview.com/s/602830/the-future-of-artificial-intelligence-and-cybernetics/)
