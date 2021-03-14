@@ -1,7 +1,5 @@
 # Machine Learning
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Harvard Data Science](https://cs109.github.io/2015/)
@@ -116,6 +114,7 @@
 - [Introdução](http://www.inf.ufpr.br/lesoliveira/aprendizado/introducao.pdf)
 - [AM Introdução](http://www.ppgia.pucpr.br/~alekoe/AM/2007/1-Introducao-ApreMaq-2007.pdf)
 - [AM usando Python](http://thiagomarzagao.com/assets/teaching/ipea/slides1.pdf)
+- [Machine learning e alguns exemplos de aplicação em dados astronômicos](http://www.astro.iag.usp.br/~astro12h/files/2018/0305.pdf)
 - [Desmistificando a Inteligência Artificial](https://www.youtube.com/watch?v=c8C_EJcZbdU)
 
 ---------------------------------------
