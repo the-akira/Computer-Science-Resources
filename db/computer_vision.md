@@ -120,6 +120,7 @@
 - [Sistema de Visão Computacional para Reconhecimento](http://www.cin.ufpe.br/~tg/2018-1/wro-tg.pdf)
 - [Aplicação de Algoritmos de Visão Computacional](https://www.cs.cornell.edu/~hauagge/files/pdf/hauagge_msc.pdf)
 - [Visão Computacional e Interface Homem-Máquina](http://livros01.livrosgratis.com.br/cp057727.pdf)
+- [Detecção Facial com a Biblioteca OpenCV](https://akiradev.netlify.app/posts/face-detection/)
 
 ---------------------------------------
 
