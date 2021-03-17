@@ -79,6 +79,7 @@
 - [Neural Networks: Feedforward and Backpropagation Explained](https://mlfromscratch.com/neural-networks-explained/)
 - [Deep Learning - NYU Center for Data Science](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Deep Learning Mini-Course](https://www.brainstobytes.com/deep-learning-basics-introduction)
+- [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/)
 - [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning/)
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/watch?v=JN6H4rQvwgY&amp;list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
