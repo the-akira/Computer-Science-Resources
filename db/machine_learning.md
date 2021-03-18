@@ -72,6 +72,7 @@
 - [Edureka Machine Learning](https://www.youtube.com/watch?v=Pj0neYUp9Tc&amp;list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
 - [Deep Learning with Structured Data](https://www.manning.com/books/deep-learning-with-structured-data)
 - [Probabilistic Deep Learning with Python](https://www.manning.com/books/probabilistic-deep-learning-with-python)
+- [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 - [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business)
 - [Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)
 - [Roadmap: How to Learn Machine Learning in 6 Months](https://www.youtube.com/watch?v=MOdlp1d0PNA)
