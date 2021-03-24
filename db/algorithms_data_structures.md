@@ -4,6 +4,7 @@
 
 - [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
 - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
+- [Algovision](https://www.algovision.org/Algovision/index.html)
 - [Algorithms - FreeCodeCamp](https://guide.freecodecamp.org/algorithms)
 - [arXiv - Data Structures and Algorithms](https://arxiv.org/list/cs.DS/recent)
 - [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
