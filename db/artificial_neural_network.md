@@ -16,6 +16,7 @@
 - [Fast.ai](https://www.fast.ai/)
 - [Dive into Deep Learning](https://d2l.ai/index.html)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+- [Deep Learning CheatSheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - [Information Theory, Pattern Recognition and Neural Networks](https://www.youtube.com/watch?v=BCiZc0n6COY&amp;list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
 - [Deep Learning at Oxford 2015](https://www.youtube.com/watch?v=dV80NAlEins&amp;list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 - [CS 20: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
