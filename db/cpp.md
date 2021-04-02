@@ -19,6 +19,7 @@
 - [Javatpoint](https://www.javatpoint.com/cpp-tutorial)
 - [Reddit](https://www.reddit.com/r/cpp/)
 - [C++ for Scientists](https://math.nist.gov/~RPozo/c++class/)
+- [All C++20 core language features with examples](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
 - [Awesome C++](https://github.com/fffaraz/awesome-cpp)
 - [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
 - [C++ Resources](https://fffaraz.github.io/awesome-cpp/)
