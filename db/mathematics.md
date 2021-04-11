@@ -3,6 +3,7 @@
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [The Map of Mathematics](https://mathmap.quantamagazine.org/map/)
+- [Timeline of Mathematics](https://mathigon.org/timeline)
 - [Math Study Guide](https://www.sparknotes.com/math/)
 - [Mathematics in Computer Science Curricula](https://www.cs.cmu.edu/~wing/publications/talk.pdf)
 - [MIT Math for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
