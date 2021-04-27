@@ -96,6 +96,7 @@
 - [MIT 18.065 Matrix Methods in Data Analysis and Machine Learning](https://www.youtube.com/watch?v=Cx5Z-OslNWE&amp;list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 - [MIT RES.LL-005 Mathematics of Big Data and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
 - [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [Stanford CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 - [Real-World Python Machine Learning Tutorial w/ Sci-kit Learn](https://www.youtube.com/watch?v=M9Itm95JzL0)
 - [The History of Artificial Intelligence (Documentary)](https://www.youtube.com/watch?v=R3YFxF0n8n8&ab_channel=Futurology)
 - [Elements of AI](https://course.elementsofai.com/)
