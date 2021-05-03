@@ -45,6 +45,7 @@
 - [The Python Guru](https://thepythonguru.com/)
 - [Guru99](https://www.guru99.com/python-tutorials.html)
 - [Python Course](https://www.python-course.eu/)
+- [Crash into Python](https://stephensugden.com/crash_into_python/)
 - [Sthurlow](http://sthurlow.com/python/)
 - [Wikibooks](https://en.wikibooks.org/wiki/A_Beginner)
 - [Visual Studio](https://code.visualstudio.com/docs/python/python-tutorial)
