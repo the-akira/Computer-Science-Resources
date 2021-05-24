@@ -1,7 +1,7 @@
 # C
 
 ![EN](https://i.imgur.com/JVHlBEw.png)
-
+- [Codeforhunger learn C in easy way](https://www.codeforhunger.com/2020/12/Learn%20C%20programming%20in%20easy%20way%20%20codeforhunger.html)
 - [Programiz](https://www.programiz.com/c-programming)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
 - [Learn C](https://www.learn-c.org/)
