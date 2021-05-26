@@ -28,6 +28,7 @@
 - [Computer Vision, CSCI-GA](https://cs.nyu.edu/~fergus/teaching/vision/index.html)
 - [University of Freiburg](https://lmb.informatik.uni-freiburg.de/research/research.php)
 - [Georgia Tech CS 4476 Fall 2019](https://dellaert.github.io/19F-4476/index.html)
+- [CSCI 1430: Introduction to Computer Vision](https://browncsci1430.github.io/webpage/index.html)
 - [6.869 Advances in Computer Vision](https://people.csail.mit.edu/torralba/courses/6.869/6.869.computervision.htm)
 - [CSCI 1430: Introduction to Computer Vision](https://cs.brown.edu/courses/cs143/)
 - [INFOMCV Computer Vision](http://www.cs.uu.nl/docs/vakken/mcv/curriculum.html)
