@@ -25,6 +25,7 @@
 - [Digital Systems](https://nptel.ac.in/courses/106108099/Digital%20Systems.pdf)
 - [Complete Digital Design](http://ebook.eqbal.ac.ir/Computers%20-%20Informatin%20Technology/Architecture/McGraw-Hill%20-%20Complete%20Digital%20Design%20-%20A%20Comp%20Guide%20to%20Dig%20Electr%20and%20Comp%20System%20Architect.pdf)
 - [Foundations of Analog and Digital](https://neurophysics.ucsd.edu/courses/physics_120/Agarwal%20and%20Lang%20(2005)%20Foundations%20of%20Analog%20and%20Digital.pdf)
+- [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html)
 - [MIT 8.01x Physics I: Classical Mechanics](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e&ab_channel=LecturesbyWalterLewin.Theywillmakeyou%E2%99%A5Physics.)
 - [MIT 8.02x Physics II: Electricity and Magnetism](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&ab_channel=LecturesbyWalterLewin.Theywillmakeyou%E2%99%A5Physics.)
 - [MIT 8.03 Physics III: Vibrations and Waves](https://www.youtube.com/watch?v=sf3XlpPtBo0&list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89&ab_channel=LecturesbyWalterLewin.Theywillmakeyou%E2%99%A5Physics.)
