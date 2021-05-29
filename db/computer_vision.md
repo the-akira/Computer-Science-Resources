@@ -187,3 +187,5 @@
 - [Presentation](http://is.ifmo.ru/news/news_folder/20171209.pdf)
 - [Ingularis Lab](https://www.singularis-lab.com/docs/materials/CV.Introdution.pdf)
 - [Machinelearning.ru](http://www.machinelearning.ru/wiki/images/7/70/VisilterIDP18.pdf)
+
+---------------------------------------
