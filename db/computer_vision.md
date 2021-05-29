@@ -2,7 +2,7 @@
 
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Computer_vision)
+- [Wikipedia - Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
 - [History of Computer Vision](https://www.sas.com/en_us/insights/analytics/computer-vision.html)
 - [Learn Computer Vision - Kaggle](https://www.kaggle.com/learn/computer-vision)
 - [MIT News](https://news.mit.edu/topic/computer-vision)
@@ -91,7 +91,9 @@
 - [Stanford CV Course](https://www.youtube.com/watch?v=vT1JzLTH4G4&amp;list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
 - [CS231n](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 - [OpenCV Python Tutorials](https://www.youtube.com/watch?v=qCR2Weh64h4&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&ab_channel=TechWithTim)
+- [Advanced Computer Vision with Python](https://www.youtube.com/watch?v=01sAkU_NvOY)
 - [Deploying a Deep Learning Model on Web and Mobile Applications Using TensorFlow](https://www.manning.com/liveproject/deploying-a-deep-learning-model-on-web-and-mobile-applications-using-tensorflow) 
+
 ---------------------------------------
 
 ![PT](https://i.imgur.com/2kZUDhk.png)
@@ -185,5 +187,3 @@
 - [Presentation](http://is.ifmo.ru/news/news_folder/20171209.pdf)
 - [Ingularis Lab](https://www.singularis-lab.com/docs/materials/CV.Introdution.pdf)
 - [Machinelearning.ru](http://www.machinelearning.ru/wiki/images/7/70/VisilterIDP18.pdf)
-
----------------------------------------
