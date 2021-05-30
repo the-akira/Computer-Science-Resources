@@ -41,6 +41,7 @@
 - [Intro to OS](https://www.informatics.indiana.edu/rocha/academics/i101/pdfs/os_intro.pdf)
 - [OS Slides](https://www.cl.cam.ac.uk/teaching/1011/OpSystems/os1a-slides.pdf)
 - [Fundamentals of Computing - OS](http://www.ftms.edu.my/images/Document/CSCA0201%20-%20Fundamental%20of%20Computing/csca0201_ch06.pdf)
+- [Writing an OS in Rust](https://os.phil-opp.com/)
 - [OS Lecture Notes](http://www.cs.kent.edu/~farrell/osf03/oldnotes/)
 - [Vishnu Learning](http://www.svecw.edu.in/Docs%5CCSEOSLNotes2013.pdf)
 - [OS Architecture](https://fenix.tecnico.ulisboa.pt/downloadFile/1126518382173151/04-OS-architecture.pdf)
