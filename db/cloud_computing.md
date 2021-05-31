@@ -1,7 +1,5 @@
 # Cloud Computing
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Microsoft](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
