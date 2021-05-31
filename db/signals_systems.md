@@ -1,7 +1,5 @@
 # Signals and Systems
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [The Scientist and Engineer's Guide to Digital Signal Processing](https://www.dspguide.com/ch1.htm)
