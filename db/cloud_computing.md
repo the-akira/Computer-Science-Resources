@@ -9,6 +9,7 @@
 - [Amazon](https://aws.amazon.com/what-is-cloud-computing/)
 - [IBM](https://www.ibm.com/cloud/learn/what-is-cloud-computing)
 - [Redhat](https://www.redhat.com/en/topics/cloud)
+- [Intellipaat](https://intellipaat.com/blog/cloud-computing-tutorial/)
 - [Guru 99](https://www.guru99.com/cloud-computing-for-beginners.html)
 - [Tutorialspoint](https://www.tutorialspoint.com/cloud_computing/)
 - [Javatpoint](https://www.javatpoint.com/cloud-computing-tutorial)
