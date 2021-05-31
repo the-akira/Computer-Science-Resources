@@ -1,7 +1,5 @@
 # Social Engineering
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [WebRoot](https://www.webroot.com/us/en/resources/tips-articles/what-is-social-engineering)

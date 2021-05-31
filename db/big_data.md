@@ -1,7 +1,5 @@
 # Big Data
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Big_data)

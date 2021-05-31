@@ -1,7 +1,5 @@
 # Haskell
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Haskell Documentation](https://www.haskell.org/documentation)

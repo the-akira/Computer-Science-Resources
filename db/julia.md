@@ -1,7 +1,5 @@
 # Julia 
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [The Julia Programming Language](https://julialang.org/)

@@ -1,7 +1,5 @@
 # Computer Graphics
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Computer_graphics_(computer_science))

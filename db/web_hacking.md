@@ -1,7 +1,5 @@
 # Web Hacking
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)

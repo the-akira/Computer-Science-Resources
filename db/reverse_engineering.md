@@ -1,7 +1,5 @@
 # Reverse Engineering
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Udemy Tutorial](https://blog.udemy.com/reverse-engineering-tutorial/)

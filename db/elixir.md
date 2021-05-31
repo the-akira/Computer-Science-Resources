@@ -1,7 +1,5 @@
 # Elixir
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Elixir Introduction](https://elixir-lang.org/getting-started/introduction.html)

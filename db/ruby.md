@@ -1,7 +1,5 @@
 # Ruby
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Awesome Ruby](https://awesome-ruby.com/)

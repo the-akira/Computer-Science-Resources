@@ -1,7 +1,5 @@
 # Cryptography
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Cryptography)

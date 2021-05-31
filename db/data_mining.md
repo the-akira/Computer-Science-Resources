@@ -1,7 +1,5 @@
 # Data Mining
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Data Mining](https://en.wikipedia.org/wiki/Data_mining)

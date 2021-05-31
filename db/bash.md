@@ -1,7 +1,5 @@
 # Bash
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Bash Introduction How-To](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)

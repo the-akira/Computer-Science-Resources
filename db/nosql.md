@@ -1,7 +1,5 @@
 # NOSQL
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Search Data Management](https://searchdatamanagement.techtarget.com/definition/NoSQL-Not-Only-SQL)

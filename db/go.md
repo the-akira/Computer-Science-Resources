@@ -1,7 +1,5 @@
 # Go
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [The Go Programming Language](https://golang.org/)
