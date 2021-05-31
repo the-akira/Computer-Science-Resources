@@ -1,7 +1,5 @@
 # Virtual Reality
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Virtual_reality)
