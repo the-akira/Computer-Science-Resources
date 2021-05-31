@@ -2,7 +2,7 @@
 
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
-- [Udemy Tutorial](https://blog.udemy.com/reverse-engineering-tutorial/)
+- [Reverse Engineering - Wikipedia](https://en.wikipedia.org/wiki/Reverse_engineering)
 - [Reddit](https://www.reddit.com/r/ReverseEngineering/)
 - [Beginners RE](https://beginners.re/)
 - [RE 101](https://sites.google.com/secured.org/malwareunicorn/reverse-engineering/re101)
