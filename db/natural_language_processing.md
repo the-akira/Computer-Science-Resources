@@ -1,7 +1,5 @@
 # Natural Language Processing
 
----------------------------------------
-
 ![EN](https://i.imgur.com/JVHlBEw.png)
 
 - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
