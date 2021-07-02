@@ -106,6 +106,7 @@
 - [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp)
 - [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition)
 - [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms)
+- [Trust in Machine Learning](https://www.manning.com/books/trust-in-machine-learning)
 
 ---------------------------------------
 
