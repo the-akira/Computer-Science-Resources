@@ -6,7 +6,7 @@
 - [Timeline of Mathematics](https://mathigon.org/timeline)
 - [Math Study Guide](https://www.sparknotes.com/math/)
 - [Mathematics in Computer Science Curricula](https://www.cs.cmu.edu/~wing/publications/talk.pdf)
-- [MIT Math for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+- [MIT Math for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 - [Mathematics for Computer Science Book](https://www.iith.ac.in/~aravind/Files-DM/LLM-MFCS-2004.pdf)
 - [Everything in our Life has only Mathematical Patterns](https://medium.com/however-mathematics/everything-in-our-life-has-only-mathematical-patterns-504a0e87ab3)
 - [Real not Complex (Math Resources)](https://realnotcomplex.com/)
