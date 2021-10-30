@@ -36,6 +36,7 @@
 - [Getting Started with Kubernetes](https://www.manning.com/books/getting-started-with-kubernetes)
 - [Cloud Native Spring in Action - With Spring Boot and Kubernetes](https://www.manning.com/books/cloud-native-spring-in-action)
 - [Spring Quickly](https://www.manning.com/books/spring-quickly)
+- [Learn Kubernetes in a Month of Lunches, ](https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches)
 
 ---------------------------------------
 
