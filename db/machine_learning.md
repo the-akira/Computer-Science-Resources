@@ -108,6 +108,7 @@
 - [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms)
 - [Trust in Machine Learning](https://www.manning.com/books/trust-in-machine-learning)
 - [AI-Powered Search](https://www.manning.com/books/ai-powered-search)
+- [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp)
 
 ---------------------------------------
 
