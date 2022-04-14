@@ -1,6 +1,6 @@
 # Computer Security
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Computer_security)
 - [Search Security](https://searchsecurity.techtarget.com/definition/cybersecurity)
@@ -49,7 +49,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Segurança de Computadores](https://pt.wikipedia.org/wiki/Seguran%C3%A7a_de_computadores)
 - [Cartilha de Segurança](https://cartilha.cert.br/computadores/)
@@ -65,7 +65,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [El desafío de la Seguridad Cibernética](https://assets.kpmg.com/content/dam/kpmg/ar/pdf/ICA/pub-local/el-desafio-de-la-seguridad-cibernetica.pdf)
 - [Seguridad en Informática](http://www.bib.uia.mx/tesis/pdf/014663/014663.pdf)
@@ -78,7 +78,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Cours de Sécurité](https://doc.lagout.org/Others/Cours_securite%20informatique.pdf)
 - [Securite Informatique](https://www.eyrolles.com/Chapitres/9782212132335/Chap-1_Bloch.pdf)
@@ -90,7 +90,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Portal Sicurezza](https://it.wikipedia.org/wiki/Portale:Sicurezza_informatica)
 - [Sicurezza Informatica](https://www.zerounoweb.it/analytics/data-management/sicurezza-informatica-cioe-disponibilita-integrita-e-riservatezza-dei-dati/)
@@ -101,7 +101,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Handbuch Computersicherheit](http://www.linke-buecher.de/texte/internet/Handbuch-Computersicherheit---von---www.raw.at-compsec-compsec.htm.pdf)
 - [Handbuch Computersicherheit 1.2](http://gipfelsoli.org/rcms_repos/Antirepression/COMPUTERSICHERHEIT-HANDBUCH-1.2.pdf)
@@ -111,7 +111,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [KP.ru](https://www.kp.ru/guide/informatsionnaja-bezopasnost-predprijatija.html)
 - [Full Print](http://window.edu.ru/resource/775/77775/files/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D0%98%D0%91%20_%D0%9C%D0%93%D0%93%D0%A3_%20-%201.5.3%20_full-print_5_A5.pdf)

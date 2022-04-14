@@ -1,6 +1,6 @@
 # Operating Systems
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [How Stuff Works](https://computer.howstuffworks.com/operating-system.htm)
 - [Tutorialspoint](https://www.tutorialspoint.com/operating_system/os_overview.htm)
@@ -73,7 +73,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [UNIVESP](https://www.youtube.com/watch?v=Rl6HhDvW984&amp;list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw)
 - [Wikibooks](https://pt.wikibooks.org/wiki/Sistemas_operacionais)
@@ -98,7 +98,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [El Sistema Operativo](https://tecnologia-informatica.com/el-sistema-operativo/)
 - [Sistema Operativo](https://www.ecured.cu/Sistema_operativo)
@@ -113,7 +113,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [FR Wikibooks](https://fr.wikibooks.org/wiki/Les_syst%C3%A8mes_d%27exploitation)
 - [SysIntro](https://web.maths.unsw.edu.au/~lafaye/CCM/systemes/sysintro.htm)
@@ -128,7 +128,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Unibo](http://www.cs.unibo.it/~renzo/so/docs.shtml)
 - [Unipd](http://www.math.unipd.it/~cpalazzi/sistemioperativi.html)
@@ -144,7 +144,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Betriebssysteme](https://ti.tuwien.ac.at/cps/teaching/courses/osvo/bs-folien/bs01_os-overview.pdf)
 - [Book](http://lsw.ee.hm.edu/~thomas/Vorlesung/VBS/vbs_all.pdf)
@@ -156,7 +156,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [OS-RU](https://vseloved.github.io/pdf/os-ru.pdf)
 - [OS Intro](http://www.stolyarov.info/books/pdf/osintro.pdf)

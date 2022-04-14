@@ -1,6 +1,6 @@
 # Go
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [The Go Programming Language](https://golang.org/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
@@ -60,7 +60,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Golangbr](http://www.golangbr.org/)
 - [Trabalhando com Go](https://imasters.com.br/back-end/trabalhando-com-go-golang-a-linguagem-do-google)
@@ -72,7 +72,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Tutoriel Go](https://brice-colucci.developpez.com/tutoriels/go/tutoriel-programmation/)
 - [Langage Go](https://www.scriptol.fr/programmation/go.php)
@@ -81,7 +81,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Go con Ejemplos](http://goconejemplos.com/)
 - [Introduccion al Go](https://www.genbeta.com/desarrollo/introduccion-al-lenguaje-de-programacion-go)
@@ -91,13 +91,13 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Il Linguaggio Go](http://tesi.cab.unipd.it/33111/1/Tesina_562011.pdf)
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Golang Basics](https://tproger.ru/translations/golang-basics/)
 - [4Gophers](https://4gophers.ru/tags/golang/)

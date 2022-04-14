@@ -1,6 +1,6 @@
 # Python
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Python.org](https://www.python.org/)
 - [Programiz](https://www.programiz.com)
@@ -118,7 +118,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Python Iluminado](https://pythoniluminado.netlify.app)
 - [Devmedia](https://www.devmedia.com.br/guia/python/37024)
@@ -147,7 +147,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Python Basico](https://entrenamiento-python-basico.readthedocs.io/es/latest/)
 - [El Tutorial de Python](http://docs.python.org.ar/tutorial/pdfs/TutorialPython2.pdf)
@@ -161,7 +161,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [OpenClassRooms](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
 - [Programmer en Deux Minutes](https://fr.wikibooks.org/wiki/Programmation_Python/Programmer_en_deux_minutes)
@@ -178,7 +178,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Python.it](https://www.python.it/)
 - [Guida Python](https://www.html.it/guide/guida-python/)
@@ -196,7 +196,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Python World](https://pythonworld.ru/samouchitel-python)
 - [Metanit](https://metanit.com/python/tutorial/)
@@ -216,7 +216,7 @@
 
 ---------------------------------------
 
-![JP](https://i.imgur.com/v05gNcC.png)
+![JP](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/JP.png)
 
 - [Python.jp](https://www.python.jp/)
 - [Sejuku](https://www.sejuku.net/blog/7720)

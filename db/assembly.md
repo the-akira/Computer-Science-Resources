@@ -1,6 +1,6 @@
 # Assembly
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Awesome asm](https://github.com/jaspergould/awesome-asm)
 - [Wikipedia Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)
@@ -73,7 +73,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Programación en Ensamblador](https://www.exabyteinformatica.com/uoc/Informatica/Estructura_de_computadores/Estructura_de_computadores_(Modulo_6).pdf)
 - [Instrucciones en Ensamblador](http://www.sc.ehu.es/sbweb/webcentro/automatica/web_8051/Contenido/set_8051/set8051.htm)
@@ -84,7 +84,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Assembly Iniciante](http://www.avr-asm-download.de/beginner_pt.pdf)
 - [Introdução à Programção em Assembly](https://fenix.tecnico.ulisboa.pt/downloadFile/1970943312312149/3-intro-assembly.pdf)
@@ -92,7 +92,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Programmation en Assembleur](http://www.fsr.ac.ma/cours/informatique/amrani/archi.pdf)
 - [Assembleur](https://repo.zenk-security.com/Programmation/initiation%20a%20la%20programmation%20en%20assembleur.pdf)
@@ -106,7 +106,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Programmazione Assembly](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.5365&amp;rep=rep1&amp;type=pdf)
 - [Programmazione Assembly](https://home.deib.polimi.it/brandole/acsocr/L14%20-%20Assembly%20Programming.pdf)
@@ -118,7 +118,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Assembly Language](http://en.academic.ru/dic.nsf/enwiki/446)
 - [Assembly](https://habr.com/post/345748/)
@@ -129,7 +129,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Linux Assembler](http://www.lcs-chemie.de/assemb.htm)
 - [Assembler](http://assembler.hpfsc.de/)

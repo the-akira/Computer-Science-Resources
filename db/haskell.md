@@ -1,6 +1,6 @@
 # Haskell
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Haskell Documentation](https://www.haskell.org/documentation)
 - [Wikipedia](https://en.wikipedia.org/wiki/Haskell_(programming_language))
@@ -78,7 +78,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Haskell em 10 minutos](https://wiki.haskell.org/Haskell_em_10_minutos)
 - [Seminário Haskell](https://www.inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20132-seminario-haskell.pdf)
@@ -99,7 +99,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Aprende Haskell](http://aprendehaskell.es/content/Introduccion.html)
 - [Haskell: El Lenguaje Funcional](http://www.cs.us.es/~fsancho/?e=110)
@@ -115,7 +115,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Open Class Rooms](https://openclassrooms.com/fr/courses/1385376-apprenez-la-programmation-fonctionnelle-avec-haskell)
 - [La Programmation Fonctionnelle en Haskell](https://medium.com/%C3%A9cosyst%C3%A8me-des-langages-de-programmation/la-programmation-fonctionnelle-en-haskell-b14d88bd1a76)
@@ -133,7 +133,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Esempi di Programmazione Haskell](https://users.dimi.uniud.it/~marco.comini/Students/Examples/Esempi-di-Programmazione-Haskell.pdf)
 - [ESERCIZI PROLOG](http://www.dipmat.unict.it/~barba/PROG-LANG/ESERCIZI/EserciziPROLOG/esercizi.html)
@@ -142,7 +142,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Haskell in 5 Schritten](https://wiki.haskell.org/Haskell_in_5_Schritten)
 - [Programmieren in Haskell](https://www.techfak.uni-bielefeld.de/ags/pi/lehre/AuDIWS07/folien_hs/Kapitel2_Haskell_Einstieg.pdf)
@@ -154,7 +154,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Anton-K](https://anton-k.github.io/ru-haskell-book/book/home.html)
 - [Progopedia](http://progopedia.ru/language/haskell/)

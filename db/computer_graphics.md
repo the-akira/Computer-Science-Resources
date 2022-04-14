@@ -1,6 +1,6 @@
 # Computer Graphics
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Computer_graphics_(computer_science))
 - [Tutorialspoint](https://www.tutorialspoint.com/computer_graphics/)
@@ -94,7 +94,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Prof Fernando de Siqueira](https://sites.google.com/site/profferdesiqueiracompgrafica/)
 - [Prof Márcio Pinho](http://www.inf.pucrs.br/pinho/CG/Aulas/Intro/intro.htm)
@@ -115,7 +115,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Computación Gráfica Fundamentos](http://www.codecompiling.net/files/slides/CG_clase_01_intro.pdf)
 - [Introducción a la Computación Gráfica](https://www.fing.edu.uy/inco/cursos/compgraf/)
@@ -124,7 +124,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Computer Grafica](https://www.accademiadicatania.com/admin/upload/file/3p8i_APPUNTI_COMPUTER_ART.pdf)
 - [Matematica e Computer Grafica](http://www.matematica.it/impedovo/articoli/Matematica%20e%20computer%20grafica.pdf)
@@ -137,7 +137,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [TU-Ilmenau](https://www.tu-ilmenau.de/en/computer-graphics-group/lehre/ws2012/cg1/)
 - [LMU](https://www.medien.ifi.lmu.de/lehre/ss13/cg1/)
@@ -148,7 +148,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Book](http://www.ict.edu.ru/ft/005415/nwpi237.pdf)
 - [TSPU](http://koi.tspu.ru/kg/)

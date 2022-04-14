@@ -1,6 +1,6 @@
 # Artificial Neural Networks
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Artificial Neuron](https://en.wikipedia.org/wiki/Artificial_neuron)
 - [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
@@ -106,7 +106,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Matheus Facure](https://matheusfacure.github.io/2017/03/05/ann-intro/)
 - [Deep Learning Book](http://deeplearningbook.com.br/o-que-sao-redes-neurais-artificiais-profundas/)
@@ -121,7 +121,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Redes Neuronales](http://avellano.fis.usal.es/~lalonso/RNA/index.htm)
 - [Introducción Redes Neuronales](https://www2.ulpgc.es/hege/almacen/download/38/38584/practica_ia_2.pdf)
@@ -140,7 +140,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Les Reseaux de Neurones Artificiels](http://www.touzet.org/Claude/Web-Fac-Claude/Les_reseaux_de_neurones_artificiels.pdf)
 - [Wikipedia](https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels)
@@ -158,7 +158,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Reti Neurali](http://www.intelligenzaartificiale.it/reti-neurali/)
 - [Introduzione alle reti neurali](http://matematica.unibocconi.it/articoli/introduzione-alle-reti-neurali)
@@ -177,7 +177,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Neuronale Netze](http://www.neuronalesnetz.de/downloads/neuronalesnetz_de.pdf)
 - [Einführung in Neuronale Netze](https://www.dbai.tuwien.ac.at/education/AIKonzepte/Folien/NeuronaleNetze.pdf)
@@ -194,7 +194,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Wikipedia](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C)
 - [Neuralnet](https://neuralnet.info/chapter/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B8%D0%BD%D1%81/)

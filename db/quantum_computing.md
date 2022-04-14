@@ -1,6 +1,6 @@
 # Quantum Computing
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Quantum_computing)
 - [IBM Quantum Computing](https://www.research.ibm.com/ibm-q/learn/what-is-quantum-computing/)
@@ -69,7 +69,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Computação Quântica](https://www.bbc.com/portuguese/geral-41697094)
 - [Introdução à Computação Quântica](http://www.ic.unicamp.br/~ducatte/mo401/1s2010/T2/096389-t2.pdf)
@@ -94,7 +94,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Xataka](https://www.xataka.com/ordenadores/computacion-cuantica-que-es-de-donde-viene-y-que-ha-conseguido)
 - [Gizmodo](https://es.gizmodo.com/como-funciona-la-computacion-cuantica-explicado-de-man-1796976460)
@@ -110,7 +110,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Ordinateur Quantique](https://www.futura-sciences.com/sciences/definitions/physique-ordinateur-quantique-4348/)
 - [Institut Pandore](https://www.institut-pandore.com/physique-quantique/informatique-ordinateur-quantique/)
@@ -126,7 +126,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [AI4business](https://www.ai4business.it/intelligenza-artificiale/computer-quantistico/)
 - [IBM Q Computing](https://medium.com/visionari/quantum-computing-prova-un-computer-quantico-direttamente-da-casa-dfc3c05e794d)
@@ -146,7 +146,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Prof. Dr. Erich Grädel](https://logic.rwth-aachen.de/Teaching/QC-SS15/index.html.de)
 - [Quantencomputing und andere Quantentechnologien](https://digitaleweltmagazin.de/en/2018/07/25/quantencomputing-und-andere-quantentechnologien/)
@@ -161,7 +161,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Quantum Computing](http://spkurdyumov.ru/uploads/2017/09/kvantovye-vychisleniya-i-funkcionalnoe-programmirovanie.pdf)
 - [Fundamentals](http://theor.jinr.ru/~diastp/april06/lectures/gerdt/gerdt.pdf)

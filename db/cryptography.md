@@ -1,6 +1,6 @@
 # Cryptography
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Cryptography)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography)
@@ -72,7 +72,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Aldeia Numa Boa](https://web.archive.org/web/20161101153020/http://www.numaboa.com.br/criptografia/)
 - [Entendendo a Criptografia](http://www.ic.unicamp.br/~rdahab/cursos/mo421-mc889/2014-1s/Welcome_files/SlidesPaarPelzl-Portugues-pdfs/)
@@ -89,7 +89,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Introducción a la criptografía](http://www.dma.fi.upm.es/recursos/aplicaciones/matematica_discreta/web/aritmetica_modular/criptografia.html)
 - [Qué es la Criptografía](https://tecnologia-informatica.com/que-es-la-criptografia/)
@@ -108,7 +108,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Cryptage](http://www.cryptage.org/sommaire.html)
 - [Introduction à la Cryptographie](https://www.apprendre-en-ligne.net/crypto/bibliotheque/PDF/IntroToCrypto.pdf)
@@ -129,7 +129,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Crittografia](http://www.cardano.pv.it/studenti/matedida/crittografia/crittografia.htm)
 - [Crittografia e Privacy](http://www.di-srv.unisa.it/~ads/corso-security/www/CORSO-9900/crittografiaclassica/www.apogeonline.com/catalogo/allegati/483/doc/algoritmi/homepgp.htm#menu)
@@ -146,7 +146,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Kryptowissen](https://www.kryptowissen.de/kryptographie.html)
 - [Krypto](http://www.ph-ludwigsburg.de/wp/kuntze/thstlk/krypto.htm)
@@ -158,7 +158,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Kriptografiya](http://www.furfur.me/furfur/culture/culture/166567-kriptografiya)
 - [Cryptography.ru](http://cryptography.ru/)
@@ -169,7 +169,7 @@
 
 ---------------------------------------
 
-![HR](https://i.imgur.com/n9LdiQo.png)
+![HR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/CROATIA.png)
 
 - [Kritografija](https://web.math.pmf.unizg.hr/~duje/kript/kriptografija.html)
 

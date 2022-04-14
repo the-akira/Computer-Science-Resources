@@ -1,6 +1,6 @@
 # Information Theory
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Information_theory)
 - [Information Theory MIT](https://web.mit.edu/6.933/www/Fall2001/Shannon2.pdf)
@@ -66,7 +66,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Teoria da Informação, Rodrigo Pavão](http://www.ib.usp.br/~rpavao/Teoria_da_Informacao.pdf)
 - [Apontamentos de Teoria da Informação](http://arquivoescolar.org/bitstream/arquivo-e/132/5/cap1.pdf)
@@ -81,7 +81,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Teoría de la Información](https://www.ecured.cu/Teor%C3%ADa_de_la_informaci%C3%B3n)
 - [Teoría de la Información de Claude E. Shannon](http://dia.austral.edu.ar/Teor%C3%ADa_de_la_informaci%C3%B3n_de_Claude_E._Shannon)
@@ -94,7 +94,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Introduction à la Théorie de L'Information](https://www.rocq.inria.fr/secret/Nicolas.Sendrier/thinfo.pdf)
 - [Théorie de L'Information](https://members.loria.fr/MMinier/static/images/Th_Info.pdf)
@@ -109,7 +109,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Teoria Dell'Informazione](http://www.ing.unitn.it/~melganif/PDF/tx-num3.pdf)
 - [Teoria Dell'Informazione](https://www.sci.unich.it/~acciaro/librocb.pdf)
@@ -124,7 +124,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [ETH Zürich, Informationstheorie](https://ml2.inf.ethz.ch/courses/it/)
 - [Information und Kommunikation](https://graphics.ethz.ch/teaching/infotheory_common/skript.pdf)
@@ -136,7 +136,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Teoria Informacii](https://www.mccme.ru/free-books/izdano/2004/it2004p1.pdf)
 - [Article](http://ict.edu.ru/ft/000004//1.pdf)

@@ -1,6 +1,6 @@
 # Ruby
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Awesome Ruby](https://awesome-ruby.com/)
 - [Ruby Libhunt](https://ruby.libhunt.com/)
@@ -53,7 +53,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Wikipedia](https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o))
 - [Conhecendo a linguagem Ruby](https://www.devmedia.com.br/conhecendo-a-linguagem-ruby/8226)
@@ -74,7 +74,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Aprende a Programar con Ruby](http://rubysur.org/aprende.a.programar/)
 - [Ruby Ya](https://www.tutorialesprogramacionya.com/rubyya/)
@@ -90,7 +90,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [OpenClassRooms](https://openclassrooms.com/fr/courses/2913686-lancez-vous-dans-la-programmation-avec-ruby)
 - [Programmation Ruby](https://www.supinfo.com/articles/single/5539-programmation-ruby)
@@ -100,7 +100,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Guida Ruby](https://www.html.it/guide/guida-ruby/)
 - [Panoramica Ruby](https://www.flameeyes.eu/articles/ld-ruby.pdf)
@@ -110,7 +110,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Ruby Grundlagen](http://b-simple.de/download/ruby.pdf)
 - [Praxiswissen Ruby](https://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf)
@@ -118,7 +118,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Progopedia](http://progopedia.ru/language/ruby/)
 - [RU-Wiki](http://ru-wiki.org/wiki/Ruby)

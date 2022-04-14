@@ -1,6 +1,6 @@
 # Mathematics
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [The Map of Mathematics](https://mathmap.quantamagazine.org/map/)
 - [Timeline of Mathematics](https://mathigon.org/timeline)
@@ -58,7 +58,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Cálculo I](http://euler.mat.ufrgs.br/~mendes/OCursocomApli.pdf)
 - [Fundamentos Matemáticos](http://www.cin.ufpe.br/~dmd/inf101/biblio/FMCCJK.pdf)
@@ -81,7 +81,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Matemática y Programación](https://www.fing.edu.uy/~darosa/matyprogversionfinal.pdf)
 - [Matemática para Informática](http://repositorio.uned.ac.cr/reuned/bitstream/120809/1375/1/50287%20Matematicas%20para%20informatica.pdf)
@@ -90,7 +90,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Mathématiques pour Informaticiens](https://www.unige.ch/~hairer/poly_mathinfo/math-info.pdf)
 - [Mathématiques Appliquées](http://www.courstechinfo.be/Math_Info.pdf)
@@ -101,7 +101,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Mathematika für Informatiker](http://page.mi.fu-berlin.de/baumeist/Mafi-Skript.pdf)
 - [Mathematika](https://www.mat.univie.ac.at/~gerald/ftp/book-mfi/mfi1.pdf)

@@ -1,6 +1,6 @@
 # Big Data
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Big_data)
 - [Sas.com](https://www.sas.com/en_us/insights/big-data/what-is-big-data.html)
@@ -68,7 +68,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Big Data o Novo Desafio](http://paineira.usp.br/lassu/wp-content/uploads/2017/01/2017.02.07-palestra_rosangela_bigdata.pdf)
 - [Guia Definitivo Big Data](http://www.mettodo.com.br/ebooks/O_guia_definitivo_de_Big_Data_para_iniciantes.pdf)
@@ -84,7 +84,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Power Data](https://www.powerdata.es/big-data)
 - [Big Data y la Inteligencia de Negocios](https://my.laureate.net/faculty/webinars/Documents/2013Agosto_Big%20data%20y%20la%20inteligencia%20de%20negocios.pdf)
@@ -100,7 +100,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Piloter](https://www.piloter.org/business-intelligence/big-data-definition.htm)
 - [Introduction Big Data](http://www-connex.lip6.fr/~soulier/data/TechnoWeb/introNoSQL.pdf)
@@ -117,7 +117,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Oracle Magazine](https://www.oracle.com/assets/fy16q3-one-it-web-2861777-ita.pdf)
 - [Big Data MIUR](http://www.istruzione.it/allegati/2016/bigdata.pdf)
@@ -127,14 +127,14 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [SoftSelect](http://www.softselect.de/wissenspool/big-data)
 - [Big Data Management](https://www.dima.tu-berlin.de/fileadmin/fg131/Publikation/BDM_Studie/bigdatamanagement-short-DE-finalv099.pdf)
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Planning Guide](https://www.intel.ru/content/dam/www/public/emea/ru/ru/images/pd-translated/RU_getting-started-with-big-data-planning-guide.pdf)
 - [Journal](http://engjournal.ru/articles/1228/1228.pdf)

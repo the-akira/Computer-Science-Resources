@@ -1,11 +1,9 @@
 # Algorithms and Data Structures
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
 - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
-- [Algovision](https://www.algovision.org/Algovision/index.html)
-- [Algorithms - FreeCodeCamp](https://guide.freecodecamp.org/algorithms)
 - [arXiv - Data Structures and Algorithms](https://arxiv.org/list/cs.DS/recent)
 - [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 - [Sorting Algorithms](https://www.interviewbit.com/tutorial/sorting-algorithms/)
@@ -13,31 +11,21 @@
 - [CS 521 - Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall13/cos521/)
 - [Programiz - Data Structures and Algorithms](https://www.programiz.com/dsa)
 - [Data Structures using C](http://masterraghu.com/subjects/Datastructures/ebooks/rema%20thareja.pdf)
-- [Algo Expert Questions](https://www.algoexpert.io/questions)
-- [Introduction to Data Structures and Algorithms](https://www.studytonight.com/data-structures/introduction-to-data-structures)
 - [Geeks for Geeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
 - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 - [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - [Algorithms and Data Structures Princeton](https://introcs.cs.princeton.edu/java/40algorithms/)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [Learn Data Structures and Algorithms](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
-- [A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
-- [Algorithms and Data Structures Fall 2007 Princeton](https://www.cs.princeton.edu/~rs/AlgsDS07/)
-- [Stacks and Queues](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html)
 - [Lecture Notes on Stacks](https://www.cs.cmu.edu/~wlovas/15122-r11/lectures/10-stacks.pdf)
 - [MIT Reading 10: Recursion](https://web.mit.edu/6.005/www/fa15/classes/10-recursion/)
 - [CMSC 202 Lecture Notes: Recursion](https://www.csee.umbc.edu/~chang/cs202.f98/readings/recursion.html)
-- [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action)
-- [Data Structures and Algorithms in Java](https://www.javaguides.net/p/data-structures-and-algorithms-in-java.html)
-- [Algorithms in Java](https://github.com/nishantc1527/Algorithms)
+- [Algorithms & Data Structures Project](https://github.com/williamfiset/Algorithms)
 - [Lecture Notes for Data Structures and Algorithms](https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf)
 - [Collection of Algorithms and Data Structures](https://github.com/sherxon/AlgoDS)
 - [Algorithms and Data Structures Research & Reference Material](http://users.monash.edu/~lloyd/tildeAlgDS/)
 - [Algorithms and Data Strcutures The Science of Computing](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Algorithms%20and%20Data%20Structures_%20The%20Science%20of%20Computing%20%5bBaldwin%20%26%20Scragg%202004-05-15%5d.pdf)
-- [Data Structures and Algorithms in Python - Udacity](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
-- [Introduction to Data Structures – A Beginner Friendly Guide](https://www.thecodingdelight.com/introduction-to-data-structures/)
-- [Algorithms and data structures in C/C++](https://www.cprogramming.com/algorithms-and-data-structures.html)
-- [Data Structures and Algorithms Courses](https://digitallearning.ucsd.edu/catalog/courses/data-structures.html)
+- [Algorithms and Data Structures in C/C++](https://www.cprogramming.com/algorithms-and-data-structures.html)
 - [MIT 6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [MIT 6.854J Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/)
 - [MIT 6.851 Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
@@ -45,7 +33,6 @@
 - [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 - [Algorithms and Data Structures for External Memory](https://www.ittc.ku.edu/~jsv/Papers/Vit.IO_book.pdf)
 - [List of all projects - University of Waterloo](https://ece.uwaterloo.ca/~dwharder/aads/Projects/List/)
-- [Data Structures and Algorithms using Python](http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Algorithms and Data Structures with implementations in Java and C++](http://www.algolist.net/)
 - [500+ Data Structures and Algorithms Interview Questions & Practice Problems](https://blog.usejournal.com/500-data-structures-and-algorithms-practice-problems-35afe8a1e222)
@@ -79,22 +66,16 @@
 - [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 - [Algorithms & Data structures in C++](https://github.com/xtaci/algorithms)
-- [Algomation - A didactic, animated, exposition of algorithms](http://www.algomation.com/)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 - [Efficient Algorithms and Data Structures I](http://www14.in.tum.de/lehre/2016WS/ea/index.html.en)
 - [CS16 Brown](https://cs.brown.edu/courses/csci0160/lectures.html)
 - [GoLang Data Structures & Algorithms](https://www.golangprograms.com/data-structure-and-algorithms.html)
-- [A Gentle Introduction to Algorithms and Data Structures](https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms/a-gentle-introduction-to-algorithms-and-data-structures)
 - [Algorithms and Data Structures Course](http://www.gousios.gr/courses/algo-ds/)
-- [CS2515: Algorithms and Data Structures I](http://www.cs.ucc.ie/~kb11/teaching/CS2515/Home/)
 - [Advanced Distributed Algorithms and Data Structures](https://cs.uni-paderborn.de/ti/lehre/veranstaltungen/vergangene-semester/ws-20162017/advanced-distributed-algorithms-and-data-structures/)
 - [Data Structures and Algorithms (archived version)](https://www.win.tue.nl/~kbuchin/teaching/JBP030/)
 - [Concise Notes on Data Structures and Algorithms](https://w3.cs.jmu.edu/spragunr/CS240_F12/ConciseNotes.pdf)
-- [Data Structures for Interviews](http://www.columbia.edu/~jxz2101/#1)
 - [CS 38: Introduction to Algorithms](http://users.cms.caltech.edu/~umans/cs38/index.html)
 - [Data Structures and Algorithm Analysis](https://people.cs.vt.edu/shaffer/Book/C++3elatest.pdf)
-- [Notes on Data Structures and Programming](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)
-- [Fast Fourier Transform](https://towardsdatascience.com/fast-fourier-transform-937926e591cb)
 - [Fourier Transforms and the Fast Fourier Transform (FFT) Algorithm](https://www.cs.cmu.edu/afs/andrew/scs/cs/15-463/2001/pub/www/notes/fourier/fourier.pdf)
 - [Understanding the FFT Algorithm](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
 - [How the FFT Works](https://www.dspguide.com/ch12/2.htm)
@@ -102,7 +83,6 @@
 - [MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [Understanding Peak-Finding](https://www.filipekberg.se/2014/02/10/understanding-peak-finding/)
 - [Data Structures and Algorithms - CSDojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
-- [Algorithms - William Fiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsAPGSY7R63cFtDfi6h9ij0f)
 - [Algorithms - Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [MIT Data Structures and Algorithms 2015](https://www.youtube.com/playlist?list=PLkToMFwOtNHiJtcBu0piSLKnLVGOF9vaV)
 - [MIT 6.046J / 18.410J Introduction to Algorithms](https://www.youtube.com/playlist?list=PL8B24C31197EC371C)
@@ -129,7 +109,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Caelum - Algoritmos e Estruturas de Dados](https://www.caelum.com.br/download/caelum-algoritmos-estruturas-dados-java-cs14.pdf)
 - [Apostila Algoritmos e Estruturas de Dados](http://www.inf.ufpr.br/cursos/ci055/apostila.pdf)
@@ -156,7 +136,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Estructura de datos](https://es.wikipedia.org/wiki/Estructura_de_datos)
 - [Algoritmos y Estructuras de Datos - Universidad del Litoral](https://cimec.org.ar/~mstorti/aed/aednotes.pdf)
@@ -182,7 +162,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Algorithmique et Structures de Données](http://deptinfo.unice.fr/~regin/cours/cours/ASD/C1_AlgoSdd.pdf)
 - [Notions de structures de données : tableaux et listes chaînées](https://openclassrooms.com/fr/courses/1467201-algorithmique-pour-lapprenti-programmeur/1467600-notions-de-structures-de-donnees-tableaux-et-listes-chainees)
@@ -214,7 +194,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Corso di Algoritmi e Strutture Dati](https://www.cs.unibo.it/~donat/alg.html)
 - [Algoritmi e Strutture Dati - Università di Padova](https://www.math.unipd.it/~baldan/Algoritmi/)
@@ -235,7 +215,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Алгоритмы и структуры данных для начинающих: сложность алгоритмов](https://tproger.ru/translations/algorithms-and-data-structures/)
 - [АЛГОРИТМЫ СТРУКТУРЫ ДАННЫХ](http://portal.tpu.ru/SHARED/o/OFOFANO/work/Tab2/up.pdf)
@@ -250,7 +230,7 @@
 
 ---------------------------------------
 
-![JP](https://i.imgur.com/v05gNcC.png)
+![JP](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/JP.png)
 
 - [アルゴリズムとデータ構造](https://www.codereading.com/algo_and_ds/)
 - [アルゴリズムとデータ構造の基礎](https://qiita.com/macky4/items/6dce671e90eaed23db32)
@@ -267,7 +247,7 @@
 
 ---------------------------------------
 
-![CN](https://i.imgur.com/XdOAGvb.png)
+![CN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/CHINA.png)
 
 - [LeetCode in Python - Michelle小梦想家](https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8)
 - [Data Biancheng](http://data.biancheng.net/view/156.html)
@@ -280,7 +260,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Algorithmen und Datenstrukturen im Wintersemester 2019/20](https://www.orchid.inf.tu-dresden.de/teaching/2019ws/aud/)
 - [Algorithmen und Datenstrukturen](https://west.uni-koblenz.de/studying/ws1920/algorithmen-und-datenstrukturen)

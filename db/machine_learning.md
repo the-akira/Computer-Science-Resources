@@ -1,6 +1,6 @@
 # Machine Learning
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Harvard Data Science](https://cs109.github.io/2015/)
 - [A History of Machine Learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
@@ -112,7 +112,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Aprendizado de Máquina UFF](http://www.ic.uff.br/~bianca/aa/)
 - [Aprendizado de Máquina UFMG](http://www.est.ufmg.br/~marcosop/est171-ML/index.htm)
@@ -124,7 +124,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Introducción](http://www.cs.us.es/~fsancho/?e=75)
 - [Tipos de aprendizaje automático](https://medium.com/soldai/tipos-de-aprendizaje-autom%C3%A1tico-6413e3c615e2)
@@ -139,7 +139,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [L'apprentissage automatique](https://www.univ-tlemcen.dz/~benmammar/IA2.pdf)
 - [Apprentissage Automatique](http://www.math-info.univ-paris5.fr/~bouzy/Doc/AA1/Seance1.pdf)
@@ -153,7 +153,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Machine Learning It](http://www.intelligenzaartificiale.it/machine-learning/)
 - [Wikibooks](https://it.wikibooks.org/wiki/Intelligenza_artificiale/Apprendimento_automatico)
@@ -164,7 +164,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Maschinelles Lernen Riedel](http://morrisriedel.de/wp-content/uploads/2017/12/2016-10-13-1-Maschinelles-Lernen-Riedel-v1.pdf)
 - [Maschinelles Lernen](https://www-ai.cs.uni-dortmund.de/LEHRE/VORLESUNGEN/MLRN/WS1314/mlv_skript_ws1314.pdf)
@@ -178,7 +178,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Vas3k](https://vas3k.ru/blog/machine_learning/)
 - [ML Presentation](http://bioinformaticsinstitute.ru/sites/default/files/vvedenie_v_mashinnoe_obuchenie.pdf)

@@ -1,6 +1,6 @@
 # Cloud Computing
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Microsoft](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Cloud_computing)
@@ -40,7 +40,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Computação em Nuvem UFRJ](https://www.gta.ufrj.br/ensino/eel879/trabalhos_vf_2009_2/seabra/introducao.html)
 - [O Que é Cloud Computing](https://rockcontent.com/blog/cloud-computing/)
@@ -59,7 +59,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Deloitte](https://www2.deloitte.com/es/es/pages/technology/articles/computacion-nube-hibrida.html)
 - [Qué es Cloud Computing](https://www.xertica.com/computacion-en-la-nube-definicion-ejemplos-y-usos-practicos/)
@@ -78,7 +78,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Cloud Computing, Définition, avantages et exemples d’utilisation](https://www.lebigdata.fr/definition-cloud-computing)
 - [Cloud Computing, Architectures, Services et Risques](https://www.ge.ch/ppdt/doc/formation/Presentation-Giovanna-Di-Marzo-Serugendo-Cloud-computing-risques.pdf)
@@ -89,7 +89,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Kiteblue](http://www.kiteblue.it/cose-il-cloud/)
 - [Digital4trade](https://www.digital4trade.it/tech-lab/cloud-computing-cose-e-quali-sono-i-benefici/)
@@ -101,7 +101,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Cloud Computing Grundlagen](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Grundlagen/Grundlagen_node.html)
 - [Cloud Computing Presentation](http://publications.europa.eu/resource/cellar/1d487935-12d5-444c-b595-6ebd01f4b5f3.0001.02/DOC_1)
@@ -112,7 +112,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Tadviser](http://www.tadviser.ru/index.php/Cloud_Computing)
 - [Lessons TVA](https://www.lessons-tva.info/archive/nov031.html)

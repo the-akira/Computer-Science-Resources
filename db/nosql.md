@@ -1,6 +1,6 @@
 # NOSQL
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Search Data Management](https://searchdatamanagement.techtarget.com/definition/NoSQL-Not-Only-SQL)
 - [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
@@ -52,7 +52,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Introdução ao Banco de Dados NOSQL](https://www.devmedia.com.br/introducao-aos-bancos-de-dados-nosql/26044)
 - [Banco de Dados Nosql](http://wiki.icmc.usp.br/images/1/18/SCC0542012017noSQL.pdf)
@@ -67,7 +67,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Qué és una Base de Datos NoSQL](https://blogs.oracle.com/spain/qu-es-una-base-de-datos-nosql)
 - [Guía Definitiva](https://blog.pandorafms.org/es/bases-de-datos-nosql/)
@@ -82,7 +82,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [OpenClassRooms](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql)
 - [Qu'est ce que le NoSQL](https://www.grafikart.fr/blog/sql-nosql)
@@ -96,7 +96,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [SQL e NoSQL](https://www.html.it/articoli/sql-e-nosql-a-documenti-il-confronto/)
 - [Guida Mongodb](https://www.html.it/guide/guida-mongodb/)
@@ -109,13 +109,13 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [DB-Engines](https://db-engines.com/de/article/NoSQL)
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Devacademy.ru](http://devacademy.ru/posts/nosql/)
 - [SQL vs NoSQL](https://tproger.ru/translations/sql-nosql-database-models/)

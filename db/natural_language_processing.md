@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 - [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
@@ -49,7 +49,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Processamento de Linguagem Natural](https://www.ime.usp.br/~slago/IA-pln.pdf)
 - [Apresentação UFES](https://www.inbot.com.br/artigos/educacional/Processamento-de-Linguagem-Natural-PLN-Jacson-Rodrigues-UFES.pdf)
@@ -65,7 +65,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Procesamiento de Lenguaje Natural](https://medium.com/soldai/procesamiento-de-lenguaje-natural-5315cf212d0f)
 - [Universidad de Sevilla](https://www.cs.us.es/cursos/ia2/temas/tema-06.pdf)
@@ -77,7 +77,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Traitement Automatique du Langage Naturel](http://www.lattice.cnrs.fr/sites/itellier/poly_info_ling/linguistique003.html)
 - [Petite Introduction](https://perso.limsi.fr/anne/coursM2R/intro.pdf)
@@ -87,7 +87,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Linguistica Computazionale](http://www1.unipa.it/sorce/didattica/sei1213/SEI1213_01_Linguistica_Computazionale_intro.pdf)
 - [Introduzione NLP](https://www.dia.uniroma3.it/~ia/docs/old/Introduzione_NLP.pdf)
@@ -101,7 +101,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Computerlinguistik](https://de.wikipedia.org/wiki/Computerlinguistik)
 - [Naturlicher Sprache](http://www.ec.tuwien.ac.at/~salamon/download/NatuerlicheSprache.pdf)
@@ -111,7 +111,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Fun NLP](https://proglib.io/p/fun-nlp/)
 - [Winter School](https://logic.pdmi.ras.ru/~sergey/slides/N16_WinterSchoolHSE.pdf)

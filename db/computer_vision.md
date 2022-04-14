@@ -1,6 +1,6 @@
 # Computer Vision
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Wikipedia - Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
 - [History of Computer Vision](https://www.sas.com/en_us/insights/analytics/computer-vision.html)
@@ -96,7 +96,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [O que é Visão Computacional](http://datascienceacademy.com.br/blog/o-que-e-visao-computacional/)
 - [Prof. Suzana Mota](http://suzanamota.com/category/visao-computacional/)
@@ -127,7 +127,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Introducción a la visión por Computador](https://www.edx.org/course/introduccion-la-vision-por-computador-uc3mx-isa-1x-0)
 - [Visión por Computador](http://www.ehu.eus/ccwintco/uploads/d/d4/PresentacionMundoVirtual.pdf)
@@ -150,7 +150,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Vision par Ordinateur](http://devernay.free.fr/cours/vision/pdf/vision1_intro.pdf)
 - [Vision par Ordinateur Slides](https://www.lirmm.fr/~wpuech/enseignement/DUT_info/VISION.pdf)
@@ -167,7 +167,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Visione Artificiale](http://www.dsi.unive.it/~pelillo/Didattica/Old%20Stuff/VisioneArtificiale/Slide/Lezione%201.pdf)
 - [Corso di Visione Artificiale](http://www.dsi.unive.it/~srotabul/files/vision/2010-2011/Visione-01-Introduzione.pdf)
@@ -179,7 +179,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Lektorium TV](https://www.lektorium.tv/course/22847)
 - [Computer Vision](http://robocraft.ru/blog/computervision/)

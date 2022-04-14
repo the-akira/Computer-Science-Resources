@@ -1,6 +1,6 @@
 # Physics
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [History of Physics](https://www.youtube.com/watch?v=acUf7PuGWXA)
 - [The Physics of Computers](http://ffden-2.phys.uaf.edu/212_fall2009.web/chris_plutt/index.html)
@@ -43,7 +43,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Física Computacional](https://pt.wikipedia.org/wiki/F%C3%ADsica_computacional)
 - [QuBit: O Bit Quântico](https://www.youtube.com/watch?v=Nc-xoGjkqPw)
@@ -64,7 +64,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Electronica Digital](http://www.areatecnologia.com/electronica/electronica-digital.html)
 - [La Electronica Digital](https://www.edu.xunta.gal/centros/iesblancoamorculleredo/aulavirtual2/pluginfile.php/20936/mod_resource/content/0/Apuntes/electronica_digital.pdf)
@@ -78,7 +78,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Électronique Numérique](http://www.est-usmba.ac.ma/benbrahim/ENSA/Electronique%20num%C3%A9rique/semestre1-ELN-Num%C3%A9rique.pdf)
 - [Circuits Combinatoires](https://www.el-kalam.com/conception-hardware/circuits-combinatoires/)
@@ -94,7 +94,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Elettronica di Base](https://digilander.libero.it/nick47/index.htm#rife1)
 - [Elettronica Digitale](http://studenti.fisica.unifi.it/~carla/appunti/2008-9/cap.6.pdf)
@@ -106,14 +106,14 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Locktronics](https://www.matrixtsl.com/datasheets/LK9392DE-82-1.pdf)
 - [Elektronik für Physiker](https://mathphys.fsk.uni-heidelberg.de/w/wp-content/uploads/skripte/elektronik_straumann.pdf)
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Go-Radio](http://go-radio.ru/cifrovaya-elektronika.html)
 - [Skhemotekhniku](http://kpe.hww.ru/BOOKS/Vvedenie_v_tcifrovuiu_skhemotekhniku_(Novikov).pdf)

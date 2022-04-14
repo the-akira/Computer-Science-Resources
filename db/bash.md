@@ -1,6 +1,6 @@
 # Bash
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Bash Introduction How-To](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 - [Advanced Bash-Scripting Guide](https://www.tldp.org/LDP/abs/html/)
@@ -56,7 +56,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Programação em Bash](http://www.di.ubi.pt/~operativos/praticos/pdf/3-bash.pdf)
 - [Shell Básico](https://e-tinet.com/linux/programacao-shell-script/)
@@ -73,7 +73,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Programmation en Bash](http://www.iro.umontreal.ca/~lesagee/bash.html)
 - [Wikibook Bash](https://fr.wikibooks.org/wiki/Programmation_Bash/Scripts)
@@ -85,7 +85,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Programación en Bash](http://es.tldp.org/COMO-INSFLUG/COMOs/Bash-Prog-Intro-COMO/Bash-Prog-Intro-COMO.html#toc2)
 - [Programando en Bash](https://blog.desdelinux.net/programando-en-bash-parte-1/)
@@ -101,7 +101,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Programmazione della Shell Bash](http://www.aquilante.net/doc/bash_programming.pdf)
 - [Corso Linux](http://www.itiseuganeo.it/materiale/mate/script2.pdf)
@@ -118,7 +118,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Bash Cheat Sheet](https://tproger.ru/translations/bash-cheatsheet/)
 - [Bash Guide](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)

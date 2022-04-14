@@ -1,6 +1,6 @@
 # Cybernetics & Robotics
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Cybernetics MIT](http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF)
 - [Wikipedia Cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
@@ -72,7 +72,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Cibernética: Ciência e Técnica](https://tecnos.cienciassociais.ufg.br/up/410/o/Disserta%C3%A7%C3%A3o_-_Cibernetica__Ciencia_e_T%C3%A9cnica.pdf)
 - [A Robótica no Ensino e Aprendizagem de Programação](https://repositorio.iscte-iul.pt/bitstream/10071/15076/1/A%20Rob%C3%B3tica%20no%20Ensino%20e%20Aprendizagem%20de%20Programa%C3%A7%C3%A3o.pdf)
@@ -89,7 +89,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Cibernética](https://www.monografias.com/trabajos/cibernetica/cibernetica.shtml)
 - [Ecured](https://www.ecured.cu/Cibern%C3%A9tica)
@@ -113,7 +113,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [La Cybernétique](http://www.astrosurf.com/luxorion/cybernetique.htm)
 - [Cybernétique](http://villemin.gerard.free.fr/Scienmod/NotCyber.htm)
@@ -138,7 +138,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Digicult.it](http://digicult.it/it/digimag/issue-049/in-the-beginning-was-cybernetics-relation-between-science-artists/)
 - [La Cibernetica](http://www.fedoa.unina.it/8517/1/Leone_Montagnini_23.pdf)
@@ -152,7 +152,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Spektrum.de](https://www.spektrum.de/lexikon/neurowissenschaft/kybernetik/6831)
 - [Kybernetik](https://www.uni-due.de/~bj0063/doc/Lenk.pdf)
@@ -165,7 +165,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Article](http://www.immsp.kiev.ua/publications/monographs/files/04_Paragraf_2.pdf)
 - [People and Cybernetics](http://elib.ict.nsc.ru/jspui/bitstream/ICT/890/3/m2.pdf)

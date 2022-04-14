@@ -1,6 +1,6 @@
 # Data Mining
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Data Mining](https://en.wikipedia.org/wiki/Data_mining)
 - [SAS](https://www.sas.com/en_us/insights/analytics/data-mining.html)
@@ -61,7 +61,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Conceitos de Mineração de Dados](https://docs.microsoft.com/pt-br/sql/analysis-services/data-mining/data-mining-concepts?view=sql-server-2017)
 - [O que é Data Mining](https://www.aquare.la/o-que-e-data-mining-mineracao-de-dados/)
@@ -78,7 +78,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Minería de Datos](https://www.sinnexus.com/business_intelligence/datamining.aspx)
 - [Qué es la minería de datos](https://www.tecnologias-informacion.com/mineria-de-datos.html)
@@ -95,7 +95,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Data Mining, explorer les données du Data Warehouse](https://www.piloter.org/business-intelligence/datamining.htm)
 - [Exploration de données](http://www.statelem.com/exploration_de_donnees.php)
@@ -106,7 +106,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Il processo di estrazione dei dati: il Data Mining](https://lorenzogovoni.com/processo-estrazione-dei-dati-data-mining/)
 - [Data Mining per l'analisi dei Dati](http://pages.di.unipi.it/ferrari/CORSI/SISD/Lezioni/SISD4.pdf)
@@ -116,7 +116,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Was ist Data Mining](https://www.bigdata-insider.de/was-ist-data-mining-a-593421/)
 - [Data Mining](http://de.dwhwiki.info/konzepte/data_mining)
@@ -125,7 +125,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Data Mining](https://www.intuit.ru/studies/courses/6/6/info)
 

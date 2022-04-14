@@ -1,6 +1,6 @@
 # Computer Networks
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Computer_network)
 - [Tutorialspoint](https://www.tutorialspoint.com/computer_fundamentals/computer_networking.htm)
@@ -96,7 +96,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Redes de Computadores](https://pt.wikibooks.org/wiki/Redes_de_computadores/Introdu%C3%A7%C3%A3o)
 - [Redes de Computadores II](http://www.inf.ufpr.br/elias/redes/)
@@ -114,7 +114,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [EcuRed](https://www.ecured.cu/Red_de_computadoras)
 - [10 Características de las Redes](https://www.caracteristicas.co/redes-de-computadoras/)
@@ -131,7 +131,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Introduction aux Réseaux](http://www.fil.univ-lille1.fr/~sedoglav/RSX/Introduction.pdf)
 - [Réseaux Informatiques](http://projet.eu.org/pedago/sin/1STI2D/7-reseaux.pdf)
@@ -145,7 +145,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Le Reti di Computer](http://www.digila.it/public/iisbenini/transfert/Pagetti/Quarta%20B%20SIA%20(2015-2016)/Reti%20di%20computer.pdf)
 - [Reti di Computer](http://www.mat.uniroma3.it/users/liverani/doc/IN530_4_Reti.pdf)
@@ -163,7 +163,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Moderner Netzwerke](https://s3-eu-west-1.amazonaws.com/gxmedia.galileo-press.de/leseproben/4224/leseprobe_rheinwerk_computer-netzwerke_grundlagen_funktionsweise_anwendung.pdf)
 - [Netzwerk](https://www.mat.univie.ac.at/~praxis/sosem14/vorlesung/folien_05.pdf)
@@ -175,7 +175,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Proglib](https://proglib.io/p/computer-network/)
 - [Asozykin](https://www.asozykin.ru/courses/networks)

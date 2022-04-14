@@ -1,6 +1,6 @@
 # Virtual Reality
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Virtual_reality)
 - [What is Virtual Reality?](https://www.vrs.org.uk/virtual-reality/what-is-virtual-reality.html)
@@ -35,7 +35,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Realidade Virtual](https://web.ist.utl.pt/ist170613/)
 - [Realidade Virtual Artigo](http://openrit.grupotiradentes.com/xmlui/bitstream/handle/set/395/REALIDADE%20VIRTUAL.pdf?sequence=1)
@@ -49,7 +49,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Realidad Virtual, Características, Objetivos e Historia](https://tecnologia-informatica.com/realidad-virtual-caracteristicas-objetivos-historia-lentes-juegos/)
 - [Realidad Virtual](http://www.realidadvirtual.com/)
@@ -67,7 +67,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Réalité Virtuelle](http://igm.univ-mlv.fr/~biri/Enseignement/MII1/TDPdf/RV_intro_et_systeme.pdf)
 - [Réalité Virtuelle: Autonomie in Virtuo](https://www.enib.fr/~tisseau/doc/hdr/hdrJT.pdf)
@@ -77,7 +77,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Introduzione alla Realtá Aumentada](https://vision.unipv.it/corsi/InformationTechnology/IT_AR.pdf)
 - [Realtá Virtuale: Applicazioni](http://percro.sssup.it/marcello/didattica/AA2010/4_Applicazioni_A.pdf)
@@ -86,7 +86,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Virtuelle Realität und E-Learning](https://www.e-teaching.org/didaktik/gestaltung/vr/vr.pdf)
 - [VR/AR](https://projektzukunft.berlin.de/fileadmin/user_upload/pdf/studien/VR_Zusammenfassung_final.pdf)
@@ -95,7 +95,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Braslavski VR](http://www.kansas.ru/vr/braslavski_vr.pdf)
 - [Virtual and Mixed Reality Systems](https://books.ifmo.ru/file/pdf/2321.pdf)

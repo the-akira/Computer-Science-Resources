@@ -1,6 +1,6 @@
 # Elixir
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Elixir Introduction](https://elixir-lang.org/getting-started/introduction.html)
 - [Wikipedia](https://en.wikipedia.org/wiki/Elixir_(programming_language))
@@ -38,7 +38,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Elixir – aprendendo uma linguagem funcional](https://www.lambda3.com.br/2016/06/elixir-aprendendo-uma-linguagem-funcional/)
 - [ELIXIR: uma linguagem de programação brasileira](http://www.each.usp.br/petsi/jornal/?p=2459)
@@ -48,7 +48,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Codigo Facilito](https://codigofacilito.com/articulos/elixir)
 - [Elixir, programación funcional para todos](https://www.genbeta.com/desarrollo/elixir-programacion-funcional-para-todos)
@@ -59,7 +59,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Introduction à Elixir](https://www.synbioz.com/blog/introduction_a_elixir)
 - [Lkdjiin](http://lkdjiin.github.io/blog/categories/elixir/)
@@ -67,7 +67,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Pattern Matching in Elixir](https://funktionale-programmierung.de/2018/06/05/elixir-pattern-matching.html)
 

@@ -1,6 +1,6 @@
 # Web Hacking
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
 - [Stanford CS 253 Web Security](https://web.stanford.edu/class/cs253/)
@@ -46,7 +46,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Vulnerabilidades en Aplicaciones Web](https://www.youtube.com/watch?v=Imnzode1ptk)
 - [Hacking de Aplicaciones Web](https://ucys.ugr.es/download/taller4/WebHacking.pdf)
@@ -59,7 +59,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Segurança de Aplicações Web](https://medium.com/labcodes/seguran%C3%A7a-de-aplica%C3%A7%C3%B5es-web-101-c425f49e4941)
 - [Práticas de Segurança Web](https://www.gocache.com.br/en/seguranca/seguranca-em-aplicacoes-web/)
@@ -77,7 +77,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Applications Web et Securite](http://www.mathrice.org/ecole/support/Applications-Web-securite.pdf)
 - [OpenClassRooms](https://openclassrooms.com/fr/courses/2091901-protegez-vous-efficacement-contre-les-failles-web)
@@ -88,21 +88,21 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Sicurezza Web](http://www-db.disi.unibo.it/courses/RCPG/sicurezza.pdf)
 - [Sicurezza Web e Privacy](http://www.hackerhighschool.org/lessons/HHS_it10_Sicurezza_Web_e_Privacy.pdf)
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [WebMasterPro](https://www.webmasterpro.de/server/article/gaengige-sicherheitsprobleme-im-web.html)
 - [SecureNet](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Studien/WebSec/WebSec.pdf)
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Intro to Web Sec](https://tproger.ru/translations/hacker-101-introduction-to-web-security/)
 - [Tproger](https://tproger.ru/tag/security/)

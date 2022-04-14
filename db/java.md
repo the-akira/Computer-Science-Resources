@@ -1,6 +1,6 @@
 # Java
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [W3Schools](https://www.w3schools.com/java/default.asp)
 - [Awesome-Java](https://github.com/akullpp/awesome-java)
@@ -62,7 +62,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Guia Completo de Java](https://www.devmedia.com.br/guia/linguagem-java/38169)
 - [Curso de Java](https://www.programacaoprogressiva.net/2012/08/curso-de-java.html)
@@ -80,7 +80,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Curso de Java Básico](https://codigofacilito.com/cursos/JAVA)
 - [Wikibooks](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Java)
@@ -98,7 +98,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [OpenClassRooms](https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java)
 - [Developpez Java](https://jmdoudoux.developpez.com/cours/developpons/java/)
@@ -112,7 +112,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Guida Java](https://www.html.it/guide/guida-java/)
 - [Introduzione al linguaggio Java](http://pages.di.unipi.it/milazzo/teaching/AA1314-ProgJava/slides/2-Intro-Java.pdf)
@@ -131,7 +131,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Java-Programmieren](http://www.java-programmieren.com/)
 - [Java Tutorial](http://www.gailer-net.de/tutorials/java/java-toc.html)
@@ -143,7 +143,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Metanit](https://metanit.com/java/tutorial/)
 - [Academic](https://dic.academic.ru/dic.nsf/ruwiki/1219341)

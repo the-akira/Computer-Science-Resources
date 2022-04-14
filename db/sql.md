@@ -1,5 +1,7 @@
 # SQL
 
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
+
 - [Learn SQL Online](https://www.learnsqlonline.org/)
 - [W3Schools](https://www.w3schools.com/sql/)
 - [SQL Course](http://www.sqlcourse.com/intro.html)
@@ -66,7 +68,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [DevMedia](https://www.devmedia.com.br/guia/guia-completo-de-sql/38314)
 - [Dicas de Programação](https://dicasdeprogramacao.com.br/o-que-e-sql/)
@@ -85,7 +87,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Conceptos Básicos SQL](https://support.office.com/es-es/article/access-sql-conceptos-b%C3%A1sicos-vocabulario-y-sintaxis-444d0303-cde1-424e-9a74-e8dc3e460671)
 - [Fundamentos de SQL](https://www.campusmvp.es/recursos/post/Fundamentos-de-SQL-Como-realizar-consultas-simples-con-SELECT.aspx)
@@ -107,7 +109,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [SQL.sh](https://sql.sh/)
 - [Developpez SQL](https://sql.developpez.com/)
@@ -121,7 +123,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [SQL Dispensa](https://home.deib.polimi.it/schreibe/basididati/lucidi%20es/SQL_Dispensa.pdf)
 - [Linguaggio SQL](http://www.di.unito.it/~damiani/DIDATTICA/aa03/InfAppBD/MyMAT/InfoApp86-102.pdf)
@@ -134,7 +136,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Datenbanken](http://www.datenbanken-verstehen.de/sql-tutorial/)
 - [SQL Examples](https://www.torsten-horn.de/techdocs/sql-examples.htm)
@@ -149,7 +151,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Citforum SQL](http://citforum.ru/programming/32less/les44.shtml)
 - [Progopedia](http://progopedia.ru/language/sql/)

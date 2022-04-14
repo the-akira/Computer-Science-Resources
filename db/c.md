@@ -1,6 +1,6 @@
 # C
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Programiz](https://www.programiz.com/c-programming)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
@@ -84,7 +84,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Programacao Descomplicada](https://programacaodescomplicada.wordpress.com/indice/linguagem-c/)
 - [Introdução à Linguagem C](https://www.inf.pucrs.br/~pinho/LaproI/IntroC/IntroC.htm)
@@ -95,7 +95,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [El Lenguaje C](http://www.dc.fi.udc.es/~so-grado/current/Varios/CursoC.pdf)
 - [Curso Basico](http://mmc.geofisica.unam.mx/cursos/femp/CyC++/Lenguaje_C.pdf)
@@ -104,7 +104,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [OpenClassRoom](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c)
 - [Programmation en C](https://finiasz.net/teaching/ENSTA/IN101%20-%20poly%20C.pdf)
@@ -117,7 +117,7 @@
 
 ---------------------------------------
 
-![CN](https://i.imgur.com/XdOAGvb.png)
+![CN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/CHINA.png)
 
 - [C程序设计语言（第2版）](http://read.pudn.com/downloads128/ebook/548703/TheCProgrammingLanguage(SecondEdition).pdf)
 - [C语言程序设计-谭浩强](http://image.sciencenet.cn/olddata/kexue.com.cn/upload/blog/file/2010/5/2010510183555815223.pdf)

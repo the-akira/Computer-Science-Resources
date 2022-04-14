@@ -1,6 +1,6 @@
 # Julia 
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [The Julia Programming Language](https://julialang.org/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Julia_(programming_language))
@@ -62,7 +62,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [JuliaLangPT](https://github.com/JuliaLangPt/tutorial_PT_BR)
 - [O Manual de Julia](https://julia-cn.readthedocs.io/pt_BR/latest/manual/introduction.html)
@@ -71,7 +71,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Lenguaje de Programación JULIA](http://zeus.inf.ucv.cl/~hallende/material/julia.pdf)
 - [Curso Julia](https://github.com/codeneomatrix/curso-JULIA)
@@ -79,7 +79,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Introduction à Julia](http://www.slashbin.net/julia/introJulia.html)
 - [Julia: le langage scientifique](http://perso.ensta-paristech.fr/~diam/julia/)

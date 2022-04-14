@@ -1,6 +1,6 @@
 # Social Engineering
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [WebRoot](https://www.webroot.com/us/en/resources/tips-articles/what-is-social-engineering)
 - [Wikipedia](https://en.wikipedia.org/wiki/Social_engineering_(security))
@@ -30,7 +30,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Técnicas de Engenharia Social](http://cio.com.br/tecnologia/2017/04/09/conheca-seis-das-tecnicas-de-engenharia-social-muito-eficazes/)
 - [Conceitos](https://www.gestaodesegurancaprivada.com.br/engenharia-social-o-que-e-conceitos/)
@@ -44,7 +44,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Gcfglobal](https://edu.gcfglobal.org/es/seguridad-en-internet/la-ingenieria-social/1/)
 - [Ecured](https://www.ecured.cu/Ingenier%C3%ADa_social)
@@ -61,7 +61,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Università di Bologna](https://amslaurea.unibo.it/2701/1/melis_andrea_tesi.pdf)
 - [IngSoc: il Fattore Umano](https://under12oot.noblogs.org/files/2014/02/IngSoc.pdf)
@@ -72,7 +72,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Xakep](https://xakep.ru/2018/05/17/social-engineering/)
 - [The Brain Hack](https://medium.com/@Emisare/socialnaya-ingeneria-9f16e0ba7fa5)

@@ -1,6 +1,6 @@
 # Javascript 
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Codecademy](https://www.codecademy.com/learn/learn-javascript)
 - [Learn-JS](https://www.learn-js.org/)
@@ -69,7 +69,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Tutoriales Programacionya](https://tutorialesprogramacionya.com/javascriptya/)
 - [El lenguaje Javascript](http://www.dtic.upf.edu/~tnavarrete/fcsig/javascript.pdf)
@@ -84,7 +84,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Cours Javascript](https://www.cours-gratuit.com/cours-javascript/)
 - [WikiBooks](https://fr.wikibooks.org/wiki/Programmation_JavaScript/Introduction)
@@ -100,7 +100,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [HTML5book](https://html5book.ru/osnovy-javascript/)
 - [Metanit](https://metanit.com/web/javascript/)
@@ -115,7 +115,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Html.it](https://www.html.it/guide/guida-javascript-di-base/)
 - [Grimaldi](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf)
@@ -125,7 +125,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Devmedia](https://www.devmedia.com.br/guia/javascript/34372)
 - [Criarweb](http://www.criarweb.com/manual/javascript/)

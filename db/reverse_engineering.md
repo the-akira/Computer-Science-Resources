@@ -1,6 +1,6 @@
 # Reverse Engineering
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Reverse Engineering - Wikipedia](https://en.wikipedia.org/wiki/Reverse_engineering)
 - [Reddit](https://www.reddit.com/r/ReverseEngineering/)
@@ -47,7 +47,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Curso de Engenharia Reversa Online](https://www.youtube.com/watch?v=IkUfXfnnKH4&amp;list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA)
 - [Apresentação ER](http://www2.ic.uff.br/~otton/graduacao/informaticaI/apresentacoes/eng_reversa.pdf)
@@ -56,7 +56,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Ingeniería inversa de software](http://ccom.uprrp.edu/~rarce/ccom4995/gitbook/_book/index.html)
 - [underc0de forum](https://underc0de.org/foro/ingenieria-inversa/)
@@ -68,14 +68,14 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Cos'è il Reverse Engineering](https://www.scribd.com/document/334772815/TUTORIAL-1-Cos-e-il-Reverse-Engineering)
 - [Reverse Engineering](http://people.unica.it/giorgiogiacinto/files/2016/05/14.ReverseEngineering.pdf)
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Python Reverse Engineering](https://dsec.ru/wp-content/uploads/pdf-dsec-old/7d5/7d5e8a49b25b285b37800480a41583f8.pdf)
 - [Introduction au reverse engineering avec Radare2](https://jugulaire.github.io/Reverse_engineering_1/)

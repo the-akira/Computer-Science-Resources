@@ -1,6 +1,6 @@
 # C++
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Programiz](https://www.programiz.com/cpp-programming)
 - [Cplusplus](http://www.cplusplus.com/doc/tutorial/)
@@ -74,7 +74,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Excript Curso](https://excript.com/curso-cpp.html)
 - [Aulas C++](http://www.inf.ufpr.br/ci208/NotasAula.pdf)
@@ -86,7 +86,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [OpenClassRoom](https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c)
 - [Cours C++](http://www.lsv.fr/~fl/Cours/slides.pdf)
@@ -98,7 +98,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Curso de Programacion en C++](https://www.uv.es/sto/cursos/c++/curso95.pdf)
 - [Curso C++](https://www.programarya.com/Cursos/C++)
@@ -112,7 +112,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Corso C++](http://samottafile.altervista.org/file/Corso_C++.pdf)
 - [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf)
@@ -122,7 +122,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [C++ Tutorial](https://www.programmierenlernen24.de/c-tutorial/)
 - [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
@@ -130,7 +130,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [C++ Manual](https://code-live.ru/tag/cpp-manual/)
 - [C++ Resources](https://tproger.ru/tag/cpp/)

@@ -1,6 +1,6 @@
 # Computer Architecture
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Computer Architecture](https://en.wikipedia.org/wiki/Computer_architecture)
 - [CIS 501](https://www.cis.upenn.edu/~milom/cis501-Fall11/)
@@ -54,7 +54,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Introdução a Arquitetura de Computadores](https://pt.wikibooks.org/wiki/Introdu%C3%A7%C3%A3o_%C3%A0_Arquitetura_de_Computadores)
 - [Introdução a Arquitetura de Computadores](http://producao.virtual.ufpb.br/books/edusantana/introducao-a-arquitetura-de-computadores-livro/livro/livro.chunked/index.html)
@@ -74,7 +74,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Arquitectura de Computadoras](http://www.aliat.org.mx/BibliotecasDigitales/sistemas/Arquitectura_computadoras_I.pdf)
 - [Wikiwand](http://www.wikiwand.com/es/Arquitectura_de_computadoras#/Introducci%C3%B3n)
@@ -88,7 +88,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Architecture des ordinateurs](http://www.fil.univ-lille1.fr/~wegrzyno/portail/Info/Doc/HTML/seq8_architecture.html)
 - [Architecture des Ordinateurs](http://dept-info.labri.fr/ENSEIGNEMENT/archi/cours/archi.pdf)
@@ -105,7 +105,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Architettura del calcolatore](https://home.deib.polimi.it/roveri/SlideInformaticaGrafica/2_Architettura_del_calcolatore.pdf)
 - [Architettura](http://www.cs.unibo.it/~zuppirol/Architettura.pdf)
@@ -116,7 +116,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Rechnerarchitektur](https://www.tu-chemnitz.de/informatik/friz/Grundl-Inf/Rechnerarchitektur/Vorlesung/vorlesung_1.pdf)
 - [Rechnerarchitektur mit Simulator](https://wiki.zum.de/wiki/Rechnerarchitektur_mit_Simulator_JOHNNY)
@@ -125,7 +125,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Tanenbaum](https://nsu.ru/xmlui/bitstream/handle/nsu/9054/tanenbaum_AC.pdf)
 - [Architecture Book](http://book.kbsu.ru/theory/chapter2/1_2_0.html)

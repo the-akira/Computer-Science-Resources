@@ -1,6 +1,6 @@
 # Signals and Systems
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [The Scientist and Engineer's Guide to Digital Signal Processing](https://www.dspguide.com/ch1.htm)
 - [Signals and Systems MIT](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/)
@@ -66,7 +66,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Sinais e Sistemas](http://users.isr.ist.utl.pt/~iml/LERCI_&amp;_LEE/ss_10-11_sem2/AULAS_SS_v3.pdf)
 - [Introdução aos Sinais e Sistemas](http://www.univasf.edu.br/~edmar.nascimento/analise/analise_aula03.pdf)
@@ -86,7 +86,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Conceptos de Señales y Sistemas](https://www.exabyteinformatica.com/uoc/Audio/Procesamiento_de_audio/Procesamiento_de_audio_(Modulo_1).pdf)
 - [Señales y Sistemas Materiales](https://ocw.unican.es/course/view.php?id=184&amp;section=3)
@@ -96,7 +96,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Signaux & Systemes](http://ressource.electron.free.fr/bts/cours/SigsyPoly.pdf)
 - [Signaux et Systèmes Discrets](https://asi.insa-rouen.fr/enseignement/siteUV/ti/private/Cours1_TDS.pdf)
@@ -111,7 +111,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Segnali e Sistemi](http://automatica.dei.unipd.it/people/chiuso/teaching/segnali-e-sistemi.html)
 - [Segnali e Sistemi Slides](http://www.uniroma2.it/didattica/foejz/deposito/bipoli.pdf)
@@ -130,7 +130,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Signale und Systeme 1](http://www5.tu-ilmenau.de/nt/de/teachings/vorlesungen/signale1/index.html)
 - [Signale un Systeme](https://www4.fh-swf.de/media/downloads/fbiw/download_5/schulze/susy1/SuSy-Skript-2018-04-03-a.pdf)
@@ -144,7 +144,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Notes Systems](https://logic.pdmi.ras.ru/~sergey/teaching/asr/notes-02-systems.pdf)
 - [Signals Linear Systems](http://www.geokniga.org/bookfiles/geokniga-davydov-av-signaly-i-linejnye-sistemytematicheskie-lekcii-ekaterinburgelekt.pdf)

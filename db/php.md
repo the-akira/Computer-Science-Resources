@@ -1,6 +1,6 @@
 # PHP
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
 - [PHP Libhunt](https://php.libhunt.com/)
@@ -56,7 +56,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Curso de PHP 7](https://www.youtube.com/watch?v=XwpsxPmQN2E&amp;list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq)
 - [Curso de PHP](https://www.youtube.com/watch?v=R_yRrYUHai0&amp;list=PLesCEcYj003TrV2MvUOnmVtMdgIp0C4Pd)
@@ -74,7 +74,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [PHP Cours](http://www.lephpfacile.com/cours/)
 - [PHP La Bonne Pratique](https://php.developpez.com/tutoriels/php-la-bonne-pratique/)
@@ -90,7 +90,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Artículos PHP](https://programacion.net/php)
 - [Programación PHP](https://media.readthedocs.org/pdf/programacion-php/latest/programacion-php.pdf)
@@ -104,7 +104,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Programmazione PHP](https://library.weschool.com/lezioni/internet-e-informatica/programmazione/php)
 - [Linguaggio PHP](http://pages.di.unipi.it/milazzo/teaching/AA1011-LabBD/PHP-ParteI.pdf)
@@ -117,7 +117,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [PHP Tutorial](https://webformyself.com/30-luchshix-priemov-php-dlya-nachinayushhix/)
 - [Code.mu](http://code.mu/books/php/base/osnovy-yazyka-php-dlya-novichkov.html)
@@ -129,7 +129,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [PHP-Kurs](https://www.php-kurs.com/anwendungen-php.htm)
 - [PHP-Einfach](https://www.php-einfach.de/)

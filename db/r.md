@@ -1,6 +1,6 @@
 # R
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [R-Project](https://www.r-project.org/about.html)
 - [R W3Schools](https://www.w3schools.com/r/default.asp)
@@ -81,7 +81,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [DevMedia](https://www.devmedia.com.br/trabalhando-com-a-linguagem-r/33275)
 - [R (linguagem de programação)](https://www.ufrgs.br/soft-livre-edu/software-educacional-livre-na-wikipedia/r-linguagem-de-programacao/)
@@ -102,7 +102,7 @@
 
 ---------------------------------------
 
-![ES](https://i.imgur.com/YrO5S0F.png)
+![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
 
 - [Curso básico de R](http://www.ub.edu/stat/docencia/EADB/Curso%20basico%20de%20R.pdf)
 - [Introducción a la Programación Estadística](https://www.ugr.es/~batanero/pages/ARTICULOS/libroR.pdf)
@@ -120,7 +120,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [Introduction à la Programmation en R](https://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf)
 - [Cours de programmation sous R](http://eric.univ-lyon2.fr/~ricco/cours/cours_programmation_R.html)
@@ -133,7 +133,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [Guida Ambiente Statistico R](https://cran.r-project.org/doc/contrib/Mineo-dispensaR.pdf)
 - [Guida R](https://www.html.it/guide/guida-r/)
@@ -151,7 +151,7 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Einführung in R](https://tu-dresden.de/gsw/phil/iso/mes/ressourcen/dateien/prof/lehre/freieS/Dateien/Einfuehrung_R.pdf?lang=en)
 - [Einführung in R 2](http://www.marlenemueller.de/MM_EinfuehrungR.pdf)
@@ -164,7 +164,7 @@
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Data Science with R](https://proglib.io/p/data-science-with-r/)
 

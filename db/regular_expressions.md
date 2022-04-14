@@ -1,6 +1,6 @@
 # Regular Expressions
 
-![EN](https://i.imgur.com/JVHlBEw.png)
+![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
 
 - [Regular expression](https://en.wikipedia.org/wiki/Regular_expression)
 - [Regular-expressions.info](https://www.regular-expressions.info/)
@@ -65,7 +65,7 @@
 
 ---------------------------------------
 
-![PT](https://i.imgur.com/2kZUDhk.png)
+![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
 - [Básico de Expressões Regulares](https://tableless.com.br/o-basico-sobre-expressoes-regulares/)
 - [Aurelio Regex](https://aurelio.net/regex/)
@@ -87,7 +87,7 @@
 
 ---------------------------------------
 
-![FR](https://i.imgur.com/JZEovQw.png)
+![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
 
 - [OpenClassRooms](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/916990-les-expressions-regulieres-partie-1-2)
 - [les expressions régulières](https://www.lucaswillems.com/fr/articles/25/tutoriel-pour-maitriser-les-expressions-regulieres)
@@ -101,7 +101,7 @@
 
 ---------------------------------------
 
-![IT](https://i.imgur.com/lzqVMS4.png)
+![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
 
 - [HTML.it](https://www.html.it/articoli/espressioni-regolari/)
 - [Calculator](https://it.infobyip.com/regularexpressioncalculator.php)
@@ -115,14 +115,14 @@
 
 ---------------------------------------
 
-![DE](https://i.imgur.com/RSPYBQi.png)
+![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
 
 - [Reguläre Ausdrücke](https://www.luis.uni-hannover.de/fileadmin/buecher/leseproben/perl-kap10-lp.pdf)
 - [Tutorial Reguläre Ausrücke](https://www.pug.org/mediawiki/images/0/0a/Tutorial_Regulaere_Ausdruecke.pdf)
 
 ---------------------------------------
 
-![RU](https://i.imgur.com/xH8HWn4.png)
+![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
 
 - [Regex for Beginners](https://tproger.ru/articles/regexp-for-beginners/)
 - [Regexp Syntax](https://regexpstudio.com/ru/regexp_syntax.html)
