@@ -106,6 +106,7 @@
 - [Sorting Visualizer Tutorial (Software Engineering Project)](https://www.youtube.com/watch?v=pFXYym4Wbkc)
 - [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk&ab_channel=freeCodeCamp.org)
 - [50+ Sorts, Visualized - Swirl Dots](https://www.youtube.com/watch?v=LOZTuMds3LM)
+- [Data Structures and Algorithms - Scaler Topics](https://www.scaler.com/topics/data-structures/)
 
 ---------------------------------------
 
