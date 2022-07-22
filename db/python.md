@@ -115,6 +115,7 @@
 - [Python Code](https://www.thepythoncode.com)
 - [Talk Python: Python for Absolute Beginners](https://www.manning.com/livevideo/talk-python-python-for-absolute-beginners)
 - [Full Stack Python Security](https://www.manning.com/books/full-stack-python-security)
+- [Scaler Topics](https://www.scaler.com/topics/python/)
 
 ---------------------------------------
 
