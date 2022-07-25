@@ -62,6 +62,7 @@
 - [Regular Expression, Enough to be Dangerous](https://www.youtube.com/watch?v=bgBWp9EIlMM)
 - [Regular Expressions - Computerphile](https://www.youtube.com/watch?v=528Jc3q86F8)
 - [Using Regular Expressions - Computerphile](https://www.youtube.com/watch?v=6gddK-cOxYc)
+- [Scaler Topics](https://www.scaler.com/topics/regular-expression-in-java/)
 
 ---------------------------------------
 
