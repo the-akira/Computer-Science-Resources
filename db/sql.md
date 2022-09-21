@@ -65,6 +65,7 @@
 - [How to Design and Create Tables in MySQL](https://www.youtube.com/watch?v=4oMJIyVOWL4)
 - [MySQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 - [How To Install MySQL on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04)
+- [Scaler Topics - SQL Tutorial](https://www.scaler.com/topics/sql/)
 
 ---------------------------------------
 
