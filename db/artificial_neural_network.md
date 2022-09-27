@@ -107,8 +107,10 @@
 - [DeepMind x UCL | Intro to Machine Learning & AI](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 </details>
 
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Matheus Facure](https://matheusfacure.github.io/2017/03/05/ann-intro/)
 - [Deep Learning Book](http://deeplearningbook.com.br/o-que-sao-redes-neurais-artificiais-profundas/)
 - [USP](http://conteudo.icmc.usp.br/pessoas/andre/research/neural/)
@@ -138,11 +140,12 @@
 - [Libro OCW](http://ocw.uv.es/ingenieria-y-arquitectura/1-2/libro_ocw_libro_de_redes.pdf)
 - [Simulación de Redes Neuronales Artificiales](http://exa.unne.edu.ar/informatica/SO/SimulacionRNA.PDF)
 - [Introducción y Aplicaciones en Bioinformática](http://www.pdg.cnb.uam.es/cursos/Complutense/Complutense2007/pages/ANN_introduccion_FMoran.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Les Reseaux de Neurones Artificiels](http://www.touzet.org/Claude/Web-Fac-Claude/Les_reseaux_de_neurones_artificiels.pdf)
 - [Wikipedia](https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels)
 - [Reseaux de Neurones Artificiels Slides](http://www-lisic.univ-littoral.fr/~verel/TEACHING/08-09/sac-M1/cRdNV9.pdf)
@@ -156,11 +159,12 @@
 - [Les réseaux de neurones: quand l’informatique est capable d’apprendre](http://www.acsysteme.com/fr/reseaux-de-neurones)
 - [Introduction au Deep Learning](https://meritis.fr/ia/deep-learning/)
 - [Deep Learning Perceptrons simples et multicouches](http://eric.univ-lyon2.fr/~ricco/cours/slides/reseaux_neurones_perceptron.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Reti Neurali](http://www.intelligenzaartificiale.it/reti-neurali/)
 - [Introduzione alle reti neurali](http://matematica.unibocconi.it/articoli/introduzione-alle-reti-neurali)
 - [UNIPV](https://vision.unipv.it/IA/aa2001-2002/10-RetiNeurali.pdf)
@@ -175,11 +179,12 @@
 - [Reti Neurali Slides](http://cirlab.det.unifi.it/ComplementiET/NN_2015-16.pdf)
 - [Seminari di Sistemi Informatici](http://torlone.dia.uniroma3.it/sistelab/retineurali.pdf)
 - [Storia delle reti neurali artificiali](http://people.na.infn.it/~murano/SICSI-VIII/Labonia.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Neuronale Netze](http://www.neuronalesnetz.de/downloads/neuronalesnetz_de.pdf)
 - [Einführung in Neuronale Netze](https://www.dbai.tuwien.ac.at/education/AIKonzepte/Folien/NeuronaleNetze.pdf)
 - [Neuronales Netz](http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/technologien-methoden/KI-und-Softcomputing/Neuronales-Netz)
@@ -192,11 +197,12 @@
 - [Einführung in Künstliche Neuronale Netze](https://nms.kcl.ac.uk/stefan.edelkamp/lectures/ml/slides/neuronale%20netze.pdf)
 - [Neuronale Netze, Deep Learning](https://www.cs.uni-potsdam.de/ml/teaching/ss14/ml2/NeuronaleNetze2.pdf)
 - [Neuronale Netze, Dr. Rudolf Kruse](http://fuzzy.cs.ovgu.de/ci/nn/nn-all.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Wikipedia](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C)
 - [Neuralnet](https://neuralnet.info/chapter/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B8%D0%BD%D1%81/)
 - [Neuronus](https://neuronus.com/theory/nn/)
@@ -210,5 +216,4 @@
 - [ANN](https://logic.pdmi.ras.ru/~sergey/teaching/mlcsclub/03-ann.pdf)
 - [Book](http://iit1.mpei.ac.ru/pubkrug1.pdf)
 - [Burakov Neuro](http://window.edu.ru/resource/206/80206/files/Burakov_Neuro.pdf)
-
----------------------------------------
+</details>
