@@ -3,6 +3,7 @@
 <details>
   <summary>English</summary>
   
+  ### Materials
   - [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
   - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
   - [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
@@ -111,173 +112,177 @@
   - [50+ Sorts, Visualized - Swirl Dots](https://www.youtube.com/watch?v=LOZTuMds3LM)
 </details>
 
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
+  - [Caelum - Algoritmos e Estruturas de Dados](https://www.caelum.com.br/download/caelum-algoritmos-estruturas-dados-java-cs14.pdf)
+  - [Apostila Algoritmos e Estruturas de Dados](http://www.inf.ufpr.br/cursos/ci055/apostila.pdf)
+  - [Estruturas de Dados e Algoritmos](http://orion.lcg.ufrj.br/algoritmos/EstrDadosAlgoritmos.pdf)
+  - [Algoritmos e Estruturas de Dados I](http://www.each.usp.br/digiampietri/ACH2023/ACH2023.pdf)
+  - [Algoritmos e Estruturas de Dados](https://web.tecnico.ulisboa.pt/~david.matos/w/pt/index.php/Algoritmos_e_Estruturas_de_Dados)
+  - [Algoritmos e Estruturas de Dados Repositório](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados)
+  - [MCTA001 - Algoritmos e Estruturas de Dados I](http://professor.ufabc.edu.br/~jesus.mena/courses/aed1-1q-2019/)
+  - [Estruturas de Dados](http://usuarios.upf.br/~mcpinto/ed-tsi/ed_parte01.pdf)
+  - [Estruturas de Dados UNICAMP](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf)
+  - [Lógica de Programação, Algoritmos e Estruturas de Dados](https://docente.ifsc.edu.br/vilson.junior/ip/IP_01_Logica.pdf)
+  - [Aulas de Estruturas de Dados](https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/index.html)
+  - [Algoritmos e Estruturas de Dados II UFMG](https://www2.dcc.ufmg.br/disciplinas/aeds2_turmaA1/aeds2.html)
+  - [Algoritmos: Estruturas de Controle](http://wiki.icmc.usp.br/images/e/e7/SCC0120_Rosane-04-algoritmos_controle_2014.pdf)
+  - [Apostila de Algoritmo Estruturado](http://www.dainf.ct.utfpr.edu.br/~pbueno/Arquivos/Algoritmos.pdf)
+  - [Estrutura de Dados usando C](https://www.cin.ufpe.br/~garme/public/(ebook)Estruturas%20de%20Dados%20Usando%20C%20(Tenenbaum).pdf)
+  - [Complexidade de Algoritmos](http://www.faccamp.br/osvaldo/EstruturasDados.pdf)
+  - [Complexidade de Algoritmos IFRN](https://docente.ifrn.edu.br/demetrioscoutinho/disciplinas/algoritmos/03-complexidade)
+  - [Complexidade de Algoritmos LAPIX UFSC](http://www.lapix.ufsc.br/ensino/estrutura-de-dados/complexidade-de-algoritmos/)
+  - [Introdução à Complexidade de Algoritmos](https://medium.com/nagoya-foundation/introdu%C3%A7%C3%A3o-%C3%A0-complexidade-de-algoritmos-4a9c237e4ecc)
+  - [Análise de Complexidade](https://homepages.dcc.ufmg.br/~cunha/teaching/20121/aeds2/complexity.pdf)
+  - [Engenharia de Computação UNIVESP - Estrutura de Dados](https://www.youtube.com/playlist?list=PLxI8Can9yAHf8k8LrUePyj0y3lLpigGcl)
+  - [Algoritmos e Estruturas de Dados - USP](https://www.youtube.com/playlist?list=PL3pqME-MCdyFZrmCnHoHkQAL9CMZUtiZf)
+</details>
 
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+  - [Estructura de datos](https://es.wikipedia.org/wiki/Estructura_de_datos)
+  - [Algoritmos y Estructuras de Datos - Universidad del Litoral](https://cimec.org.ar/~mstorti/aed/aednotes.pdf)
+  - [Manual de Algoritmos y Estructuras de Datos](http://biblioteca.uns.edu.pe/saladocentes/archivoz/publicacionez/manual_algoritmos_y_estructura_de_datos.pdf)
+  - [Programas = Datos + Algoritmos](https://people.ac.upc.edu/mario/teaching/cap2.pdf)
+  - [CC3001 Algoritmos y Estructuras de Datos](https://users.dcc.uchile.cl/~bebustos/apuntes/cc3001/)
+  - [1151042 - Algoritmos y Estructuras de Datos](https://sites.google.com/site/rccuam/home/1151042---algoritmos-y-estructuras-de-datos)
+  - [Estructuras de datos básicas](https://runestone.academy/runestone/static/pythoned/BasicDS/toctree.html)
+  - [Víctor Jiménez, Universitat Jaume I](https://www3.uji.es/~vjimenez/)
+  - [Estructuras de Datos y Algoritmos Material](https://www.fing.edu.uy/tecnoinf/maldonado/cursos/eda/middleeda.html)
+  - [Algoritmos y Estructuras de Datos I](https://www.glyc.dc.uba.ar/santiago/papers/teoricasAlgo1.pdf)
+  - [Estructuras de datos básicas](https://users.dcc.uchile.cl/~bebustos/apuntes/cc30a/Estructuras/)
+  - [Algoritmos y Estructuras de Datos Apunte de Teoria](https://www.frro.utn.edu.ar/repositorio/catedras/sistemas/1_anio/algoritmo_estructura_datos/SORRIBAS.pdf)
+  - [Análisis de la complejidad de los algoritmos](https://www.cs.us.es/~jalonso/cursos/i1m/temas/tema-28.html)
+  - [Eficiencia algorítmica](https://es.wikipedia.org/wiki/Eficiencia_algor%C3%ADtmica)
+  - [INTRODUCCIÓN al Estudio de ALGORITMOS y su COMPLEJIDAD](https://informatica.uv.es/iiguia/AED/teoria/apuntes/cuatr2/AED.Tema.09.pdf)
+  - [Tiempo de ejecución y eficiencia de algoritmos](https://verso.mat.uam.es/~pablo.angulo/doc/laboratorio/b2s2.html)
+  - [Análisis de la Complejidad de Algoritmos](https://campus.exactas.uba.ar/pluginfile.php/134737/mod_resource/content/1/Te%C3%B3rica%20Complejidad.pdf)
+  - [An ́alisis de Algoritmos](http://marenas.sitios.ing.uc.cl/iic1253-14/clases/analisis-imp.pdf)
+  - [An ́alisis de la eficiencia de un algoritmo](http://marenas.sitios.ing.uc.cl/iic2283-16/clases/analisis-I.pdf)
+  - [Complejidad (Big-O)](https://guias.makeitreal.camp/algoritmos/complejidad)
+  - [Análisis de Algoritmos –Complejidad](https://www.dit.upm.es/~pepe/doc/adsw/tema1/Complejidad.pdf)
+</details>
 
----------------------------------------
+<details>
+  <summary>French</summary>
+  
+  ### Materials
+  - [Algorithmique et Structures de Données](http://deptinfo.unice.fr/~regin/cours/cours/ASD/C1_AlgoSdd.pdf)
+  - [Notions de structures de données : tableaux et listes chaînées](https://openclassrooms.com/fr/courses/1467201-algorithmique-pour-lapprenti-programmeur/1467600-notions-de-structures-de-donnees-tableaux-et-listes-chainees)
+  - [Structures de donn ́ees et algorithmes](http://www.info.univ-angers.fr/pub/stephan/L3INFO/ALGORITHMIQUE/COURS/complexite.pdf)
+  - [Structures de donn ́ees et algorithmes 2012](http://www.montefiore.ulg.ac.be/~geurts/Cours/sda/2011/sda-complet-2011-2012.pdf)
+  - [Structures de données et algorithmes Université de Liège](http://www.montefiore.ulg.ac.be/~geurts/Cours/sda/2018/sda2018_2019.html#)
+  - [Algorithmique](https://perso.liris.cnrs.fr/pierre-antoine.champin/enseignement/algo/cours/index.html)
+  - [Algorithmique Structures de données](https://www.lri.fr/~hivert/COURS/CFA-L3/03-Structures.pdf)
+  - [Algorithmique et Structures de Données](http://univ.ency-education.com/uploads/1/3/1/0/13102001/mi06_lessons-algo_str_donnees.pdf)
+  - [Introduction aux algorithmes et aux structures de données](https://tcuvelier.developpez.com/tutoriels/algo/introduction-algorithmes-structures-donnees/)
+  - [Enseignement : Algorithmique et structures de données (2009, 2010 et 2011)](http://www.lirmm.fr/~poupet/enseignement/algo11.php)
+  - [Cours de Structures de données](https://fc.isima.fr/~kante/cours/cours-sdd.pdf)
+  - [STRUCTURES DE DONNÉES 1](http://www-igm.univ-mlv.fr/~mac/ENS/DOC/struct_1.pdf)
+  - [LSINF1121: Algorithmique et Structures de données](https://lsinf1121.readthedocs.io/fr/latest/)
+  - [Structures de donn ́ees et algorithmes UVA](https://oer.avu.org/bitstream/handle/123456789/527/ITI%202200-FR-DATA%20STRUCTURES(1).pdf)
+  - [INF3105 – Structures de données et algorithmes](http://ericbeaudry.ca/~eric/INF3105/inf3105-notes.pdf)
+  - [Structures de données et algorithmes fondamentaux](http://igm.univ-mlv.fr/~alabarre/teaching/struct/poly-m1103.pdf)
+  - [Algorithmique et Complexité](http://www.lacl.fr/dima/complexite/)
+  - [Algorithmique](http://www.dptinfo.ens-cachan.fr/Agregation/Algo14-15/structures.pdf)
+  - [Langages et Concepts de Programmation Structures de données et algorithmes en C](http://kiwi.emse.fr/POLE/SDA/sda-c.pdf)
+  - [Analyse de la complexité des algorithmes](https://fr.wikipedia.org/wiki/Analyse_de_la_complexit%C3%A9_des_algorithmes)
+  - [Complexité des algorithmes - Stéphane Grandcolas](http://www.dil.univ-mrs.fr/~gcolas/algo-licence/slides/complexite-cm.pdf)
+  - [Algorithmique & Complexité](http://paristech.institutoptique.fr/site.php?id=580&fileid=5335)
+  - [Introduction à la complexité algorithmique](http://www.irem.unilim.fr/fileadmin/documents/2015_01_04-Introduction_complexite_algorithmique.pdf)
+  - [Complexité des algorithmes](http://pauillac.inria.fr/~levy/x/tc/polycopie-1.6/main003.html)
+  - [Analyse et complexité des algorithmes](https://www.iro.umontreal.ca/~hamelsyl/Analyse28104-A09.pdf)
+  - [Complexité algorithmique Université de Toulose](https://www.math.univ-toulouse.fr/~msablik/Cours/Complexite/Slide-Complexite.pdf)
+  - [Complexite des algorithmes: nombres instructions ́elementaires](http://www.cril.univ-artois.fr/~benferhat/complexite_nombres_instructions.pdf)
+</details>
 
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+  - [Corso di Algoritmi e Strutture Dati](https://www.cs.unibo.it/~donat/alg.html)
+  - [Algoritmi e Strutture Dati - Università di Padova](https://www.math.unipd.it/~baldan/Algoritmi/)
+  - [Corso di Algoritmi e Strutture Dati](http://www.mat.uniroma2.it/~guala/ASDL_2018.htm)
+  - [Algoritmi e Strutture Dati + Laboratorio](http://www.di.uniba.it/~ndm/courses/asd/)
+  - [Appunti di Algoritmi e Strutture Dati](https://www.dsi.unive.it/~acarraro/Tutorato-ASD-Carraro-2014.pdf)
+  - [Corso di Algoritmi e Strutture Dati - Università della Calabria](https://www.mat.unical.it/terracina/asd/)
+  - [Algoritmi e Strutture Dati 2018/2019](https://www.youtube.com/playlist?list=PLyuPAlvJWIqKLv9G5xV5pSzrzGPFbXJXA)
+  - [Algoritmi e Strutture Dati UniRoma](https://www.dis.uniroma1.it/~patrizi/sections/teaching/asd-latina-16-17/slides/slides.pdf)
+  - [Corse di Algoritmi e Strutture Dati](http://vvw.web.cs.unibo.it/wiki/images/d/dc/Appunti_di_Algoritmi_e_Strutture_Dati.incomplete.pdf)
+  - [Introduzione Agli Algoritmi E Strutture Dati](http://unina.stidue.net/Algoritmi%20e%20Strutture%20Dati/Materiale/Cormen%20Leiserson%20Rivest%20Stein-Introduzione%20Agli%20Algoritmi%20E%20Strutture%20Dati-2a%20Edizione-capitoli%201-15.pdf)
+  - [Algoritmi e Strutture Dati - Introduzione](http://wpage.unina.it/benerece/ASD/Benerecetti/ASD-1/1-Introduzione.pdf)
+  - [Esercizi di Algoritmi e Strutture Dati](https://docplayer.it/397945-Esercizi-di-algoritmi-e-strutture-dati.html)
+  - [Corso di Algoritmi e Strutture Dati: Modulo I + II](http://www.mat.uniroma2.it/~guala/ASDL_2015.htm)
+  - [1Complessità degli algoritmi](https://www.math.unipd.it/~laurap/didattica/Fondamenti-recupero/settimana5/settimana5_6pgbn.pdf)
+  - [Complessità Computazionale](http://www-db.deis.unibo.it/courses/FIL-B/Lezioni/complessita.pdf)
+  - [Complessità algoritmo](https://www.okpedia.it/complessita_algoritmo)
+</details>
 
-- [Caelum - Algoritmos e Estruturas de Dados](https://www.caelum.com.br/download/caelum-algoritmos-estruturas-dados-java-cs14.pdf)
-- [Apostila Algoritmos e Estruturas de Dados](http://www.inf.ufpr.br/cursos/ci055/apostila.pdf)
-- [Estruturas de Dados e Algoritmos](http://orion.lcg.ufrj.br/algoritmos/EstrDadosAlgoritmos.pdf)
-- [Algoritmos e Estruturas de Dados I](http://www.each.usp.br/digiampietri/ACH2023/ACH2023.pdf)
-- [Algoritmos e Estruturas de Dados](https://web.tecnico.ulisboa.pt/~david.matos/w/pt/index.php/Algoritmos_e_Estruturas_de_Dados)
-- [Algoritmos e Estruturas de Dados Repositório](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados)
-- [MCTA001 - Algoritmos e Estruturas de Dados I](http://professor.ufabc.edu.br/~jesus.mena/courses/aed1-1q-2019/)
-- [Estruturas de Dados](http://usuarios.upf.br/~mcpinto/ed-tsi/ed_parte01.pdf)
-- [Estruturas de Dados UNICAMP](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf)
-- [Lógica de Programação, Algoritmos e Estruturas de Dados](https://docente.ifsc.edu.br/vilson.junior/ip/IP_01_Logica.pdf)
-- [Aulas de Estruturas de Dados](https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/index.html)
-- [Algoritmos e Estruturas de Dados II UFMG](https://www2.dcc.ufmg.br/disciplinas/aeds2_turmaA1/aeds2.html)
-- [Algoritmos: Estruturas de Controle](http://wiki.icmc.usp.br/images/e/e7/SCC0120_Rosane-04-algoritmos_controle_2014.pdf)
-- [Apostila de Algoritmo Estruturado](http://www.dainf.ct.utfpr.edu.br/~pbueno/Arquivos/Algoritmos.pdf)
-- [Estrutura de Dados usando C](https://www.cin.ufpe.br/~garme/public/(ebook)Estruturas%20de%20Dados%20Usando%20C%20(Tenenbaum).pdf)
-- [Complexidade de Algoritmos](http://www.faccamp.br/osvaldo/EstruturasDados.pdf)
-- [Complexidade de Algoritmos IFRN](https://docente.ifrn.edu.br/demetrioscoutinho/disciplinas/algoritmos/03-complexidade)
-- [Complexidade de Algoritmos LAPIX UFSC](http://www.lapix.ufsc.br/ensino/estrutura-de-dados/complexidade-de-algoritmos/)
-- [Introdução à Complexidade de Algoritmos](https://medium.com/nagoya-foundation/introdu%C3%A7%C3%A3o-%C3%A0-complexidade-de-algoritmos-4a9c237e4ecc)
-- [Análise de Complexidade](https://homepages.dcc.ufmg.br/~cunha/teaching/20121/aeds2/complexity.pdf)
-- [Engenharia de Computação UNIVESP - Estrutura de Dados](https://www.youtube.com/playlist?list=PLxI8Can9yAHf8k8LrUePyj0y3lLpigGcl)
-- [Algoritmos e Estruturas de Dados - USP](https://www.youtube.com/playlist?list=PL3pqME-MCdyFZrmCnHoHkQAL9CMZUtiZf)
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
+  - [Алгоритмы и структуры данных для начинающих: сложность алгоритмов](https://tproger.ru/translations/algorithms-and-data-structures/)
+  - [АЛГОРИТМЫ СТРУКТУРЫ ДАННЫХ](http://portal.tpu.ru/SHARED/o/OFOFANO/work/Tab2/up.pdf)
+  - [Data Structures and Algorithms: C / C ++ Implementation](http://kspt.icc.spbstu.ru/media/files/course/algstr/algstr_2009.pdf)
+  - [Data Structure and Algorithms](https://nnov.hse.ru/data/2012/02/09/1262604831/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%A2%D0%B0%D0%BB%D0%9F%D0%BE%D0%B2%D1%8B%D1%88%D0%9A%D0%B2%D0%B0%D0%BB%D0%B8%D1%84.pdf)
+  - [Algo Book](https://www.babichev.org/books/AlgoBook.pdf)
+  - [АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ 2015](https://fsc.bsu.by/wp-content/uploads/2015/12/E-UMK-Algoritmy-i-struktury-danny-h-chast-1.pdf)
+  - [АЛГОРИТМЫ + СТРУКТУРЫДАННЫХ = ПРОГРАММЫ](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Algorithms%20and%20Data%20Structures%20%28RU%29.pdf)
+  - [Алгоритмы Структуры Данных Slides](http://kspt.icc.spbstu.ru/media/files/2017/asd/01_Intro.pdf)
+  - [Анализ сложности алгоритмов. Примеры](https://pro-prof.com/archives/1660)
+  - [MAXimal](http://e-maxx.ru/algo/)
+</details>
 
----------------------------------------
+<details>
+  <summary>Japanese</summary>
+  
+  ### Materials
+  - [アルゴリズムとデータ構造](https://www.codereading.com/algo_and_ds/)
+  - [アルゴリズムとデータ構造の基礎](https://qiita.com/macky4/items/6dce671e90eaed23db32)
+  - [アルゴリズムとデータ構造](https://ufcpp.net/study/algorithm/)
+  - [アルゴリズムとデータ構造　--- 理論編 ---](https://www.ci.seikei.ac.jp/yamamoto/lecture/algorithm/material.html)
+  - [Algorithms and Data Structures](http://biorobot2.ise.ibaraki.ac.jp/inoue/ad/)
+  - [Programming Place Plus](https://programming-place.net/ppp/contents/algorithm/index.html)
+  - [2019年度 京都大学 工学部情報学科](https://hkashima.github.io/course_algorithm_2019.html)
+  - [アルゴリズムとデータ構造 外伝](http://www.ics.kagoshima-u.ac.jp/~fuchida/edu/algorithm/index.html)
+  - [2019年度「アルゴリズムとデータ構造」のページ](http://taurus.ics.nara-wu.ac.jp/algo/)
+  - [アルゴリズムとデータ構造](http://web-ext.u-aizu.ac.jp/course/alg1/ex/jp/index.html)
+  - [計算の複雑さ入門](https://www.jaist.ac.jp/~uehara/course/2011/si216/pdf/03comp.pdf)
+  - [python - アルゴリズムの複雑さの計算（Big-O)](https://tutorialmore.com/questions-1141026.htm)
+</details>
 
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
+<details>
+  <summary>Chinese</summary>
+  
+  ### Materials
+  - [LeetCode in Python - Michelle小梦想家](https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8)
+  - [Data Biancheng](http://data.biancheng.net/view/156.html)
+  - [数据结构与算法（Python)](https://www.ranxiaolang.com/static/python_algorithm/python_algorithm.html)
+  - [LeetCode 题解](https://github.com/soulmachine/leetcode)
+  - [LeetCode Algorithm](https://github.com/haoel/leetcode)
+  - [LeetCode Animation All in One](https://github.com/MisterBooo/LeetCodeAnimation)
+  - [数据结构和算法](https://www.cnblogs.com/wangzihong/p/12248442.html)
+  - [数据结构和算法基础](https://www.cnblogs.com/Alan-Song/p/11184214.html)
+</details>
 
-- [Estructura de datos](https://es.wikipedia.org/wiki/Estructura_de_datos)
-- [Algoritmos y Estructuras de Datos - Universidad del Litoral](https://cimec.org.ar/~mstorti/aed/aednotes.pdf)
-- [Manual de Algoritmos y Estructuras de Datos](http://biblioteca.uns.edu.pe/saladocentes/archivoz/publicacionez/manual_algoritmos_y_estructura_de_datos.pdf)
-- [Programas = Datos + Algoritmos](https://people.ac.upc.edu/mario/teaching/cap2.pdf)
-- [CC3001 Algoritmos y Estructuras de Datos](https://users.dcc.uchile.cl/~bebustos/apuntes/cc3001/)
-- [1151042 - Algoritmos y Estructuras de Datos](https://sites.google.com/site/rccuam/home/1151042---algoritmos-y-estructuras-de-datos)
-- [Estructuras de datos básicas](https://runestone.academy/runestone/static/pythoned/BasicDS/toctree.html)
-- [Víctor Jiménez, Universitat Jaume I](https://www3.uji.es/~vjimenez/)
-- [Estructuras de Datos y Algoritmos Material](https://www.fing.edu.uy/tecnoinf/maldonado/cursos/eda/middleeda.html)
-- [Algoritmos y Estructuras de Datos I](https://www.glyc.dc.uba.ar/santiago/papers/teoricasAlgo1.pdf)
-- [Estructuras de datos básicas](https://users.dcc.uchile.cl/~bebustos/apuntes/cc30a/Estructuras/)
-- [Algoritmos y Estructuras de Datos Apunte de Teoria](https://www.frro.utn.edu.ar/repositorio/catedras/sistemas/1_anio/algoritmo_estructura_datos/SORRIBAS.pdf)
-- [Análisis de la complejidad de los algoritmos](https://www.cs.us.es/~jalonso/cursos/i1m/temas/tema-28.html)
-- [Eficiencia algorítmica](https://es.wikipedia.org/wiki/Eficiencia_algor%C3%ADtmica)
-- [INTRODUCCIÓN al Estudio de ALGORITMOS y su COMPLEJIDAD](https://informatica.uv.es/iiguia/AED/teoria/apuntes/cuatr2/AED.Tema.09.pdf)
-- [Tiempo de ejecución y eficiencia de algoritmos](https://verso.mat.uam.es/~pablo.angulo/doc/laboratorio/b2s2.html)
-- [Análisis de la Complejidad de Algoritmos](https://campus.exactas.uba.ar/pluginfile.php/134737/mod_resource/content/1/Te%C3%B3rica%20Complejidad.pdf)
-- [An ́alisis de Algoritmos](http://marenas.sitios.ing.uc.cl/iic1253-14/clases/analisis-imp.pdf)
-- [An ́alisis de la eficiencia de un algoritmo](http://marenas.sitios.ing.uc.cl/iic2283-16/clases/analisis-I.pdf)
-- [Complejidad (Big-O)](https://guias.makeitreal.camp/algoritmos/complejidad)
-- [Análisis de Algoritmos –Complejidad](https://www.dit.upm.es/~pepe/doc/adsw/tema1/Complejidad.pdf)
-
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
-- [Algorithmique et Structures de Données](http://deptinfo.unice.fr/~regin/cours/cours/ASD/C1_AlgoSdd.pdf)
-- [Notions de structures de données : tableaux et listes chaînées](https://openclassrooms.com/fr/courses/1467201-algorithmique-pour-lapprenti-programmeur/1467600-notions-de-structures-de-donnees-tableaux-et-listes-chainees)
-- [Structures de donn ́ees et algorithmes](http://www.info.univ-angers.fr/pub/stephan/L3INFO/ALGORITHMIQUE/COURS/complexite.pdf)
-- [Structures de donn ́ees et algorithmes 2012](http://www.montefiore.ulg.ac.be/~geurts/Cours/sda/2011/sda-complet-2011-2012.pdf)
-- [Structures de données et algorithmes Université de Liège](http://www.montefiore.ulg.ac.be/~geurts/Cours/sda/2018/sda2018_2019.html#)
-- [Algorithmique](https://perso.liris.cnrs.fr/pierre-antoine.champin/enseignement/algo/cours/index.html)
-- [Algorithmique Structures de données](https://www.lri.fr/~hivert/COURS/CFA-L3/03-Structures.pdf)
-- [Algorithmique et Structures de Données](http://univ.ency-education.com/uploads/1/3/1/0/13102001/mi06_lessons-algo_str_donnees.pdf)
-- [Introduction aux algorithmes et aux structures de données](https://tcuvelier.developpez.com/tutoriels/algo/introduction-algorithmes-structures-donnees/)
-- [Enseignement : Algorithmique et structures de données (2009, 2010 et 2011)](http://www.lirmm.fr/~poupet/enseignement/algo11.php)
-- [Cours de Structures de données](https://fc.isima.fr/~kante/cours/cours-sdd.pdf)
-- [STRUCTURES DE DONNÉES 1](http://www-igm.univ-mlv.fr/~mac/ENS/DOC/struct_1.pdf)
-- [LSINF1121: Algorithmique et Structures de données](https://lsinf1121.readthedocs.io/fr/latest/)
-- [Structures de donn ́ees et algorithmes UVA](https://oer.avu.org/bitstream/handle/123456789/527/ITI%202200-FR-DATA%20STRUCTURES(1).pdf)
-- [INF3105 – Structures de données et algorithmes](http://ericbeaudry.ca/~eric/INF3105/inf3105-notes.pdf)
-- [Structures de données et algorithmes fondamentaux](http://igm.univ-mlv.fr/~alabarre/teaching/struct/poly-m1103.pdf)
-- [Algorithmique et Complexité](http://www.lacl.fr/dima/complexite/)
-- [Algorithmique](http://www.dptinfo.ens-cachan.fr/Agregation/Algo14-15/structures.pdf)
-- [Langages et Concepts de Programmation Structures de données et algorithmes en C](http://kiwi.emse.fr/POLE/SDA/sda-c.pdf)
-- [Analyse de la complexité des algorithmes](https://fr.wikipedia.org/wiki/Analyse_de_la_complexit%C3%A9_des_algorithmes)
-- [Complexité des algorithmes - Stéphane Grandcolas](http://www.dil.univ-mrs.fr/~gcolas/algo-licence/slides/complexite-cm.pdf)
-- [Algorithmique & Complexité](http://paristech.institutoptique.fr/site.php?id=580&fileid=5335)
-- [Introduction à la complexité algorithmique](http://www.irem.unilim.fr/fileadmin/documents/2015_01_04-Introduction_complexite_algorithmique.pdf)
-- [Complexité des algorithmes](http://pauillac.inria.fr/~levy/x/tc/polycopie-1.6/main003.html)
-- [Analyse et complexité des algorithmes](https://www.iro.umontreal.ca/~hamelsyl/Analyse28104-A09.pdf)
-- [Complexité algorithmique Université de Toulose](https://www.math.univ-toulouse.fr/~msablik/Cours/Complexite/Slide-Complexite.pdf)
-- [Complexite des algorithmes: nombres instructions ́elementaires](http://www.cril.univ-artois.fr/~benferhat/complexite_nombres_instructions.pdf)
-
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
-- [Corso di Algoritmi e Strutture Dati](https://www.cs.unibo.it/~donat/alg.html)
-- [Algoritmi e Strutture Dati - Università di Padova](https://www.math.unipd.it/~baldan/Algoritmi/)
-- [Corso di Algoritmi e Strutture Dati](http://www.mat.uniroma2.it/~guala/ASDL_2018.htm)
-- [Algoritmi e Strutture Dati + Laboratorio](http://www.di.uniba.it/~ndm/courses/asd/)
-- [Appunti di Algoritmi e Strutture Dati](https://www.dsi.unive.it/~acarraro/Tutorato-ASD-Carraro-2014.pdf)
-- [Corso di Algoritmi e Strutture Dati - Università della Calabria](https://www.mat.unical.it/terracina/asd/)
-- [Algoritmi e Strutture Dati 2018/2019](https://www.youtube.com/playlist?list=PLyuPAlvJWIqKLv9G5xV5pSzrzGPFbXJXA)
-- [Algoritmi e Strutture Dati UniRoma](https://www.dis.uniroma1.it/~patrizi/sections/teaching/asd-latina-16-17/slides/slides.pdf)
-- [Corse di Algoritmi e Strutture Dati](http://vvw.web.cs.unibo.it/wiki/images/d/dc/Appunti_di_Algoritmi_e_Strutture_Dati.incomplete.pdf)
-- [Introduzione Agli Algoritmi E Strutture Dati](http://unina.stidue.net/Algoritmi%20e%20Strutture%20Dati/Materiale/Cormen%20Leiserson%20Rivest%20Stein-Introduzione%20Agli%20Algoritmi%20E%20Strutture%20Dati-2a%20Edizione-capitoli%201-15.pdf)
-- [Algoritmi e Strutture Dati - Introduzione](http://wpage.unina.it/benerece/ASD/Benerecetti/ASD-1/1-Introduzione.pdf)
-- [Esercizi di Algoritmi e Strutture Dati](https://docplayer.it/397945-Esercizi-di-algoritmi-e-strutture-dati.html)
-- [Corso di Algoritmi e Strutture Dati: Modulo I + II](http://www.mat.uniroma2.it/~guala/ASDL_2015.htm)
-- [1Complessità degli algoritmi](https://www.math.unipd.it/~laurap/didattica/Fondamenti-recupero/settimana5/settimana5_6pgbn.pdf)
-- [Complessità Computazionale](http://www-db.deis.unibo.it/courses/FIL-B/Lezioni/complessita.pdf)
-- [Complessità algoritmo](https://www.okpedia.it/complessita_algoritmo)
-
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
-- [Алгоритмы и структуры данных для начинающих: сложность алгоритмов](https://tproger.ru/translations/algorithms-and-data-structures/)
-- [АЛГОРИТМЫ СТРУКТУРЫ ДАННЫХ](http://portal.tpu.ru/SHARED/o/OFOFANO/work/Tab2/up.pdf)
-- [Data Structures and Algorithms: C / C ++ Implementation](http://kspt.icc.spbstu.ru/media/files/course/algstr/algstr_2009.pdf)
-- [Data Structure and Algorithms](https://nnov.hse.ru/data/2012/02/09/1262604831/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%A2%D0%B0%D0%BB%D0%9F%D0%BE%D0%B2%D1%8B%D1%88%D0%9A%D0%B2%D0%B0%D0%BB%D0%B8%D1%84.pdf)
-- [Algo Book](https://www.babichev.org/books/AlgoBook.pdf)
-- [АЛГОРИТМЫ И СТРУКТУРЫ ДАННЫХ 2015](https://fsc.bsu.by/wp-content/uploads/2015/12/E-UMK-Algoritmy-i-struktury-danny-h-chast-1.pdf)
-- [АЛГОРИТМЫ + СТРУКТУРЫДАННЫХ = ПРОГРАММЫ](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Algorithms%20and%20Data%20Structures%20%28RU%29.pdf)
-- [Алгоритмы Структуры Данных Slides](http://kspt.icc.spbstu.ru/media/files/2017/asd/01_Intro.pdf)
-- [Анализ сложности алгоритмов. Примеры](https://pro-prof.com/archives/1660)
-- [MAXimal](http://e-maxx.ru/algo/)
-
----------------------------------------
-
-![JP](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/JP.png)
-
-- [アルゴリズムとデータ構造](https://www.codereading.com/algo_and_ds/)
-- [アルゴリズムとデータ構造の基礎](https://qiita.com/macky4/items/6dce671e90eaed23db32)
-- [アルゴリズムとデータ構造](https://ufcpp.net/study/algorithm/)
-- [アルゴリズムとデータ構造　--- 理論編 ---](https://www.ci.seikei.ac.jp/yamamoto/lecture/algorithm/material.html)
-- [Algorithms and Data Structures](http://biorobot2.ise.ibaraki.ac.jp/inoue/ad/)
-- [Programming Place Plus](https://programming-place.net/ppp/contents/algorithm/index.html)
-- [2019年度 京都大学 工学部情報学科](https://hkashima.github.io/course_algorithm_2019.html)
-- [アルゴリズムとデータ構造 外伝](http://www.ics.kagoshima-u.ac.jp/~fuchida/edu/algorithm/index.html)
-- [2019年度「アルゴリズムとデータ構造」のページ](http://taurus.ics.nara-wu.ac.jp/algo/)
-- [アルゴリズムとデータ構造](http://web-ext.u-aizu.ac.jp/course/alg1/ex/jp/index.html)
-- [計算の複雑さ入門](https://www.jaist.ac.jp/~uehara/course/2011/si216/pdf/03comp.pdf)
-- [python - アルゴリズムの複雑さの計算（Big-O)](https://tutorialmore.com/questions-1141026.htm)
-
----------------------------------------
-
-![CN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/CHINA.png)
-
-- [LeetCode in Python - Michelle小梦想家](https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8)
-- [Data Biancheng](http://data.biancheng.net/view/156.html)
-- [数据结构与算法（Python)](https://www.ranxiaolang.com/static/python_algorithm/python_algorithm.html)
-- [LeetCode 题解](https://github.com/soulmachine/leetcode)
-- [LeetCode Algorithm](https://github.com/haoel/leetcode)
-- [LeetCode Animation All in One](https://github.com/MisterBooo/LeetCodeAnimation)
-- [数据结构和算法](https://www.cnblogs.com/wangzihong/p/12248442.html)
-- [数据结构和算法基础](https://www.cnblogs.com/Alan-Song/p/11184214.html)
-
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
-- [Algorithmen und Datenstrukturen im Wintersemester 2019/20](https://www.orchid.inf.tu-dresden.de/teaching/2019ws/aud/)
-- [Algorithmen und Datenstrukturen](https://west.uni-koblenz.de/studying/ws1920/algorithmen-und-datenstrukturen)
-- [Algorithmen und Datenstrukturen (SS 2019)](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/algodat19/index.html)
-- [Algorithmen und Datenstrukturen - Steffen Börm](https://www.informatik.uni-kiel.de/~sb/data/Algorithmen.pdf)
-- [Vorlesung Algorithmen und Datenstrukturen](https://wuecampus2.uni-wuerzburg.de/moodle/course/view.php?id=34697)
-- [Algorithmen und Programmierung II](http://www.inf.fu-berlin.de/lehre/SS12/ALP2/lectures.htm)
-- [Algorithmen und Programmierung](https://osg.informatik.tu-chemnitz.de/lehre/aup/aup-script.pdf)
-- [Grundlagen: Algorithmen und Datenstrukturen](http://wwwmayr.informatik.tu-muenchen.de/lehre/2010SS/gad/index.html.de)
-- [Algorithms and Data Structures - TU Kaiserslautern](https://www.wild-inter.net/teaching/algorithms-data-structures/)
-- [Algorithmen und deren Komplexität](https://lecture2go.uni-hamburg.de/l2go/-/get/v/14161)
-- [Komplexität von Algorithmen](https://userpages.uni-koblenz.de/~laemmel/oopm/slides/complexity.pdf)
-
----------------------------------------
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+  - [Algorithmen und Datenstrukturen im Wintersemester 2019/20](https://www.orchid.inf.tu-dresden.de/teaching/2019ws/aud/)
+  - [Algorithmen und Datenstrukturen](https://west.uni-koblenz.de/studying/ws1920/algorithmen-und-datenstrukturen)
+  - [Algorithmen und Datenstrukturen (SS 2019)](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/algodat19/index.html)
+  - [Algorithmen und Datenstrukturen - Steffen Börm](https://www.informatik.uni-kiel.de/~sb/data/Algorithmen.pdf)
+  - [Vorlesung Algorithmen und Datenstrukturen](https://wuecampus2.uni-wuerzburg.de/moodle/course/view.php?id=34697)
+  - [Algorithmen und Programmierung II](http://www.inf.fu-berlin.de/lehre/SS12/ALP2/lectures.htm)
+  - [Algorithmen und Programmierung](https://osg.informatik.tu-chemnitz.de/lehre/aup/aup-script.pdf)
+  - [Grundlagen: Algorithmen und Datenstrukturen](http://wwwmayr.informatik.tu-muenchen.de/lehre/2010SS/gad/index.html.de)
+  - [Algorithms and Data Structures - TU Kaiserslautern](https://www.wild-inter.net/teaching/algorithms-data-structures/)
+  - [Algorithmen und deren Komplexität](https://lecture2go.uni-hamburg.de/l2go/-/get/v/14161)
+  - [Komplexität von Algorithmen](https://userpages.uni-koblenz.de/~laemmel/oopm/slides/complexity.pdf)
+</details>
