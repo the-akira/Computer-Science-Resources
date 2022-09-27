@@ -180,7 +180,5 @@
   <summary>Croatian</summary>
   
   ### Materials
-![HR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/CROATIA.png)
-
 - [Kritografija](https://web.math.pmf.unizg.hr/~duje/kript/kriptografija.html)
 </details>

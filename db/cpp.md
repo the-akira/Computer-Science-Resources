@@ -127,8 +127,6 @@
 - [Introduzione alla Programmazione](http://www.dis.uniroma1.it/~bloisi/didattica/pmn1112/lezioni/1.1-introduzione.pdf)
 </details>
 
----------------------------------------
-
 <details>
   <summary>German</summary>
   

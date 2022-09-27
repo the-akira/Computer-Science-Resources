@@ -122,10 +122,10 @@
 - [Aula 18 - Redes Neurais](http://edirlei.3dgb.com.br/aulas/ia_2012_1/IA_Aula_18_Redes_Neurais.pdf)
 - [Curso Deep Learning](https://www.youtube.com/watch?v=6yYUc6nU3Cw&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&ab_channel=DeepLearningBrasil%28Emportugu%C3%AAs%29)
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Redes Neuronales](http://avellano.fis.usal.es/~lalonso/RNA/index.htm)
 - [Introducción Redes Neuronales](https://www2.ulpgc.es/hege/almacen/download/38/38584/practica_ia_2.pdf)
 - [Fundamentos de Redes Neuronales Artificiales](http://conceptos.sociales.unam.mx/conceptos_final/598trabajo.pdf)

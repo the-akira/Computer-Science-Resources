@@ -108,8 +108,6 @@
 - [SecureNet](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Studien/WebSec/WebSec.pdf)
 </details>
 
----------------------------------------
-
 <details>
   <summary>Russian</summary>
   
