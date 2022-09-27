@@ -1,7 +1,9 @@
 # Signals and Systems
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [The Scientist and Engineer's Guide to Digital Signal Processing](https://www.dspguide.com/ch1.htm)
 - [Signals and Systems MIT](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/)
 - [Signals and Systems MIT 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/index.htm)
@@ -63,11 +65,12 @@
 - [Real Time Signal Processing in Python](https://bastibe.de/2012-11-02-real-time-signal-processing-in-python.html)
 - [Handling Unix Signals in Python](https://stackabuse.com/handling-unix-signals-in-python/)
 - [Neso Academy Course](https://www.youtube.com/watch?v=s8rsR_TStaA&amp;list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Sinais e Sistemas](http://users.isr.ist.utl.pt/~iml/LERCI_&amp;_LEE/ss_10-11_sem2/AULAS_SS_v3.pdf)
 - [Introdução aos Sinais e Sistemas](http://www.univasf.edu.br/~edmar.nascimento/analise/analise_aula03.pdf)
 - [Apostila de Sinais e Sistemas](https://aprender.ead.unb.br/pluginfile.php/170922/mod_resource/content/2/Stelle2005.pdf)
@@ -83,21 +86,23 @@
 - [Análise de Sinais](https://www.novaims.unl.pt/vlobo/escola_naval/AnaliseSinais/AnaliseSinais1_2.pdf)
 - [Sinais e Sistemas Segunda Edição](https://www.cefala.org/~adelino/Livros/Oppenheim_2010_Sinais_e_Sistemas_2ed.pdf)
 - [Sinais e Sistemas Discretos](http://www.l2f.inesc-id.pt/~lco/psa0203/pdf/ssd_cop.pdf)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Conceptos de Señales y Sistemas](https://www.exabyteinformatica.com/uoc/Audio/Procesamiento_de_audio/Procesamiento_de_audio_(Modulo_1).pdf)
 - [Señales y Sistemas Materiales](https://ocw.unican.es/course/view.php?id=184&amp;section=3)
 - [Señales y Sistemas](http://www.unsam.edu.ar/escuelas/ciencia/alumnos/matematica_guia/apunte2parte.pdf)
 - [Tema I: Señales y Sistemas](http://enrique.sanchez.webs.uvigo.es/PDFs/125_TemaI-Senales.pdf)
 - [Fundamentos de Señales y Sistemas](http://www2.imse-cnm.csic.es/~rafael/SETI/SETI_03_04_transp_Tema_02.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Signaux & Systemes](http://ressource.electron.free.fr/bts/cours/SigsyPoly.pdf)
 - [Signaux et Systèmes Discrets](https://asi.insa-rouen.fr/enseignement/siteUV/ti/private/Cours1_TDS.pdf)
 - [Signaux et Systèmes](http://info.usherbrooke.ca/ogodin/enseignement/imn317/chapitres/imn317-chap02.pdf)
@@ -108,11 +113,12 @@
 - [Signaux et Systemes](http://www.uqac.ca/ht2bui/6gei500_cours1.pdf)
 - [Modélisation et Analyse des Systèmes](http://www.montefiore.ulg.ac.be/systems/SYST002/syst002-syllabus.pdf)
 - [Traitement de Signal (TS)](http://www.univ-tebessa.dz/fichiers/master/master_973.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Segnali e Sistemi](http://automatica.dei.unipd.it/people/chiuso/teaching/segnali-e-sistemi.html)
 - [Segnali e Sistemi Slides](http://www.uniroma2.it/didattica/foejz/deposito/bipoli.pdf)
 - [SigSys](http://www3.deis.unibo.it/Staff/FullProf/GiovanniMarro/sigsys.pdf)
@@ -127,11 +133,12 @@
 - [Transmissione dei Segnali e Sistemi di Telecomunicazione](http://www.cialtrone.it/interessi/scienza/vari/Trasmissione%20dei%20Segnali%20e%20Sistemi%20di%20Telecomunicazione.pdf)
 - [Teoria dei Sistemi](http://cse.lab.imtlucca.it/~bemporad/teaching/tds00/pdf/slides.pdf)
 - [Appunti di Teoria dei Segnali](http://users.libero.it/sandry/teoria.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Signale und Systeme 1](http://www5.tu-ilmenau.de/nt/de/teachings/vorlesungen/signale1/index.html)
 - [Signale un Systeme](https://www4.fh-swf.de/media/downloads/fbiw/download_5/schulze/susy1/SuSy-Skript-2018-04-03-a.pdf)
 - [Einführung in die Digitale Signalverarbeitung](https://www.ak.tu-berlin.de/fileadmin/a0135/Unterrichtsmaterial/Skripte/EDS_Skript.pdf)
@@ -141,11 +148,12 @@
 - [Musterlösung](http://www.rhodiumtec.de/Download/TIT05NSB/loesungen.pdf)
 - [Etwas Signal und Systemtheorie](http://www.iks.hs-merseburg.de/~tlange/pdf/Etwas%20Signal-%20und%20Systemtheorie.pdf)
 - [Signale und Systeme, Gudrun Flach](https://www.htw-dresden.de/fileadmin/userfiles/et/Personal/Professoren/Flach/SuS_fs/sus_fern_1617.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Notes Systems](https://logic.pdmi.ras.ru/~sergey/teaching/asr/notes-02-systems.pdf)
 - [Signals Linear Systems](http://www.geokniga.org/bookfiles/geokniga-davydov-av-signaly-i-linejnye-sistemytematicheskie-lekcii-ekaterinburgelekt.pdf)
 - [Digital Signal Processing](http://files.lib.sfu-kras.ru/ebibl/umkd/50/u_lectures.pdf)
@@ -155,5 +163,4 @@
 - [Digital Processing of Signals Methods](http://www.ict.edu.ru/ft/006185/itmo425.pdf)
 - [Signal Management and Processing Systems](http://ipmras.ru/UserFiles/Diss/TerpelovDA/Thesises_Terpelov.pdf)
 - [System Synchronization](http://media-publisher.ru/wp-content/uploads/2017/12/%D0%A1%D0%98%D0%9D%D0%A5%D0%A0%D0%9E-3-2017.pdf)
-
----------------------------------------
+</details>

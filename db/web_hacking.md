@@ -1,7 +1,9 @@
 # Web Hacking
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
 - [Stanford CS 253 Web Security](https://web.stanford.edu/class/cs253/)
 - [Darknet](https://www.darknet.org.uk/category/web-hacking/)
@@ -43,11 +45,12 @@
 - [Web Security in 2017](http://johannh.me/slides/web_security_2017.pdf)
 - [MIT 6.858](https://www.youtube.com/watch?v=WlmKwIe9z1Q)
 - [Introduction to Web Security](https://www.sonntag.cc/teaching/Web_Security_Budapest_2018/1_Computer_security_basics/Introduction_to_Web_Security.pdf)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Vulnerabilidades en Aplicaciones Web](https://www.youtube.com/watch?v=Imnzode1ptk)
 - [Hacking de Aplicaciones Web](https://ucys.ugr.es/download/taller4/WebHacking.pdf)
 - [Ataques a Aplicaciones Web](https://www.exabyteinformatica.com/uoc/Informatica/Seguridad_en_bases_de_datos/Seguridad_en_bases_de_datos_(Modulo_2).pdf)
@@ -56,11 +59,12 @@
 - [Seguridad en Aplicaciones Web](https://www.rediris.es/cert/doc/reuniones/fs2008/archivo/RedIRIS_VI_Seguridad_en_aplicaciones_Web_v1.0_RaulSiles.pdf)
 - [Hacking desde Cero](https://radiosyculturalibre.com.ar/compartir/biblioteca/INFOSEC/Hacking%20desde%20Cero.pdf)
 - [Hacking con Google](https://www.imaginar.org/sites/google/adicional/Hacking%20con%20Google.pdf)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Segurança de Aplicações Web](https://medium.com/labcodes/seguran%C3%A7a-de-aplica%C3%A7%C3%B5es-web-101-c425f49e4941)
 - [Práticas de Segurança Web](https://www.gocache.com.br/en/seguranca/seguranca-em-aplicacoes-web/)
 - [Mitigando os Riscos](https://www.cert.br/docs/palestras/certbr-webbr2014.pdf)
@@ -74,38 +78,43 @@
 - [Segurança no Desenvolvimento de Aplicações Web](http://revistapensar.com.br/tecnologia/pasta_upload/artigos/a127.pdf)
 - [Segurança na Web Fatec-SP](http://www.fatecsp.br/dti/tcc/tcc0043.pdf)
 - [Análise de Vulnerabilidades de Segurança](https://repositorio.ufu.br/bitstream/123456789/20400/6/AnaliseVulnerabilidadesSeguranc%CC%A7a.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Applications Web et Securite](http://www.mathrice.org/ecole/support/Applications-Web-securite.pdf)
 - [OpenClassRooms](https://openclassrooms.com/fr/courses/2091901-protegez-vous-efficacement-contre-les-failles-web)
 - [Failles de sécurité des applications Web](https://web.developpez.com/tutoriels/web/failles-securite-application-web/)
 - [Failles de sécurité](https://aresu.dsi.cnrs.fr/IMG/pdf/Presentation_des_failles_de_securite.pdf)
 - [Sécurité des applications Web](https://clusif.fr/publications/securite-des-applications-web/)
 - [La Sécurité Informatique](http://ylescop.free.fr/mrim/cours/securite.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Sicurezza Web](http://www-db.disi.unibo.it/courses/RCPG/sicurezza.pdf)
 - [Sicurezza Web e Privacy](http://www.hackerhighschool.org/lessons/HHS_it10_Sicurezza_Web_e_Privacy.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [WebMasterPro](https://www.webmasterpro.de/server/article/gaengige-sicherheitsprobleme-im-web.html)
 - [SecureNet](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Studien/WebSec/WebSec.pdf)
+</details>
 
 ---------------------------------------
 
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Intro to Web Sec](https://tproger.ru/translations/hacker-101-introduction-to-web-security/)
 - [Tproger](https://tproger.ru/tag/security/)
 - [Cisco Guide](http://nncit.tneu.edu.ua/wp-content/uploads/2017/10/cisco_2017_mcr_071817_fnl_hq.pdf)
-
----------------------------------------
+</details>

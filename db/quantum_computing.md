@@ -1,7 +1,9 @@
 # Quantum Computing
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Wikipedia](https://en.wikipedia.org/wiki/Quantum_computing)
 - [IBM Quantum Computing](https://www.research.ibm.com/ibm-q/learn/what-is-quantum-computing/)
 - [IBM On “Quantum Supremacy”](https://www.ibm.com/blogs/research/2019/10/on-quantum-supremacy)
@@ -66,11 +68,12 @@
 - [Google and NASA's Quantum Artificial Intelligence Lab](https://www.youtube.com/watch?v=CMdHDHEuOUE)
 - [Demonstrating Quantum Supremacy](https://www.youtube.com/watch?v=-ZNEzzDcllU)
 - [Quantum Computing with Andrea Morello](https://www.youtube.com/watch?v=jDW9bWSepB0&ab_channel=EEVdiscover)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Computação Quântica](https://www.bbc.com/portuguese/geral-41697094)
 - [Introdução à Computação Quântica](http://www.ic.unicamp.br/~ducatte/mo401/1s2010/T2/096389-t2.pdf)
 - [Computação e Informação Quântica](http://www.cbpf.br/~qbitrmn/didaticos/cqiq.pdf)
@@ -91,11 +94,12 @@
 - [Renascimento Quântico](https://www.spf.pt/magazines/GFIS/52/article/235/pdf)
 - [Arquitetura de Computadores Quânticos](https://www.dcce.ibilce.unesp.br/~aleardo/cursos/arqcomp/Semin_ArqQuant.pdf)
 - [Sutilezas do Mundo Quântico - Prof. Luiz Davidovich - UFRJ](https://www.youtube.com/watch?v=fp0tufHVuyE&ab_channel=InstitutodeF%C3%ADsicaUSP)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Xataka](https://www.xataka.com/ordenadores/computacion-cuantica-que-es-de-donde-viene-y-que-ha-conseguido)
 - [Gizmodo](https://es.gizmodo.com/como-funciona-la-computacion-cuantica-explicado-de-man-1796976460)
 - [Principios Fundamentales](http://www.lidiagroup.org/images/descargas/varios/011_ccuantica.pdf)
@@ -107,11 +111,12 @@
 - [Circuitos Cuánticos](http://users.df.uba.ar/paz/pag_comp_cuant/resumenes/clase8.pdf)
 - [De la Fantasía a la Realidad](https://www2.deloitte.com/content/dam/Deloitte/pe/Documents/audit/De%20fantas%C3%ADa%20a%20realidad%20(Abril%202017).pdf)
 - [Diseño e Simulación de un Procesador Cuántico](https://personal.us.es/jlguisado/archs_aux/Presentacion%20PFC%20Computacion%20Cuantica%20Jaime%20Coello.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Ordinateur Quantique](https://www.futura-sciences.com/sciences/definitions/physique-ordinateur-quantique-4348/)
 - [Institut Pandore](https://www.institut-pandore.com/physique-quantique/informatique-ordinateur-quantique/)
 - [Comprendre l’informatique quantique – qubits](https://www.frenchweb.fr/comprendre-linformatique-quantique-qubits/330991)
@@ -123,11 +128,12 @@
 - [Denis Crottet](https://cds.cern.ch/record/432739/files/0003132.pdf)
 - [Algorithmes et Architectures](https://www.physique.usherbrooke.ca/pages/sites/default/files/Algorithmes_et_architectures_16dec2002_Blais.pdf)
 - [Programmer un Ordinateur Quantique](https://www.sciencesmaths-paris.fr/upload/Contenu/pr%C3%A9sentations/Benoit%20Valiron.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [AI4business](https://www.ai4business.it/intelligenza-artificiale/computer-quantistico/)
 - [IBM Q Computing](https://medium.com/visionari/quantum-computing-prova-un-computer-quantico-direttamente-da-casa-dfc3c05e794d)
 - [Il Computer Quantistico](http://profs.sci.univr.it/~dipierro/InfQuant/Lezione_Morsch_Slides.pdf)
@@ -143,11 +149,12 @@
 - [La Mecanica Quantistica](http://www.dmf.unisalento.it/cc/video/2017/olivares/slides.pdf)
 - [Quantum Computer: The Evolution of Engineering](https://www.dbgroup.unimore.it/tesi/Triennale/201516_Alex_Gugliotta_tesi.pdf)
 - [Dal Gatto di Schrödinger al Quantum Computing](http://spin2.fisica.unina.it/attachments/article/93/Presentazione%20Chiarello%20ASL%20Napoli.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Prof. Dr. Erich Grädel](https://logic.rwth-aachen.de/Teaching/QC-SS15/index.html.de)
 - [Quantencomputing und andere Quantentechnologien](https://digitaleweltmagazin.de/en/2018/07/25/quantencomputing-und-andere-quantentechnologien/)
 - [QC Teaching](https://www.cond-mat.de/teaching/QC/)
@@ -158,15 +165,15 @@
 - [In Theorie und Praxis](http://www5.rz.rub.de:8032/imperia/md/content/wolf/quantencomputerdagstuhl.pdf)
 - [Tom Petersen](https://theorie.physnet.uni-hamburg.de/group_vts/cisseminar1112/vortragt04.pdf)
 - [Enrico Arrigoni](https://itp.tugraz.at/~arrigoni/vorlesungen/quantumcomputer/script/bilder/qucomp/beamer-qucomp.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Quantum Computing](http://spkurdyumov.ru/uploads/2017/09/kvantovye-vychisleniya-i-funkcionalnoe-programmirovanie.pdf)
 - [Fundamentals](http://theor.jinr.ru/~diastp/april06/lectures/gerdt/gerdt.pdf)
 - [Quantum Calculations](http://booksshare.net/books/physics/stin-e/2000/files/kvantovievichesleniya2000.pdf)
 - [Classic and Quantum Calculations](http://www.pseudology.org/science/ClassicalQuantVychislenia2.pdf)
 - [Quantum Computers](http://window.edu.ru/resource/122/20122/files/rsu424.pdf)
-
----------------------------------------
+</details>

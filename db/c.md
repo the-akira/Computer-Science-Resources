@@ -1,7 +1,9 @@
 # C
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Programiz](https://www.programiz.com/c-programming)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
 - [Learn C](https://www.learn-c.org/)
@@ -81,31 +83,34 @@
 - [Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming | AI Podcast #109](https://www.youtube.com/watch?v=O9upVbGSBFo)
 - [C Traps and Pitfalls](http://www.literateprogramming.com/ctraps.pdf)
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Programacao Descomplicada](https://programacaodescomplicada.wordpress.com/indice/linguagem-c/)
 - [Introdução à Linguagem C](https://www.inf.pucrs.br/~pinho/LaproI/IntroC/IntroC.htm)
 - [Curso de C](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf)
 - [Introdução C](http://fig.if.usp.br/~esdobay/c/c.pdf)
 - [Programação C](http://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf)
 - [Curso C](https://www.youtube.com/watch?v=oZeezrNHxVo&amp;list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [El Lenguaje C](http://www.dc.fi.udc.es/~so-grado/current/Varios/CursoC.pdf)
 - [Curso Basico](http://mmc.geofisica.unam.mx/cursos/femp/CyC++/Lenguaje_C.pdf)
 - [Unidad Didáctica](http://www.juntadeandalucia.es/averroes/centros-tic/14005663/helvia/aula/archivos/repositorio/0/230/html/lenguajec/frmlenguajec.htm)
 - [Lenguaje C](https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [OpenClassRoom](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c)
 - [Programmation en C](https://finiasz.net/teaching/ENSTA/IN101%20-%20poly%20C.pdf)
 - [Zestedesavoir](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/1042_les-bases-du-langage-c/4275_introduction-a-la-programmation/)
@@ -114,12 +119,12 @@
 - [Langage C](http://astro.ens.fr/osae/ccc.pdf)
 - [Programmation C](http://icube-avr.unistra.fr/fr/index.php/Programmation_C)
 - [Univ-Orleans](https://www.univ-orleans.fr/lifo/Members/Jean-Francois.Lalande/enseignement/c/presentation-c.pdf)
+</details>
 
----------------------------------------
-
-![CN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/CHINA.png)
-
+<details>
+  <summary>Chinese</summary>
+  
+  ### Materials
 - [C程序设计语言（第2版）](http://read.pudn.com/downloads128/ebook/548703/TheCProgrammingLanguage(SecondEdition).pdf)
 - [C语言程序设计-谭浩强](http://image.sciencenet.cn/olddata/kexue.com.cn/upload/blog/file/2010/5/2010510183555815223.pdf)
-
----------------------------------------
+</details>

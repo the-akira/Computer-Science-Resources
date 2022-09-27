@@ -1,7 +1,9 @@
 # NOSQL
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Search Data Management](https://searchdatamanagement.techtarget.com/definition/NoSQL-Not-Only-SQL)
 - [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
 - [Mongodb](https://www.mongodb.com/nosql-explained)
@@ -49,11 +51,12 @@
 - [NoSQL and JSON](https://www.youtube.com/watch?v=-D3dmMfQ9p0)
 - [MongoDB Tutorial](https://www.youtube.com/watch?v=9OPP_1eAENg&amp;list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
 - [MongoDB Course](https://www.youtube.com/watch?v=vb8xZ-bvxbg&amp;list=PLLAZ4kZ9dFpOFJ9JcVW9u4PlSWO-VFoao)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Introdução ao Banco de Dados NOSQL](https://www.devmedia.com.br/introducao-aos-bancos-de-dados-nosql/26044)
 - [Banco de Dados Nosql](http://wiki.icmc.usp.br/images/1/18/SCC0542012017noSQL.pdf)
 - [Caelum Blog](http://blog.caelum.com.br/bancos-de-dados-nao-relacionais-e-o-movimento-nosql/)
@@ -64,11 +67,12 @@
 - [Estudo NoSQL](http://bdm.unb.br/bitstream/10483/7927/1/2014_RodrigoCardosoAniceto_ReneFreireXavier.pdf)
 - [SQL x NOSQL](http://www.cin.ufpe.br/~tg/2014-2/mapmf.pdf)
 - [NoSQL uma Breve Introdução](http://cursos.unipampa.edu.br/cursos/engenhariadesoftware/files/2015/10/nosql-palestraSBC.pdf)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Qué és una Base de Datos NoSQL](https://blogs.oracle.com/spain/qu-es-una-base-de-datos-nosql)
 - [Guía Definitiva](https://blog.pandorafms.org/es/bases-de-datos-nosql/)
 - [Bases de Datos NOSQL](https://www.acens.com/wp-content/images/2014/02/bbdd-nosql-wp-acens.pdf)
@@ -79,11 +83,12 @@
 - [NoSQL CITIUS](https://citius.usc.es/sites/default/files/formacion/BD&amp;DS_DiegoLopezdeIpina.pdf)
 - [Tesina de Licenciatura](http://sedici.unlp.edu.ar/bitstream/handle/10915/48085/Documento_completo__.pdf?sequence=1)
 - [MongoDB Proyecto](http://informatica.gonzalonazareno.org/proyectos/2013-14/mams.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [OpenClassRooms](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql)
 - [Qu'est ce que le NoSQL](https://www.grafikart.fr/blog/sql-nosql)
 - [Les bases de données NoSQL](https://www.eyrolles.com/Chapitres/9782212141559/9782212141559.pdf)
@@ -93,11 +98,12 @@
 - [Introduction au NoSQL](https://stph.scenari-community.org/idl-bd/idl-nosql.pdf)
 - [Les Bases de Données NoSQL](https://fc.isima.fr/~lacomme/NoSQL/chapitre_gratuit/chapitre3_apres_fusion.pdf)
 - [L'Avenir du NoSQL](http://www.leonardmeyer.com/wp-content/uploads/2014/06/avenirDuNoSQL.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [SQL e NoSQL](https://www.html.it/articoli/sql-e-nosql-a-documenti-il-confronto/)
 - [Guida Mongodb](https://www.html.it/guide/guida-mongodb/)
 - [Big Data con i Database NoSQL: un’introduzione pratica](https://www.rackone.it/big-data-con-database-nosql-unintroduzione-pratica/)
@@ -106,18 +112,19 @@
 - [Corso di Basi di Dati](http://www.cs.unibo.it/difelice/dbsi/slides/pdf/20.pdf)
 - [Fulvio Gabana](http://www.fulviogabana.it/data/i-database-nosql)
 - [Database NoSQL](http://tesi.cab.unipd.it/44803/1/Tesi_DelPioluogoMatteo.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [DB-Engines](https://db-engines.com/de/article/NoSQL)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Devacademy.ru](http://devacademy.ru/posts/nosql/)
 - [SQL vs NoSQL](https://tproger.ru/translations/sql-nosql-database-models/)
-
----------------------------------------
+</details>

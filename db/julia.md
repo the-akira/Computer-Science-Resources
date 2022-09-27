@@ -1,7 +1,9 @@
 # Julia 
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [The Julia Programming Language](https://julialang.org/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Julia_(programming_language))
 - [Julia Computing](https://juliacomputing.com/)
@@ -59,32 +61,34 @@
 - [Why I use Julia for Quantum Physics](https://www.youtube.com/watch?v=87Bo1rwmVwQ)
 - [First Steps with Julia for Numerical Computing](https://www.youtube.com/watch?v=gaJorAU644o)
 - [Julia for Data Analysis and Beyond](https://www.youtube.com/watch?v=DRKKAFYM9yo)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [JuliaLangPT](https://github.com/JuliaLangPt/tutorial_PT_BR)
 - [O Manual de Julia](https://julia-cn.readthedocs.io/pt_BR/latest/manual/introduction.html)
 - [Introdução à Linguagem de Programação Julia](http://www.eripi.com.br/2017/images/anais/minicursos/4.pdf)
 - [Linguagem de Programação Julia](http://www.abenge.org.br/cobenge/arquivos/3/anais/anais/161240.pdf)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Lenguaje de Programación JULIA](http://zeus.inf.ucv.cl/~hallende/material/julia.pdf)
 - [Curso Julia](https://github.com/codeneomatrix/curso-JULIA)
 - [Julia](http://ferestrepoca.github.io/paradigmas-de-programacion/paralela/tutoriales/julia/index.html)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Introduction à Julia](http://www.slashbin.net/julia/introJulia.html)
 - [Julia: le langage scientifique](http://perso.ensta-paristech.fr/~diam/julia/)
 - [Julia vs Python](https://www.scriptol.fr/programmation/julia.php)
 - [Developpez](https://julia.developpez.com/tutoriels/decouverte-julia/)
 - [À La Découberte de Julia](https://zestedesavoir.com/articles/pdf/78/a-la-decouverte-de-julia.pdf)
-
----------------------------------------
+</details>

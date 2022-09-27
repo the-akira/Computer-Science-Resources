@@ -1,7 +1,9 @@
 # Natural Language Processing
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 - [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 - [What is NLP](https://www.sas.com/en_us/insights/analytics/what-is-natural-language-processing-nlp.html)
@@ -46,11 +48,12 @@
 - [FreeCodeCamp Tutorial](https://www.youtube.com/watch?v=X2vAabgKiuM&amp;t=10s)
 - [A Deep Dive into NLP with PyTorch](https://www.youtube.com/watch?v=4jROlXH9Nvc)
 - [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Processamento de Linguagem Natural](https://www.ime.usp.br/~slago/IA-pln.pdf)
 - [Apresentação UFES](https://www.inbot.com.br/artigos/educacional/Processamento-de-Linguagem-Natural-PLN-Jacson-Rodrigues-UFES.pdf)
 - [Curso](http://www.di.ubi.pt/~jpaulo/ensino/PLN/)
@@ -62,11 +65,12 @@
 - [Fundamentos](http://www.di.fc.ul.pt/~ahb/pubs/2008dBrancoCosta.pdf)
 - [PUC-Rio](https://www.maxwell.vrac.puc-rio.br/10081/10081_5.PDF)
 - [Aula PLN](https://web.fe.up.pt/~eol/SSIIM/1112/aula_pln.pdf)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Procesamiento de Lenguaje Natural](https://medium.com/soldai/procesamiento-de-lenguaje-natural-5315cf212d0f)
 - [Universidad de Sevilla](https://www.cs.us.es/cursos/ia2/temas/tema-06.pdf)
 - [Proceso de Lenguaje Natural](http://disi.unal.edu.co/~lctorress/iartificial/IAc016.pdf)
@@ -74,21 +78,23 @@
 - [Universidad Politécnica de Valencia](http://onomazein.letras.uc.cl/Articulos/26/1_Perinan.pdf)
 - [Guia Introductoria](https://www.sopadebits.com/wp-content/uploads/2011/03/4479-pln-1.0-20070630.pdf)
 - [Logros, Desafíos, Impacto](https://www.fing.edu.uy/inco/cursos/grampln/presentaciones/GFLN2012_01_intro.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Traitement Automatique du Langage Naturel](http://www.lattice.cnrs.fr/sites/itellier/poly_info_ling/linguistique003.html)
 - [Petite Introduction](https://perso.limsi.fr/anne/coursM2R/intro.pdf)
 - [TALN](http://gurau-audibert.hd.free.fr/josdblog/wp-content/uploads/2011/12/TAL_ITCN.pdf)
 - [Université de Rennes](https://halshs.archives-ouvertes.fr/tel-01322692/document)
 - [Cours 10](http://lalic.paris-sorbonne.fr/PAGESPERSO/atanassova/lfa/Cours10.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Linguistica Computazionale](http://www1.unipa.it/sorce/didattica/sei1213/SEI1213_01_Linguistica_Computazionale_intro.pdf)
 - [Introduzione NLP](https://www.dia.uniroma3.it/~ia/docs/old/Introduzione_NLP.pdf)
 - [Elaborazione del Linguaggio Naturale](http://didawiki.di.unipi.it/doku.php/magistraleinformatica/eln/start)
@@ -98,26 +104,27 @@
 - [Unito.it](http://www.di.unito.it/~bosco/lingue2013/NLP-1-11marzo13.pdf)
 - [Trattamento del Linguaggio Naturale](http://art.uniroma2.it/basili/TAL_Corso/mioweb/Rbas_Lezioni/Lez_probabilita/Analisi_dei_Testi.pdf)
 - [Data Mining, NLP](http://www.disit.org/axmedis/5bf/00000-5bf86b6d-185d-41ff-875e-0bd6e8b8ea73/2/~saved-on-db-5bf86b6d-185d-41ff-875e-0bd6e8b8ea73.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Computerlinguistik](https://de.wikipedia.org/wiki/Computerlinguistik)
 - [Naturlicher Sprache](http://www.ec.tuwien.ac.at/~salamon/download/NatuerlicheSprache.pdf)
 - [Modelle Der Computerlinguistik](http://www.informatik.uni-leipzig.de/~graebe/Texte/FiettaGienappMcCann-16-Folien.pdf)
 - [Intro to Computational Linguistics](https://www.noname-ev.de/wiki/uploads/a/a3/Computerlinguistik.pdf)
 - [Universität Zürich](https://www.cl.uzh.ch/dam/jcr:ffffffff-b2e3-81a5-ffff-fffff7c4f4a7/ecl1.0.l.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Fun NLP](https://proglib.io/p/fun-nlp/)
 - [Winter School](https://logic.pdmi.ras.ru/~sergey/slides/N16_WinterSchoolHSE.pdf)
 - [NLP 2014](https://compscicenter.ru/media/slides/nlp_2014_spring/2014_02_17_nlp_2014_spring.pdf)
 - [NLPandDA](https://www.hse.ru/data/2017/08/12/1174382138/NLPandDA_4print.pdf)
 - [Intro NLP](http://kansas.ru/nlp2016/intro.pdf)
 - [Book](http://www.ict.edu.ru/ft/004938/shemakin.pdf)
-
----------------------------------------
+</details>

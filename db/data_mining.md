@@ -1,7 +1,9 @@
 # Data Mining
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Data Mining](https://en.wikipedia.org/wiki/Data_mining)
 - [SAS](https://www.sas.com/en_us/insights/analytics/data-mining.html)
 - [Oracle](https://docs.oracle.com/cd/B28359_01/datamine.111/b28129/process.htm)
@@ -58,11 +60,12 @@
 - [Data Mining using R](https://www.youtube.com/watch?v=BB2O4VCu5j8)
 - [Data Mining Stanford Google](https://www.youtube.com/watch?v=zRsMEl6PHhM&amp;list=PL2BCC7C6564943999)
 - [Computerphile Data Mining](https://www.youtube.com/watch?v=Zel2NCKej50)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Conceitos de Mineração de Dados](https://docs.microsoft.com/pt-br/sql/analysis-services/data-mining/data-mining-concepts?view=sql-server-2017)
 - [O que é Data Mining](https://www.aquare.la/o-que-e-data-mining-mineracao-de-dados/)
 - [Conceitos e Técnicas sobre Data Mining](https://www.devmedia.com.br/conceitos-e-tecnicas-sobre-data-mining/19342)
@@ -75,11 +78,12 @@
 - [Mineração de Dados na Web](http://www.lac.inpe.br/~rafael.santos/Docs/WebMedia/2009/webmedia2009.pdf)
 - [Mineração de Dados para Análise de Bancos de Dados Empresariais](http://www.copec.eu/shewc2017/proc/works/36.pdf)
 - [Mineração na Web](https://paginas.fe.up.pt/~mgi03006/ARI/MineracaoNaWeb.pdf)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Minería de Datos](https://www.sinnexus.com/business_intelligence/datamining.aspx)
 - [Qué es la minería de datos](https://www.tecnologias-informacion.com/mineria-de-datos.html)
 - [Conceptos y Tendencias](https://www.redalyc.org/html/925/92502902/)
@@ -92,41 +96,44 @@
 - [Universidad Nacional Del Nordeste](http://exa.unne.edu.ar/informatica/SO/Mineria_Datos_Vallejos.pdf)
 - [Conceptos Básicos](http://oldemarrodriguez.com/yahoo_site_admin/assets/docs/Presentaci%C3%B3n_-_Conceptos_B%C3%A1sicos.41132532.pdf)
 - [Técnicas de Análisis de Datos](http://matema.ujaen.es/jnavas/web_recursos/archivos/weka%20master%20recursos%20naturales/apuntesAD.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Data Mining, explorer les données du Data Warehouse](https://www.piloter.org/business-intelligence/datamining.htm)
 - [Exploration de données](http://www.statelem.com/exploration_de_donnees.php)
 - [Analyse de Données](http://www.lamsade.dauphine.fr/~atif/lib/exe/fetch.php?media=teaching:coursad_ch1.pdf)
 - [Chapitre II Data Mining](http://dspace.univ-biskra.dz:8080/jspui/bitstream/123456789/5242/10/I_Data%20Mining.pdf)
 - [Text and Data Mining](https://ethiquedroit.hypotheses.org/files/2017/07/Rapport-Text-and-Data-Mining-exploration-de-donn%C3%A9es.pdf)
 - [Data Mining et Machine Learning](https://hal.archives-ouvertes.fr/hal-01393640/file/DMML_F.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Il processo di estrazione dei dati: il Data Mining](https://lorenzogovoni.com/processo-estrazione-dei-dati-data-mining/)
 - [Data Mining per l'analisi dei Dati](http://pages.di.unipi.it/ferrari/CORSI/SISD/Lezioni/SISD4.pdf)
 - [Analisi dei Dati ed Estrazione della Conoscenza](https://www.sci.unich.it/~amato/teaching/old/datamining08/lucidi/01-introduzione.pdf)
 - [Introduzione al Data Mining](http://bias.csr.unibo.it/golfarelli/DataMining/MaterialeDidattico/DMISI-Introduzione.pdf)
 - [Il Processo di KDD](http://www.ecostat.unical.it/Didattica/Statistica/didattica/Metodi%20Statistici%20per%20le%20Aziende%201/Il%20processo%20di%20KDD.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Was ist Data Mining](https://www.bigdata-insider.de/was-ist-data-mining-a-593421/)
 - [Data Mining](http://de.dwhwiki.info/konzepte/data_mining)
 - [Data Mining Bachelor](https://www.in.th-nuernberg.de/professors/Holl/Personal/DataMining_Bachelor.pdf)
 - [Einführung Data Mining](http://www.gm.fh-koeln.de/~konen/WPF-DM-Cup/01-Einleitung-CRISP.PDF)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Data Mining](https://www.intuit.ru/studies/courses/6/6/info)
-
----------------------------------------
+</details>

@@ -1,7 +1,9 @@
 # Computer Graphics
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Wikipedia](https://en.wikipedia.org/wiki/Computer_graphics_(computer_science))
 - [Tutorialspoint](https://www.tutorialspoint.com/computer_graphics/)
 - [Edx, Computer Graphics](https://www.edx.org/course/computer-graphics)
@@ -91,11 +93,12 @@
 - [Discover Three.js](https://discoverthreejs.com/book/contents/)
 - [Three.js Introduction](https://threejs.org/docs/#manual/en/introduction/Creating-a-scene)
 - [Beginning with 3D WebGL](https://codepen.io/rachsmith/post/beginning-with-3d-webgl-pt-1-the-scene)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Prof Fernando de Siqueira](https://sites.google.com/site/profferdesiqueiracompgrafica/)
 - [Prof Márcio Pinho](http://www.inf.pucrs.br/pinho/CG/Aulas/Intro/intro.htm)
 - [História da Computação Gráfica](https://edisciplinas.usp.br/pluginfile.php/3332345/mod_resource/content/1/Aula05-Hist%C3%B3ria%20da%20Computa%C3%A7%C3%A3o%20Gr%C3%A1fica.pdf)
@@ -112,20 +115,22 @@
 - [Pipeline Gráfico](https://alba.di.uminho.pt/por/content/download/614/3514/file/05-GraphicsPipeline.pdf)
 - [Apresentação Luiz Velho](https://www.visgraf.impa.br/Data/RefBib/PS_PDF/t9/cg-ensino.pdf)
 - [Computação Gráfica UNIVESP](https://www.youtube.com/watch?v=x7yTi91Sz_Q&amp;list=PLxI8Can9yAHeyMkv9I9msYWrC1YPBJW0p)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Computación Gráfica Fundamentos](http://www.codecompiling.net/files/slides/CG_clase_01_intro.pdf)
 - [Introducción a la Computación Gráfica](https://www.fing.edu.uy/inco/cursos/compgraf/)
 - [Introducción a la Computación Gráfica](https://www.fing.edu.uy/inco/cursos/compgraf/Clases/2012/04-Hardware%20Grafico.pdf)
 - [Estado del Arte: CG](http://jeuazarru.com/wp-content/uploads/2014/10/computer_graphics.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Computer Grafica](https://www.accademiadicatania.com/admin/upload/file/3p8i_APPUNTI_COMPUTER_ART.pdf)
 - [Matematica e Computer Grafica](http://www.matematica.it/impedovo/articoli/Matematica%20e%20computer%20grafica.pdf)
 - [Presentazione](http://www.uccellacci.it/download_corso_grafica_2007/presentazione_def_compressa.pdf)
@@ -134,22 +139,24 @@
 - [Manuale di Grafica Digitale](https://www.uniroma1.it/sites/default/files/allegati/Manualegraficadigitale_150515.pdf)
 - [Grafica Vettoriale](http://www.dmi.unict.it/fstanco/Multimedia/Approfondimento%202%20-%20immagini%20vettoriali.pdf)
 - [Fondamenti di Grafica Tridimensionale](http://vcg.isti.cnr.it/~cignoni/FGT1112/)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [TU-Ilmenau](https://www.tu-ilmenau.de/en/computer-graphics-group/lehre/ws2012/cg1/)
 - [LMU](https://www.medien.ifi.lmu.de/lehre/ss13/cg1/)
 - [Computergrafik](https://www.cs.umd.edu/~zwicker/courses/computergraphics/03_Projection.pdf)
 - [Perspectives in CG](https://www.st.cs.uni-saarland.de/edu/perspektiven/seidel.pdf)
 - [Computergrafik, Universität Osnabrück](http://www-lehre.inf.uos.de/~cg/2010/PDF/skript.pdf)
 - [Computergrafik und Farbmetrik](http://farbe.li.tu-berlin.de/BUA4BF.PDF)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Book](http://www.ict.edu.ru/ft/005415/nwpi237.pdf)
 - [TSPU](http://koi.tspu.ru/kg/)
 - [Wikibook](https://ru.wikibooks.org/wiki/%D0%9F%D0%BE%D0%BB%D0%BA%D0%B0:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0)
@@ -162,5 +169,4 @@
 - [Book Web Master](http://bookwebmaster.narod.ru/graphics.html)
 - [Komp Grafike](http://www.volpi.ru/files/vkm/vkm_tutorial/vkm_kurs_lekciy_po_komp_grafike.pdf)
 - [Komp Grafike 886](http://old.kpfu.ru/lib/bin_files/comp_graph!886.pdf)
-
----------------------------------------
+</details>

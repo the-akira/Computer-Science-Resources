@@ -1,7 +1,9 @@
 # Go
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [The Go Programming Language](https://golang.org/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
 - [Geeks for Geeks](https://www.geeksforgeeks.org/go-programming-language-introduction/)
@@ -57,11 +59,12 @@
 - [Go Programming Language](https://www.youtube.com/watch?v=rKnDgT73v8s)
 - [Get Started with Go](https://www.youtube.com/watch?v=2KmHtgtEZ1s)
 - [Golang Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Golangbr](http://www.golangbr.org/)
 - [Trabalhando com Go](https://imasters.com.br/back-end/trabalhando-com-go-golang-a-linguagem-do-google)
 - [Seminário Go](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20162-seminario-go.pdf)
@@ -69,40 +72,43 @@
 - [Go Lang - A Linguagem da Google](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf)
 - [Programação Concorrente](http://cocic.cm.utfpr.edu.br/progconcorrente/doku.php?id=go)
 - [Um Tour por Go](https://go-tour-br.appspot.com/welcome/1)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Tutoriel Go](https://brice-colucci.developpez.com/tutoriels/go/tutoriel-programmation/)
 - [Langage Go](https://www.scriptol.fr/programmation/go.php)
 - [Le Langage Go](https://www.bortzmeyer.org/files/go-lang-intro-SHOW.pdf)
 - [Programmation en Go](https://fr.wikibooks.org/wiki/Programmation_en_Go)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Go con Ejemplos](http://goconejemplos.com/)
 - [Introduccion al Go](https://www.genbeta.com/desarrollo/introduccion-al-lenguaje-de-programacion-go)
 - [Curso de Go](https://codigofacilito.com/cursos/go)
 - [El Lenguaje Go](https://nasciiboy.land/prog/tgpl/)
 - [Curso de Go](http://roberto.costumero.es/slides/Go2010/manual_go.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Il Linguaggio Go](http://tesi.cab.unipd.it/33111/1/Tesina_562011.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Golang Basics](https://tproger.ru/translations/golang-basics/)
 - [4Gophers](https://4gophers.ru/tags/golang/)
 - [Golang-Book](http://golang-book.ru/)
 - [Gobook](https://losst.ru/wp-content/uploads/2016/08/Vvedenie-v-programmirovanie-na-Go-Keleb-Doksi.pdf)
 - [Go Presentation](https://devconf.ru/data/devconf2016/ppt/185.pdf)
-
----------------------------------------
+</details>

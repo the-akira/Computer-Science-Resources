@@ -1,7 +1,9 @@
 # Regular Expressions
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Regular expression](https://en.wikipedia.org/wiki/Regular_expression)
 - [Regular-expressions.info](https://www.regular-expressions.info/)
 - [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
@@ -62,11 +64,12 @@
 - [Regular Expression, Enough to be Dangerous](https://www.youtube.com/watch?v=bgBWp9EIlMM)
 - [Regular Expressions - Computerphile](https://www.youtube.com/watch?v=528Jc3q86F8)
 - [Using Regular Expressions - Computerphile](https://www.youtube.com/watch?v=6gddK-cOxYc)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Básico de Expressões Regulares](https://tableless.com.br/o-basico-sobre-expressoes-regulares/)
 - [Aurelio Regex](https://aurelio.net/regex/)
 - [Iniciando Expressões Regulares](https://www.devmedia.com.br/iniciando-expressoes-regulares/6557)
@@ -84,11 +87,12 @@
 - [Universidad de Buenos Aires](http://materias.fi.uba.ar/7508/Practica-2013/ClaseU3.pdf)
 - [Universidad de la República](https://www.fing.edu.uy/inco/cursos/intropln/pres/2011%2004%20-%20Expresiones%20regulares%20y%20aut%C3%B3matas.pdf)
 - [Grep y AWK](http://lml.ls.fi.upm.es/ep/1213/awk.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [OpenClassRooms](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/916990-les-expressions-regulieres-partie-1-2)
 - [les expressions régulières](https://www.lucaswillems.com/fr/articles/25/tutoriel-pour-maitriser-les-expressions-regulieres)
 - [Syntaxe](http://blog.paumard.org/cours/java-api/chap03-expression-regulieres-syntaxe.html)
@@ -98,11 +102,12 @@
 - [Une Introduction](https://www.eila.univ-paris-diderot.fr/_media/user/alexandra_volanschi/cours-il/regex.pdf)
 - [Techniques](https://lipn.univ-paris13.fr/~cerin/SE/regexIUT.pdf)
 - [Python: ER](https://www.lacl.fr/~pvanier/cours/2015-2016/python/cours3.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [HTML.it](https://www.html.it/articoli/espressioni-regolari/)
 - [Calculator](https://it.infobyip.com/regularexpressioncalculator.php)
 - [Pluto.it](http://www.pluto.it/files/ildp/guide/abs/regexp.html)
@@ -112,20 +117,21 @@
 - [Espressioni Regolari in UNIX](http://lonati.di.unimi.it/lfa_regex/lezione_12_maggio_2004.pdf)
 - [Unimi](https://homes.di.unimi.it/ferrari/FondInfoSic2008_09/reg_exp_doppio.pdf)
 - [Pratica](http://www.dis.uniroma1.it/~fiii/materiale_ausiello/esercitazioneRE.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Reguläre Ausdrücke](https://www.luis.uni-hannover.de/fileadmin/buecher/leseproben/perl-kap10-lp.pdf)
 - [Tutorial Reguläre Ausrücke](https://www.pug.org/mediawiki/images/0/0a/Tutorial_Regulaere_Ausdruecke.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Regex for Beginners](https://tproger.ru/articles/regexp-for-beginners/)
 - [Regexp Syntax](https://regexpstudio.com/ru/regexp_syntax.html)
 - [Regexp](http://mit.spbau.ru/files/regexp.pdf)
-
----------------------------------------
+</details>

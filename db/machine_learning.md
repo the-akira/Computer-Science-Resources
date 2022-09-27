@@ -1,7 +1,9 @@
 # Machine Learning
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Harvard Data Science](https://cs109.github.io/2015/)
 - [A History of Machine Learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
 - [Common ML Problems](https://developers.google.com/machine-learning/problem-framing/cases)
@@ -109,11 +111,12 @@
 - [Trust in Machine Learning](https://www.manning.com/books/trust-in-machine-learning)
 - [AI-Powered Search](https://www.manning.com/books/ai-powered-search)
 - [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Aprendizado de Máquina UFF](http://www.ic.uff.br/~bianca/aa/)
 - [Aprendizado de Máquina UFMG](http://www.est.ufmg.br/~marcosop/est171-ML/index.htm)
 - [Introdução](http://www.inf.ufpr.br/lesoliveira/aprendizado/introducao.pdf)
@@ -121,11 +124,12 @@
 - [AM usando Python](http://thiagomarzagao.com/assets/teaching/ipea/slides1.pdf)
 - [Machine learning e alguns exemplos de aplicação em dados astronômicos](http://www.astro.iag.usp.br/~astro12h/files/2018/0305.pdf)
 - [Desmistificando a Inteligência Artificial](https://www.youtube.com/watch?v=c8C_EJcZbdU)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Introducción](http://www.cs.us.es/~fsancho/?e=75)
 - [Tipos de aprendizaje automático](https://medium.com/soldai/tipos-de-aprendizaje-autom%C3%A1tico-6413e3c615e2)
 - [Aprendizaje Automático](http://www.lsi.upc.es/~bejar/ia/transpas/teoria/6-AP-aprendizaje.pdf)
@@ -136,11 +140,12 @@
 - [ML Introducción](https://www.zemsania.com/recursos-zemsania/whitepapers/DTS/Machine_learning.pdf)
 - [Fundamentos de AA](http://www.famaf.proed.unc.edu.ar/pluginfile.php/19002/mod_resource/content/2/01.introduccion.pdf)
 - [Intro al AA](http://ocw.uc3m.es/ingenieria-informatica/herramientas-de-la-inteligencia-artificial/contenidos/transparencias/MDWEBHIA-clase.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [L'apprentissage automatique](https://www.univ-tlemcen.dz/~benmammar/IA2.pdf)
 - [Apprentissage Automatique](http://www.math-info.univ-paris5.fr/~bouzy/Doc/AA1/Seance1.pdf)
 - [Algorithmes d’apprentissage automatique](https://www.di.ens.fr/~germain/publis/memoire.pdf)
@@ -150,22 +155,24 @@
 - [Exemples](https://www.irisa.fr/symbiose/people/fcoste/data/ens/bioinfo/Induction/InductionModeles2pp.pdf)
 - [Cours](http://www.grappa.univ-lille3.fr/~torre/Enseignement/Cours/Apprentissage-Automatique/)
 - [Univ-Lyon](http://eric.univ-lyon2.fr/~jahpine/cours/m2_dm-ml/cm.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Machine Learning It](http://www.intelligenzaartificiale.it/machine-learning/)
 - [Wikibooks](https://it.wikibooks.org/wiki/Intelligenza_artificiale/Apprendimento_automatico)
 - [Politecnico Milano](https://home.deib.polimi.it/lanzi/msi/gray/Unit%2001%20-%20Apprendimento%20automatico.pdf)
 - [Introduzione](http://www.uniroma2.it/didattica/MGRI/deposito/ml_intro.pdf)
 - [Leziones](https://www.math.unipd.it/~aiolli/corsi/1516/aa/)
 - [AA Introduzione](http://twiki.di.uniroma1.it/pub/ApprAuto/AnnoAcc0708/1Intro.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Maschinelles Lernen Riedel](http://morrisriedel.de/wp-content/uploads/2017/12/2016-10-13-1-Maschinelles-Lernen-Riedel-v1.pdf)
 - [Maschinelles Lernen](https://www-ai.cs.uni-dortmund.de/LEHRE/VORLESUNGEN/MLRN/WS1314/mlv_skript_ws1314.pdf)
 - [Presentation](https://www.bigdata.fraunhofer.de/content/dam/bigdata/de/documents/Publikationen/Fraunhofer_Studie_ML_201809.pdf)
@@ -175,11 +182,12 @@
 - [Uni Bielefeld](https://www.techfak.uni-bielefeld.de/~ugrossek/media/da_ugtl.pdf)
 - [Felix Wichmann](https://www.chaosbern.ch/files/slides-Vortrag-Maschinelles-Lernen.pdf)
 - [Goethe Universitat](https://www.ki.informatik.uni-frankfurt.de/lehre/WS2012/KI/folien/13-machinelleslernen.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Vas3k](https://vas3k.ru/blog/machine_learning/)
 - [ML Presentation](http://bioinformaticsinstitute.ru/sites/default/files/vvedenie_v_mashinnoe_obuchenie.pdf)
 - [ML Presentation](http://www.machinelearning.ru/wiki/images/c/cc/Voron-2017-10-08.pdf)
@@ -187,5 +195,4 @@
 - [ML 2015](https://compscicenter.ru/media/slides/machine_learning_1_2015_autumn/2015_09_18_machine_learning_1_2015_autumn.pdf)
 - [FMLDM](https://cs.hse.ru/data/2015/05/25/1096949400/FMLDM.pdf)
 - [Intro](https://logic.pdmi.ras.ru/~sergey/teaching/mlkazan14/01-intro.pdf)
-
----------------------------------------
+</details>

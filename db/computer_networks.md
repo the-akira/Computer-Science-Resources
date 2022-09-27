@@ -1,7 +1,9 @@
 # Computer Networks
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Wikipedia](https://en.wikipedia.org/wiki/Computer_network)
 - [Tutorialspoint](https://www.tutorialspoint.com/computer_fundamentals/computer_networking.htm)
 - [Basics of Computer Networking](https://www.geeksforgeeks.org/basics-computer-networking/)
@@ -93,11 +95,12 @@
 - [Python Networking](https://www.youtube.com/watch?v=XiVVYfgDolU)
 - [Network Programming with Python Course](https://www.youtube.com/watch?v=FGdiSJakIS4&t)
 - [How DNS Works - Computerphile](https://www.youtube.com/watch?v=uOfonONtIuk)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Redes de Computadores](https://pt.wikibooks.org/wiki/Redes_de_computadores/Introdu%C3%A7%C3%A3o)
 - [Redes de Computadores II](http://www.inf.ufpr.br/elias/redes/)
 - [Apostila Redes](http://www.inf.ufpr.br/albini/apostila/Apostila_Redes1_Beta.pdf)
@@ -111,11 +114,12 @@
 - [Introdução às Redes de Computadores](http://www.univasf.edu.br/~edmar.nascimento/redes/redes_20112_aula02.pdf)
 - [Aulas Redes](http://www2.ufba.br/~romildo/disciplinas.html#red)
 - [Fundamentos Redes](http://www.utim.edu.mx/~svalero/docs/laminasFundamentosRedes.pdf)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [EcuRed](https://www.ecured.cu/Red_de_computadoras)
 - [10 Características de las Redes](https://www.caracteristicas.co/redes-de-computadoras/)
 - [Trabajo Redes](https://www.monografias.com/trabajos5/redes/redes.shtml)
@@ -128,11 +132,12 @@
 - [Redes de Ordenadores](https://www.mheducation.es/bcv/guide/capitulo/8448147715.pdf)
 - [Fundamentos y Tecnologia](https://www.uv.mx/personal/artulopez/files/2012/09/08-Fun-y-Tec-de-Redes-de-C.pdf)
 - [Redes de Datos y sus Protocolos](http://www.mdp.edu.ar/images/eudem/pdf/redes%20de%20datos.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Introduction aux Réseaux](http://www.fil.univ-lille1.fr/~sedoglav/RSX/Introduction.pdf)
 - [Réseaux Informatiques](http://projet.eu.org/pedago/sin/1STI2D/7-reseaux.pdf)
 - [Les Réseaux Informatiques](http://members.unine.ch/muriel.aubert/images/uninice.pdf)
@@ -142,11 +147,12 @@
 - [Les Réseaux](http://csricted.univ-setif.dz/files/cours%20informatique/Les%20Reseaux.pdf)
 - [Cours Réseaux](http://dept-info.labri.fr/~felix/Annee2009-10/S2/ASR2%20Reseaux/)
 - [Cours Réseaux Informatiques](http://abdelhamid-djeffal.net/web_documents/diaposroutage.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Le Reti di Computer](http://www.digila.it/public/iisbenini/transfert/Pagetti/Quarta%20B%20SIA%20(2015-2016)/Reti%20di%20computer.pdf)
 - [Reti di Computer](http://www.mat.uniroma3.it/users/liverani/doc/IN530_4_Reti.pdf)
 - [Reti di Computer](http://leonardotozzi.joomlafree.it/documenti/reti/Reti%20di%20computer.pdf)
@@ -160,11 +166,12 @@
 - [Reti di Calcolatori](http://www.diit.unict.it/users/gascia/COURSES/fond_inf_civile/download/FI09-Reti_di_calcolatori.pdf)
 - [Le Reti ed i Protocolli](http://www.uniroma2.it/didattica/Lab_app_inf/deposito/Teoria_Lezione_4_Reti_e_Protocolli.pdf)
 - [Reti di Calcolatori](http://personalpages.to.infn.it/~ferraro/informatica/slides_inf/07_reti.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Moderner Netzwerke](https://s3-eu-west-1.amazonaws.com/gxmedia.galileo-press.de/leseproben/4224/leseprobe_rheinwerk_computer-netzwerke_grundlagen_funktionsweise_anwendung.pdf)
 - [Netzwerk](https://www.mat.univie.ac.at/~praxis/sosem14/vorlesung/folien_05.pdf)
 - [Netzwerke](http://www.saar.de/~awa/data/Rechnernetze.pdf)
@@ -172,11 +179,12 @@
 - [Einführung in die Netzwerktechnik](https://secure.ping.de/aktiv/weiterbildung/sommer2002/netzwerke1.pdf)
 - [TCP/IP-Ethernet](https://www.wut.de/download/print/e-58www-11-prde-000.pdf)
 - [Firewalls](https://www.cosy.sbg.ac.at/~uhl/PScrypt16/Firewalls.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Proglib](https://proglib.io/p/computer-network/)
 - [Asozykin](https://www.asozykin.ru/courses/networks)
 - [Tanenbaum](http://www.ipa.nw.ru/PAGE/aspirantura/literatura/tanenbaum.pdf)
@@ -186,5 +194,4 @@
 - [Computer Networks 4th Edition](https://www.e-reading.club/bookreader.php/140076/Olifer_-_Komp%27yuternye_seti__principy%2C_tehnologii%2C_protokoly_%283ed%29.pdf)
 - [Lecture 6](http://ermak.cs.nstu.ru/neurotech/html/metodmat/inffall2011/Lect6.pdf)
 - [Computer Networks and Analytical Research](http://dwl.kiev.ua/art/ksai/an-book.pdf)
-
----------------------------------------
+</details>

@@ -1,7 +1,9 @@
 # Computer Vision
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Wikipedia - Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
 - [History of Computer Vision](https://www.sas.com/en_us/insights/analytics/computer-vision.html)
 - [Learn Computer Vision - Kaggle](https://www.kaggle.com/learn/computer-vision)
@@ -93,11 +95,12 @@
 - [OpenCV Python Tutorials](https://www.youtube.com/watch?v=qCR2Weh64h4&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&ab_channel=TechWithTim)
 - [Advanced Computer Vision with Python](https://www.youtube.com/watch?v=01sAkU_NvOY)
 - [Deploying a Deep Learning Model on Web and Mobile Applications Using TensorFlow](https://www.manning.com/liveproject/deploying-a-deep-learning-model-on-web-and-mobile-applications-using-tensorflow) 
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [O que é Visão Computacional](http://datascienceacademy.com.br/blog/o-que-e-visao-computacional/)
 - [Prof. Suzana Mota](http://suzanamota.com/category/visao-computacional/)
 - [Visão Computacional, INF2604](https://webserver2.tecgraf.puc-rio.br/~mgattass/ra/trb09/Guilherme/)
@@ -124,11 +127,12 @@
 - [Aplicação de Algoritmos de Visão Computacional](https://www.cs.cornell.edu/~hauagge/files/pdf/hauagge_msc.pdf)
 - [Visão Computacional e Interface Homem-Máquina](http://livros01.livrosgratis.com.br/cp057727.pdf)
 - [Detecção Facial com a Biblioteca OpenCV](https://akiradev.netlify.app/posts/face-detection/)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Introducción a la visión por Computador](https://www.edx.org/course/introduccion-la-vision-por-computador-uc3mx-isa-1x-0)
 - [Visión por Computador](http://www.ehu.eus/ccwintco/uploads/d/d4/PresentacionMundoVirtual.pdf)
 - [Visión Computacional](https://ccc.inaoep.mx/~esucar/Libros/vision-sucar-gomez.pdf)
@@ -147,11 +151,12 @@
 - [Introducción a la Visión Artificial](http://www.sivartsl.com/descargas/artificial.pdf)
 - [Tecnicas y Algoritmos Básicos](https://publicaciones.unirioja.es/catalogo/online/VisionArtificial.pdf)
 - [Revistas Bolivianas](http://www.revistasbolivianas.org.bo/pdf/rits/n1/n1a46.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Vision par Ordinateur](http://devernay.free.fr/cours/vision/pdf/vision1_intro.pdf)
 - [Vision par Ordinateur Slides](https://www.lirmm.fr/~wpuech/enseignement/DUT_info/VISION.pdf)
 - [Vision par Ordinateur: Outils Fondamentaux](http://perception.inrialpes.fr/~Horaud/livre-fichiersPS/VO-HoraudMonga.pdf)
@@ -164,11 +169,12 @@
 - [Vision par Ordinateur Introduction](https://www.iro.umontreal.ca/~roys/ift6145/intro-2x2.pdf)
 - [Introduction à la Vision Par Ordinateur](http://www.isir.upmc.fr/UserFiles/File/Sio/Vision%20-%20MIS/Intro_Vision.pdf)
 - [Vision par Ordinateur Project](http://stephane.ayache.perso.luminy.univ-amu.fr/zoom/cours/Cours/Deep/projet-vision.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Visione Artificiale](http://www.dsi.unive.it/~pelillo/Didattica/Old%20Stuff/VisioneArtificiale/Slide/Lezione%201.pdf)
 - [Corso di Visione Artificiale](http://www.dsi.unive.it/~srotabul/files/vision/2010-2011/Visione-01-Introduzione.pdf)
 - [La Visione Artificiale](https://vision.unipv.it/corsi/VisioneArtificiale/lucidi/VA-02.pdf)
@@ -176,16 +182,16 @@
 - [Visione Artificiale](http://imagelab.ing.unimore.it/imagelab/pdf/accademiascienze_2010.pdf)
 - [Materiale Luigi](http://unina.stidue.net/Elaborazione%20di%20Segnali%20Multimediali/Materiale/Luigi%20Di%20Stefano/)
 - [Università Degli Studi di Parma](http://www.cs.unipr.it/Informatica/Tesi/Fabio_Sozzi_20090422.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Lektorium TV](https://www.lektorium.tv/course/22847)
 - [Computer Vision](http://robocraft.ru/blog/computervision/)
 - [MSU](http://teacher.msu.ru/sites/default/files/resursy/%D0%9A%D0%BE%D0%BD%D1%83%D1%88%D0%B8%D0%BD%20%D0%90.%D0%A1.%20%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5.pdf)
 - [Presentation](http://is.ifmo.ru/news/news_folder/20171209.pdf)
 - [Ingularis Lab](https://www.singularis-lab.com/docs/materials/CV.Introdution.pdf)
 - [Machinelearning.ru](http://www.machinelearning.ru/wiki/images/7/70/VisilterIDP18.pdf)
-
----------------------------------------
+</details>

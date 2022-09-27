@@ -1,7 +1,9 @@
 # C++
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Programiz](https://www.programiz.com/cpp-programming)
 - [Cplusplus](http://www.cplusplus.com/doc/tutorial/)
 - [C++ Docs](https://docs.microsoft.com/en-us/cpp/cpp/)
@@ -71,11 +73,12 @@
 - [Derek Banas C++ Tutorial](https://www.youtube.com/watch?v=DamuE8TM3xo&amp;list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
 - [Modern C++ Course](https://www.youtube.com/watch?v=F_vIB3yjxaM&amp;list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)
 - [C++ Programming All-in-One Tutorial Series](https://www.youtube.com/watch?v=_bYFu9mBnr4)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Excript Curso](https://excript.com/curso-cpp.html)
 - [Aulas C++](http://www.inf.ufpr.br/ci208/NotasAula.pdf)
 - [Programação C++](https://www.inf.pucrs.br/manssour/LinguagemC++/index.html)
@@ -83,11 +86,12 @@
 - [Linguagem C++](https://www.ime.usp.br/~slago/slago-C++.pdf)
 - [C++ Orientado a Objetos](http://www.ic.unicamp.br/~cmrubira/aacesta/cpp/cpp15.html)
 - [Material de Apoio C++](http://www.feis.unesp.br/Home/departamentos/engenhariaeletrica/lapsee/curso_2011_dinter_mod2_1.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [OpenClassRoom](https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c)
 - [Cours C++](http://www.lsv.fr/~fl/Cours/slides.pdf)
 - [Programmation C++](http://eric.univ-lyon2.fr/~ricco/cours/cours_cpp.html)
@@ -95,11 +99,12 @@
 - [Programmation C++](https://www.irif.fr/~yunes/cours/cpp/index.html)
 - [Programmation C++ Mathématiques](https://www.univ-orleans.fr/mapmo/membres/haberkorn/docs/polyC++.pdf)
 - [C++ Moderne](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Curso de Programacion en C++](https://www.uv.es/sto/cursos/c++/curso95.pdf)
 - [Curso C++](https://www.programarya.com/Cursos/C++)
 - [Curso de C++](http://c.conclase.net/curso/index.php)
@@ -109,29 +114,34 @@
 - [Curso C++](https://codigofacilito.com/cursos/c-plus-plus)
 - [Fundamentos C++](http://www.lcc.uma.es/~vicente/docencia/cppdoc/programacion_cxx.pdf)
 - [Fundamentos de la Programación](https://www.fdi.ucm.es/profesor/luis/fp/FP.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Corso C++](http://samottafile.altervista.org/file/Corso_C++.pdf)
 - [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf)
 - [Guida C++](https://www.html.it/guide/guida-c2/)
 - [Corso C++](http://www.math.unipd.it/~sperduti/CORSO-C%2B%2B/Corso%20C++.htm)
 - [Introduzione alla Programmazione](http://www.dis.uniroma1.it/~bloisi/didattica/pmn1112/lezioni/1.1-introduzione.pdf)
+</details>
 
 ---------------------------------------
 
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [C++ Tutorial](https://www.programmierenlernen24.de/c-tutorial/)
 - [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
 - [Einführung in die Programmierung](https://www.numa.uni-linz.ac.at/Teaching/Lectures/Kurs-C/Script/html/main.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [C++ Manual](https://code-live.ru/tag/cpp-manual/)
 - [C++ Resources](https://tproger.ru/tag/cpp/)
 - [Ravesli](https://ravesli.com/uroki-cpp/)
@@ -142,5 +152,4 @@
 - [Cyberforum](http://www.cyberforum.ru/cpp/)
 - [Wikiversity](https://en.wikiversity.org/wiki/C%2B%2B)
 - [Cpp-snachala](http://ci-plus-plus-snachala.ru/)
-
----------------------------------------
+</details>

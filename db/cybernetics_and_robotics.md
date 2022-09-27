@@ -1,7 +1,9 @@
 # Cybernetics & Robotics
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Cybernetics MIT](http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF)
 - [Wikipedia Cybernetics](https://en.wikipedia.org/wiki/Cybernetics)
 - [Pangaro](http://www.pangaro.com/definition-cybernetics.html)
@@ -69,11 +71,12 @@
 - [Robot, Isaac Asimov Audiobook](https://www.youtube.com/watch?v=3MKehEokycA)
 - [What is Cybernetics](https://www.youtube.com/watch?v=JJ6orMfmorg)
 - [Robot Dynamics and Control](https://home.deib.polimi.it/gini/robot/docs/spong.pdf)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Cibernética: Ciência e Técnica](https://tecnos.cienciassociais.ufg.br/up/410/o/Disserta%C3%A7%C3%A3o_-_Cibernetica__Ciencia_e_T%C3%A9cnica.pdf)
 - [A Robótica no Ensino e Aprendizagem de Programação](https://repositorio.iscte-iul.pt/bitstream/10071/15076/1/A%20Rob%C3%B3tica%20no%20Ensino%20e%20Aprendizagem%20de%20Programa%C3%A7%C3%A3o.pdf)
 - [Apostila de Robótica](http://www.joinville.udesc.br/portal/professores/silas/materiais/Apostila_de_Robotica.pdf)
@@ -86,11 +89,12 @@
 - [Programador de Robô](http://www.etelg.com.br/paginaete/downloads/mecatronica/Rob%C3%B4.pdf)
 - [Apostila de Robótica Educacional](http://www.peteletrica.uff.br/wp-content/uploads/2013/08/Apostila-Rob%C3%B3tica-Educacional.pdf)
 - [Introdução à Cibernética](https://monoskop.org/images/3/36/Ashby_Ross_Introducao_a_cibernetica.pdf)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Cibernética](https://www.monografias.com/trabajos/cibernetica/cibernetica.shtml)
 - [Ecured](https://www.ecured.cu/Cibern%C3%A9tica)
 - [Universidad de Barcelona](https://campus.usal.es/~teoriaeducacion/rev_numero_02/n2_art_gros.htm)
@@ -110,11 +114,12 @@
 - [El Impacto de la Robótica](http://inbots.eu/wp-content/uploads/2018/08/publications/robotica-derecho-del-trabajo-derecho-fiscal-final-mayo2018.pdf)
 - [Los Robots del Futuro](https://ccc.inaoep.mx/~emorales/Papers/2009/eduardo.pdf)
 - [Programacion con Robots](http://robots.linti.unlp.edu.ar/uploads/docs/manual_de_programacion_con_robots_para_la_escuela.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [La Cybernétique](http://www.astrosurf.com/luxorion/cybernetique.htm)
 - [Cybernétique](http://villemin.gerard.free.fr/Scienmod/NotCyber.htm)
 - [Cybernétique et physiologie](http://planet-vie.ens.fr/article/1399/cybernetique-physiologie)
@@ -135,11 +140,12 @@
 - [Cours de Robotique Fondamentale](https://www.pobot.org/IMG/pdf/cinematique_des_robots_series.pdf)
 - [Robotique Mobile](https://perso.ensta-paristech.fr/~filliat/Courses/Polys/Filliat_RobotiqueMobile_ENSTAParisTech.pdf)
 - [Modélisation des Systèmes Robotiques](https://perso.crans.org/~ghaessig/UPMC/Modelisation_robotique/Cours%20Robotique%202014.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Digicult.it](http://digicult.it/it/digimag/issue-049/in-the-beginning-was-cybernetics-relation-between-science-artists/)
 - [La Cibernetica](http://www.fedoa.unina.it/8517/1/Leone_Montagnini_23.pdf)
 - [Istituto Calvino](https://www.istitutocalvino.gov.it/studenti/siti/ia/ia/cibernetica.html)
@@ -149,11 +155,12 @@
 - [Il Mondo dei Robot](https://www.itisondrio.org/jupgrade/images/stories/varie_alunni/tesine/il_mondo_dei_robot_negrini_10-11.pdf)
 - [Sviluppi della Robotica](http://presidenza.governo.it/biotecnologie/documenti/Robotica-misto%20CNB-CNBBSV-17lug17-IT.pdf)
 - [Evoluzione della Robotica](http://didawiki.cli.di.unipi.it/lib/exe/fetch.php/pro/lezione_a.ii_-_introduzione_alla_percezione_robotica_parte3_.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Spektrum.de](https://www.spektrum.de/lexikon/neurowissenschaft/kybernetik/6831)
 - [Kybernetik](https://www.uni-due.de/~bj0063/doc/Lenk.pdf)
 - [Kybernetik Und Systemtheorie](https://www.vordenker.de/downloads/kybmed.pdf)
@@ -162,16 +169,16 @@
 - [Robotik 2](https://www.tu-chemnitz.de/informatik/KI/scripts/ws0405/KI_Schule/KI-Schule-04-lehr-3.pdf)
 - [Robotik-Systeme](https://www.e-fi.de/fileadmin/Innovationsstudien_2016/StuDIS_11_2016.pdf)
 - [Grundlagen der Robotik](https://homepages.thm.de/~hg6458/Robotik/Robotik.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Article](http://www.immsp.kiev.ua/publications/monographs/files/04_Paragraf_2.pdf)
 - [People and Cybernetics](http://elib.ict.nsc.ru/jspui/bitstream/ICT/890/3/m2.pdf)
 - [Economic Cybernetics](http://nikiforova.vk.vntu.edu.ua/file/9be3917e83dedda684c695778f055abd.pdf)
 - [Cybernetics Book](http://grachev62.narod.ru/cybern/contents.htm)
 - [Scisne](https://scisne.net/a-1590)
 - [Robotics for Children](http://www.239.ru/userfiles/file/Robobook99-99-99-20short.pdf)
-
----------------------------------------
+</details>

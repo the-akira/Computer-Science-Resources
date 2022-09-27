@@ -1,7 +1,9 @@
 # Ruby
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Awesome Ruby](https://awesome-ruby.com/)
 - [Ruby Libhunt](https://ruby.libhunt.com/)
 - [Codecademy](https://www.codecademy.com/learn/learn-ruby)
@@ -50,11 +52,12 @@
 - [Ruby Tutorials](https://www.youtube.com/watch?v=8I539U5lXWY&amp;list=PLMK2xMz5H5Zv8eC8b4K6tMaE1-Z9FgSOp)
 - [Ruby on Rails in 60 Minutes](https://www.youtube.com/watch?v=pPy0GQJLZUM&amp;t=170s)
 - [The New Boston](https://www.youtube.com/watch?v=WJlfVjGt6Hg&amp;list=PL1512BD72E7C9FFCA)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Wikipedia](https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o))
 - [Conhecendo a linguagem Ruby](https://www.devmedia.com.br/conhecendo-a-linguagem-ruby/8226)
 - [Seminário Ruby](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20132-seminario-ruby.pdf)
@@ -71,11 +74,12 @@
 - [Ruby o melhor amigo do Programador](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20162-seminario-ruby.pdf)
 - [Ruby Show](http://www.portal.inf.ufg.br/~marceloakira/fgsl11/slides/debate-linguagens/ruby-show.pdf)
 - [Ruby on Rails](https://www.ime.usp.br/~esposte/documents/aula-rails/aula01.pdf)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Aprende a Programar con Ruby](http://rubysur.org/aprende.a.programar/)
 - [Ruby Ya](https://www.tutorialesprogramacionya.com/rubyya/)
 - [Programación en Ruby](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Ruby)
@@ -87,42 +91,45 @@
 - [Programación Ruby](http://www.repositorio.usac.edu.gt/5547/1/Eduardo%20Alejandro%20Herrera%20Guti%C3%A9rrez.pdf)
 - [Ruby on Rails](https://gwolf.org/files/rails.pdf)
 - [Ruby on Rails con Hobo](http://unoycero.com/wp-content/uploads/2011/07/Curso-de-Hobo-+-Ruby-on-Rails.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [OpenClassRooms](https://openclassrooms.com/fr/courses/2913686-lancez-vous-dans-la-programmation-avec-ruby)
 - [Programmation Ruby](https://www.supinfo.com/articles/single/5539-programmation-ruby)
 - [Ruby](https://www.scriptol.fr/programmation/ruby.php)
 - [Le Langage Ruby](https://www.alphorm.com/Upload/slideshare/alphorm.com-Support-de-la-formation-RubySS.pdf)
 - [Programmation Ruby](https://upload.wikimedia.org/wikipedia/commons/d/d7/Programmation_Ruby-fr.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Guida Ruby](https://www.html.it/guide/guida-ruby/)
 - [Panoramica Ruby](https://www.flameeyes.eu/articles/ld-ruby.pdf)
 - [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
 - [Introduzione  al  linguaggio  Ruby](http://www.fisica.unipg.it/borromeo/Appunti/FisComp/FisComp2013/pdf/ruby.pdf)
 - [Ruby on Rails](http://railsgirls.com/files/ticino/ticino_pres_ita.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Ruby Grundlagen](http://b-simple.de/download/ruby.pdf)
 - [Praxiswissen Ruby](https://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf)
 - [Programmieren mit Ruby](https://www.guug.de/veranstaltungen/ffg2002/papers/ffg2002-roehrl.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Progopedia](http://progopedia.ru/language/ruby/)
 - [RU-Wiki](http://ru-wiki.org/wiki/Ruby)
 - [Ruby Book](http://mit.spbau.ru/files/%20%D0%B2%20Ruby.pdf)
 - [Ruby](http://komar.bitcheese.net/files/Ruby.pdf)
-
----------------------------------------
+</details>

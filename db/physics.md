@@ -1,7 +1,9 @@
 # Physics
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [History of Physics](https://www.youtube.com/watch?v=acUf7PuGWXA)
 - [The Physics of Computers](http://ffden-2.phys.uaf.edu/212_fall2009.web/chris_plutt/index.html)
 - [Physics from Computer Science](https://www.cs.ox.ac.uk/files/349/YORKIJUC.pdf)
@@ -40,11 +42,12 @@
 - [Electric Circuits](https://www.youtube.com/watch?v=-Rb9guSEeVE&amp;list=PLkyBCj4JhHt8DFH9QysGWm4h_DOxT93fb)
 - [Simulating Physics](https://people.eecs.berkeley.edu/~christos/classics/Feynman.pdf)
 - [Quantum made simple](https://toutestquantique.fr/en/)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Física Computacional](https://pt.wikipedia.org/wiki/F%C3%ADsica_computacional)
 - [QuBit: O Bit Quântico](https://www.youtube.com/watch?v=Nc-xoGjkqPw)
 - [Carreira em Física Computacional](https://www.ifi.unicamp.br/gfs/Abner/FM003-A/Maurice.pdf)
@@ -61,11 +64,12 @@
 - [UNIVESP - Eletrônica Aplicada](https://www.youtube.com/watch?v=0BosSTan8bI&amp;list=PLxI8Can9yAHevRkQnSgviIgnzCH3Nss_Y)
 - [UNIVESP - Microeletrônica](https://www.youtube.com/watch?v=GkDI74R4wf8&amp;list=PLxI8Can9yAHfCQTGPsvMaMw3nqxgqgcE4)
 - [UNIVESP - Eletrônica Digital](https://www.youtube.com/watch?v=Fe6jf0DE9vs&amp;list=PLxI8Can9yAHeOu5qbUa-Pc4hf2VB1Rw1_)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Electronica Digital](http://www.areatecnologia.com/electronica/electronica-digital.html)
 - [La Electronica Digital](https://www.edu.xunta.gal/centros/iesblancoamorculleredo/aulavirtual2/pluginfile.php/20936/mod_resource/content/0/Apuntes/electronica_digital.pdf)
 - [Unidad 3 - ED](http://www.edu.xunta.gal/centros/iesfelixmuriel/system/files/Electr%C3%B3nica%20digital.pdf)
@@ -75,11 +79,12 @@
 - [Manual de Prácticas de Electrónica](https://www.itescam.edu.mx/principal/docentes/formatos/7f800ed4ed52e17919710ac735dce7e9.PDF)
 - [Fundamentos de Diseño Digital](http://jagarza.fime.uanl.mx/general/notas/FDDSC.pdf)
 - [Circuitos y Sistemas Digitales](http://www.iearobotics.com/personal/juan/docencia/apuntes-ssdd-0.3.7.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Électronique Numérique](http://www.est-usmba.ac.ma/benbrahim/ENSA/Electronique%20num%C3%A9rique/semestre1-ELN-Num%C3%A9rique.pdf)
 - [Circuits Combinatoires](https://www.el-kalam.com/conception-hardware/circuits-combinatoires/)
 - [Circuits Séquentiels](https://www.el-kalam.com/conception-hardware/circuits-sequentiels/)
@@ -91,11 +96,12 @@
 - [Applications de l'électronique](https://homepages.laas.fr/fcaignet/Cours/combinatoire_Appli_licencePhy.pdf)
 - [Circuits Logiques](http://www.magoe.net/magoeCoursElectrNum2015.pdf)
 - [Cours d'électronique](http://fdechassey.free.fr/hei/HEI/%5B1%5D_coursElecNum.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Elettronica di Base](https://digilander.libero.it/nick47/index.htm#rife1)
 - [Elettronica Digitale](http://studenti.fisica.unifi.it/~carla/appunti/2008-9/cap.6.pdf)
 - [Corso Elettronica Digitale](https://www.dei.unipd.it/~gerosa/ED/downloads/Elettronica%20Digitale.pdf)
@@ -103,18 +109,20 @@
 - [Le Basi](http://www.criptonite.org/sez_didattica/materiale/digitale/CAP_1DIG.pdf)
 - [ED con Esperimenti](http://www.introni.it/pdf/Jackson%20-%20Elettronica%20Digitale%20-%20part%201.pdf)
 - [Progettazione di un Componente Digitale](http://unina.stidue.net/Circuiti%20Integrati%20Digitali/Materiale/Corso%20Di%20Elettronica%20Digitale%20-%20Olivieri.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Locktronics](https://www.matrixtsl.com/datasheets/LK9392DE-82-1.pdf)
 - [Elektronik für Physiker](https://mathphys.fsk.uni-heidelberg.de/w/wp-content/uploads/skripte/elektronik_straumann.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Go-Radio](http://go-radio.ru/cifrovaya-elektronika.html)
 - [Skhemotekhniku](http://kpe.hww.ru/BOOKS/Vvedenie_v_tcifrovuiu_skhemotekhniku_(Novikov).pdf)
 - [Book of Electronics](http://gu-unpk.ru/public/file/employee/1159/Eremenko_elektrotexnika_sxemotehnikai.pdf)
@@ -122,5 +130,4 @@
 - [Digital Design](http://easyelectronics.ru/files/Book/digital-design-and-computer-architecture-russian-translation.pdf)
 - [Digital Electronics](https://www.bsuir.by/m/12_100229_1_85482.pdf)
 - [The Physical Foundations of the Operation of Modern Computers](https://www.kazedu.kz/referat/53306)
-
----------------------------------------
+</details>

@@ -1,7 +1,9 @@
 # R
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [R-Project](https://www.r-project.org/about.html)
 - [R W3Schools](https://www.w3schools.com/r/default.asp)
 - [Wikipedia](https://en.wikipedia.org/wiki/R_(programming_language))
@@ -78,11 +80,12 @@
 - [Data Camp](https://www.youtube.com/watch?v=SWxoJqTqo08&amp;list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg)
 - [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg)
 - [Exploring Data with R](https://www.manning.com/books/exploring-data-with-r)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [DevMedia](https://www.devmedia.com.br/trabalhando-com-a-linguagem-r/33275)
 - [R (linguagem de programação)](https://www.ufrgs.br/soft-livre-edu/software-educacional-livre-na-wikipedia/r-linguagem-de-programacao/)
 - [Introdução ao R](https://msdn.microsoft.com/pt-br/magazine/mt238409.aspx)
@@ -99,11 +102,12 @@
 - [Análise Exploratória de Dados usando R](http://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf)
 - [Séries Temporais em R](https://aprender.ead.unb.br/pluginfile.php/235342/mod_resource/content/1/CursoCompleto.pdf)
 - [Curso de R](https://www.youtube.com/watch?v=plJw9QFew5A&amp;list=PL4OAe-tL47sbzCgtBTthtX50T30CLToEZ)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Curso básico de R](http://www.ub.edu/stat/docencia/EADB/Curso%20basico%20de%20R.pdf)
 - [Introducción a la Programación Estadística](https://www.ugr.es/~batanero/pages/ARTICULOS/libroR.pdf)
 - [Sobre R](http://halweb.uc3m.es/esp/Personal/personas/jmmarin/esp/Progra/SobreR.html)
@@ -117,11 +121,12 @@
 - [Manual de Práticas con R](http://matematicas.unex.es/~trinidad/mui/tutorial.R.pdf)
 - [Programación en R](http://www.oldemarrodriguez.com/yahoo_site_admin/assets/docs/Programacion_R.67130107.pdf)
 - [Cómo Utilizar R em Métodos Numéricos](https://tecdigital.tec.ac.cr/revistamatematica/Secciones/Matematica_Algoritmos_Programacion/RevistaDigital_WMora_V16_n1_2015/RevistaDigital_WMora_V16_n2_2015.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Introduction à la Programmation en R](https://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf)
 - [Cours de programmation sous R](http://eric.univ-lyon2.fr/~ricco/cours/cours_programmation_R.html)
 - [Logiciel R et Programmation](http://egallic.fr/Enseignement/R/m1_stat_eco_logiciel_R.pdf)
@@ -130,11 +135,12 @@
 - [Logiciel R et Programmation](http://egallic.fr/Enseignement/R/Slides/boucles.pdf)
 - [Quelques Commandes R](http://revue.sesamath.net/IMG/pdf/RCarte_Commandes-R.pdf)
 - [Introduction au Logiciel R](https://www.math.univ-toulouse.fr/~sdejean/PDF/semin-R_juin_2014.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Guida Ambiente Statistico R](https://cran.r-project.org/doc/contrib/Mineo-dispensaR.pdf)
 - [Guida R](https://www.html.it/guide/guida-r/)
 - [Programmare con R](http://felix.unife.it/++/st-r)
@@ -148,11 +154,12 @@
 - [Una Breve Introduzione a R](http://www.dima.unige.it/~rogantin/UnigeStat/UNIGE_IntrR_1.pdf)
 - [Statistica Descritiva con R](http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid441997.pdf)
 - [Laboratorio di R](http://calvino.polito.it/~gasparini/teaching/060902.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Einführung in R](https://tu-dresden.de/gsw/phil/iso/mes/ressourcen/dateien/prof/lehre/freieS/Dateien/Einfuehrung_R.pdf?lang=en)
 - [Einführung in R 2](http://www.marlenemueller.de/MM_EinfuehrungR.pdf)
 - [Technische Universitat Dortmund](https://www.statistik.tu-dortmund.de/fileadmin/user_upload/Lehrstuehle/Datenanalyse/R/R_gesamt_3x3.pdf)
@@ -161,11 +168,11 @@
 - [Programmierung mit R](https://www.statistik.tu-dortmund.de/fileadmin/user_upload/Lehrstuehle/Datenanalyse/R/R_gesamt.pdf)
 - [Einf ̈uhrung in die Statistik-Programmier-Sprache R](https://www.statistik.tu-dortmund.de/fileadmin/user_upload/Lehrstuehle/Ingenieur/Mueller/Lehre/StochIng/Rman.pdf)
 - [Crashkurs Datenanalyse mit R](https://sebastiansauer.github.io/download/r-crashkurs_01.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Data Science with R](https://proglib.io/p/data-science-with-r/)
-
----------------------------------------
+</details>

@@ -1,7 +1,9 @@
 # Computer Architecture
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Computer Architecture](https://en.wikipedia.org/wiki/Computer_architecture)
 - [CIS 501](https://www.cis.upenn.edu/~milom/cis501-Fall11/)
 - [CS 429: Spring, 2020](https://www.cs.utexas.edu/~byoung/cs429/syllabus429.html)
@@ -51,11 +53,12 @@
 - [Computer Architecture:  A Constructive Approach](http://csg.csail.mit.edu/6.375/6_375_2019_www/resources/archbook.pdf)
 - [Von Neumann Architecture](https://www2.cs.siu.edu/~cs401/Textbook/ch2.pdf)
 - [Jim Keller: Moore's Law, Microprocessors, Abstractions, and First Principles](https://www.youtube.com/watch?v=Nb2tebYAaOA)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Introdução a Arquitetura de Computadores](https://pt.wikibooks.org/wiki/Introdu%C3%A7%C3%A3o_%C3%A0_Arquitetura_de_Computadores)
 - [Introdução a Arquitetura de Computadores](http://producao.virtual.ufpb.br/books/edusantana/introducao-a-arquitetura-de-computadores-livro/livro/livro.chunked/index.html)
 - [Arquitetura de Computadores](http://estudio01.proj.ufsm.br/cadernos/cafw/tecnico_informatica/arquitetura_computadores.pdf)
@@ -71,11 +74,12 @@
 - [Arquitetura de Computadores Fundamentos](http://www.inf.ufg.br/~fmc/arqcomp/Fundamentos1.pdf)
 - [Arquitetura de Computadores Moderna](http://www.ufjf.br/eduardo_barrere/files/2013/03/Aula011.pdf)
 - [UNIVESP](https://www.youtube.com/watch?v=HgA-oXOV7kI&amp;list=PLxI8Can9yAHdG-xUDj6i-HGB7IAsAU-t1)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Arquitectura de Computadoras](http://www.aliat.org.mx/BibliotecasDigitales/sistemas/Arquitectura_computadoras_I.pdf)
 - [Wikiwand](http://www.wikiwand.com/es/Arquitectura_de_computadoras#/Introducci%C3%B3n)
 - [Arquitectura de Computadores](http://www.dacya.ucm.es/hidalgo/arquitectura/tema1.pdf)
@@ -85,11 +89,12 @@
 - [Organización y arquitectura computacional](http://edacunob.ult.edu.cu/bitstream/123456789/37/1/Organizaci%C3%B3n%20y%20Arquitectura%20de%20computadoras.%20Un%20enfoque%20pr%C3%A1ctico.pdf)
 - [CC 4301](https://users.dcc.uchile.cl/~jfabry/arq/arquitectura.pdf)
 - [Fundamentos del Diseño de Computadores](http://ocw.uc3m.es/ingenieria-informatica/arquitectura-de-computadores/materiales/es-m1-01-fund-ocw.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Architecture des ordinateurs](http://www.fil.univ-lille1.fr/~wegrzyno/portail/Info/Doc/HTML/seq8_architecture.html)
 - [Architecture des Ordinateurs](http://dept-info.labri.fr/ENSEIGNEMENT/archi/cours/archi.pdf)
 - [L'architecture de base](https://fr.wikibooks.org/wiki/Fonctionnement_d%27un_ordinateur/L%27architecture_de_base_d%27un_ordinateur)
@@ -102,34 +107,36 @@
 - [Cours Ghalouci](https://www.univ-usto.dz/images/coursenligne/Cours_ghalouci.pdf)
 - [Architecture des Ordinateurs](http://www.insea.ma/download/coursarchi.pdf)
 - [Architecture de base d’un ordinateur](http://www.ucd.ac.ma/gptn/Files/Other/Web%20Info/Architecture.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Architettura del calcolatore](https://home.deib.polimi.it/roveri/SlideInformaticaGrafica/2_Architettura_del_calcolatore.pdf)
 - [Architettura](http://www.cs.unibo.it/~zuppirol/Architettura.pdf)
 - [Architettura del calcolatore](http://wwwinfo.deis.unical.it/~irina/lezioni/lezione3.pdf)
 - [Funzionamento del calcolatore](http://web.diegm.uniud.it/pierluca/public_html/teaching/fpac/strumenti/simcpu/doc_it/01_architettura_e_funzionamento_del_calcolatore.pdf)
 - [L'hardware del PC](http://www.dsi.unive.it/~mace/web/Teaching/InfBase2010/03-10set-Hardware.pdf)
 - [Personal Computer](https://it.wikibooks.org/wiki/Personal_computer/Architettura)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Rechnerarchitektur](https://www.tu-chemnitz.de/informatik/friz/Grundl-Inf/Rechnerarchitektur/Vorlesung/vorlesung_1.pdf)
 - [Rechnerarchitektur mit Simulator](https://wiki.zum.de/wiki/Rechnerarchitektur_mit_Simulator_JOHNNY)
 - [Rechnerarchitektur I/II](https://www.in.tu-clausthal.de/uploads/media/Rechnerarchitektur_Skript_02.pdf)
 - [Grundlagen der Rechnerarchitektur](https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.050/vorlesungen/wise1415/gdra/GdRA-falk-WS1415-6-Rechnerarchitektur.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Tanenbaum](https://nsu.ru/xmlui/bitstream/handle/nsu/9054/tanenbaum_AC.pdf)
 - [Architecture Book](http://book.kbsu.ru/theory/chapter2/1_2_0.html)
 - [Lectures](https://www.youtube.com/watch?v=dVZrHGNGvb0)
 - [Tannenbaum](http://remont-comp-pomosh.ru/Book/Tannenbaum_Arhitektura_Kompjutera_izdanie_4.pdf)
-
----------------------------------------
+</details>

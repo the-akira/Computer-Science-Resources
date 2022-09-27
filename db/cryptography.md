@@ -1,7 +1,9 @@
 # Cryptography
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Wikipedia](https://en.wikipedia.org/wiki/Cryptography)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography)
 - [Search Security](https://searchsecurity.techtarget.com/definition/cryptography)
@@ -69,11 +71,12 @@
 - [Episode 1: Gambling with Secrets (Cryptography)](https://www.youtube.com/watch?v=lICOtR078Gw&amp;list=PLB4D701646DAF0817)
 - [Mini Course: Public Key Cryptography](https://www.youtube.com/watch?v=8CluknrLeys&amp;list=PLbg3ZX2pWlgLoapF5VvM_8h5OR-XW9pbr)
 - [AES Explained (Advanced Encryption Standard) - Computerphile](https://www.youtube.com/watch?v=O4xNJsjtN6E)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Aldeia Numa Boa](https://web.archive.org/web/20161101153020/http://www.numaboa.com.br/criptografia/)
 - [Entendendo a Criptografia](http://www.ic.unicamp.br/~rdahab/cursos/mo421-mc889/2014-1s/Welcome_files/SlidesPaarPelzl-Portugues-pdfs/)
 - [Criptologia Divertida](http://www.mat.ufpb.br/bienalsbm/arquivos/Oficinas/PedroMalagutti-TemasInterdisciplinares/Aprendendo_Criptologia_de_Forma_Divertida_Final.pdf)
@@ -86,11 +89,12 @@
 - [Criptografia em Sistemas de Arquivos](http://www.lisha.ufsc.br/teaching/os/ine5412-2008-2/work/cryptfs.pdf)
 - [Criptografia RSA](https://www.lume.ufrgs.br/bitstream/handle/10183/110014/000951896.pdf)
 - [Criptografia via Curvas Elípticas](http://www2.unirio.br/unirio/ccet/profmat/tcc/2011/TCCSergioCorreia.pdf)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Introducción a la criptografía](http://www.dma.fi.upm.es/recursos/aplicaciones/matematica_discreta/web/aritmetica_modular/criptografia.html)
 - [Qué es la Criptografía](https://tecnologia-informatica.com/que-es-la-criptografia/)
 - [Ecured, Criptografía](https://www.ecured.cu/Criptograf%C3%ADa)
@@ -105,11 +109,12 @@
 - [Criptografía para Principiantes](http://spi1.nisu.org/recop/www.seguridata.com/pdf/cbasica.pdf)
 - [Introducción](http://webdiis.unizar.es/~ftricas/Asignaturas/seguridadD/Transparencias/criptografiaElviraMayordomo.pdf)
 - [Criptografía y Seguridad](http://www.grc.upv.es/biblioteca/cripto.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Cryptage](http://www.cryptage.org/sommaire.html)
 - [Introduction à la Cryptographie](https://www.apprendre-en-ligne.net/crypto/bibliotheque/PDF/IntroToCrypto.pdf)
 - [Cases.lu](https://www.cases.lu/cryptographie.html)
@@ -126,11 +131,12 @@
 - [Sécurité et Cryptographie](http://www.info.univ-angers.fr/~basseur/Crypto/SecuriteCryptographieDocument.pdf)
 - [Cryptographie et Cryptanalyse](http://www.nymphomath.ch/crypto/bibliotheque/PDF/transpcrypto.pdf)
 - [Cryptographie](http://exo7.emath.fr/cours/ch_crypto.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Crittografia](http://www.cardano.pv.it/studenti/matedida/crittografia/crittografia.htm)
 - [Crittografia e Privacy](http://www.di-srv.unisa.it/~ads/corso-security/www/CORSO-9900/crittografiaclassica/www.apogeonline.com/catalogo/allegati/483/doc/algoritmi/homepgp.htm#menu)
 - [La Crittografia](http://www.introni.it/crittografia.html)
@@ -143,11 +149,12 @@
 - [Crittografia Classica](http://www.di-srv.unisa.it/~paodar/papers/pdf/CrittografiaClassicaWeb.pdf)
 - [Sicurezza e Crittografia](https://www.moreno.marzolla.name/teaching/fondamenti-di-informatica/2017-2018/L20-sicurezza.pdf)
 - [Crittografia Asimmetrica](https://avires.dimi.uniud.it/claudio/teach/sicurezza2013/lezione-04.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Kryptowissen](https://www.kryptowissen.de/kryptographie.html)
 - [Krypto](http://www.ph-ludwigsburg.de/wp/kuntze/thstlk/krypto.htm)
 - [Krytographie I](http://www.cits.rub.de/imperia/md/content/may/paper/krypto_i.pdf)
@@ -155,22 +162,25 @@
 - [Grundlagen der Kryptographie](https://people.ee.ethz.ch/~plattner/Kursunterlagen/SEC/Grundlagen.pdf)
 - [Angewandte Kryptographie](http://www.hs-weingarten.de/~ertel/kryptobuch/kryptobuch-ertel-folien.pdf)
 - [Kryptologie](https://www.tinohempel.de/info/info/kryptografie/download/krypto.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Kriptografiya](http://www.furfur.me/furfur/culture/culture/166567-kriptografiya)
 - [Cryptography.ru](http://cryptography.ru/)
 - [Crypto-Online](http://www.math.nsc.ru/~tokareva/lib/crypto-online.pdf)
 - [Book](https://books.ifmo.ru/file/pdf/1989.pdf)
 - [Intro to Crypto](http://cryptography.ru/wp-content/uploads/2013/09/intro_to_crypto.pdf)
 - [Cryptoshn](https://htrd.su/wiki/_media/zhurnal/2012/03/23/todo_prikladnaja_kriptografija/cryptoshn.pdf)
+</details>
 
----------------------------------------
-
+<details>
+  <summary>Croatian</summary>
+  
+  ### Materials
 ![HR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/CROATIA.png)
 
 - [Kritografija](https://web.math.pmf.unizg.hr/~duje/kript/kriptografija.html)
-
----------------------------------------
+</details>

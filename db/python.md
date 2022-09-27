@@ -1,7 +1,9 @@
 # Python
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Python.org](https://www.python.org/)
 - [Programiz](https://www.programiz.com)
 - [Python Programming](https://pythonprogramming.net/)
@@ -116,11 +118,12 @@
 - [Talk Python: Python for Absolute Beginners](https://www.manning.com/livevideo/talk-python-python-for-absolute-beginners)
 - [Full Stack Python Security](https://www.manning.com/books/full-stack-python-security)
 - [Scaler Topics](https://www.scaler.com/topics/python/)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Python Iluminado](https://pythoniluminado.netlify.app)
 - [Devmedia](https://www.devmedia.com.br/guia/python/37024)
 - [Udacity](https://br.udacity.com/course/programming-foundations-with-python--ud036)
@@ -145,11 +148,12 @@
 - [Aulas Python](https://www.youtube.com/watch?v=lJjR906426o&amp;list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
 - [Python 101](https://www.youtube.com/watch?v=tS0BsCSDbzM&amp;list=PLV7VqBqvsd_3yRYYWrHkziPL6izzrUIkp)
 - [Python Academy](https://pythonacademy.com.br/blog/)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Python Basico](https://entrenamiento-python-basico.readthedocs.io/es/latest/)
 - [El Tutorial de Python](http://docs.python.org.ar/tutorial/pdfs/TutorialPython2.pdf)
 - [Python para Principiantes](https://www.iaa.csic.es/python/curso-python-para-principiantes.pdf)
@@ -159,11 +163,12 @@
 - [Python by Vilar](http://fcaglp.unlp.edu.ar/~observacional/manuales/python-by-vilar.pdf)
 - [Aprenda a pensar como um programador](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf)
 - [Programacion Avanzada](https://sites.google.com/site/upiitaobduliapichardo/programacion-avanzada-python)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [OpenClassRooms](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
 - [Programmer en Deux Minutes](https://fr.wikibooks.org/wiki/Programmation_Python/Programmer_en_deux_minutes)
 - [Apprendre Python](http://apprendre-python.com/)
@@ -176,11 +181,12 @@
 - [Fsincere](http://fsincere.free.fr/isn/python/cours_python_webographie.php)
 - [Poppy](https://docs.poppy-project.org/fr/programming/python.html)
 - [Python Cours](https://www.youtube.com/watch?v=HWxBtxPBCAc&amp;list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Python.it](https://www.python.it/)
 - [Guida Python](https://www.html.it/guide/guida-python/)
 - [ProgrammareinPython](https://www.programmareinpython.it/esercizi-python/)
@@ -194,11 +200,12 @@
 - [Python Funzionale](http://art.uniroma2.it/teaching/lmp/part_II/ppt/fp_python.pdf)
 - [Corso Rapido](http://codex.altervista.org/corsopython/corsopython.pdf)
 - [Corso Python 3](https://www.youtube.com/watch?v=mXWXUzgok_I&amp;list=PLHUQL6-_n9Zes1VLMgJbLa8IIOHT9x4Nu)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Python World](https://pythonworld.ru/samouchitel-python)
 - [Metanit](https://metanit.com/python/tutorial/)
 - [Losst](https://losst.ru/osnovy-programmirovaniya-python)
@@ -214,13 +221,13 @@
 - [Lurkmore](https://lurkmore.co/Python)
 - [Book Web Master](http://www.bookwebmaster.narod.ru/python.html)
 - [Python-Scripts](https://python-scripts.com/create-pdf-pyfpdf)
+</details>
 
----------------------------------------
-
-![JP](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/JP.png)
-
+<details>
+  <summary>Japanese</summary>
+  
+  ### Materials
 - [Python.jp](https://www.python.jp/)
 - [Sejuku](https://www.sejuku.net/blog/7720)
 - [Dividable](https://dividable.net/python/python-basic-tutorial)
-
----------------------------------------
+</details>

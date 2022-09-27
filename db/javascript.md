@@ -1,7 +1,9 @@
 # Javascript 
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Codecademy](https://www.codecademy.com/learn/learn-javascript)
 - [Learn-JS](https://www.learn-js.org/)
 - [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
@@ -66,11 +68,12 @@
 - [JavaScript Data Structures: Getting Started](https://www.youtube.com/watch?v=41GSinwoMYA)
 - [Asynchronous JavaScript](https://www.youtube.com/watch?v=ZcQyJ-gxke0&list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu&ab_channel=TheNetNinja)
 - [The Nature of Code 2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Tutoriales Programacionya](https://tutorialesprogramacionya.com/javascriptya/)
 - [El lenguaje Javascript](http://www.dtic.upf.edu/~tnavarrete/fcsig/javascript.pdf)
 - [Lenguajejs](https://lenguajejs.com/)
@@ -81,11 +84,12 @@
 - [Desarolloweb](https://desarrolloweb.com/manuales/manual-javascript.html)
 - [Maestros del Web](http://www.maestrosdelweb.com/que-es-javascript/)
 - [Elabismodenull](https://elabismodenull.wordpress.com/2016/11/04/programacion-funcional-en-javascript-las-funciones/)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Cours Javascript](https://www.cours-gratuit.com/cours-javascript/)
 - [WikiBooks](https://fr.wikibooks.org/wiki/Programmation_JavaScript/Introduction)
 - [Grappa](http://www.grappa.univ-lille3.fr/~torre/Enseignement/Cours/javascript.php)
@@ -97,11 +101,12 @@
 - [Vive-les](http://www.vive-les-maths.net/site/cours/PythonJavascript.pdf)
 - [Gchagnon](http://www.gchagnon.fr/cours/dhtml/)
 - [HTML et Javascript](https://hal.archives-ouvertes.fr/file/index/docid/1356/filename/HTML-JS.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [HTML5book](https://html5book.ru/osnovy-javascript/)
 - [Metanit](https://metanit.com/web/javascript/)
 - [Wisdom Web](http://www.wisdomweb.ru/JS/javascript-first.php)
@@ -112,21 +117,23 @@
 - [Ep-z](http://ep-z.ru/stroitelstvo/sayt/javascript)
 - [Labs](http://labs.org.ru/javascript-1/)
 - [Professorweb](https://professorweb.ru/my/javascript/js_theory/level1/javascript_index.php)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Html.it](https://www.html.it/guide/guida-javascript-di-base/)
 - [Grimaldi](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf)
 - [DispensaJS](http://www.di.unipi.it/~occhiuto/DispensaJS.pdf)
 - [Programmazione](http://pages.di.unipi.it/ambriola/PW/2018_06_12Programmazione_8.0.pdf)
 - [Javascript Programmazione](http://wwwcdf.pd.infn.it/AppuntiLinux/javascript_esempi_di_programmazione.htm)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Devmedia](https://www.devmedia.com.br/guia/javascript/34372)
 - [Criarweb](http://www.criarweb.com/manual/javascript/)
 - [Tableless](http://tableless.github.io/iniciantes/manual/js/)
@@ -139,5 +146,4 @@
 - [UFES](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20172-seminario-javascript.pdf)
 - [Profsalu](https://profsalu.files.wordpress.com/2014/11/k19-k02-desenvolvimento-web-com-html-css-e-javascript.pdf)
 - [Argonavis](http://www.argonavis.com.br/cursos/web/w600/JavaScript_1ed_4v.pdf)
-
----------------------------------------
+</details>

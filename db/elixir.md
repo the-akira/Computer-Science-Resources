@@ -1,7 +1,9 @@
 # Elixir
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Elixir Introduction](https://elixir-lang.org/getting-started/introduction.html)
 - [Wikipedia](https://en.wikipedia.org/wiki/Elixir_(programming_language))
 - [Elixir Programming](https://mlsdev.com/blog/elixir-programming-facts-to-know-for-better-app-development)
@@ -35,40 +37,43 @@
 - [Elixir in One Video](https://www.youtube.com/watch?v=pBNOavRoNL0)
 - [Elixir Video Series](https://www.youtube.com/watch?v=R8CeZazrDHo&amp;list=PLJbE2Yu2zumAgKjSPyFtvYjP5LqgzafQq)
 - [Elixir](https://github.com/ohashijr/elixir)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Elixir – aprendendo uma linguagem funcional](https://www.lambda3.com.br/2016/06/elixir-aprendendo-uma-linguagem-funcional/)
 - [ELIXIR: uma linguagem de programação brasileira](http://www.each.usp.br/petsi/jornal/?p=2459)
 - [O Case da Plataformatec com o Elixir](https://qconsp.com/sp2018/system/files/presentation-slides/qcon_sp_2018_-_hugo_barauna_-_plataformatec.pdf)
 - [Elixir 1.0 + Phoenix Framework](http://www.akitaonrails.com/2015/06/02/primeiros-passos-elixir-1-0-phoenix-framework-0-13)
 - [O Uso do Elixir para a Construção...](http://www.cin.ufpe.br/~tg/2016-1/mmfrb.pdf)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Codigo Facilito](https://codigofacilito.com/articulos/elixir)
 - [Elixir, programación funcional para todos](https://www.genbeta.com/desarrollo/elixir-programacion-funcional-para-todos)
 - [Aprendiendo Elixir](http://rchavarria.github.io/blog/2016/01/17/aprendiendo-elixir/)
 - [Que és Elixir?](https://jpyamamoto.com/blog/posts/que-es-elixir/)
 - [Introduction to Elixir](http://club.hackbu.org/demo/elixir/elixir-intro.html)
 - [Riptutorial](https://riptutorial.com/es/elixir/topic/954/empezando-con-elixir-language)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Introduction à Elixir](https://www.synbioz.com/blog/introduction_a_elixir)
 - [Lkdjiin](http://lkdjiin.github.io/blog/categories/elixir/)
 - [Elixir (Langage de Programmation)](http://boowiki.info/art/les-langages-de-script/elixir-langage-de-programmation.html)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Pattern Matching in Elixir](https://funktionale-programmierung.de/2018/06/05/elixir-pattern-matching.html)
-
----------------------------------------
+</details>

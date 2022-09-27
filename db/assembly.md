@@ -1,7 +1,9 @@
 # Assembly
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Awesome asm](https://github.com/jaspergould/awesome-asm)
 - [Wikipedia Assembly Language](https://en.wikipedia.org/wiki/Assembly_language)
 - [Tutorialspoint Assembly](https://www.tutorialspoint.com/assembly_programming/)
@@ -70,30 +72,33 @@
 - [Intro to Assembly](https://www.youtube.com/watch?v=H4Z0S9ZbC0g&amp;list=PL6y3-kASCE338MJ1tIGF-qmuGQqZMWUMz)
 - [Assembly Language & Computer Architecture](https://www.youtube.com/watch?v=L1ung0wil9Y&ab_channel=MITOpenCourseWare)
 - [Getting Started with Assembly](https://riptutorial.com/assembly)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Programación en Ensamblador](https://www.exabyteinformatica.com/uoc/Informatica/Estructura_de_computadores/Estructura_de_computadores_(Modulo_6).pdf)
 - [Instrucciones en Ensamblador](http://www.sc.ehu.es/sbweb/webcentro/automatica/web_8051/Contenido/set_8051/set8051.htm)
 - [El Ensamblador](https://upcommons.upc.edu/bitstream/handle/2117/115067/asm.pdf)
 - [Programación en Ensamblador](http://www.dacya.ucm.es/hidalgo/estructura/ensamblador.pdf)
 - [Programación en Assembler](http://curso-cm.speccy.org/fr_cap4.html)
 - [Ensamblador Conceptos Básicos](https://previa.uclm.es/profesorado/licesio/Docencia/ETC/17_CBas-ProgEnsamblador_itis.pdf)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Assembly Iniciante](http://www.avr-asm-download.de/beginner_pt.pdf)
 - [Introdução à Programção em Assembly](https://fenix.tecnico.ulisboa.pt/downloadFile/1970943312312149/3-intro-assembly.pdf)
 - [Linguagem Assembly](http://www.dca.fee.unicamp.br/~leopini/DISCIPLINAS/EA869/2018-1/c3-ARM-3.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Programmation en Assembleur](http://www.fsr.ac.ma/cours/informatique/amrani/archi.pdf)
 - [Assembleur](https://repo.zenk-security.com/Programmation/initiation%20a%20la%20programmation%20en%20assembleur.pdf)
 - [Programmation en Assembleur](http://www.technologuepro.com/microprocesseur/programmation-assembleur-microprocesseur.htm)
@@ -103,11 +108,12 @@
 - [Architecture et Langage Assembleur](http://www-lisic.univ-littoral.fr/~ramat/downloads/archi.pdf)
 - [Initiation à l'assembleur](http://www2.ift.ulaval.ca/~marchand/ift17583/Supplement2.pdf)
 - [Assembleur x86](http://ecariou.perso.univ-pau.fr/cours/archi/cours-8-assembleur.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Programmazione Assembly](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.5365&amp;rep=rep1&amp;type=pdf)
 - [Programmazione Assembly](https://home.deib.polimi.it/brandole/acsocr/L14%20-%20Assembly%20Programming.pdf)
 - [La CPU Intel 8086: Architettura e Programmazione Assembly](http://www.ce.unipr.it/didattica/calcolatoriA/free-docs/lucidi.pdf)
@@ -115,23 +121,24 @@
 - [La Programmazione Assembly](https://www.docenti.unina.it/webdocenti-be/allegati/materiale-didattico/73771)
 - [Assembly](https://users.dimi.uniud.it/~pietro.digianantonio/architetturaInf/lucidi_4x/07_arm.pdf)
 - [Programmare in Assembly in GNU/Linux](http://linuxdidattica.org/docs/altre_scuole/planck/assembly-linux/assembly-linux.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Assembly Language](http://en.academic.ru/dic.nsf/enwiki/446)
 - [Assembly](https://habr.com/post/345748/)
 - [Assembly Programming](http://natalia.appmat.ru/c%26c%2B%2B/assembler.html)
 - [Get Started with Assembly](http://rus-linux.net/MyLDP/algol/get_started_with_assembly_language_1.html)
 - [Assembler](http://progopedia.ru/language/assembler/)
 - [ASM](https://prog-cpp.ru/asm/)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Linux Assembler](http://www.lcs-chemie.de/assemb.htm)
 - [Assembler](http://assembler.hpfsc.de/)
-
----------------------------------------
+</details>

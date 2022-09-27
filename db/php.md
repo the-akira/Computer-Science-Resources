@@ -1,7 +1,9 @@
 # PHP
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
 - [PHP Libhunt](https://php.libhunt.com/)
 - [PHP the Right Way](https://phptherightway.com/)
@@ -53,11 +55,12 @@
 - [PHP Front to Back](https://www.youtube.com/watch?v=oJbfyzaA2QA&amp;list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
 - [PHP Tutorials](https://www.youtube.com/watch?v=95RU58kZlbc&amp;list=PLONQt8bJdq9ayhjJkDsNcNTzUgYg_yG-U)
 - [PHP For Absolute Beginners | 6.5 Hour Course](https://www.youtube.com/watch?v=2eebptXfEvw&ab_channel=TraversyMedia)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Curso de PHP 7](https://www.youtube.com/watch?v=XwpsxPmQN2E&amp;list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq)
 - [Curso de PHP](https://www.youtube.com/watch?v=R_yRrYUHai0&amp;list=PLesCEcYj003TrV2MvUOnmVtMdgIp0C4Pd)
 - [Guia Básico](https://www.hostinger.com.br/tutoriais/o-que-e-php-guia-basico/)
@@ -71,11 +74,12 @@
 - [Curso PHP Web](https://homepages.dcc.ufmg.br/~igor/classes/cursophp/cursophp-aula1.pdf)
 - [PHP com MySQL](http://www.cin.ufpe.br/~ags/2464_php_com_mysql.pdf)
 - [Curso de PHP para Iniciantes](https://www.youtube.com/watch?v=F7KzJ7e6EAc&amp;list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [PHP Cours](http://www.lephpfacile.com/cours/)
 - [PHP La Bonne Pratique](https://php.developpez.com/tutoriels/php-la-bonne-pratique/)
 - [PHP Intro](https://tecfa.unige.ch/guides/tie/html/php-intro/php-intro-1.html)
@@ -87,11 +91,12 @@
 - [PHP et MySQL](http://webapps.fundp.ac.be/cefis/publications/etienne/PHP.pdf)
 - [Programmer en PHP](https://caron.ws/data/livre/PHP_v1.pdf)
 - [Apprendre PHP](https://repo.zenk-security.com/Programmation/PHP_Pour_les_Nuls_SiteDuZero.pdf)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Artículos PHP](https://programacion.net/php)
 - [Programación PHP](https://media.readthedocs.org/pdf/programacion-php/latest/programacion-php.pdf)
 - [Programación PHP Ejemplos](http://servicio.uca.es/softwarelibre/publicaciones/apuntes_php)
@@ -101,11 +106,12 @@
 - [Desarrollo PHP](http://www.lsi.us.es/cursos/cursophp/apuntes/tema1.pdf)
 - [Programación en PHP](https://upload.wikimedia.org/wikipedia/commons/d/d2/Programaci%C3%B3n_en_PHP.pdf)
 - [Programación en PHP](http://administraciondesistemas.pbworks.com/f/Manual_PHP5_Basico.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Programmazione PHP](https://library.weschool.com/lezioni/internet-e-informatica/programmazione/php)
 - [Linguaggio PHP](http://pages.di.unipi.it/milazzo/teaching/AA1011-LabBD/PHP-ParteI.pdf)
 - [Corso di PHP](http://www.bassi.gov.it/documents/MLUNARDI/php.pdf)
@@ -114,11 +120,12 @@
 - [Programmazione lato server](http://www.itistulliobuzzi.it/informatica/sistemi/5h/Il%20PHP.pdf)
 - [PHP e Javascript](http://www.francescofiora.it/doc/Programmare_Applicativi_Web_in_PHP_e_Javascript.pdf)
 - [Il Linguaggio PHP](http://www.dis.uniroma1.it/~mecella/didattica/2012/PAS/Slides/11__PHP.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [PHP Tutorial](https://webformyself.com/30-luchshix-priemov-php-dlya-nachinayushhix/)
 - [Code.mu](http://code.mu/books/php/base/osnovy-yazyka-php-dlya-novichkov.html)
 - [Codingcraft](http://codingcraft.ru/php.php)
@@ -126,15 +133,15 @@
 - [HTMLWeb](https://htmlweb.ru/php/php1.php)
 - [PHP.su](http://www.php.su/)
 - [PHP Manual](https://php.ru/manual/)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [PHP-Kurs](https://www.php-kurs.com/anwendungen-php.htm)
 - [PHP-Einfach](https://www.php-einfach.de/)
 - [PHP-Programmierung](http://algo.informatik.uni-freiburg.de/mitarbeiter/hermann/projects/sommercampus2006/phpkurs_beg.pdf)
 - [PHP Einfach](https://www.php-einfach.de/php-tutorial/)
 - [PHP Tutorial](https://wiki.selfhtml.org/wiki/PHP)
-
----------------------------------------
+</details>

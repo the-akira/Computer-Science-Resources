@@ -1,7 +1,9 @@
 # Operating Systems
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [How Stuff Works](https://computer.howstuffworks.com/operating-system.htm)
 - [Tutorialspoint](https://www.tutorialspoint.com/operating_system/os_overview.htm)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/operating-system-introduction-operating-system-set-1/)
@@ -70,11 +72,12 @@
 - [Linux Course](https://www.youtube.com/watch?v=bju_FdCo42w&amp;list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
 - [Linux File System/Structure Explained](https://www.youtube.com/watch?v=HbgzrKJvDRw)
 - [Linux for Programmers](https://www.youtube.com/watch?v=ebHX9c75H8I&list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h&ab_channel=TechWithTim)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [UNIVESP](https://www.youtube.com/watch?v=Rl6HhDvW984&amp;list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw)
 - [Wikibooks](https://pt.wikibooks.org/wiki/Sistemas_operacionais)
 - [Aula 1](https://docente.ifrn.edu.br/igoralves/informatica-basica/sistemas-operacionais-1)
@@ -95,11 +98,12 @@
 - [Evolução dos Sistemas Operacionais](http://www-di.inf.puc-rio.br/~endler/courses/inf1019/transp/aulas-teoricas/cap-1-historia.pdf)
 - [Introdução aos Sistemas Operacionais](https://www.ime.usp.br/~adao/sos2y.pdf)
 - [Apostila de Linux](https://www.inf.ufpr.br/cursos/ci055/linux.pdf)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [El Sistema Operativo](https://tecnologia-informatica.com/el-sistema-operativo/)
 - [Sistema Operativo](https://www.ecured.cu/Sistema_operativo)
 - [Sistemas Operativos Book](https://es.wikibooks.org/wiki/Sistemas_operativos/Texto_completo)
@@ -110,11 +114,12 @@
 - [Unidade I Sistemas Operativos](http://www.unistmo.edu.mx/~jjap/so1415b_u1.pdf)
 - [Conceptos Generales](https://www2.infor.uva.es/~fjgonzalez/apuntes/Tema_1_Introduccion.pdf)
 - [Tema 3 Sistemas Operativos](https://www.unirioja.es/cu/jearansa/1112/ficheros/Tema_3IN.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [FR Wikibooks](https://fr.wikibooks.org/wiki/Les_syst%C3%A8mes_d%27exploitation)
 - [SysIntro](https://web.maths.unsw.edu.au/~lafaye/CCM/systemes/sysintro.htm)
 - [Système d’exploitation](https://rmdiscala.developpez.com/cours/LesChapitres.html/Cours1/Chap1.6.htm)
@@ -125,11 +130,12 @@
 - [Généralités](http://www.univ-tebessa.dz/fichiers/master/master_1668.pdf)
 - [Liste](https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation)
 - [Initiation](http://www-lisic.univ-littoral.fr/~poty/Files/CM2_SE_Linux.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Unibo](http://www.cs.unibo.it/~renzo/so/docs.shtml)
 - [Unipd](http://www.math.unipd.it/~cpalazzi/sistemioperativi.html)
 - [Unimi](https://pong.di.unimi.it/teaching/os)
@@ -141,11 +147,12 @@
 - [Università di Pisa](http://vecchio.iet.unipi.it/se/files/2017/02/01-Organizzazione-new.pdf)
 - [File System](http://wwwinfo.deis.unical.it/~talia/aa0203/sisop/lezione8.pdf)
 - [Gestione Della Memoria](http://wwwinfo.deis.unical.it/~talia/aa0203/sisop/lezione7.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [Betriebssysteme](https://ti.tuwien.ac.at/cps/teaching/courses/osvo/bs-folien/bs01_os-overview.pdf)
 - [Book](http://lsw.ee.hm.edu/~thomas/Vorlesung/VBS/vbs_all.pdf)
 - [Skript](http://www.drhellberg.de/Aktuelles%20Beratung%20Hannover/Betriebssysteme_Skript.pdf)
@@ -153,13 +160,13 @@
 - [Grundlagen](https://kobra.uni-kassel.de/bitstream/handle/123456789/2015040147890/BS_Skript.pdf)
 - [OS Intro](http://www.inf.fu-berlin.de/lehre/WS11/OS/slides/OS_V1_Introduction_.pdf)
 - [Tanenbaum](http://math.kubsu.ru/Debian_Tanenbaum.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [OS-RU](https://vseloved.github.io/pdf/os-ru.pdf)
 - [OS Intro](http://www.stolyarov.info/books/pdf/osintro.pdf)
 - [Lecture 1](http://unesco.kemsu.ru/study_work/method/OS_DO/lect_1.pdf)
-
----------------------------------------
+</details>

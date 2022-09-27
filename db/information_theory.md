@@ -1,7 +1,9 @@
 # Information Theory
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Wikipedia](https://en.wikipedia.org/wiki/Information_theory)
 - [Information Theory MIT](https://web.mit.edu/6.933/www/Fall2001/Shannon2.pdf)
 - [Encyclopedia Britannica](https://www.britannica.com/science/information-theory)
@@ -63,11 +65,12 @@
 - [Information Theory & Coding](https://www.youtube.com/watch?v=Lto-ajuqW3w&amp;list=PLzH6n4zXuckpKAj1_88VS-8Z6yn9zX_P6)
 - [Episode 2: Information Theory](https://www.youtube.com/watch?v=69-YUSazuic&amp;list=PLbg3ZX2pWlgKDVFNwn9B63UhYJVIerzHL)
 - [The Great Papers: Information Theory](https://www.youtube.com/watch?v=B0ZcAWEvjCA&amp;list=PLbg3ZX2pWlgJOTf5YXNq-rdXXuUkJTXHm)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Teoria da Informação, Rodrigo Pavão](http://www.ib.usp.br/~rpavao/Teoria_da_Informacao.pdf)
 - [Apontamentos de Teoria da Informação](http://arquivoescolar.org/bitstream/arquivo-e/132/5/cap1.pdf)
 - [Introdução à Teoria da Informação](http://www.di.ufpb.br/leonardo/iti/ITI2004.pdf)
@@ -78,11 +81,12 @@
 - [Unisinos Teoria da Informação](http://professor.unisinos.br/linds/teoinfo.html#a1)
 - [Fundamentos de Comunicação de Informação](http://srvd.grupoa.com.br/uploads/imagensExtra/legado/R/ROCHOL_Juergen/Comunicacao_Dados_Vol22/Liberado/Cap_01.pdf)
 - [Apostila Teoria da Informação](https://www.ft.unicamp.br/~leobravo/TT%20081/apostila1.pdf)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Teoría de la Información](https://www.ecured.cu/Teor%C3%ADa_de_la_informaci%C3%B3n)
 - [Teoría de la Información de Claude E. Shannon](http://dia.austral.edu.ar/Teor%C3%ADa_de_la_informaci%C3%B3n_de_Claude_E._Shannon)
 - [Teoría de la Información](https://cs.uns.edu.ar/~ldm/mypage/data/ss/info/teoria_de_la_informacion2.pdf)
@@ -91,11 +95,12 @@
 - [Teoría de la Información y Codificación](http://www.investigo.biblioteca.uvigo.es/xmlui/bitstream/handle/11093/188/mybook.pdf)
 - [Teoria de la Comunicación](https://lideresdeizquierdaprd.files.wordpress.com/2015/11/teoria-de-la-comunicacion-libro_.pdf)
 - [Teorías de la Comunicación](http://www.aliat.org.mx/BibliotecasDigitales/comunicacion/Teorias_de_la%20_comunciacion.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Introduction à la Théorie de L'Information](https://www.rocq.inria.fr/secret/Nicolas.Sendrier/thinfo.pdf)
 - [Théorie de L'Information](https://members.loria.fr/MMinier/static/images/Th_Info.pdf)
 - [Introduction à la Théorie de L'Information](http://laris.univ-angers.fr/_resources/logo/seminaire_Rousseau_23042002.pdf)
@@ -106,11 +111,12 @@
 - [Théorie de L'Information et Applications](http://dev.ipol.im/~morel/TraitementSignal.pdf)
 - [Théorie de L'Information](http://ama.liglab.fr/~amini/Cours/ISN/ISN2/TheorieInfo-2.pdf)
 - [Théorie de L'Information et du Codage](http://www.montefiore.ulg.ac.be/~lwh/Info/info-notes03.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Teoria Dell'Informazione](http://www.ing.unitn.it/~melganif/PDF/tx-num3.pdf)
 - [Teoria Dell'Informazione](https://www.sci.unich.it/~acciaro/librocb.pdf)
 - [Teoria Dell'Informazione e Della Transmissione](https://homes.di.unimi.it/~cesabian/tinfo/)
@@ -121,11 +127,12 @@
 - [STII/Teoria Dell'Informazione](http://www.di-srv.unisa.it/professori/lg/IT/SLIDES/Lez1.pdf)
 - [Elementi di Teoria Dell'Informazione](http://www.uniroma2.it/didattica/WmIR/deposito/infth.pdf)
 - [La Codifica Dell'Informazione](http://www.di.unito.it/~patti/teaching/CodificaInfo1-0405.pdf)
+</details>
 
----------------------------------------
-
-![DE](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/GERMANY.png)
-
+<details>
+  <summary>German</summary>
+  
+  ### Materials
 - [ETH Zürich, Informationstheorie](https://ml2.inf.ethz.ch/courses/it/)
 - [Information und Kommunikation](https://graphics.ethz.ch/teaching/infotheory_common/skript.pdf)
 - [Informationstheorie](https://www.ti.rwth-aachen.de/teaching/sonstige_vorlesungen/informationstheorie/data/it.pdf)
@@ -133,11 +140,12 @@
 - [Mathematische Grundlagen III](http://www.coli.uni-saarland.de/courses/mathe3/SS11/Lectures/l4_info_thy.pdf)
 - [Informationstheorie Universität Salzburg](https://www.uni-salzburg.at/fileadmin/oracle_file_imports/556438.PDF)
 - [Eine Einführung in die Algorithmische Informationstheorie](https://pub.h-brs.de/frontdoor/deliver/index/docId/3668/file/brsu_techreport_02_2018_Witt_pdf1-4.pdf)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Teoria Informacii](https://www.mccme.ru/free-books/izdano/2004/it2004p1.pdf)
 - [Article](http://ict.edu.ru/ft/000004//1.pdf)
 - [Fundamentals of Information Theory & Coding](http://miigaik.ru/vtiaoai/tutorials/10.pdf)
@@ -145,5 +153,4 @@
 - [AI-News Articles](http://ai-news.ru/teoriya_informacii.html)
 - [Lectures Theory of Information](http://window.edu.ru/resource/553/72553/files/teoria_informacii.pdf)
 - [Information Theory Book](http://cyber.sibsutis.ru:82/%D0%A1%D0%9F%D0%98/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F%20%D1%87%D0%B0%D1%81%D1%82%D1%8C/%D0%94%D1%83%D1%85%D0%B8%D0%BD%20%D0%90.%D0%90%20-%20%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8.pdf)
-
----------------------------------------
+</details>

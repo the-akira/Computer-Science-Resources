@@ -1,7 +1,9 @@
 # Social Engineering
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [WebRoot](https://www.webroot.com/us/en/resources/tips-articles/what-is-social-engineering)
 - [Wikipedia](https://en.wikipedia.org/wiki/Social_engineering_(security))
 - [Kaspersky](https://usa.kaspersky.com/resource-center/definitions/social-engineering)
@@ -27,11 +29,12 @@
 - [Defcon 21](https://www.youtube.com/watch?v=1kkOKvPrdZ4)
 - [SE Explained](https://www.youtube.com/watch?v=r3qDA8AUy8U)
 - [Human Resources SE](https://www.youtube.com/watch?v=1pCigAw2-0g)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Técnicas de Engenharia Social](http://cio.com.br/tecnologia/2017/04/09/conheca-seis-das-tecnicas-de-engenharia-social-muito-eficazes/)
 - [Conceitos](https://www.gestaodesegurancaprivada.com.br/engenharia-social-o-que-e-conceitos/)
 - [Guia do Hacker](https://pt.wikibooks.org/wiki/Guia_do_hacker/Engenharia_social)
@@ -41,11 +44,12 @@
 - [Ataques de ES](https://repositorio.ucp.pt/bitstream/10400.14/15690/1/Tese%20de%20Mestrado%20-%20Engenharia%20Social.pdf)
 - [Conceitos e Vertentes](http://memoria.rnp.br/_arquivo/disi2005/salgado-bruno_engenharia-social.pdf)
 - [Bradesco Segurança](https://www.bradescoseguranca.com.br/assets/pf/pdf/guias/cartilha-engenharia-social.pdf)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Gcfglobal](https://edu.gcfglobal.org/es/seguridad-en-internet/la-ingenieria-social/1/)
 - [Ecured](https://www.ecured.cu/Ingenier%C3%ADa_social)
 - [Revista Seguridad](https://revista.seguridad.unam.mx/numero-10/ingenier%C3%AD-social-corrompiendo-la-mente-humana)
@@ -58,25 +62,26 @@
 - [Ingeniería Social](https://www.tlm.unavarra.es/pluginfile.php/11615/mod_resource/content/0/clases/11_SSI-socialeng.pdf)
 - [El Arte del Engano](http://www.seaceptanideas.com/biblio/El_Arte_del_Enga%C3%B1o.pdf)
 - [Cybercamp](https://cybercamp.es/cybercamp2014/attachments/multimedia/CyberCamp_IngenieriaSocial.pdf)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Università di Bologna](https://amslaurea.unibo.it/2701/1/melis_andrea_tesi.pdf)
 - [IngSoc: il Fattore Umano](https://under12oot.noblogs.org/files/2014/02/IngSoc.pdf)
 - [Ingegneria Sociale e Psicologia](http://www.greatstoriesofthebible.net/ingegneria_sociale_e_psicologia.pdf)
 - [Ingegneria Sociale](http://www.erick-simionato.it/documenti/Ingegneria%20Sociale.pdf)
 - [L'Ingegneria Sociale](https://culturamblog.files.wordpress.com/2015/04/tesina_ingegneria_sociale_completa2.pdf)
 - [Hacktips](https://hacktips.it/ingegneria-sociale/)
+</details>
 
----------------------------------------
-
-![RU](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/RU.png)
-
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
 - [Xakep](https://xakep.ru/2018/05/17/social-engineering/)
 - [The Brain Hack](https://medium.com/@Emisare/socialnaya-ingeneria-9f16e0ba7fa5)
 - [Anti-malware](https://www.anti-malware.ru/threats/social-engineering)
 - [Noosfera](http://noosfera.su/social-engineering/)
-
----------------------------------------
+</details>

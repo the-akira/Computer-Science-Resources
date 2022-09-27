@@ -1,7 +1,9 @@
 # Reverse Engineering
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Reverse Engineering - Wikipedia](https://en.wikipedia.org/wiki/Reverse_engineering)
 - [Reddit](https://www.reddit.com/r/ReverseEngineering/)
 - [Beginners RE](https://beginners.re/)
@@ -44,20 +46,22 @@
 - [John Hammond](https://www.youtube.com/watch?v=xnGNStPg4GI&amp;list=PL1H1sBF1VAKXYkYf20zni60THPxkbSC8i)
 - [Reversing for Newbies](https://www.youtube.com/watch?v=wqzZB31zDSs&amp;list=PLcFUp5WYCxVYeR7AgsmjzGW6PjamaY6JO)
 - [Reverse Engineering Basics](https://www.youtube.com/watch?v=a2EkORFcSZo)
+</details>
 
----------------------------------------
-
-![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
-
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
 - [Curso de Engenharia Reversa Online](https://www.youtube.com/watch?v=IkUfXfnnKH4&amp;list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA)
 - [Apresentação ER](http://www2.ic.uff.br/~otton/graduacao/informaticaI/apresentacoes/eng_reversa.pdf)
 - [Mente Binária Fórum](https://www.mentebinaria.com.br/forums/forum/6-engenharia-reversa/)
 - [ER o início de uma grande aventura](https://medium.com/@leonardomarciano/engenharia-reversa-1-in%C3%ADcio-de-uma-grande-aventura-9526447ee50e)
+</details>
 
----------------------------------------
-
-![ES](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/SPAIN.png)
-
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
 - [Ingeniería inversa de software](http://ccom.uprrp.edu/~rarce/ccom4995/gitbook/_book/index.html)
 - [underc0de forum](https://underc0de.org/foro/ingenieria-inversa/)
 - [PFM Ingeniería inversa](http://www.adminso.es/recursos/Proyectos/PFM/2014_15/PFM_ingenieria_inversa/PFM_ingenieria_inversa.pdf)
@@ -65,19 +69,20 @@
 - [Fundamentos RE](http://www.joxeankoret.com/download/fundamentos_re.pdf)
 - [Ingeniería Inversa para Principiantes](https://yurichev.com/tmp/RE4B-ES.pdf)
 - [Introduccion Reversing](https://www.fwhibbit.es/introduccion-reversing-0x00-introduccion)
+</details>
 
----------------------------------------
-
-![IT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/ITALY.png)
-
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
 - [Cos'è il Reverse Engineering](https://www.scribd.com/document/334772815/TUTORIAL-1-Cos-e-il-Reverse-Engineering)
 - [Reverse Engineering](http://people.unica.it/giorgiogiacinto/files/2016/05/14.ReverseEngineering.pdf)
+</details>
 
----------------------------------------
-
-![FR](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/FR.png)
-
+<details>
+  <summary>French</summary>
+  
+  ### Materials
 - [Python Reverse Engineering](https://dsec.ru/wp-content/uploads/pdf-dsec-old/7d5/7d5e8a49b25b285b37800480a41583f8.pdf)
 - [Introduction au reverse engineering avec Radare2](https://jugulaire.github.io/Reverse_engineering_1/)
-
----------------------------------------
+</details>
