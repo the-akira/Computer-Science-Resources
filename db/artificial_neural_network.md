@@ -1,7 +1,9 @@
 # Artificial Neural Networks
 
-![EN](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/UK.png)
-
+<details>
+  <summary>English</summary>
+  
+  ### Materials
 - [Artificial Neuron](https://en.wikipedia.org/wiki/Artificial_neuron)
 - [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
 - [Intro to Deep Learning - Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning)
@@ -103,8 +105,7 @@
 - [Neural Networks from Scratch](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 - [New York University Deep Learning 2020](https://www.youtube.com/playlist?list=PLderfcX9H9MqVNCMRnZEjP4-ajPm2hEFa)
 - [DeepMind x UCL | Intro to Machine Learning & AI](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
-
----------------------------------------
+</details>
 
 ![PT](https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/flags/PT.png)
 
