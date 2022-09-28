@@ -20,8 +20,6 @@
   ### Materials
 - [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
 - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
-- [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
-- [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
 - [arXiv - Data Structures and Algorithms](https://arxiv.org/list/cs.DS/recent)
 - [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 - [Sorting Algorithms](https://www.interviewbit.com/tutorial/sorting-algorithms/)
