@@ -114,35 +114,6 @@
 </details>
 
 <details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [Aprendizado de Máquina UFF](http://www.ic.uff.br/~bianca/aa/)
-- [Aprendizado de Máquina UFMG](http://www.est.ufmg.br/~marcosop/est171-ML/index.htm)
-- [Introdução](http://www.inf.ufpr.br/lesoliveira/aprendizado/introducao.pdf)
-- [AM Introdução](http://www.ppgia.pucpr.br/~alekoe/AM/2007/1-Introducao-ApreMaq-2007.pdf)
-- [AM usando Python](http://thiagomarzagao.com/assets/teaching/ipea/slides1.pdf)
-- [Machine learning e alguns exemplos de aplicação em dados astronômicos](http://www.astro.iag.usp.br/~astro12h/files/2018/0305.pdf)
-- [Desmistificando a Inteligência Artificial](https://www.youtube.com/watch?v=c8C_EJcZbdU)
-</details>
-
-<details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Introducción](http://www.cs.us.es/~fsancho/?e=75)
-- [Tipos de aprendizaje automático](https://medium.com/soldai/tipos-de-aprendizaje-autom%C3%A1tico-6413e3c615e2)
-- [Aprendizaje Automático](http://www.lsi.upc.es/~bejar/ia/transpas/teoria/6-AP-aprendizaje.pdf)
-- [Aprendizaje Automático Book](https://upcommons.upc.edu/bitstream/handle/2099.3/36157/9788483019962.pdf)
-- [Introdución AA](http://habla.dc.uba.ar/gravano/ith-2014/09-aprendizaje-automatico.pdf)
-- [Métodos y Aplicaciones](http://www.eui.uva.es/doc/anuncios/curso.2013.2014/aprendizajeAutomatico.pdf)
-- [Aprendizaje Profundo](https://ccc.inaoep.mx/~pgomez/conferences/PggTSys16.pdf)
-- [ML Introducción](https://www.zemsania.com/recursos-zemsania/whitepapers/DTS/Machine_learning.pdf)
-- [Fundamentos de AA](http://www.famaf.proed.unc.edu.ar/pluginfile.php/19002/mod_resource/content/2/01.introduccion.pdf)
-- [Intro al AA](http://ocw.uc3m.es/ingenieria-informatica/herramientas-de-la-inteligencia-artificial/contenidos/transparencias/MDWEBHIA-clase.pdf)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -155,18 +126,6 @@
 - [Exemples](https://www.irisa.fr/symbiose/people/fcoste/data/ens/bioinfo/Induction/InductionModeles2pp.pdf)
 - [Cours](http://www.grappa.univ-lille3.fr/~torre/Enseignement/Cours/Apprentissage-Automatique/)
 - [Univ-Lyon](http://eric.univ-lyon2.fr/~jahpine/cours/m2_dm-ml/cm.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [Machine Learning It](http://www.intelligenzaartificiale.it/machine-learning/)
-- [Wikibooks](https://it.wikibooks.org/wiki/Intelligenza_artificiale/Apprendimento_automatico)
-- [Politecnico Milano](https://home.deib.polimi.it/lanzi/msi/gray/Unit%2001%20-%20Apprendimento%20automatico.pdf)
-- [Introduzione](http://www.uniroma2.it/didattica/MGRI/deposito/ml_intro.pdf)
-- [Leziones](https://www.math.unipd.it/~aiolli/corsi/1516/aa/)
-- [AA Introduzione](http://twiki.di.uniroma1.it/pub/ApprAuto/AnnoAcc0708/1Intro.pdf)
 </details>
 
 <details>
@@ -185,6 +144,31 @@
 </details>
 
 <details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [Machine Learning It](http://www.intelligenzaartificiale.it/machine-learning/)
+- [Wikibooks](https://it.wikibooks.org/wiki/Intelligenza_artificiale/Apprendimento_automatico)
+- [Politecnico Milano](https://home.deib.polimi.it/lanzi/msi/gray/Unit%2001%20-%20Apprendimento%20automatico.pdf)
+- [Introduzione](http://www.uniroma2.it/didattica/MGRI/deposito/ml_intro.pdf)
+- [Leziones](https://www.math.unipd.it/~aiolli/corsi/1516/aa/)
+- [AA Introduzione](http://twiki.di.uniroma1.it/pub/ApprAuto/AnnoAcc0708/1Intro.pdf)
+</details>
+
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
+- [Aprendizado de Máquina UFF](http://www.ic.uff.br/~bianca/aa/)
+- [Aprendizado de Máquina UFMG](http://www.est.ufmg.br/~marcosop/est171-ML/index.htm)
+- [Introdução](http://www.inf.ufpr.br/lesoliveira/aprendizado/introducao.pdf)
+- [AM Introdução](http://www.ppgia.pucpr.br/~alekoe/AM/2007/1-Introducao-ApreMaq-2007.pdf)
+- [AM usando Python](http://thiagomarzagao.com/assets/teaching/ipea/slides1.pdf)
+- [Machine learning e alguns exemplos de aplicação em dados astronômicos](http://www.astro.iag.usp.br/~astro12h/files/2018/0305.pdf)
+- [Desmistificando a Inteligência Artificial](https://www.youtube.com/watch?v=c8C_EJcZbdU)
+</details>
+
+<details>
   <summary>Russian</summary>
   
   ### Materials
@@ -195,4 +179,20 @@
 - [ML 2015](https://compscicenter.ru/media/slides/machine_learning_1_2015_autumn/2015_09_18_machine_learning_1_2015_autumn.pdf)
 - [FMLDM](https://cs.hse.ru/data/2015/05/25/1096949400/FMLDM.pdf)
 - [Intro](https://logic.pdmi.ras.ru/~sergey/teaching/mlkazan14/01-intro.pdf)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [Introducción](http://www.cs.us.es/~fsancho/?e=75)
+- [Tipos de aprendizaje automático](https://medium.com/soldai/tipos-de-aprendizaje-autom%C3%A1tico-6413e3c615e2)
+- [Aprendizaje Automático](http://www.lsi.upc.es/~bejar/ia/transpas/teoria/6-AP-aprendizaje.pdf)
+- [Aprendizaje Automático Book](https://upcommons.upc.edu/bitstream/handle/2099.3/36157/9788483019962.pdf)
+- [Introdución AA](http://habla.dc.uba.ar/gravano/ith-2014/09-aprendizaje-automatico.pdf)
+- [Métodos y Aplicaciones](http://www.eui.uva.es/doc/anuncios/curso.2013.2014/aprendizajeAutomatico.pdf)
+- [Aprendizaje Profundo](https://ccc.inaoep.mx/~pgomez/conferences/PggTSys16.pdf)
+- [ML Introducción](https://www.zemsania.com/recursos-zemsania/whitepapers/DTS/Machine_learning.pdf)
+- [Fundamentos de AA](http://www.famaf.proed.unc.edu.ar/pluginfile.php/19002/mod_resource/content/2/01.introduccion.pdf)
+- [Intro al AA](http://ocw.uc3m.es/ingenieria-informatica/herramientas-de-la-inteligencia-artificial/contenidos/transparencias/MDWEBHIA-clase.pdf)
 </details>

@@ -54,38 +54,6 @@
 </details>
 
 <details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [Introdução ao Banco de Dados NOSQL](https://www.devmedia.com.br/introducao-aos-bancos-de-dados-nosql/26044)
-- [Banco de Dados Nosql](http://wiki.icmc.usp.br/images/1/18/SCC0542012017noSQL.pdf)
-- [Caelum Blog](http://blog.caelum.com.br/bancos-de-dados-nao-relacionais-e-o-movimento-nosql/)
-- [Nosql Visão Geral](https://imasters.com.br/banco-de-dados/bancos-de-dados-nosql-uma-visao-geral)
-- [Mongodb Guia Básico](https://e-tinet.com/linux/mongodb/)
-- [Bancos de Dados NoSQL](http://data.ime.usp.br/sbbd2012/artigos/pdfs/sbbd_min_01.pdf)
-- [Apresentação NoSQL](http://www.pecs.uema.br/wp-content/uploads/2017/05/BDnoSQL.pdf)
-- [Estudo NoSQL](http://bdm.unb.br/bitstream/10483/7927/1/2014_RodrigoCardosoAniceto_ReneFreireXavier.pdf)
-- [SQL x NOSQL](http://www.cin.ufpe.br/~tg/2014-2/mapmf.pdf)
-- [NoSQL uma Breve Introdução](http://cursos.unipampa.edu.br/cursos/engenhariadesoftware/files/2015/10/nosql-palestraSBC.pdf)
-</details>
-
-<details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Qué és una Base de Datos NoSQL](https://blogs.oracle.com/spain/qu-es-una-base-de-datos-nosql)
-- [Guía Definitiva](https://blog.pandorafms.org/es/bases-de-datos-nosql/)
-- [Bases de Datos NOSQL](https://www.acens.com/wp-content/images/2014/02/bbdd-nosql-wp-acens.pdf)
-- [Fundamentos NoSQL](https://www.campusmvp.es/recursos/post/Fundamentos-de-bases-de-datos-NoSQL-MongoDB.aspx)
-- [NoSQL: Arquitectura y Ejemplos](https://e-archivo.uc3m.es/bitstream/handle/10016/22895/PFC_raul_herranz_gomez_2014.pdf)
-- [Base de Datos NoSQL](https://www.tamps.cinvestav.mx/~fpech/ddb/files/slides/nosql.pdf)
-- [Introducción: NOSQL](https://ocw.unican.es/pluginfile.php/2396/course/section/2473/Tema%201.%20NoSQL%20introduccio%CC%81n.pdf)
-- [NoSQL CITIUS](https://citius.usc.es/sites/default/files/formacion/BD&amp;DS_DiegoLopezdeIpina.pdf)
-- [Tesina de Licenciatura](http://sedici.unlp.edu.ar/bitstream/handle/10915/48085/Documento_completo__.pdf?sequence=1)
-- [MongoDB Proyecto](http://informatica.gonzalonazareno.org/proyectos/2013-14/mams.pdf)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -98,6 +66,13 @@
 - [Introduction au NoSQL](https://stph.scenari-community.org/idl-bd/idl-nosql.pdf)
 - [Les Bases de Données NoSQL](https://fc.isima.fr/~lacomme/NoSQL/chapitre_gratuit/chapitre3_apres_fusion.pdf)
 - [L'Avenir du NoSQL](http://www.leonardmeyer.com/wp-content/uploads/2014/06/avenirDuNoSQL.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [DB-Engines](https://db-engines.com/de/article/NoSQL)
 </details>
 
 <details>
@@ -115,10 +90,19 @@
 </details>
 
 <details>
-  <summary>German</summary>
+  <summary>Portuguese</summary>
   
   ### Materials
-- [DB-Engines](https://db-engines.com/de/article/NoSQL)
+- [Introdução ao Banco de Dados NOSQL](https://www.devmedia.com.br/introducao-aos-bancos-de-dados-nosql/26044)
+- [Banco de Dados Nosql](http://wiki.icmc.usp.br/images/1/18/SCC0542012017noSQL.pdf)
+- [Caelum Blog](http://blog.caelum.com.br/bancos-de-dados-nao-relacionais-e-o-movimento-nosql/)
+- [Nosql Visão Geral](https://imasters.com.br/banco-de-dados/bancos-de-dados-nosql-uma-visao-geral)
+- [Mongodb Guia Básico](https://e-tinet.com/linux/mongodb/)
+- [Bancos de Dados NoSQL](http://data.ime.usp.br/sbbd2012/artigos/pdfs/sbbd_min_01.pdf)
+- [Apresentação NoSQL](http://www.pecs.uema.br/wp-content/uploads/2017/05/BDnoSQL.pdf)
+- [Estudo NoSQL](http://bdm.unb.br/bitstream/10483/7927/1/2014_RodrigoCardosoAniceto_ReneFreireXavier.pdf)
+- [SQL x NOSQL](http://www.cin.ufpe.br/~tg/2014-2/mapmf.pdf)
+- [NoSQL uma Breve Introdução](http://cursos.unipampa.edu.br/cursos/engenhariadesoftware/files/2015/10/nosql-palestraSBC.pdf)
 </details>
 
 <details>
@@ -127,4 +111,20 @@
   ### Materials
 - [Devacademy.ru](http://devacademy.ru/posts/nosql/)
 - [SQL vs NoSQL](https://tproger.ru/translations/sql-nosql-database-models/)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [Qué és una Base de Datos NoSQL](https://blogs.oracle.com/spain/qu-es-una-base-de-datos-nosql)
+- [Guía Definitiva](https://blog.pandorafms.org/es/bases-de-datos-nosql/)
+- [Bases de Datos NOSQL](https://www.acens.com/wp-content/images/2014/02/bbdd-nosql-wp-acens.pdf)
+- [Fundamentos NoSQL](https://www.campusmvp.es/recursos/post/Fundamentos-de-bases-de-datos-NoSQL-MongoDB.aspx)
+- [NoSQL: Arquitectura y Ejemplos](https://e-archivo.uc3m.es/bitstream/handle/10016/22895/PFC_raul_herranz_gomez_2014.pdf)
+- [Base de Datos NoSQL](https://www.tamps.cinvestav.mx/~fpech/ddb/files/slides/nosql.pdf)
+- [Introducción: NOSQL](https://ocw.unican.es/pluginfile.php/2396/course/section/2473/Tema%201.%20NoSQL%20introduccio%CC%81n.pdf)
+- [NoSQL CITIUS](https://citius.usc.es/sites/default/files/formacion/BD&amp;DS_DiegoLopezdeIpina.pdf)
+- [Tesina de Licenciatura](http://sedici.unlp.edu.ar/bitstream/handle/10915/48085/Documento_completo__.pdf?sequence=1)
+- [MongoDB Proyecto](http://informatica.gonzalonazareno.org/proyectos/2013-14/mams.pdf)
 </details>

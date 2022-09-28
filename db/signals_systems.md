@@ -68,38 +68,6 @@
 </details>
 
 <details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [Sinais e Sistemas](http://users.isr.ist.utl.pt/~iml/LERCI_&amp;_LEE/ss_10-11_sem2/AULAS_SS_v3.pdf)
-- [Introdução aos Sinais e Sistemas](http://www.univasf.edu.br/~edmar.nascimento/analise/analise_aula03.pdf)
-- [Apostila de Sinais e Sistemas](https://aprender.ead.unb.br/pluginfile.php/170922/mod_resource/content/2/Stelle2005.pdf)
-- [Sinais e Sistemas Capítulo 1](http://srvd.grupoa.com.br/uploads/imagensExtra/legado/L/LATHI_B_P/Sinais_Sistemas_Lineares_2Ed/Liberado/Cap_01.pdf)
-- [Análise de Sinais e Sistemas](http://www.cear.ufpb.br/juan/?page_id=96)
-- [Sistemas e Sinais](http://www.ece.ufrgs.br/~eng04006/apostilas/area1.pdf)
-- [Sinais e Sistemas: Conceitos Básicos](http://www2.fsanet.com.br/Professor/Material/Material-de-Apoio/Fabio-de-Araujo-Leite/Bacharelado-em-Engenharia-Eletrica/Analise-de-Sinais-e-Sistemas/1.-Sinais---Introducao.pdf)
-- [Princípios de Comunicação: Sinais e Sistemas](https://www.feis.unesp.br/Home/departamentos/engenhariaeletrica/optoeletronica/sinais_e_sistemas.pdf)
-- [SS0910](http://users.isr.ist.utl.pt/~jsm/teaching/ss/SS-0910.htm)
-- [Introdução aos Sinais e Sistemas](https://wiki.sj.ifsc.edu.br/wiki/images/2/25/SinaiSistemas.pdf)
-- [Sinais e Sistemas Lineares](http://www.cin.ufpe.br/~dmg/SS-ufpe-aula-02-sinais-e-sistemas.pdf)
-- [Prof. Rafael Beltrame](http://coral.ufsm.br/beltrame/index.php/disciplinas/graduacao/sinais-e-sistemas)
-- [Análise de Sinais](https://www.novaims.unl.pt/vlobo/escola_naval/AnaliseSinais/AnaliseSinais1_2.pdf)
-- [Sinais e Sistemas Segunda Edição](https://www.cefala.org/~adelino/Livros/Oppenheim_2010_Sinais_e_Sistemas_2ed.pdf)
-- [Sinais e Sistemas Discretos](http://www.l2f.inesc-id.pt/~lco/psa0203/pdf/ssd_cop.pdf)
-</details>
-
-<details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Conceptos de Señales y Sistemas](https://www.exabyteinformatica.com/uoc/Audio/Procesamiento_de_audio/Procesamiento_de_audio_(Modulo_1).pdf)
-- [Señales y Sistemas Materiales](https://ocw.unican.es/course/view.php?id=184&amp;section=3)
-- [Señales y Sistemas](http://www.unsam.edu.ar/escuelas/ciencia/alumnos/matematica_guia/apunte2parte.pdf)
-- [Tema I: Señales y Sistemas](http://enrique.sanchez.webs.uvigo.es/PDFs/125_TemaI-Senales.pdf)
-- [Fundamentos de Señales y Sistemas](http://www2.imse-cnm.csic.es/~rafael/SETI/SETI_03_04_transp_Tema_02.pdf)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -113,6 +81,21 @@
 - [Signaux et Systemes](http://www.uqac.ca/ht2bui/6gei500_cours1.pdf)
 - [Modélisation et Analyse des Systèmes](http://www.montefiore.ulg.ac.be/systems/SYST002/syst002-syllabus.pdf)
 - [Traitement de Signal (TS)](http://www.univ-tebessa.dz/fichiers/master/master_973.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Signale und Systeme 1](http://www5.tu-ilmenau.de/nt/de/teachings/vorlesungen/signale1/index.html)
+- [Signale un Systeme](https://www4.fh-swf.de/media/downloads/fbiw/download_5/schulze/susy1/SuSy-Skript-2018-04-03-a.pdf)
+- [Einführung in die Digitale Signalverarbeitung](https://www.ak.tu-berlin.de/fileadmin/a0135/Unterrichtsmaterial/Skripte/EDS_Skript.pdf)
+- [Zeitdiskrete Signale und Systeme](https://www.nt.tuwien.ac.at/wp-content/uploads/2016/01/Doblinger_SuS_3Ed_print.pdf)
+- [Signalverarbeitung](https://www.mb.uni-siegen.de/mrt/lehre/sv/signalverarbeitung-skript.pdf)
+- [Grundlagen der Signalverarbeitung 2](http://eitidaten.fh-pforzheim.de/daten/mitarbeiter/hoeptner/SundS/Skript_Grundlagen_der_Signalverarbeitung_2_v14.pdf)
+- [Musterlösung](http://www.rhodiumtec.de/Download/TIT05NSB/loesungen.pdf)
+- [Etwas Signal und Systemtheorie](http://www.iks.hs-merseburg.de/~tlange/pdf/Etwas%20Signal-%20und%20Systemtheorie.pdf)
+- [Signale und Systeme, Gudrun Flach](https://www.htw-dresden.de/fileadmin/userfiles/et/Personal/Professoren/Flach/SuS_fs/sus_fern_1617.pdf)
 </details>
 
 <details>
@@ -136,18 +119,24 @@
 </details>
 
 <details>
-  <summary>German</summary>
+  <summary>Portuguese</summary>
   
   ### Materials
-- [Signale und Systeme 1](http://www5.tu-ilmenau.de/nt/de/teachings/vorlesungen/signale1/index.html)
-- [Signale un Systeme](https://www4.fh-swf.de/media/downloads/fbiw/download_5/schulze/susy1/SuSy-Skript-2018-04-03-a.pdf)
-- [Einführung in die Digitale Signalverarbeitung](https://www.ak.tu-berlin.de/fileadmin/a0135/Unterrichtsmaterial/Skripte/EDS_Skript.pdf)
-- [Zeitdiskrete Signale und Systeme](https://www.nt.tuwien.ac.at/wp-content/uploads/2016/01/Doblinger_SuS_3Ed_print.pdf)
-- [Signalverarbeitung](https://www.mb.uni-siegen.de/mrt/lehre/sv/signalverarbeitung-skript.pdf)
-- [Grundlagen der Signalverarbeitung 2](http://eitidaten.fh-pforzheim.de/daten/mitarbeiter/hoeptner/SundS/Skript_Grundlagen_der_Signalverarbeitung_2_v14.pdf)
-- [Musterlösung](http://www.rhodiumtec.de/Download/TIT05NSB/loesungen.pdf)
-- [Etwas Signal und Systemtheorie](http://www.iks.hs-merseburg.de/~tlange/pdf/Etwas%20Signal-%20und%20Systemtheorie.pdf)
-- [Signale und Systeme, Gudrun Flach](https://www.htw-dresden.de/fileadmin/userfiles/et/Personal/Professoren/Flach/SuS_fs/sus_fern_1617.pdf)
+- [Sinais e Sistemas](http://users.isr.ist.utl.pt/~iml/LERCI_&amp;_LEE/ss_10-11_sem2/AULAS_SS_v3.pdf)
+- [Introdução aos Sinais e Sistemas](http://www.univasf.edu.br/~edmar.nascimento/analise/analise_aula03.pdf)
+- [Apostila de Sinais e Sistemas](https://aprender.ead.unb.br/pluginfile.php/170922/mod_resource/content/2/Stelle2005.pdf)
+- [Sinais e Sistemas Capítulo 1](http://srvd.grupoa.com.br/uploads/imagensExtra/legado/L/LATHI_B_P/Sinais_Sistemas_Lineares_2Ed/Liberado/Cap_01.pdf)
+- [Análise de Sinais e Sistemas](http://www.cear.ufpb.br/juan/?page_id=96)
+- [Sistemas e Sinais](http://www.ece.ufrgs.br/~eng04006/apostilas/area1.pdf)
+- [Sinais e Sistemas: Conceitos Básicos](http://www2.fsanet.com.br/Professor/Material/Material-de-Apoio/Fabio-de-Araujo-Leite/Bacharelado-em-Engenharia-Eletrica/Analise-de-Sinais-e-Sistemas/1.-Sinais---Introducao.pdf)
+- [Princípios de Comunicação: Sinais e Sistemas](https://www.feis.unesp.br/Home/departamentos/engenhariaeletrica/optoeletronica/sinais_e_sistemas.pdf)
+- [SS0910](http://users.isr.ist.utl.pt/~jsm/teaching/ss/SS-0910.htm)
+- [Introdução aos Sinais e Sistemas](https://wiki.sj.ifsc.edu.br/wiki/images/2/25/SinaiSistemas.pdf)
+- [Sinais e Sistemas Lineares](http://www.cin.ufpe.br/~dmg/SS-ufpe-aula-02-sinais-e-sistemas.pdf)
+- [Prof. Rafael Beltrame](http://coral.ufsm.br/beltrame/index.php/disciplinas/graduacao/sinais-e-sistemas)
+- [Análise de Sinais](https://www.novaims.unl.pt/vlobo/escola_naval/AnaliseSinais/AnaliseSinais1_2.pdf)
+- [Sinais e Sistemas Segunda Edição](https://www.cefala.org/~adelino/Livros/Oppenheim_2010_Sinais_e_Sistemas_2ed.pdf)
+- [Sinais e Sistemas Discretos](http://www.l2f.inesc-id.pt/~lco/psa0203/pdf/ssd_cop.pdf)
 </details>
 
 <details>
@@ -163,4 +152,15 @@
 - [Digital Processing of Signals Methods](http://www.ict.edu.ru/ft/006185/itmo425.pdf)
 - [Signal Management and Processing Systems](http://ipmras.ru/UserFiles/Diss/TerpelovDA/Thesises_Terpelov.pdf)
 - [System Synchronization](http://media-publisher.ru/wp-content/uploads/2017/12/%D0%A1%D0%98%D0%9D%D0%A5%D0%A0%D0%9E-3-2017.pdf)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [Conceptos de Señales y Sistemas](https://www.exabyteinformatica.com/uoc/Audio/Procesamiento_de_audio/Procesamiento_de_audio_(Modulo_1).pdf)
+- [Señales y Sistemas Materiales](https://ocw.unican.es/course/view.php?id=184&amp;section=3)
+- [Señales y Sistemas](http://www.unsam.edu.ar/escuelas/ciencia/alumnos/matematica_guia/apunte2parte.pdf)
+- [Tema I: Señales y Sistemas](http://enrique.sanchez.webs.uvigo.es/PDFs/125_TemaI-Senales.pdf)
+- [Fundamentos de Señales y Sistemas](http://www2.imse-cnm.csic.es/~rafael/SETI/SETI_03_04_transp_Tema_02.pdf)
 </details>

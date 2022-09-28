@@ -74,49 +74,6 @@
 </details>
 
 <details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [Cibernética: Ciência e Técnica](https://tecnos.cienciassociais.ufg.br/up/410/o/Disserta%C3%A7%C3%A3o_-_Cibernetica__Ciencia_e_T%C3%A9cnica.pdf)
-- [A Robótica no Ensino e Aprendizagem de Programação](https://repositorio.iscte-iul.pt/bitstream/10071/15076/1/A%20Rob%C3%B3tica%20no%20Ensino%20e%20Aprendizagem%20de%20Programa%C3%A7%C3%A3o.pdf)
-- [Apostila de Robótica](http://www.joinville.udesc.br/portal/professores/silas/materiais/Apostila_de_Robotica.pdf)
-- [Introdução aos Robôs](https://webx.ubi.pt/~felippe/texts5/robotica_cap1.pdf)
-- [Introdução à Robótica](http://users.isr.ist.utl.pt/~jseq/caps1-6.pdf)
-- [Tutorial em Robôs de Combate](http://www.robot.bmstu.ru/files/books/%5BRobotic%5D%20Tutorial%20RioBotz.pdf)
-- [Oficina de Robótica](http://oficinaderobotica.ufsc.br/files/2013/04/Programa%C3%A7%C3%A3o-em-Arduino-M%C3%B3dulo-B%C3%A1sico.pdf)
-- [Sistemas para Automação e Robótica](https://www.ime.usp.br/~adao/SR1A.pdf)
-- [Arte e Robótica](http://www.diaadiaeducacao.pr.gov.br/portals/cadernospde/pdebusca/producoes_pde/2013/2013_fap_arte_pdp_mauri_sebastiao_de_franca.pdf)
-- [Programador de Robô](http://www.etelg.com.br/paginaete/downloads/mecatronica/Rob%C3%B4.pdf)
-- [Apostila de Robótica Educacional](http://www.peteletrica.uff.br/wp-content/uploads/2013/08/Apostila-Rob%C3%B3tica-Educacional.pdf)
-- [Introdução à Cibernética](https://monoskop.org/images/3/36/Ashby_Ross_Introducao_a_cibernetica.pdf)
-</details>
-
-<details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Cibernética](https://www.monografias.com/trabajos/cibernetica/cibernetica.shtml)
-- [Ecured](https://www.ecured.cu/Cibern%C3%A9tica)
-- [Universidad de Barcelona](https://campus.usal.es/~teoriaeducacion/rev_numero_02/n2_art_gros.htm)
-- [El Origen de la Cibernética](https://www.amc.edu.mx/revistaciencia/images/revista/67_1/PDF/Presentacion.pdf)
-- [Cibernética e Informática](https://archivos.juridicas.unam.mx/www/bjv/libros/1/147/5.pdf)
-- [Cibernética y Teoría de Sistemas](http://www.sinewton.org/numeros/numeros/43-44/Articulo47.pdf)
-- [Definición Cibernética](http://scielo.sld.cu/pdf/aci/v22n3/aci08311.pdf)
-- [Cibernética y Sociedad](https://catedraepistemologia.files.wordpress.com/2015/09/248631084-norbert-wiener-cibernetica-y-sociedad1.pdf)
-- [Ciencia Cognitiva](https://froese.files.wordpress.com/2016/01/froese-16-de-la-cibernc3a9tica-a-la-nueva-ciencia-cognitiva.pdf)
-- [Introducción a la Cibernética](https://ccc.inaoep.mx/Reportes/CCC-05-003.pdf)
-- [La Robótica Inteligente](http://www3.uji.es/~sanzp/robot/RobInt-Apuntes.pdf)
-- [Robótica General](https://www.infoplc.net/files/documentacion/robotica/infoplc_net_RoboticaGeneral_.pdf)
-- [Introduccion a la Robotica](http://www.grupoisis.uma.es/microbot/public/robots.pdf)
-- [Manual de Robótica Educativa](http://www.cienciaytecnologia.edu.sv/jdownloads/Robtica%20Educativa/manual_de_robtica_educativa_en_el_aula_-_documento_en_proceso_de_revisin-1.pdf)
-- [Robots Industriales](https://tv.uvigo.es/uploads/material/Video/2829/Robot_Industrial-Aplicaciones.pdf)
-- [Historia de la Robótica](http://scielo.isciii.es/pdf/aue/v31n3/v31n3a02.pdf)
-- [El Impacto de la Robótica](http://inbots.eu/wp-content/uploads/2018/08/publications/robotica-derecho-del-trabajo-derecho-fiscal-final-mayo2018.pdf)
-- [Los Robots del Futuro](https://ccc.inaoep.mx/~emorales/Papers/2009/eduardo.pdf)
-- [Programacion con Robots](http://robots.linti.unlp.edu.ar/uploads/docs/manual_de_programacion_con_robots_para_la_escuela.pdf)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -143,6 +100,20 @@
 </details>
 
 <details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Spektrum.de](https://www.spektrum.de/lexikon/neurowissenschaft/kybernetik/6831)
+- [Kybernetik](https://www.uni-due.de/~bj0063/doc/Lenk.pdf)
+- [Kybernetik Und Systemtheorie](https://www.vordenker.de/downloads/kybmed.pdf)
+- [Norbert Wiener](http://www.diemo.de/projects/nwiener/nwiener.pdf)
+- [Robotik](https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.130/Arbeitsgruppen/Robotics/Robotik/Robotik-Skript_07-08.pdf)
+- [Robotik 2](https://www.tu-chemnitz.de/informatik/KI/scripts/ws0405/KI_Schule/KI-Schule-04-lehr-3.pdf)
+- [Robotik-Systeme](https://www.e-fi.de/fileadmin/Innovationsstudien_2016/StuDIS_11_2016.pdf)
+- [Grundlagen der Robotik](https://homepages.thm.de/~hg6458/Robotik/Robotik.pdf)
+</details>
+
+<details>
   <summary>Italian</summary>
   
   ### Materials
@@ -158,17 +129,21 @@
 </details>
 
 <details>
-  <summary>German</summary>
+  <summary>Portuguese</summary>
   
   ### Materials
-- [Spektrum.de](https://www.spektrum.de/lexikon/neurowissenschaft/kybernetik/6831)
-- [Kybernetik](https://www.uni-due.de/~bj0063/doc/Lenk.pdf)
-- [Kybernetik Und Systemtheorie](https://www.vordenker.de/downloads/kybmed.pdf)
-- [Norbert Wiener](http://www.diemo.de/projects/nwiener/nwiener.pdf)
-- [Robotik](https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.130/Arbeitsgruppen/Robotics/Robotik/Robotik-Skript_07-08.pdf)
-- [Robotik 2](https://www.tu-chemnitz.de/informatik/KI/scripts/ws0405/KI_Schule/KI-Schule-04-lehr-3.pdf)
-- [Robotik-Systeme](https://www.e-fi.de/fileadmin/Innovationsstudien_2016/StuDIS_11_2016.pdf)
-- [Grundlagen der Robotik](https://homepages.thm.de/~hg6458/Robotik/Robotik.pdf)
+- [Cibernética: Ciência e Técnica](https://tecnos.cienciassociais.ufg.br/up/410/o/Disserta%C3%A7%C3%A3o_-_Cibernetica__Ciencia_e_T%C3%A9cnica.pdf)
+- [A Robótica no Ensino e Aprendizagem de Programação](https://repositorio.iscte-iul.pt/bitstream/10071/15076/1/A%20Rob%C3%B3tica%20no%20Ensino%20e%20Aprendizagem%20de%20Programa%C3%A7%C3%A3o.pdf)
+- [Apostila de Robótica](http://www.joinville.udesc.br/portal/professores/silas/materiais/Apostila_de_Robotica.pdf)
+- [Introdução aos Robôs](https://webx.ubi.pt/~felippe/texts5/robotica_cap1.pdf)
+- [Introdução à Robótica](http://users.isr.ist.utl.pt/~jseq/caps1-6.pdf)
+- [Tutorial em Robôs de Combate](http://www.robot.bmstu.ru/files/books/%5BRobotic%5D%20Tutorial%20RioBotz.pdf)
+- [Oficina de Robótica](http://oficinaderobotica.ufsc.br/files/2013/04/Programa%C3%A7%C3%A3o-em-Arduino-M%C3%B3dulo-B%C3%A1sico.pdf)
+- [Sistemas para Automação e Robótica](https://www.ime.usp.br/~adao/SR1A.pdf)
+- [Arte e Robótica](http://www.diaadiaeducacao.pr.gov.br/portals/cadernospde/pdebusca/producoes_pde/2013/2013_fap_arte_pdp_mauri_sebastiao_de_franca.pdf)
+- [Programador de Robô](http://www.etelg.com.br/paginaete/downloads/mecatronica/Rob%C3%B4.pdf)
+- [Apostila de Robótica Educacional](http://www.peteletrica.uff.br/wp-content/uploads/2013/08/Apostila-Rob%C3%B3tica-Educacional.pdf)
+- [Introdução à Cibernética](https://monoskop.org/images/3/36/Ashby_Ross_Introducao_a_cibernetica.pdf)
 </details>
 
 <details>
@@ -181,4 +156,29 @@
 - [Cybernetics Book](http://grachev62.narod.ru/cybern/contents.htm)
 - [Scisne](https://scisne.net/a-1590)
 - [Robotics for Children](http://www.239.ru/userfiles/file/Robobook99-99-99-20short.pdf)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [Cibernética](https://www.monografias.com/trabajos/cibernetica/cibernetica.shtml)
+- [Ecured](https://www.ecured.cu/Cibern%C3%A9tica)
+- [Universidad de Barcelona](https://campus.usal.es/~teoriaeducacion/rev_numero_02/n2_art_gros.htm)
+- [El Origen de la Cibernética](https://www.amc.edu.mx/revistaciencia/images/revista/67_1/PDF/Presentacion.pdf)
+- [Cibernética e Informática](https://archivos.juridicas.unam.mx/www/bjv/libros/1/147/5.pdf)
+- [Cibernética y Teoría de Sistemas](http://www.sinewton.org/numeros/numeros/43-44/Articulo47.pdf)
+- [Definición Cibernética](http://scielo.sld.cu/pdf/aci/v22n3/aci08311.pdf)
+- [Cibernética y Sociedad](https://catedraepistemologia.files.wordpress.com/2015/09/248631084-norbert-wiener-cibernetica-y-sociedad1.pdf)
+- [Ciencia Cognitiva](https://froese.files.wordpress.com/2016/01/froese-16-de-la-cibernc3a9tica-a-la-nueva-ciencia-cognitiva.pdf)
+- [Introducción a la Cibernética](https://ccc.inaoep.mx/Reportes/CCC-05-003.pdf)
+- [La Robótica Inteligente](http://www3.uji.es/~sanzp/robot/RobInt-Apuntes.pdf)
+- [Robótica General](https://www.infoplc.net/files/documentacion/robotica/infoplc_net_RoboticaGeneral_.pdf)
+- [Introduccion a la Robotica](http://www.grupoisis.uma.es/microbot/public/robots.pdf)
+- [Manual de Robótica Educativa](http://www.cienciaytecnologia.edu.sv/jdownloads/Robtica%20Educativa/manual_de_robtica_educativa_en_el_aula_-_documento_en_proceso_de_revisin-1.pdf)
+- [Robots Industriales](https://tv.uvigo.es/uploads/material/Video/2829/Robot_Industrial-Aplicaciones.pdf)
+- [Historia de la Robótica](http://scielo.isciii.es/pdf/aue/v31n3/v31n3a02.pdf)
+- [El Impacto de la Robótica](http://inbots.eu/wp-content/uploads/2018/08/publications/robotica-derecho-del-trabajo-derecho-fiscal-final-mayo2018.pdf)
+- [Los Robots del Futuro](https://ccc.inaoep.mx/~emorales/Papers/2009/eduardo.pdf)
+- [Programacion con Robots](http://robots.linti.unlp.edu.ar/uploads/docs/manual_de_programacion_con_robots_para_la_escuela.pdf)
 </details>

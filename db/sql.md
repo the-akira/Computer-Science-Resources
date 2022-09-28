@@ -70,6 +70,51 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [SQL.sh](https://sql.sh/)
+- [Developpez SQL](https://sql.developpez.com/)
+- [OpenClassRooms](https://openclassrooms.com/fr/courses/993975-apprenez-a-programmer-en-vb-net/992711-introduction-au-langage-sql)
+- [Langage SQL](http://deptinfo.unice.fr/~grin/messupports/sql.pdf)
+- [Le Langage SQL](http://monge.univ-mlv.fr/~aubrun/sgbd/coursSGBD5.pdf)
+- [SQL pour Oracle](https://www.eyrolles.com/Chapitres/9782212141566/extrait_sql_pour_oracle.pdf)
+- [Stéphane Crozat](https://stph.scenari-community.org/bdd/sql1.pdf)
+- [SQL introduction](http://www.miage.ups-tlse.fr/intranet/cours/l3/sql_completL3.pdf)
+- [MySQL/SQL Exemples](http://www.obs-vlfr.fr/~boebion/Php-Mysql/Seance2/MySQL_exemple.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Datenbanken](http://www.datenbanken-verstehen.de/sql-tutorial/)
+- [SQL Examples](https://www.torsten-horn.de/techdocs/sql-examples.htm)
+- [Modern-SQL](https://modern-sql.com/de/feature/with)
+- [SQL-Tutorial](https://www.sql-und-xml.de/sql-tutorial/)
+- [TinoHempel](https://tinohempel.de/info/info/datenbank/sql.htm)
+- [SQL-Einführung](http://www.med.uni-giessen.de/akkk/gtds/kurs0900.htm)
+- [Übersicht SQL-Befehle](https://www.php-einfach.de/mysql-tutorial/uebersicht-sql-befehle/)
+- [Einführung in SQL](https://upload.wikimedia.org/wikibooks/de/d/d3/Einf%C3%BChrung_in_SQL.pdf)
+- [SQL in 21 Tagen](http://www.entflammen.de/Datenbank/SQL/sql%20in%2021%20Tagen.pdf)
+- [Leibniz Universität](https://www.luis.uni-hannover.de/fileadmin/kurse/material/SQL-Einfuehrung/SQL_01_Einfuehrung.pdf)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [SQL Dispensa](https://home.deib.polimi.it/schreibe/basididati/lucidi%20es/SQL_Dispensa.pdf)
+- [Linguaggio SQL](http://www.di.unito.it/~damiani/DIDATTICA/aa03/InfAppBD/MyMAT/InfoApp86-102.pdf)
+- [Guida SQL](https://www.html.it/guide/guida-linguaggio-sql/)
+- [SQL: Le Basi](http://www-db.deis.unibo.it/courses/SIL-A/PDF/SQLa-basi.pdf)
+- [Linguaggio SQL](http://www.cs.unibo.it/~ghini/didattica/informatica_generale/SQL.pdf)
+- [Introduzione a SQL Server](http://www.bomasoftware.it/download_utility/guide/SQLServer.pdf)
+- [Il Linguaggio SQL](https://users.dimi.uniud.it/~angelo.montanari/Sql.pdf)
+- [Introduzione a SQL Server](http://www.unife.it/ing/lm.infoauto/sistemi-informativi/programmi-anni-precedenti/lucidi2011-12/02-introduzione_a_SQL_Server.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -87,6 +132,21 @@
 - [SQL Avançado](http://professor.unisinos.br/ltonietto/ccti/sql/SQLAvancado.pdf)
 - [Use a Cabeça SQL](http://ldemetrio.com.br/Livros/Use%20_a_Cabe%C3%A7a_SQL_Beighley.pdf)
 - [Curso de Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
+</details>
+
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
+- [Citforum SQL](http://citforum.ru/programming/32less/les44.shtml)
+- [Progopedia](http://progopedia.ru/language/sql/)
+- [ICT.edu](http://www.ict.edu.ru/ft/004864/sql.pdf)
+- [Bourabai](https://bourabai.ru/dbt/dbms/index.htm)
+- [MSTU.edu](http://www.mstu.edu.ru/study/materials/zelenkov/toc.html)
+- [SQL Book](http://pzks.nmu.org.ua/ua/labs/lab15_bases.pdf)
+- [SQL SAMS](http://forum.webmasterschool.ru/tmp/sql.pdf)
+- [SQL](http://window.edu.ru/resource/075/24075/files/sql.pdf)
+- [SQL 2016](http://elar.urfu.ru/bitstream/10995/40612/1/978-5-7996-1622-9_2016.pdf)
 </details>
 
 <details>
@@ -110,64 +170,4 @@
 - [Bases de Datos](https://www.uoc.edu/masters/oficiales/img/913.pdf)
 - [Bases de Datos Relacionales](https://www.it.uc3m.es/jaf/aw/teoria/bd-1/bd-1.pdf)
 - [SQL con PostgreSQL](https://www.um.es/geograf/sigmur/sigpdf/postgresql.pdf)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [SQL.sh](https://sql.sh/)
-- [Developpez SQL](https://sql.developpez.com/)
-- [OpenClassRooms](https://openclassrooms.com/fr/courses/993975-apprenez-a-programmer-en-vb-net/992711-introduction-au-langage-sql)
-- [Langage SQL](http://deptinfo.unice.fr/~grin/messupports/sql.pdf)
-- [Le Langage SQL](http://monge.univ-mlv.fr/~aubrun/sgbd/coursSGBD5.pdf)
-- [SQL pour Oracle](https://www.eyrolles.com/Chapitres/9782212141566/extrait_sql_pour_oracle.pdf)
-- [Stéphane Crozat](https://stph.scenari-community.org/bdd/sql1.pdf)
-- [SQL introduction](http://www.miage.ups-tlse.fr/intranet/cours/l3/sql_completL3.pdf)
-- [MySQL/SQL Exemples](http://www.obs-vlfr.fr/~boebion/Php-Mysql/Seance2/MySQL_exemple.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [SQL Dispensa](https://home.deib.polimi.it/schreibe/basididati/lucidi%20es/SQL_Dispensa.pdf)
-- [Linguaggio SQL](http://www.di.unito.it/~damiani/DIDATTICA/aa03/InfAppBD/MyMAT/InfoApp86-102.pdf)
-- [Guida SQL](https://www.html.it/guide/guida-linguaggio-sql/)
-- [SQL: Le Basi](http://www-db.deis.unibo.it/courses/SIL-A/PDF/SQLa-basi.pdf)
-- [Linguaggio SQL](http://www.cs.unibo.it/~ghini/didattica/informatica_generale/SQL.pdf)
-- [Introduzione a SQL Server](http://www.bomasoftware.it/download_utility/guide/SQLServer.pdf)
-- [Il Linguaggio SQL](https://users.dimi.uniud.it/~angelo.montanari/Sql.pdf)
-- [Introduzione a SQL Server](http://www.unife.it/ing/lm.infoauto/sistemi-informativi/programmi-anni-precedenti/lucidi2011-12/02-introduzione_a_SQL_Server.pdf)
-</details>
-
-<details>
-  <summary>German</summary>
-  
-  ### Materials
-- [Datenbanken](http://www.datenbanken-verstehen.de/sql-tutorial/)
-- [SQL Examples](https://www.torsten-horn.de/techdocs/sql-examples.htm)
-- [Modern-SQL](https://modern-sql.com/de/feature/with)
-- [SQL-Tutorial](https://www.sql-und-xml.de/sql-tutorial/)
-- [TinoHempel](https://tinohempel.de/info/info/datenbank/sql.htm)
-- [SQL-Einführung](http://www.med.uni-giessen.de/akkk/gtds/kurs0900.htm)
-- [Übersicht SQL-Befehle](https://www.php-einfach.de/mysql-tutorial/uebersicht-sql-befehle/)
-- [Einführung in SQL](https://upload.wikimedia.org/wikibooks/de/d/d3/Einf%C3%BChrung_in_SQL.pdf)
-- [SQL in 21 Tagen](http://www.entflammen.de/Datenbank/SQL/sql%20in%2021%20Tagen.pdf)
-- [Leibniz Universität](https://www.luis.uni-hannover.de/fileadmin/kurse/material/SQL-Einfuehrung/SQL_01_Einfuehrung.pdf)
-</details>
-
-<details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [Citforum SQL](http://citforum.ru/programming/32less/les44.shtml)
-- [Progopedia](http://progopedia.ru/language/sql/)
-- [ICT.edu](http://www.ict.edu.ru/ft/004864/sql.pdf)
-- [Bourabai](https://bourabai.ru/dbt/dbms/index.htm)
-- [MSTU.edu](http://www.mstu.edu.ru/study/materials/zelenkov/toc.html)
-- [SQL Book](http://pzks.nmu.org.ua/ua/labs/lab15_bases.pdf)
-- [SQL SAMS](http://forum.webmasterschool.ru/tmp/sql.pdf)
-- [SQL](http://window.edu.ru/resource/075/24075/files/sql.pdf)
-- [SQL 2016](http://elar.urfu.ru/bitstream/10995/40612/1/978-5-7996-1622-9_2016.pdf)
 </details>

@@ -108,42 +108,6 @@
 </details>
 
 <details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [Matheus Facure](https://matheusfacure.github.io/2017/03/05/ann-intro/)
-- [Deep Learning Book](http://deeplearningbook.com.br/o-que-sao-redes-neurais-artificiais-profundas/)
-- [USP](http://conteudo.icmc.usp.br/pessoas/andre/research/neural/)
-- [UFCG](http://www.dsc.ufcg.edu.br/~pet/jornal/setembro2011/materias/informatica.html)
-- [O Algoritmo Backpropagation](https://www.devmedia.com.br/redes-neurais-artificiais-algoritmo-backpropagation/28559)
-- [Introdução às Redes Neurais Artificiais](http://www.inf.ufsc.br/~j.barreto/tutoriais/Survey.pdf)
-- [Redes Neurais Artificiais](https://andreric.github.io/files/pdfs/redes_neurais.pdf)
-- [Guia de Aulas Práticas](http://repositorio.ufla.br/jspui/bitstream/1/29980/1/APOSTILA_Guia%20de%20aulas%20pr%C3%A1ticas%20de%20redes%20neurais%20artificiais%3A%20vers%C3%A3o%201.2.pdf)
-- [Aula 18 - Redes Neurais](http://edirlei.3dgb.com.br/aulas/ia_2012_1/IA_Aula_18_Redes_Neurais.pdf)
-- [Curso Deep Learning](https://www.youtube.com/watch?v=6yYUc6nU3Cw&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&ab_channel=DeepLearningBrasil%28Emportugu%C3%AAs%29)
-</details>
-
-<details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Redes Neuronales](http://avellano.fis.usal.es/~lalonso/RNA/index.htm)
-- [Introducción Redes Neuronales](https://www2.ulpgc.es/hege/almacen/download/38/38584/practica_ia_2.pdf)
-- [Fundamentos de Redes Neuronales Artificiales](http://conceptos.sociales.unam.mx/conceptos_final/598trabajo.pdf)
-- [Las Redes Neuronales Artificiales](http://catarina.udlap.mx/u_dl_a/tales/documentos/lis/navarrete_g_j/capitulo2.pdf)
-- [Clasificación de las Redes Neuronales Artificiales](http://www.redes-neuronales.com.es/tutorial-redes-neuronales/clasificacion-de-las-redes-neuronales-artificiales.htm)
-- [Redes Neuronales Slides](https://elvex.ugr.es/decsai/computational-intelligence/slides/N1%20Neural%20Networks.pdf)
-- [Redes Neuronales: Conceptos Básicos y Aplicaciones](https://www.frro.utn.edu.ar/repositorio/catedras/quimica/5_anio/orientadora1/monograias/matich-redesneuronales.pdf)
-- [Redes Neuronales Artificiales y sus Aplicaciones](https://ocw.ehu.eus/pluginfile.php/9047/mod_resource/content/1/redes_neuro/contenidos/pdf/libro-del-curso.pdf)
-- [Introducción a las Redes Neuronales y su Aplicación...](http://www.iac.es/sieinvens/SINFIN/Sie_Courses_PDFs/NNets/confiac.pdf)
-- [Estudio de Los Principales Tipos de Redes...](https://dspace.ups.edu.ec/bitstream/123456789/4098/1/UPS-CT002584.pdf)
-- [Redes Neuronales Artificiales aplicadas al...](https://www.tesisenred.net/bitstream/handle/10803/9441/tjjmm1de1.pdf?sequence=1)
-- [Libro OCW](http://ocw.uv.es/ingenieria-y-arquitectura/1-2/libro_ocw_libro_de_redes.pdf)
-- [Simulación de Redes Neuronales Artificiales](http://exa.unne.edu.ar/informatica/SO/SimulacionRNA.PDF)
-- [Introducción y Aplicaciones en Bioinformática](http://www.pdg.cnb.uam.es/cursos/Complutense/Complutense2007/pages/ANN_introduccion_FMoran.pdf)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -160,6 +124,24 @@
 - [Les réseaux de neurones: quand l’informatique est capable d’apprendre](http://www.acsysteme.com/fr/reseaux-de-neurones)
 - [Introduction au Deep Learning](https://meritis.fr/ia/deep-learning/)
 - [Deep Learning Perceptrons simples et multicouches](http://eric.univ-lyon2.fr/~ricco/cours/slides/reseaux_neurones_perceptron.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Neuronale Netze](http://www.neuronalesnetz.de/downloads/neuronalesnetz_de.pdf)
+- [Einführung in Neuronale Netze](https://www.dbai.tuwien.ac.at/education/AIKonzepte/Folien/NeuronaleNetze.pdf)
+- [Neuronales Netz](http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/technologien-methoden/KI-und-Softcomputing/Neuronales-Netz)
+- [Konstruktion eines künstlichen Gehirns](http://www.natur-struktur.ch/ai/neuronale.html)
+- [Künstliche Neuronale Netze](https://www.fernuni-hagen.de/mi/studium/module/knn.shtml?sg=mscinf)
+- [Tu-Dresden](https://tu-dresden.de/ing/informatik/ti/vlsi/ressourcen/dateien/dateien_studium/dateien_lehstuhlseminar/vortraege_lehrstuhlseminar/lehrstuhlseminar_ws17_18/KNN_Knoefel_Praesentation.pdf?lang=en)
+- [Einführung in Neuronale Netze](http://www.bongards.de/nn_v.pdf)
+- [Neuronale Netze](https://www.thphys.uni-heidelberg.de/~horner/NN.pdf)
+- [Künstliche Neuronale Netze](https://imsc.uni-graz.at/modellwoche/2012/FachArbeitPucher.pdf)
+- [Einführung in Künstliche Neuronale Netze](https://nms.kcl.ac.uk/stefan.edelkamp/lectures/ml/slides/neuronale%20netze.pdf)
+- [Neuronale Netze, Deep Learning](https://www.cs.uni-potsdam.de/ml/teaching/ss14/ml2/NeuronaleNetze2.pdf)
+- [Neuronale Netze, Dr. Rudolf Kruse](http://fuzzy.cs.ovgu.de/ci/nn/nn-all.pdf)
 </details>
 
 <details>
@@ -183,21 +165,19 @@
 </details>
 
 <details>
-  <summary>German</summary>
+  <summary>Portuguese</summary>
   
   ### Materials
-- [Neuronale Netze](http://www.neuronalesnetz.de/downloads/neuronalesnetz_de.pdf)
-- [Einführung in Neuronale Netze](https://www.dbai.tuwien.ac.at/education/AIKonzepte/Folien/NeuronaleNetze.pdf)
-- [Neuronales Netz](http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/technologien-methoden/KI-und-Softcomputing/Neuronales-Netz)
-- [Konstruktion eines künstlichen Gehirns](http://www.natur-struktur.ch/ai/neuronale.html)
-- [Künstliche Neuronale Netze](https://www.fernuni-hagen.de/mi/studium/module/knn.shtml?sg=mscinf)
-- [Tu-Dresden](https://tu-dresden.de/ing/informatik/ti/vlsi/ressourcen/dateien/dateien_studium/dateien_lehstuhlseminar/vortraege_lehrstuhlseminar/lehrstuhlseminar_ws17_18/KNN_Knoefel_Praesentation.pdf?lang=en)
-- [Einführung in Neuronale Netze](http://www.bongards.de/nn_v.pdf)
-- [Neuronale Netze](https://www.thphys.uni-heidelberg.de/~horner/NN.pdf)
-- [Künstliche Neuronale Netze](https://imsc.uni-graz.at/modellwoche/2012/FachArbeitPucher.pdf)
-- [Einführung in Künstliche Neuronale Netze](https://nms.kcl.ac.uk/stefan.edelkamp/lectures/ml/slides/neuronale%20netze.pdf)
-- [Neuronale Netze, Deep Learning](https://www.cs.uni-potsdam.de/ml/teaching/ss14/ml2/NeuronaleNetze2.pdf)
-- [Neuronale Netze, Dr. Rudolf Kruse](http://fuzzy.cs.ovgu.de/ci/nn/nn-all.pdf)
+- [Matheus Facure](https://matheusfacure.github.io/2017/03/05/ann-intro/)
+- [Deep Learning Book](http://deeplearningbook.com.br/o-que-sao-redes-neurais-artificiais-profundas/)
+- [USP](http://conteudo.icmc.usp.br/pessoas/andre/research/neural/)
+- [UFCG](http://www.dsc.ufcg.edu.br/~pet/jornal/setembro2011/materias/informatica.html)
+- [O Algoritmo Backpropagation](https://www.devmedia.com.br/redes-neurais-artificiais-algoritmo-backpropagation/28559)
+- [Introdução às Redes Neurais Artificiais](http://www.inf.ufsc.br/~j.barreto/tutoriais/Survey.pdf)
+- [Redes Neurais Artificiais](https://andreric.github.io/files/pdfs/redes_neurais.pdf)
+- [Guia de Aulas Práticas](http://repositorio.ufla.br/jspui/bitstream/1/29980/1/APOSTILA_Guia%20de%20aulas%20pr%C3%A1ticas%20de%20redes%20neurais%20artificiais%3A%20vers%C3%A3o%201.2.pdf)
+- [Aula 18 - Redes Neurais](http://edirlei.3dgb.com.br/aulas/ia_2012_1/IA_Aula_18_Redes_Neurais.pdf)
+- [Curso Deep Learning](https://www.youtube.com/watch?v=6yYUc6nU3Cw&list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB&ab_channel=DeepLearningBrasil%28Emportugu%C3%AAs%29)
 </details>
 
 <details>
@@ -217,4 +197,24 @@
 - [ANN](https://logic.pdmi.ras.ru/~sergey/teaching/mlcsclub/03-ann.pdf)
 - [Book](http://iit1.mpei.ac.ru/pubkrug1.pdf)
 - [Burakov Neuro](http://window.edu.ru/resource/206/80206/files/Burakov_Neuro.pdf)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [Redes Neuronales](http://avellano.fis.usal.es/~lalonso/RNA/index.htm)
+- [Introducción Redes Neuronales](https://www2.ulpgc.es/hege/almacen/download/38/38584/practica_ia_2.pdf)
+- [Fundamentos de Redes Neuronales Artificiales](http://conceptos.sociales.unam.mx/conceptos_final/598trabajo.pdf)
+- [Las Redes Neuronales Artificiales](http://catarina.udlap.mx/u_dl_a/tales/documentos/lis/navarrete_g_j/capitulo2.pdf)
+- [Clasificación de las Redes Neuronales Artificiales](http://www.redes-neuronales.com.es/tutorial-redes-neuronales/clasificacion-de-las-redes-neuronales-artificiales.htm)
+- [Redes Neuronales Slides](https://elvex.ugr.es/decsai/computational-intelligence/slides/N1%20Neural%20Networks.pdf)
+- [Redes Neuronales: Conceptos Básicos y Aplicaciones](https://www.frro.utn.edu.ar/repositorio/catedras/quimica/5_anio/orientadora1/monograias/matich-redesneuronales.pdf)
+- [Redes Neuronales Artificiales y sus Aplicaciones](https://ocw.ehu.eus/pluginfile.php/9047/mod_resource/content/1/redes_neuro/contenidos/pdf/libro-del-curso.pdf)
+- [Introducción a las Redes Neuronales y su Aplicación...](http://www.iac.es/sieinvens/SINFIN/Sie_Courses_PDFs/NNets/confiac.pdf)
+- [Estudio de Los Principales Tipos de Redes...](https://dspace.ups.edu.ec/bitstream/123456789/4098/1/UPS-CT002584.pdf)
+- [Redes Neuronales Artificiales aplicadas al...](https://www.tesisenred.net/bitstream/handle/10803/9441/tjjmm1de1.pdf?sequence=1)
+- [Libro OCW](http://ocw.uv.es/ingenieria-y-arquitectura/1-2/libro_ocw_libro_de_redes.pdf)
+- [Simulación de Redes Neuronales Artificiales](http://exa.unne.edu.ar/informatica/SO/SimulacionRNA.PDF)
+- [Introducción y Aplicaciones en Bioinformática](http://www.pdg.cnb.uam.es/cursos/Complutense/Complutense2007/pages/ANN_introduccion_FMoran.pdf)
 </details>

@@ -64,6 +64,17 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [Introduction à Julia](http://www.slashbin.net/julia/introJulia.html)
+- [Julia: le langage scientifique](http://perso.ensta-paristech.fr/~diam/julia/)
+- [Julia vs Python](https://www.scriptol.fr/programmation/julia.php)
+- [Developpez](https://julia.developpez.com/tutoriels/decouverte-julia/)
+- [À La Découberte de Julia](https://zestedesavoir.com/articles/pdf/78/a-la-decouverte-de-julia.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -80,15 +91,4 @@
 - [Lenguaje de Programación JULIA](http://zeus.inf.ucv.cl/~hallende/material/julia.pdf)
 - [Curso Julia](https://github.com/codeneomatrix/curso-JULIA)
 - [Julia](http://ferestrepoca.github.io/paradigmas-de-programacion/paralela/tutoriales/julia/index.html)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [Introduction à Julia](http://www.slashbin.net/julia/introJulia.html)
-- [Julia: le langage scientifique](http://perso.ensta-paristech.fr/~diam/julia/)
-- [Julia vs Python](https://www.scriptol.fr/programmation/julia.php)
-- [Developpez](https://julia.developpez.com/tutoriels/decouverte-julia/)
-- [À La Découberte de Julia](https://zestedesavoir.com/articles/pdf/78/a-la-decouverte-de-julia.pdf)
 </details>

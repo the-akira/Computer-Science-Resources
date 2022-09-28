@@ -76,19 +76,6 @@
 </details>
 
 <details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [Excript Curso](https://excript.com/curso-cpp.html)
-- [Aulas C++](http://www.inf.ufpr.br/ci208/NotasAula.pdf)
-- [Programação C++](https://www.inf.pucrs.br/manssour/LinguagemC++/index.html)
-- [C++ 2004](http://www.inf.ufrgs.br/~johann/cpp2004/)
-- [Linguagem C++](https://www.ime.usp.br/~slago/slago-C++.pdf)
-- [C++ Orientado a Objetos](http://www.ic.unicamp.br/~cmrubira/aacesta/cpp/cpp15.html)
-- [Material de Apoio C++](http://www.feis.unesp.br/Home/departamentos/engenhariaeletrica/lapsee/curso_2011_dinter_mod2_1.pdf)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -102,18 +89,12 @@
 </details>
 
 <details>
-  <summary>Spanish</summary>
+  <summary>German</summary>
   
   ### Materials
-- [Curso de Programacion en C++](https://www.uv.es/sto/cursos/c++/curso95.pdf)
-- [Curso C++](https://www.programarya.com/Cursos/C++)
-- [Curso de C++](http://c.conclase.net/curso/index.php)
-- [Manual de Programación en C++](https://paginas.matem.unam.mx/pderbf/images/mprogintc++.pdf)
-- [Arduino C++](https://aprendiendoarduino.wordpress.com/category/c/)
-- [C++ Programación](http://cpp.aprende-web.net/basico/index.php)
-- [Curso C++](https://codigofacilito.com/cursos/c-plus-plus)
-- [Fundamentos C++](http://www.lcc.uma.es/~vicente/docencia/cppdoc/programacion_cxx.pdf)
-- [Fundamentos de la Programación](https://www.fdi.ucm.es/profesor/luis/fp/FP.pdf)
+- [C++ Tutorial](https://www.programmierenlernen24.de/c-tutorial/)
+- [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
+- [Einführung in die Programmierung](https://www.numa.uni-linz.ac.at/Teaching/Lectures/Kurs-C/Script/html/main.pdf)
 </details>
 
 <details>
@@ -128,12 +109,16 @@
 </details>
 
 <details>
-  <summary>German</summary>
+  <summary>Portuguese</summary>
   
   ### Materials
-- [C++ Tutorial](https://www.programmierenlernen24.de/c-tutorial/)
-- [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung/)
-- [Einführung in die Programmierung](https://www.numa.uni-linz.ac.at/Teaching/Lectures/Kurs-C/Script/html/main.pdf)
+- [Excript Curso](https://excript.com/curso-cpp.html)
+- [Aulas C++](http://www.inf.ufpr.br/ci208/NotasAula.pdf)
+- [Programação C++](https://www.inf.pucrs.br/manssour/LinguagemC++/index.html)
+- [C++ 2004](http://www.inf.ufrgs.br/~johann/cpp2004/)
+- [Linguagem C++](https://www.ime.usp.br/~slago/slago-C++.pdf)
+- [C++ Orientado a Objetos](http://www.ic.unicamp.br/~cmrubira/aacesta/cpp/cpp15.html)
+- [Material de Apoio C++](http://www.feis.unesp.br/Home/departamentos/engenhariaeletrica/lapsee/curso_2011_dinter_mod2_1.pdf)
 </details>
 
 <details>
@@ -150,4 +135,19 @@
 - [Cyberforum](http://www.cyberforum.ru/cpp/)
 - [Wikiversity](https://en.wikiversity.org/wiki/C%2B%2B)
 - [Cpp-snachala](http://ci-plus-plus-snachala.ru/)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [Curso de Programacion en C++](https://www.uv.es/sto/cursos/c++/curso95.pdf)
+- [Curso C++](https://www.programarya.com/Cursos/C++)
+- [Curso de C++](http://c.conclase.net/curso/index.php)
+- [Manual de Programación en C++](https://paginas.matem.unam.mx/pderbf/images/mprogintc++.pdf)
+- [Arduino C++](https://aprendiendoarduino.wordpress.com/category/c/)
+- [C++ Programación](http://cpp.aprende-web.net/basico/index.php)
+- [Curso C++](https://codigofacilito.com/cursos/c-plus-plus)
+- [Fundamentos C++](http://www.lcc.uma.es/~vicente/docencia/cppdoc/programacion_cxx.pdf)
+- [Fundamentos de la Programación](https://www.fdi.ucm.es/profesor/luis/fp/FP.pdf)
 </details>

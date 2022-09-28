@@ -98,6 +98,37 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [Vision par Ordinateur](http://devernay.free.fr/cours/vision/pdf/vision1_intro.pdf)
+- [Vision par Ordinateur Slides](https://www.lirmm.fr/~wpuech/enseignement/DUT_info/VISION.pdf)
+- [Vision par Ordinateur: Outils Fondamentaux](http://perception.inrialpes.fr/~Horaud/livre-fichiersPS/VO-HoraudMonga.pdf)
+- [Fondements de la Vision par Ordinateur](http://info.usherbrooke.ca/ogodin/enseignement/imn459/chapitres/)
+- [Recherches en Vision par Ordinateur](https://tel.archives-ouvertes.fr/tel-00080457/file/hdr_soumis.pdf)
+- [Introduction à la Vision par Ordinateur](https://www.jcourtois.fr/uploads/report/Rapport_vision_par_ordinateur.pdf)
+- [Traitement d'images et Vision](https://www-lisic.univ-littoral.fr/~porebski/Vision%20et%20Traitement%20d%27images.pdf)
+- [Informatique Visuelle](https://team.inria.fr/steep/files/2015/03/c1_introduction_pretraitement_4pp.pdf)
+- [Interprétation et Vision Cognitive](http://wcours.gel.ulaval.ca/2015/a/GIF7002/default/5notes/diapositives/pdf_A15/lectures%20supplementaires/C01b.pdf)
+- [Vision par Ordinateur Introduction](https://www.iro.umontreal.ca/~roys/ift6145/intro-2x2.pdf)
+- [Introduction à la Vision Par Ordinateur](http://www.isir.upmc.fr/UserFiles/File/Sio/Vision%20-%20MIS/Intro_Vision.pdf)
+- [Vision par Ordinateur Project](http://stephane.ayache.perso.luminy.univ-amu.fr/zoom/cours/Cours/Deep/projet-vision.pdf)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [Visione Artificiale](http://www.dsi.unive.it/~pelillo/Didattica/Old%20Stuff/VisioneArtificiale/Slide/Lezione%201.pdf)
+- [Corso di Visione Artificiale](http://www.dsi.unive.it/~srotabul/files/vision/2010-2011/Visione-01-Introduzione.pdf)
+- [La Visione Artificiale](https://vision.unipv.it/corsi/VisioneArtificiale/lucidi/VA-02.pdf)
+- [La Visione Artificiale: Stato Dell'arte](http://services.area.trieste.it/docs/pubblicazioni/fusco.pdf)
+- [Visione Artificiale](http://imagelab.ing.unimore.it/imagelab/pdf/accademiascienze_2010.pdf)
+- [Materiale Luigi](http://unina.stidue.net/Elaborazione%20di%20Segnali%20Multimediali/Materiale/Luigi%20Di%20Stefano/)
+- [Università Degli Studi di Parma](http://www.cs.unipr.it/Informatica/Tesi/Fabio_Sozzi_20090422.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -130,6 +161,18 @@
 </details>
 
 <details>
+  <summary>Russian</summary>
+  
+  ### Materials
+- [Lektorium TV](https://www.lektorium.tv/course/22847)
+- [Computer Vision](http://robocraft.ru/blog/computervision/)
+- [MSU](http://teacher.msu.ru/sites/default/files/resursy/%D0%9A%D0%BE%D0%BD%D1%83%D1%88%D0%B8%D0%BD%20%D0%90.%D0%A1.%20%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5.pdf)
+- [Presentation](http://is.ifmo.ru/news/news_folder/20171209.pdf)
+- [Ingularis Lab](https://www.singularis-lab.com/docs/materials/CV.Introdution.pdf)
+- [Machinelearning.ru](http://www.machinelearning.ru/wiki/images/7/70/VisilterIDP18.pdf)
+</details>
+
+<details>
   <summary>Spanish</summary>
   
   ### Materials
@@ -151,47 +194,4 @@
 - [Introducción a la Visión Artificial](http://www.sivartsl.com/descargas/artificial.pdf)
 - [Tecnicas y Algoritmos Básicos](https://publicaciones.unirioja.es/catalogo/online/VisionArtificial.pdf)
 - [Revistas Bolivianas](http://www.revistasbolivianas.org.bo/pdf/rits/n1/n1a46.pdf)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [Vision par Ordinateur](http://devernay.free.fr/cours/vision/pdf/vision1_intro.pdf)
-- [Vision par Ordinateur Slides](https://www.lirmm.fr/~wpuech/enseignement/DUT_info/VISION.pdf)
-- [Vision par Ordinateur: Outils Fondamentaux](http://perception.inrialpes.fr/~Horaud/livre-fichiersPS/VO-HoraudMonga.pdf)
-- [Fondements de la Vision par Ordinateur](http://info.usherbrooke.ca/ogodin/enseignement/imn459/chapitres/)
-- [Recherches en Vision par Ordinateur](https://tel.archives-ouvertes.fr/tel-00080457/file/hdr_soumis.pdf)
-- [Introduction à la Vision par Ordinateur](https://www.jcourtois.fr/uploads/report/Rapport_vision_par_ordinateur.pdf)
-- [Traitement d'images et Vision](https://www-lisic.univ-littoral.fr/~porebski/Vision%20et%20Traitement%20d%27images.pdf)
-- [Informatique Visuelle](https://team.inria.fr/steep/files/2015/03/c1_introduction_pretraitement_4pp.pdf)
-- [Interprétation et Vision Cognitive](http://wcours.gel.ulaval.ca/2015/a/GIF7002/default/5notes/diapositives/pdf_A15/lectures%20supplementaires/C01b.pdf)
-- [Vision par Ordinateur Introduction](https://www.iro.umontreal.ca/~roys/ift6145/intro-2x2.pdf)
-- [Introduction à la Vision Par Ordinateur](http://www.isir.upmc.fr/UserFiles/File/Sio/Vision%20-%20MIS/Intro_Vision.pdf)
-- [Vision par Ordinateur Project](http://stephane.ayache.perso.luminy.univ-amu.fr/zoom/cours/Cours/Deep/projet-vision.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [Visione Artificiale](http://www.dsi.unive.it/~pelillo/Didattica/Old%20Stuff/VisioneArtificiale/Slide/Lezione%201.pdf)
-- [Corso di Visione Artificiale](http://www.dsi.unive.it/~srotabul/files/vision/2010-2011/Visione-01-Introduzione.pdf)
-- [La Visione Artificiale](https://vision.unipv.it/corsi/VisioneArtificiale/lucidi/VA-02.pdf)
-- [La Visione Artificiale: Stato Dell'arte](http://services.area.trieste.it/docs/pubblicazioni/fusco.pdf)
-- [Visione Artificiale](http://imagelab.ing.unimore.it/imagelab/pdf/accademiascienze_2010.pdf)
-- [Materiale Luigi](http://unina.stidue.net/Elaborazione%20di%20Segnali%20Multimediali/Materiale/Luigi%20Di%20Stefano/)
-- [Università Degli Studi di Parma](http://www.cs.unipr.it/Informatica/Tesi/Fabio_Sozzi_20090422.pdf)
-</details>
-
-<details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [Lektorium TV](https://www.lektorium.tv/course/22847)
-- [Computer Vision](http://robocraft.ru/blog/computervision/)
-- [MSU](http://teacher.msu.ru/sites/default/files/resursy/%D0%9A%D0%BE%D0%BD%D1%83%D1%88%D0%B8%D0%BD%20%D0%90.%D0%A1.%20%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B5%20%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B5.pdf)
-- [Presentation](http://is.ifmo.ru/news/news_folder/20171209.pdf)
-- [Ingularis Lab](https://www.singularis-lab.com/docs/materials/CV.Introdution.pdf)
-- [Machinelearning.ru](http://www.machinelearning.ru/wiki/images/7/70/VisilterIDP18.pdf)
 </details>

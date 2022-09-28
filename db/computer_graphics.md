@@ -96,6 +96,32 @@
 </details>
 
 <details>
+  <summary>German</summary>
+  
+  ### Materials
+- [TU-Ilmenau](https://www.tu-ilmenau.de/en/computer-graphics-group/lehre/ws2012/cg1/)
+- [LMU](https://www.medien.ifi.lmu.de/lehre/ss13/cg1/)
+- [Computergrafik](https://www.cs.umd.edu/~zwicker/courses/computergraphics/03_Projection.pdf)
+- [Perspectives in CG](https://www.st.cs.uni-saarland.de/edu/perspektiven/seidel.pdf)
+- [Computergrafik, Universität Osnabrück](http://www-lehre.inf.uos.de/~cg/2010/PDF/skript.pdf)
+- [Computergrafik und Farbmetrik](http://farbe.li.tu-berlin.de/BUA4BF.PDF)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [Computer Grafica](https://www.accademiadicatania.com/admin/upload/file/3p8i_APPUNTI_COMPUTER_ART.pdf)
+- [Matematica e Computer Grafica](http://www.matematica.it/impedovo/articoli/Matematica%20e%20computer%20grafica.pdf)
+- [Presentazione](http://www.uccellacci.it/download_corso_grafica_2007/presentazione_def_compressa.pdf)
+- [Introduzione alla CG](http://www.biplab.unisa.it/portal/attachments/article/102/01-Introduzione_I.pdf)
+- [Informatica Grafica](http://www00.unibg.it/dati/corsi/38001/37367-01-computer-graphics.pdf)
+- [Manuale di Grafica Digitale](https://www.uniroma1.it/sites/default/files/allegati/Manualegraficadigitale_150515.pdf)
+- [Grafica Vettoriale](http://www.dmi.unict.it/fstanco/Multimedia/Approfondimento%202%20-%20immagini%20vettoriali.pdf)
+- [Fondamenti di Grafica Tridimensionale](http://vcg.isti.cnr.it/~cignoni/FGT1112/)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -118,42 +144,6 @@
 </details>
 
 <details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Computación Gráfica Fundamentos](http://www.codecompiling.net/files/slides/CG_clase_01_intro.pdf)
-- [Introducción a la Computación Gráfica](https://www.fing.edu.uy/inco/cursos/compgraf/)
-- [Introducción a la Computación Gráfica](https://www.fing.edu.uy/inco/cursos/compgraf/Clases/2012/04-Hardware%20Grafico.pdf)
-- [Estado del Arte: CG](http://jeuazarru.com/wp-content/uploads/2014/10/computer_graphics.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [Computer Grafica](https://www.accademiadicatania.com/admin/upload/file/3p8i_APPUNTI_COMPUTER_ART.pdf)
-- [Matematica e Computer Grafica](http://www.matematica.it/impedovo/articoli/Matematica%20e%20computer%20grafica.pdf)
-- [Presentazione](http://www.uccellacci.it/download_corso_grafica_2007/presentazione_def_compressa.pdf)
-- [Introduzione alla CG](http://www.biplab.unisa.it/portal/attachments/article/102/01-Introduzione_I.pdf)
-- [Informatica Grafica](http://www00.unibg.it/dati/corsi/38001/37367-01-computer-graphics.pdf)
-- [Manuale di Grafica Digitale](https://www.uniroma1.it/sites/default/files/allegati/Manualegraficadigitale_150515.pdf)
-- [Grafica Vettoriale](http://www.dmi.unict.it/fstanco/Multimedia/Approfondimento%202%20-%20immagini%20vettoriali.pdf)
-- [Fondamenti di Grafica Tridimensionale](http://vcg.isti.cnr.it/~cignoni/FGT1112/)
-</details>
-
-<details>
-  <summary>German</summary>
-  
-  ### Materials
-- [TU-Ilmenau](https://www.tu-ilmenau.de/en/computer-graphics-group/lehre/ws2012/cg1/)
-- [LMU](https://www.medien.ifi.lmu.de/lehre/ss13/cg1/)
-- [Computergrafik](https://www.cs.umd.edu/~zwicker/courses/computergraphics/03_Projection.pdf)
-- [Perspectives in CG](https://www.st.cs.uni-saarland.de/edu/perspektiven/seidel.pdf)
-- [Computergrafik, Universität Osnabrück](http://www-lehre.inf.uos.de/~cg/2010/PDF/skript.pdf)
-- [Computergrafik und Farbmetrik](http://farbe.li.tu-berlin.de/BUA4BF.PDF)
-</details>
-
-<details>
   <summary>Russian</summary>
   
   ### Materials
@@ -169,4 +159,14 @@
 - [Book Web Master](http://bookwebmaster.narod.ru/graphics.html)
 - [Komp Grafike](http://www.volpi.ru/files/vkm/vkm_tutorial/vkm_kurs_lekciy_po_komp_grafike.pdf)
 - [Komp Grafike 886](http://old.kpfu.ru/lib/bin_files/comp_graph!886.pdf)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [Computación Gráfica Fundamentos](http://www.codecompiling.net/files/slides/CG_clase_01_intro.pdf)
+- [Introducción a la Computación Gráfica](https://www.fing.edu.uy/inco/cursos/compgraf/)
+- [Introducción a la Computación Gráfica](https://www.fing.edu.uy/inco/cursos/compgraf/Clases/2012/04-Hardware%20Grafico.pdf)
+- [Estado del Arte: CG](http://jeuazarru.com/wp-content/uploads/2014/10/computer_graphics.pdf)
 </details>

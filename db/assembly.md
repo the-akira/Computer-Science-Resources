@@ -75,27 +75,6 @@
 </details>
 
 <details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Programación en Ensamblador](https://www.exabyteinformatica.com/uoc/Informatica/Estructura_de_computadores/Estructura_de_computadores_(Modulo_6).pdf)
-- [Instrucciones en Ensamblador](http://www.sc.ehu.es/sbweb/webcentro/automatica/web_8051/Contenido/set_8051/set8051.htm)
-- [El Ensamblador](https://upcommons.upc.edu/bitstream/handle/2117/115067/asm.pdf)
-- [Programación en Ensamblador](http://www.dacya.ucm.es/hidalgo/estructura/ensamblador.pdf)
-- [Programación en Assembler](http://curso-cm.speccy.org/fr_cap4.html)
-- [Ensamblador Conceptos Básicos](https://previa.uclm.es/profesorado/licesio/Docencia/ETC/17_CBas-ProgEnsamblador_itis.pdf)
-</details>
-
-<details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [Assembly Iniciante](http://www.avr-asm-download.de/beginner_pt.pdf)
-- [Introdução à Programção em Assembly](https://fenix.tecnico.ulisboa.pt/downloadFile/1970943312312149/3-intro-assembly.pdf)
-- [Linguagem Assembly](http://www.dca.fee.unicamp.br/~leopini/DISCIPLINAS/EA869/2018-1/c3-ARM-3.pdf)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -108,6 +87,14 @@
 - [Architecture et Langage Assembleur](http://www-lisic.univ-littoral.fr/~ramat/downloads/archi.pdf)
 - [Initiation à l'assembleur](http://www2.ift.ulaval.ca/~marchand/ift17583/Supplement2.pdf)
 - [Assembleur x86](http://ecariou.perso.univ-pau.fr/cours/archi/cours-8-assembleur.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Linux Assembler](http://www.lcs-chemie.de/assemb.htm)
+- [Assembler](http://assembler.hpfsc.de/)
 </details>
 
 <details>
@@ -124,6 +111,15 @@
 </details>
 
 <details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
+- [Assembly Iniciante](http://www.avr-asm-download.de/beginner_pt.pdf)
+- [Introdução à Programção em Assembly](https://fenix.tecnico.ulisboa.pt/downloadFile/1970943312312149/3-intro-assembly.pdf)
+- [Linguagem Assembly](http://www.dca.fee.unicamp.br/~leopini/DISCIPLINAS/EA869/2018-1/c3-ARM-3.pdf)
+</details>
+
+<details>
   <summary>Russian</summary>
   
   ### Materials
@@ -136,9 +132,13 @@
 </details>
 
 <details>
-  <summary>German</summary>
+  <summary>Spanish</summary>
   
   ### Materials
-- [Linux Assembler](http://www.lcs-chemie.de/assemb.htm)
-- [Assembler](http://assembler.hpfsc.de/)
+- [Programación en Ensamblador](https://www.exabyteinformatica.com/uoc/Informatica/Estructura_de_computadores/Estructura_de_computadores_(Modulo_6).pdf)
+- [Instrucciones en Ensamblador](http://www.sc.ehu.es/sbweb/webcentro/automatica/web_8051/Contenido/set_8051/set8051.htm)
+- [El Ensamblador](https://upcommons.upc.edu/bitstream/handle/2117/115067/asm.pdf)
+- [Programación en Ensamblador](http://www.dacya.ucm.es/hidalgo/estructura/ensamblador.pdf)
+- [Programación en Assembler](http://curso-cm.speccy.org/fr_cap4.html)
+- [Ensamblador Conceptos Básicos](https://previa.uclm.es/profesorado/licesio/Docencia/ETC/17_CBas-ProgEnsamblador_itis.pdf)
 </details>

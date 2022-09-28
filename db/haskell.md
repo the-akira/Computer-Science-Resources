@@ -80,6 +80,48 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [Open Class Rooms](https://openclassrooms.com/fr/courses/1385376-apprenez-la-programmation-fonctionnelle-avec-haskell)
+- [La Programmation Fonctionnelle en Haskell](https://medium.com/%C3%A9cosyst%C3%A8me-des-langages-de-programmation/la-programmation-fonctionnelle-en-haskell-b14d88bd1a76)
+- [Le Langage de Programmation Haskell](https://studylibfr.com/doc/1934514/le-langage-de-programmation-haskell)
+- [Apprendre Haskell](http://www.christian-faure.net/2010/10/17/apprendre-haskell/)
+- [64 Exercises de Programmation en Haskell](http://web4.ensiie.fr/~gacogne/haskell.pdf)
+- [Programmation Fonctionnelle en Haskell](https://karczmarczuk.users.greyc.fr/matrs/Fuprog/Doc/Haskell-1.pdf)
+- [Les Bases de Haskell](http://www-lisic.univ-littoral.fr/~verel/TEACHING/18-19/PF-M2app/cours01.pdf)
+- [Programmation Fonctionnelle (Haskell)](https://staff.info.unamur.be/wva/cours/2109/fp.pdf)
+- [IFT 2035](https://www.iro.umontreal.ca/~monnier/2035/)
+- [Programmation Fonctionnelle et Haskell for Dummies](https://download.tuxfamily.org/tehessinmath/les%20pdf/MD1_13_hs_beamer.pdf)
+- [Le Langage de Programmation Haskell](https://www.bortzmeyer.org/files/haskell-PRINT.pdf)
+- [Introduction à Haskell](http://www.lacim.uqam.ca/~saliola/petite-ecole/documents/intro-haskell.pdf)
+- [Programmation Fonctionnelle / Haskell](http://blog.clement.delafargue.name/files/intro_fp.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Haskell in 5 Schritten](https://wiki.haskell.org/Haskell_in_5_Schritten)
+- [Programmieren in Haskell](https://www.techfak.uni-bielefeld.de/ags/pi/lehre/AuDIWS07/folien_hs/Kapitel2_Haskell_Einstieg.pdf)
+- [Programmierung mit Haskell](http://www.ips.tu-braunschweig.de/struckmann/progfor11/haskell.pdf)
+- [Einführung in Haskell](http://www.inf.fu-berlin.de/lehre/WS12/ALP1/lectures/V2_ALP1_Haskell_Einf%C3%BChrung_WS12.pdf)
+- [Funktionale Programmierung mit Haskell](https://siemens-gymnasium-berlin.de/sites/default/files/Artikel_oeffentlich/haskell_komplett-seite-1-48-neu.pdf)
+- [Hallo Haskell](https://ob.cs.hm.edu/public/fun/slides/02_HalloHaskell.pdf)
+- [Haskell for Hackers](https://entropia.de/images/b/b4/090627-gpn-haskell.pdf)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [Esempi di Programmazione Haskell](https://users.dimi.uniud.it/~marco.comini/Students/Examples/Esempi-di-Programmazione-Haskell.pdf)
+- [ESERCIZI PROLOG](http://www.dipmat.unict.it/~barba/PROG-LANG/ESERCIZI/EserciziPROLOG/esercizi.html)
+- [LP Haskell](http://gianfranco-lamperti.unibs.it/lp/lezioni/lp-haskell.pdf)
+- [Concorrenza e Parallelismo in Haskell](http://tesi.cab.unipd.it/43126/1/Tesina_Bertipaglia_494648-IF.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -102,6 +144,17 @@
 </details>
 
 <details>
+  <summary>Russian</summary>
+  
+  ### Materials
+- [Anton-K](https://anton-k.github.io/ru-haskell-book/book/home.html)
+- [Progopedia](http://progopedia.ru/language/haskell/)
+- [Nsunc](https://wiki.nsunc.com/haskell)
+- [Haskell Presentation](http://ssd.sscc.ru/sites/default/files/content/attach/427/osnovy_programmirovaniya_haskell.pdf)
+- [Practice FP](http://fprog.ru/2009/issue1/practice-fp-1-screen.pdf)
+</details>
+
+<details>
   <summary>Spanish</summary>
   
   ### Materials
@@ -116,57 +169,4 @@
 - [Tutorial Haskell](http://ferestrepoca.github.io/paradigmas-de-programacion/progfun/tutoriales/Haskell/Haskell.pdf)
 - [Introducción al Lenguaje Haskell](http://www.x.edu.uy/inet/IntHaskell98.pdf)
 - [Simulación de Programas Paralelos en Haskell](https://dcc.fceia.unr.edu.ar/sites/default/files/tesinas/76.pdf)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [Open Class Rooms](https://openclassrooms.com/fr/courses/1385376-apprenez-la-programmation-fonctionnelle-avec-haskell)
-- [La Programmation Fonctionnelle en Haskell](https://medium.com/%C3%A9cosyst%C3%A8me-des-langages-de-programmation/la-programmation-fonctionnelle-en-haskell-b14d88bd1a76)
-- [Le Langage de Programmation Haskell](https://studylibfr.com/doc/1934514/le-langage-de-programmation-haskell)
-- [Apprendre Haskell](http://www.christian-faure.net/2010/10/17/apprendre-haskell/)
-- [64 Exercises de Programmation en Haskell](http://web4.ensiie.fr/~gacogne/haskell.pdf)
-- [Programmation Fonctionnelle en Haskell](https://karczmarczuk.users.greyc.fr/matrs/Fuprog/Doc/Haskell-1.pdf)
-- [Les Bases de Haskell](http://www-lisic.univ-littoral.fr/~verel/TEACHING/18-19/PF-M2app/cours01.pdf)
-- [Programmation Fonctionnelle (Haskell)](https://staff.info.unamur.be/wva/cours/2109/fp.pdf)
-- [IFT 2035](https://www.iro.umontreal.ca/~monnier/2035/)
-- [Programmation Fonctionnelle et Haskell for Dummies](https://download.tuxfamily.org/tehessinmath/les%20pdf/MD1_13_hs_beamer.pdf)
-- [Le Langage de Programmation Haskell](https://www.bortzmeyer.org/files/haskell-PRINT.pdf)
-- [Introduction à Haskell](http://www.lacim.uqam.ca/~saliola/petite-ecole/documents/intro-haskell.pdf)
-- [Programmation Fonctionnelle / Haskell](http://blog.clement.delafargue.name/files/intro_fp.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [Esempi di Programmazione Haskell](https://users.dimi.uniud.it/~marco.comini/Students/Examples/Esempi-di-Programmazione-Haskell.pdf)
-- [ESERCIZI PROLOG](http://www.dipmat.unict.it/~barba/PROG-LANG/ESERCIZI/EserciziPROLOG/esercizi.html)
-- [LP Haskell](http://gianfranco-lamperti.unibs.it/lp/lezioni/lp-haskell.pdf)
-- [Concorrenza e Parallelismo in Haskell](http://tesi.cab.unipd.it/43126/1/Tesina_Bertipaglia_494648-IF.pdf)
-</details>
-
-<details>
-  <summary>German</summary>
-  
-  ### Materials
-- [Haskell in 5 Schritten](https://wiki.haskell.org/Haskell_in_5_Schritten)
-- [Programmieren in Haskell](https://www.techfak.uni-bielefeld.de/ags/pi/lehre/AuDIWS07/folien_hs/Kapitel2_Haskell_Einstieg.pdf)
-- [Programmierung mit Haskell](http://www.ips.tu-braunschweig.de/struckmann/progfor11/haskell.pdf)
-- [Einführung in Haskell](http://www.inf.fu-berlin.de/lehre/WS12/ALP1/lectures/V2_ALP1_Haskell_Einf%C3%BChrung_WS12.pdf)
-- [Funktionale Programmierung mit Haskell](https://siemens-gymnasium-berlin.de/sites/default/files/Artikel_oeffentlich/haskell_komplett-seite-1-48-neu.pdf)
-- [Hallo Haskell](https://ob.cs.hm.edu/public/fun/slides/02_HalloHaskell.pdf)
-- [Haskell for Hackers](https://entropia.de/images/b/b4/090627-gpn-haskell.pdf)
-</details>
-
-<details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [Anton-K](https://anton-k.github.io/ru-haskell-book/book/home.html)
-- [Progopedia](http://progopedia.ru/language/haskell/)
-- [Nsunc](https://wiki.nsunc.com/haskell)
-- [Haskell Presentation](http://ssd.sscc.ru/sites/default/files/content/attach/427/osnovy_programmirovaniya_haskell.pdf)
-- [Practice FP](http://fprog.ru/2009/issue1/practice-fp-1-screen.pdf)
 </details>

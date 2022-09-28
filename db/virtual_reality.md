@@ -37,6 +37,37 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [Réalité Virtuelle](http://igm.univ-mlv.fr/~biri/Enseignement/MII1/TDPdf/RV_intro_et_systeme.pdf)
+- [Réalité Virtuelle: Autonomie in Virtuo](https://www.enib.fr/~tisseau/doc/hdr/hdrJT.pdf)
+- [Réalité Virtuelle et Réalité Augmentée](https://www.enssib.fr/bibliotheque-numerique/documents/68098-realite-virtuelle-et-realite-augmentee-en-bibliotheque-panorama-et-perspectives.pdf)
+- [Interaction en Réalité Virtuelle](https://perso.univ-rennes1.fr/thierry.duval/Documents/Interaction3DenRV.pdf)
+- [Introduction à la Réalité Virtuelle](https://www.lri.fr/~cfleury/teaching/et5-info/RVI-2016/slides/01_RVI_Introduction_RV.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Virtuelle Realität und E-Learning](https://www.e-teaching.org/didaktik/gestaltung/vr/vr.pdf)
+- [VR/AR](https://projektzukunft.berlin.de/fileadmin/user_upload/pdf/studien/VR_Zusammenfassung_final.pdf)
+- [Virtuelle Realität](https://www.techfak.uni-bielefeld.de/ags/wbski/lehre/digiSA/SS07/MMI07/MMI07_files/Latoschik-VR-Mainz.pdf)
+- [Immersion und Interaktion in Virtual Reality Anwendungen](https://www.leipzigschoolofmedia.de/fileadmin/content/Dokumente/Masterarbeiten/MM/Masterarbeit_Kaulich-Christian_2015.pdf)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [Introduzione alla Realtá Aumentada](https://vision.unipv.it/corsi/InformationTechnology/IT_AR.pdf)
+- [Realtá Virtuale: Applicazioni](http://percro.sssup.it/marcello/didattica/AA2010/4_Applicazioni_A.pdf)
+- [Introduzione alla Realtá Virtuale](http://www.mimos.it/chirurgiavirtuale/DePaolis.pdf)
+- [VR Slides](http://homes.dsi.unimi.it/~borghese/Teaching/IntelligentSystems/Slides/VR/)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -49,6 +80,15 @@
 - [Realidade Virtual: Introdução e Conceitos](http://homepage.ufp.pt/lmbg/textos/vr_intro.pdf)
 - [Estudos sobre Realidade Virtual](https://www.ifi.unicamp.br/~lunazzi/prof_lunazzi/Estereoscopia/151203-Relatorio_PROFIS_2015.pdf)
 - [Aulas de Realidade Virtual PUC-RS](https://www.inf.pucrs.br/~pinho/CGII/PDFs/)
+</details>
+
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
+- [Braslavski VR](http://www.kansas.ru/vr/braslavski_vr.pdf)
+- [Virtual and Mixed Reality Systems](https://books.ifmo.ru/file/pdf/2321.pdf)
+- [Virtual Land](http://virtualland.ru/blog)
 </details>
 
 <details>
@@ -68,44 +108,4 @@
 - [Realidad Virtual y Aumentada](http://mim.promexico.gob.mx/work/models/mim/templates-new/Publicaciones/Notas/Usos-aplicaciones-realidad-virtual.pdf)
 - [Realidad Virtual 2016](http://juanbarambones.com/wp-content/uploads/2017/01/realidad-virtual-2016-V1.pdf)
 - [Realidad Digital](https://www2.deloitte.com/content/dam/Deloitte/co/Documents/technology/Realidad%20digital%202018.pdf)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [Réalité Virtuelle](http://igm.univ-mlv.fr/~biri/Enseignement/MII1/TDPdf/RV_intro_et_systeme.pdf)
-- [Réalité Virtuelle: Autonomie in Virtuo](https://www.enib.fr/~tisseau/doc/hdr/hdrJT.pdf)
-- [Réalité Virtuelle et Réalité Augmentée](https://www.enssib.fr/bibliotheque-numerique/documents/68098-realite-virtuelle-et-realite-augmentee-en-bibliotheque-panorama-et-perspectives.pdf)
-- [Interaction en Réalité Virtuelle](https://perso.univ-rennes1.fr/thierry.duval/Documents/Interaction3DenRV.pdf)
-- [Introduction à la Réalité Virtuelle](https://www.lri.fr/~cfleury/teaching/et5-info/RVI-2016/slides/01_RVI_Introduction_RV.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [Introduzione alla Realtá Aumentada](https://vision.unipv.it/corsi/InformationTechnology/IT_AR.pdf)
-- [Realtá Virtuale: Applicazioni](http://percro.sssup.it/marcello/didattica/AA2010/4_Applicazioni_A.pdf)
-- [Introduzione alla Realtá Virtuale](http://www.mimos.it/chirurgiavirtuale/DePaolis.pdf)
-- [VR Slides](http://homes.dsi.unimi.it/~borghese/Teaching/IntelligentSystems/Slides/VR/)
-</details>
-
-<details>
-  <summary>German</summary>
-  
-  ### Materials
-- [Virtuelle Realität und E-Learning](https://www.e-teaching.org/didaktik/gestaltung/vr/vr.pdf)
-- [VR/AR](https://projektzukunft.berlin.de/fileadmin/user_upload/pdf/studien/VR_Zusammenfassung_final.pdf)
-- [Virtuelle Realität](https://www.techfak.uni-bielefeld.de/ags/wbski/lehre/digiSA/SS07/MMI07/MMI07_files/Latoschik-VR-Mainz.pdf)
-- [Immersion und Interaktion in Virtual Reality Anwendungen](https://www.leipzigschoolofmedia.de/fileadmin/content/Dokumente/Masterarbeiten/MM/Masterarbeit_Kaulich-Christian_2015.pdf)
-</details>
-
-<details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [Braslavski VR](http://www.kansas.ru/vr/braslavski_vr.pdf)
-- [Virtual and Mixed Reality Systems](https://books.ifmo.ru/file/pdf/2321.pdf)
-- [Virtual Land](http://virtualland.ru/blog)
 </details>

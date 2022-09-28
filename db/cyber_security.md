@@ -51,6 +51,42 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [Cours de Sécurité](https://doc.lagout.org/Others/Cours_securite%20informatique.pdf)
+- [Securite Informatique](https://www.eyrolles.com/Chapitres/9782212132335/Chap-1_Bloch.pdf)
+- [Introduction à la Securite](http://www.univ-tebessa.dz/fichiers/master/master_951.pdf)
+- [Cybersecurite](https://www.societe-informatique-de-france.fr/wp-content/uploads/2017/10/1024-no11-cybersecurite.pdf)
+- [La Securite de l'information](https://www.information-security.fr/quest-ce-que-la-securite-de-linformation/)
+- [Sécurité de l'information](http://www.assufrance.com/securite_de_l_information.php)
+- [Politique de Securite de L'Information](https://mern.gouv.qc.ca/publications/ministere/politique/securite-information.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Handbuch Computersicherheit](http://www.linke-buecher.de/texte/internet/Handbuch-Computersicherheit---von---www.raw.at-compsec-compsec.htm.pdf)
+- [Handbuch Computersicherheit 1.2](http://gipfelsoli.org/rcms_repos/Antirepression/COMPUTERSICHERHEIT-HANDBUCH-1.2.pdf)
+- [IT-Sicherheit mit System](https://www.quindata.com/fileadmin/user_upload/Quindata/Vortraege/Frau__Lang_IT-Sicherheit_mit_System__Stefanie_Lang_Fujitsu_v1.1.pdf)
+- [Informationssicherheit](http://www.lineas.de/gi-bs/vortraege/Sicherheitsvortrag_Braunschweig_V01.pdf)
+- [IT-Sicherheit](http://www.nm.ifi.lmu.de/teaching/Vorlesungen/2013ws/itsec/_skript/itsec-k2-v9.1.pdf)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [Portal Sicurezza](https://it.wikipedia.org/wiki/Portale:Sicurezza_informatica)
+- [Sicurezza Informatica](https://www.zerounoweb.it/analytics/data-management/sicurezza-informatica-cioe-disponibilita-integrita-e-riservatezza-dei-dati/)
+- [Cap 6 Sicurezza Informatica](http://www.dcuci.univr.it/documenti/OccorrenzaIns/matdid/matdid276908.pdf)
+- [CERT Italia](https://www.certnazionale.it/content/uploads/2015/01/minacce_regole_di_comportamento.pdf)
+- [Una Breve Introduzione](https://www.disi.unige.it/person/LagorioG/SicurezzaInformatica.pdf)
+- [La Sicurezza Informatica](http://security.polito.it/~lioy/01jem/TIGR_introsec_3x.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -68,6 +104,14 @@
 </details>
 
 <details>
+  <summary>Russian</summary>
+  
+  ### Materials
+- [KP.ru](https://www.kp.ru/guide/informatsionnaja-bezopasnost-predprijatija.html)
+- [Full Print](http://window.edu.ru/resource/775/77775/files/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D0%98%D0%91%20_%D0%9C%D0%93%D0%93%D0%A3_%20-%201.5.3%20_full-print_5_A5.pdf)
+</details>
+
+<details>
   <summary>Spanish</summary>
   
   ### Materials
@@ -79,48 +123,4 @@
 - [Cap 2 Seguridad Informática](http://www.ptolomeo.unam.mx:8080/xmlui/bitstream/handle/132.248.52.100/250/A5.pdf?sequence=5)
 - [Ciberdefensa-Ciberseguridad](http://www.cari.org.ar/pdf/ciberdefensa_riesgos_amenazas.pdf)
 - [Ciberseguridad](http://www.ieee.es/Galerias/fichero/OtrasPublicaciones/Nacional/2018/Libro-Ciberseguridad_A.Corletti_nov2017.pd.pdf)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [Cours de Sécurité](https://doc.lagout.org/Others/Cours_securite%20informatique.pdf)
-- [Securite Informatique](https://www.eyrolles.com/Chapitres/9782212132335/Chap-1_Bloch.pdf)
-- [Introduction à la Securite](http://www.univ-tebessa.dz/fichiers/master/master_951.pdf)
-- [Cybersecurite](https://www.societe-informatique-de-france.fr/wp-content/uploads/2017/10/1024-no11-cybersecurite.pdf)
-- [La Securite de l'information](https://www.information-security.fr/quest-ce-que-la-securite-de-linformation/)
-- [Sécurité de l'information](http://www.assufrance.com/securite_de_l_information.php)
-- [Politique de Securite de L'Information](https://mern.gouv.qc.ca/publications/ministere/politique/securite-information.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [Portal Sicurezza](https://it.wikipedia.org/wiki/Portale:Sicurezza_informatica)
-- [Sicurezza Informatica](https://www.zerounoweb.it/analytics/data-management/sicurezza-informatica-cioe-disponibilita-integrita-e-riservatezza-dei-dati/)
-- [Cap 6 Sicurezza Informatica](http://www.dcuci.univr.it/documenti/OccorrenzaIns/matdid/matdid276908.pdf)
-- [CERT Italia](https://www.certnazionale.it/content/uploads/2015/01/minacce_regole_di_comportamento.pdf)
-- [Una Breve Introduzione](https://www.disi.unige.it/person/LagorioG/SicurezzaInformatica.pdf)
-- [La Sicurezza Informatica](http://security.polito.it/~lioy/01jem/TIGR_introsec_3x.pdf)
-</details>
-
-<details>
-  <summary>German</summary>
-  
-  ### Materials
-- [Handbuch Computersicherheit](http://www.linke-buecher.de/texte/internet/Handbuch-Computersicherheit---von---www.raw.at-compsec-compsec.htm.pdf)
-- [Handbuch Computersicherheit 1.2](http://gipfelsoli.org/rcms_repos/Antirepression/COMPUTERSICHERHEIT-HANDBUCH-1.2.pdf)
-- [IT-Sicherheit mit System](https://www.quindata.com/fileadmin/user_upload/Quindata/Vortraege/Frau__Lang_IT-Sicherheit_mit_System__Stefanie_Lang_Fujitsu_v1.1.pdf)
-- [Informationssicherheit](http://www.lineas.de/gi-bs/vortraege/Sicherheitsvortrag_Braunschweig_V01.pdf)
-- [IT-Sicherheit](http://www.nm.ifi.lmu.de/teaching/Vorlesungen/2013ws/itsec/_skript/itsec-k2-v9.1.pdf)
-</details>
-
-<details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [KP.ru](https://www.kp.ru/guide/informatsionnaja-bezopasnost-predprijatija.html)
-- [Full Print](http://window.edu.ru/resource/775/77775/files/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0%20%D0%98%D0%91%20_%D0%9C%D0%93%D0%93%D0%A3_%20-%201.5.3%20_full-print_5_A5.pdf)
 </details>

@@ -64,44 +64,6 @@
 </details>
 
 <details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [Guia Completo de Java](https://www.devmedia.com.br/guia/linguagem-java/38169)
-- [Curso de Java](https://www.programacaoprogressiva.net/2012/08/curso-de-java.html)
-- [Programação Java](https://www.dm.ufscar.br/profs/waldeck/curso/java/)
-- [Curso de Programação em Java](http://portaldoprofessor.mec.gov.br/storage/materiais/0000014210.pdf)
-- [Programação em Java](http://www.faeterj-rio.edu.br/downloads/bbv/0031.pdf)
-- [Curso de Java](https://excript.com/curso-de-java.html)
-- [Programação Concorrente e Threads](https://www.caelum.com.br/apostila-java-orientacao-objetos/apendice-programacao-concorrente-e-threads/)
-- [Curso ITA](https://www.coursera.org/learn/orientacao-a-objetos-com-java)
-- [Java e Orientação a Objetos](https://www.caelum.com.br/download/caelum-java-objetos-fj11.pdf)
-- [Tutorial Java](http://www.ic.unicamp.br/~cmrubira/JAVATUT14PDF.pdf)
-- [Java Web](http://homepage.ufp.pt/lmbg/textos/java_intro.pdf)
-- [Java USP](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf)
-- [Apostila Java](http://jocivan.com.br/portal/wp-content/uploads/2016/04/APOSTILA_TS_DESENVOLVIMENTO_DE_SISTEMAS_Java.pdf)
-</details>
-
-<details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Curso de Java Básico](https://codigofacilito.com/cursos/JAVA)
-- [Wikibooks](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Java)
-- [Aprenda Java](http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/Java/Java2.pdf)
-- [Introducción a la programación con Java](http://www.juntos.gob.pe/modulos/mod_legal/archivos/1NTR0DUCC10N%20%204%20L4%209R06R4M4C10N%20C0N%20J4V4.pdf)
-- [Programación en el lenguaje Java](http://www.sc.ehu.es/sbweb/fisica/cursoJava/Intro.htm)
-- [Java Resources](https://users.dcc.uchile.cl/~lmateu/Java/)
-- [Java Ya](https://www.tutorialesprogramacionya.com/javaya/ing)
-- [Java desde Cero](http://mmc.geofisica.unam.mx/cursos/mcst-2007-II/Java/Java%20desde%20Cero.pdf)
-- [Introducción a la programación con Java](http://vios.dc.fi.udc.es/tp/ficheiros/java08.pdf)
-- [Java Avanzado](http://www.jtech.ua.es/j2ee/publico/lja-2012-13/wholesite.pdf)
-- [Ejercicios de Programación en Java](http://www.eduinnova.es/monografias2011/ene2011/java.pdf)
-- [Java Web](http://www.cua.uam.mx/pdfs/revistas_electronicas/libros-electronicos/2017/java/Java.pdf)
-- [Programación Estructurada en Java](https://www.tlm.unavarra.es/pluginfile.php/25152/mod_resource/content/0/apuntes_java.pdf)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -114,6 +76,19 @@
 - [Java](https://fr.wikiversity.org/wiki/Java)
 - [Cours Java](http://webpages.lss.supelec.fr/perso/hugues.mounier/Teaching/Java_files/JCours/polyBasesJavaHM.pdf)
 - [Orientée Object](http://www.i3s.unice.fr/~provilla/poo/resources/pdf/cours_01.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Java-Programmieren](http://www.java-programmieren.com/)
+- [Java Tutorial](http://www.gailer-net.de/tutorials/java/java-toc.html)
+- [Grundlagen der Programmierung](https://www4.fh-swf.de/media/java.pdf)
+- [Java 7](https://www.uni-trier.de/fileadmin/urt/doku/java/v70/Java7.pdf)
+- [Java Für Frischlinge](https://www.fs-fmc.kit.edu/sites/default/files/toolbox/Zusammenfassung_0.pdf)
+- [Grafikprogrammierung](http://www.ips.tu-braunschweig.de/struckmann/prog12/grafik.pdf)
+- [Objektorientierte](http://www.ips.tu-braunschweig.de/struckmann/prog12/objekt.pdf)
 </details>
 
 <details>
@@ -137,16 +112,22 @@
 </details>
 
 <details>
-  <summary>German</summary>
+  <summary>Portuguese</summary>
   
   ### Materials
-- [Java-Programmieren](http://www.java-programmieren.com/)
-- [Java Tutorial](http://www.gailer-net.de/tutorials/java/java-toc.html)
-- [Grundlagen der Programmierung](https://www4.fh-swf.de/media/java.pdf)
-- [Java 7](https://www.uni-trier.de/fileadmin/urt/doku/java/v70/Java7.pdf)
-- [Java Für Frischlinge](https://www.fs-fmc.kit.edu/sites/default/files/toolbox/Zusammenfassung_0.pdf)
-- [Grafikprogrammierung](http://www.ips.tu-braunschweig.de/struckmann/prog12/grafik.pdf)
-- [Objektorientierte](http://www.ips.tu-braunschweig.de/struckmann/prog12/objekt.pdf)
+- [Guia Completo de Java](https://www.devmedia.com.br/guia/linguagem-java/38169)
+- [Curso de Java](https://www.programacaoprogressiva.net/2012/08/curso-de-java.html)
+- [Programação Java](https://www.dm.ufscar.br/profs/waldeck/curso/java/)
+- [Curso de Programação em Java](http://portaldoprofessor.mec.gov.br/storage/materiais/0000014210.pdf)
+- [Programação em Java](http://www.faeterj-rio.edu.br/downloads/bbv/0031.pdf)
+- [Curso de Java](https://excript.com/curso-de-java.html)
+- [Programação Concorrente e Threads](https://www.caelum.com.br/apostila-java-orientacao-objetos/apendice-programacao-concorrente-e-threads/)
+- [Curso ITA](https://www.coursera.org/learn/orientacao-a-objetos-com-java)
+- [Java e Orientação a Objetos](https://www.caelum.com.br/download/caelum-java-objetos-fj11.pdf)
+- [Tutorial Java](http://www.ic.unicamp.br/~cmrubira/JAVATUT14PDF.pdf)
+- [Java Web](http://homepage.ufp.pt/lmbg/textos/java_intro.pdf)
+- [Java USP](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf)
+- [Apostila Java](http://jocivan.com.br/portal/wp-content/uploads/2016/04/APOSTILA_TS_DESENVOLVIMENTO_DE_SISTEMAS_Java.pdf)
 </details>
 
 <details>
@@ -161,4 +142,23 @@
 - [Javabasic](http://java-online.ru/java-basic.xhtml)
 - [Helloworld.ru](http://www.helloworld.ru/texts/comp/lang/java/java/03.htm)
 - [Wikiznanie](http://www.wikiznanie.ru/wp/index.php/Java)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [Curso de Java Básico](https://codigofacilito.com/cursos/JAVA)
+- [Wikibooks](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Java)
+- [Aprenda Java](http://www4.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/Java/Java2.pdf)
+- [Introducción a la programación con Java](http://www.juntos.gob.pe/modulos/mod_legal/archivos/1NTR0DUCC10N%20%204%20L4%209R06R4M4C10N%20C0N%20J4V4.pdf)
+- [Programación en el lenguaje Java](http://www.sc.ehu.es/sbweb/fisica/cursoJava/Intro.htm)
+- [Java Resources](https://users.dcc.uchile.cl/~lmateu/Java/)
+- [Java Ya](https://www.tutorialesprogramacionya.com/javaya/ing)
+- [Java desde Cero](http://mmc.geofisica.unam.mx/cursos/mcst-2007-II/Java/Java%20desde%20Cero.pdf)
+- [Introducción a la programación con Java](http://vios.dc.fi.udc.es/tp/ficheiros/java08.pdf)
+- [Java Avanzado](http://www.jtech.ua.es/j2ee/publico/lja-2012-13/wholesite.pdf)
+- [Ejercicios de Programación en Java](http://www.eduinnova.es/monografias2011/ene2011/java.pdf)
+- [Java Web](http://www.cua.uam.mx/pdfs/revistas_electronicas/libros-electronicos/2017/java/Java.pdf)
+- [Programación Estructurada en Java](https://www.tlm.unavarra.es/pluginfile.php/25152/mod_resource/content/0/apuntes_java.pdf)
 </details>

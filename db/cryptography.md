@@ -1,6 +1,13 @@
 # Cryptography
 
 <details>
+  <summary>Croatian</summary>
+  
+  ### Materials
+- [Kritografija](https://web.math.pmf.unizg.hr/~duje/kript/kriptografija.html)
+</details>
+
+<details>
   <summary>English</summary>
   
   ### Materials
@@ -74,44 +81,6 @@
 </details>
 
 <details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [Aldeia Numa Boa](https://web.archive.org/web/20161101153020/http://www.numaboa.com.br/criptografia/)
-- [Entendendo a Criptografia](http://www.ic.unicamp.br/~rdahab/cursos/mo421-mc889/2014-1s/Welcome_files/SlidesPaarPelzl-Portugues-pdfs/)
-- [Criptologia Divertida](http://www.mat.ufpb.br/bienalsbm/arquivos/Oficinas/PedroMalagutti-TemasInterdisciplinares/Aprendendo_Criptologia_de_Forma_Divertida_Final.pdf)
-- [Criptografia, Segurança de Dados e Privacidade](https://www.cos.ufrj.br/uploadfile/1364224388.pdf)
-- [Apostila Criptografia](http://www.obmep.org.br/docs/apostila7.pdf)
-- [Artigo Criptografia](http://www.ucb.br/sites/100/103/TCC/22005/WaldizarBorgesdeAraujoFranco.pdf)
-- [Criptografia e Matemática](http://repositorio.ul.pt/bitstream/10451/3647/1/ulfc055857_tm_Victor_Fiarresga.pdf)
-- [Oficina de Criptografia](https://encripta.org/tatui.pdf)
-- [Números Primos e Algoritmos](https://impa.br/wp-content/uploads/2017/04/PM_04.pdf)
-- [Criptografia em Sistemas de Arquivos](http://www.lisha.ufsc.br/teaching/os/ine5412-2008-2/work/cryptfs.pdf)
-- [Criptografia RSA](https://www.lume.ufrgs.br/bitstream/handle/10183/110014/000951896.pdf)
-- [Criptografia via Curvas Elípticas](http://www2.unirio.br/unirio/ccet/profmat/tcc/2011/TCCSergioCorreia.pdf)
-</details>
-
-<details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Introducción a la criptografía](http://www.dma.fi.upm.es/recursos/aplicaciones/matematica_discreta/web/aritmetica_modular/criptografia.html)
-- [Qué es la Criptografía](https://tecnologia-informatica.com/que-es-la-criptografia/)
-- [Ecured, Criptografía](https://www.ecured.cu/Criptograf%C3%ADa)
-- [Criptografía Para Principiantes](http://www.math.com.mx/criptografia.html)
-- [Criptografía: si no existiera, habría que inventarla](http://www.fgcsic.es/lychnos/es_es/articulos/criptografia_si_no_existiera_habria_que_inventarla)
-- [Breve historia de la criptografía](https://www.eldiario.es/turing/criptografia/Breve-historia-criptografia_0_261773822.html)
-- [Criptografía y Métodos de Crifado](http://www3.uah.es/libretics/concurso2014/files2014/Trabajos/Criptografia%20y%20Metodos%20de%20Cifrado.pdf)
-- [La Criptografía Clásica](http://www.interaktiv.cl/blog/wp-content/uploads/2011/08/9_Criptografia_clasica.pdf)
-- [Criptografía Qué es](http://www.neuquen.gov.ar/seguridadinformatica/pdf/Criptografia,%20que%20es,%20usos%20y%20beneficios%20-%20Claudia%20Rozas.pdf)
-- [Universidad de la Rioja](https://biblioteca.unirioja.es/tfe_e/TFE002200.pdf)
-- [Criptografía de Clave Secreta](http://digital.csic.es/bitstream/10261/24545/1/Flujo_1.pdf)
-- [Criptografía para Principiantes](http://spi1.nisu.org/recop/www.seguridata.com/pdf/cbasica.pdf)
-- [Introducción](http://webdiis.unizar.es/~ftricas/Asignaturas/seguridadD/Transparencias/criptografiaElviraMayordomo.pdf)
-- [Criptografía y Seguridad](http://www.grc.upv.es/biblioteca/cripto.pdf)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -134,6 +103,19 @@
 </details>
 
 <details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Kryptowissen](https://www.kryptowissen.de/kryptographie.html)
+- [Krypto](http://www.ph-ludwigsburg.de/wp/kuntze/thstlk/krypto.htm)
+- [Krytographie I](http://www.cits.rub.de/imperia/md/content/may/paper/krypto_i.pdf)
+- [Einführung in die Kryptographie](https://www.marchfelderbank.at/m040/internet/downloads/internet_banking/introtocrypto.pdf)
+- [Grundlagen der Kryptographie](https://people.ee.ethz.ch/~plattner/Kursunterlagen/SEC/Grundlagen.pdf)
+- [Angewandte Kryptographie](http://www.hs-weingarten.de/~ertel/kryptobuch/kryptobuch-ertel-folien.pdf)
+- [Kryptologie](https://www.tinohempel.de/info/info/kryptografie/download/krypto.pdf)
+</details>
+
+<details>
   <summary>Italian</summary>
   
   ### Materials
@@ -152,16 +134,21 @@
 </details>
 
 <details>
-  <summary>German</summary>
+  <summary>Portuguese</summary>
   
   ### Materials
-- [Kryptowissen](https://www.kryptowissen.de/kryptographie.html)
-- [Krypto](http://www.ph-ludwigsburg.de/wp/kuntze/thstlk/krypto.htm)
-- [Krytographie I](http://www.cits.rub.de/imperia/md/content/may/paper/krypto_i.pdf)
-- [Einführung in die Kryptographie](https://www.marchfelderbank.at/m040/internet/downloads/internet_banking/introtocrypto.pdf)
-- [Grundlagen der Kryptographie](https://people.ee.ethz.ch/~plattner/Kursunterlagen/SEC/Grundlagen.pdf)
-- [Angewandte Kryptographie](http://www.hs-weingarten.de/~ertel/kryptobuch/kryptobuch-ertel-folien.pdf)
-- [Kryptologie](https://www.tinohempel.de/info/info/kryptografie/download/krypto.pdf)
+- [Aldeia Numa Boa](https://web.archive.org/web/20161101153020/http://www.numaboa.com.br/criptografia/)
+- [Entendendo a Criptografia](http://www.ic.unicamp.br/~rdahab/cursos/mo421-mc889/2014-1s/Welcome_files/SlidesPaarPelzl-Portugues-pdfs/)
+- [Criptologia Divertida](http://www.mat.ufpb.br/bienalsbm/arquivos/Oficinas/PedroMalagutti-TemasInterdisciplinares/Aprendendo_Criptologia_de_Forma_Divertida_Final.pdf)
+- [Criptografia, Segurança de Dados e Privacidade](https://www.cos.ufrj.br/uploadfile/1364224388.pdf)
+- [Apostila Criptografia](http://www.obmep.org.br/docs/apostila7.pdf)
+- [Artigo Criptografia](http://www.ucb.br/sites/100/103/TCC/22005/WaldizarBorgesdeAraujoFranco.pdf)
+- [Criptografia e Matemática](http://repositorio.ul.pt/bitstream/10451/3647/1/ulfc055857_tm_Victor_Fiarresga.pdf)
+- [Oficina de Criptografia](https://encripta.org/tatui.pdf)
+- [Números Primos e Algoritmos](https://impa.br/wp-content/uploads/2017/04/PM_04.pdf)
+- [Criptografia em Sistemas de Arquivos](http://www.lisha.ufsc.br/teaching/os/ine5412-2008-2/work/cryptfs.pdf)
+- [Criptografia RSA](https://www.lume.ufrgs.br/bitstream/handle/10183/110014/000951896.pdf)
+- [Criptografia via Curvas Elípticas](http://www2.unirio.br/unirio/ccet/profmat/tcc/2011/TCCSergioCorreia.pdf)
 </details>
 
 <details>
@@ -177,8 +164,21 @@
 </details>
 
 <details>
-  <summary>Croatian</summary>
+  <summary>Spanish</summary>
   
   ### Materials
-- [Kritografija](https://web.math.pmf.unizg.hr/~duje/kript/kriptografija.html)
+- [Introducción a la criptografía](http://www.dma.fi.upm.es/recursos/aplicaciones/matematica_discreta/web/aritmetica_modular/criptografia.html)
+- [Qué es la Criptografía](https://tecnologia-informatica.com/que-es-la-criptografia/)
+- [Ecured, Criptografía](https://www.ecured.cu/Criptograf%C3%ADa)
+- [Criptografía Para Principiantes](http://www.math.com.mx/criptografia.html)
+- [Criptografía: si no existiera, habría que inventarla](http://www.fgcsic.es/lychnos/es_es/articulos/criptografia_si_no_existiera_habria_que_inventarla)
+- [Breve historia de la criptografía](https://www.eldiario.es/turing/criptografia/Breve-historia-criptografia_0_261773822.html)
+- [Criptografía y Métodos de Crifado](http://www3.uah.es/libretics/concurso2014/files2014/Trabajos/Criptografia%20y%20Metodos%20de%20Cifrado.pdf)
+- [La Criptografía Clásica](http://www.interaktiv.cl/blog/wp-content/uploads/2011/08/9_Criptografia_clasica.pdf)
+- [Criptografía Qué es](http://www.neuquen.gov.ar/seguridadinformatica/pdf/Criptografia,%20que%20es,%20usos%20y%20beneficios%20-%20Claudia%20Rozas.pdf)
+- [Universidad de la Rioja](https://biblioteca.unirioja.es/tfe_e/TFE002200.pdf)
+- [Criptografía de Clave Secreta](http://digital.csic.es/bitstream/10261/24545/1/Flujo_1.pdf)
+- [Criptografía para Principiantes](http://spi1.nisu.org/recop/www.seguridata.com/pdf/cbasica.pdf)
+- [Introducción](http://webdiis.unizar.es/~ftricas/Asignaturas/seguridadD/Transparencias/criptografiaElviraMayordomo.pdf)
+- [Criptografía y Seguridad](http://www.grc.upv.es/biblioteca/cripto.pdf)
 </details>

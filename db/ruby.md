@@ -55,6 +55,37 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [OpenClassRooms](https://openclassrooms.com/fr/courses/2913686-lancez-vous-dans-la-programmation-avec-ruby)
+- [Programmation Ruby](https://www.supinfo.com/articles/single/5539-programmation-ruby)
+- [Ruby](https://www.scriptol.fr/programmation/ruby.php)
+- [Le Langage Ruby](https://www.alphorm.com/Upload/slideshare/alphorm.com-Support-de-la-formation-RubySS.pdf)
+- [Programmation Ruby](https://upload.wikimedia.org/wikipedia/commons/d/d7/Programmation_Ruby-fr.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Ruby Grundlagen](http://b-simple.de/download/ruby.pdf)
+- [Praxiswissen Ruby](https://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf)
+- [Programmieren mit Ruby](https://www.guug.de/veranstaltungen/ffg2002/papers/ffg2002-roehrl.pdf)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [Guida Ruby](https://www.html.it/guide/guida-ruby/)
+- [Panoramica Ruby](https://www.flameeyes.eu/articles/ld-ruby.pdf)
+- [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
+- [Introduzione  al  linguaggio  Ruby](http://www.fisica.unipg.it/borromeo/Appunti/FisComp/FisComp2013/pdf/ruby.pdf)
+- [Ruby on Rails](http://railsgirls.com/files/ticino/ticino_pres_ita.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -77,6 +108,16 @@
 </details>
 
 <details>
+  <summary>Russian</summary>
+  
+  ### Materials
+- [Progopedia](http://progopedia.ru/language/ruby/)
+- [RU-Wiki](http://ru-wiki.org/wiki/Ruby)
+- [Ruby Book](http://mit.spbau.ru/files/%20%D0%B2%20Ruby.pdf)
+- [Ruby](http://komar.bitcheese.net/files/Ruby.pdf)
+</details>
+
+<details>
   <summary>Spanish</summary>
   
   ### Materials
@@ -91,45 +132,4 @@
 - [Programación Ruby](http://www.repositorio.usac.edu.gt/5547/1/Eduardo%20Alejandro%20Herrera%20Guti%C3%A9rrez.pdf)
 - [Ruby on Rails](https://gwolf.org/files/rails.pdf)
 - [Ruby on Rails con Hobo](http://unoycero.com/wp-content/uploads/2011/07/Curso-de-Hobo-+-Ruby-on-Rails.pdf)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [OpenClassRooms](https://openclassrooms.com/fr/courses/2913686-lancez-vous-dans-la-programmation-avec-ruby)
-- [Programmation Ruby](https://www.supinfo.com/articles/single/5539-programmation-ruby)
-- [Ruby](https://www.scriptol.fr/programmation/ruby.php)
-- [Le Langage Ruby](https://www.alphorm.com/Upload/slideshare/alphorm.com-Support-de-la-formation-RubySS.pdf)
-- [Programmation Ruby](https://upload.wikimedia.org/wikipedia/commons/d/d7/Programmation_Ruby-fr.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [Guida Ruby](https://www.html.it/guide/guida-ruby/)
-- [Panoramica Ruby](https://www.flameeyes.eu/articles/ld-ruby.pdf)
-- [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
-- [Introduzione  al  linguaggio  Ruby](http://www.fisica.unipg.it/borromeo/Appunti/FisComp/FisComp2013/pdf/ruby.pdf)
-- [Ruby on Rails](http://railsgirls.com/files/ticino/ticino_pres_ita.pdf)
-</details>
-
-<details>
-  <summary>German</summary>
-  
-  ### Materials
-- [Ruby Grundlagen](http://b-simple.de/download/ruby.pdf)
-- [Praxiswissen Ruby](https://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf)
-- [Programmieren mit Ruby](https://www.guug.de/veranstaltungen/ffg2002/papers/ffg2002-roehrl.pdf)
-</details>
-
-<details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [Progopedia](http://progopedia.ru/language/ruby/)
-- [RU-Wiki](http://ru-wiki.org/wiki/Ruby)
-- [Ruby Book](http://mit.spbau.ru/files/%20%D0%B2%20Ruby.pdf)
-- [Ruby](http://komar.bitcheese.net/files/Ruby.pdf)
 </details>

@@ -121,51 +121,6 @@
 </details>
 
 <details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [Python Iluminado](https://pythoniluminado.netlify.app)
-- [Devmedia](https://www.devmedia.com.br/guia/python/37024)
-- [Udacity](https://br.udacity.com/course/programming-foundations-with-python--ud036)
-- [Pyscience-brasil](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq)
-- [Python.org.br](https://python.org.br/introducao/)
-- [Progbio Python](https://www.inf.pucrs.br/flash/progbio/aulas/seq/build/progbio/Python.html)
-- [RRA Python](http://www.rra.etc.br/linux/apresentacoes/Python.pdf)
-- [Pythonclub](http://pythonclub.com.br/)
-- [Programacao Funcional](http://blog.caelum.com.br/programacao-funcional-no-python/)
-- [UFF](http://www.telecom.uff.br/pet/petws/downloads/tutoriais/python/tut_python_2k100127.pdf)
-- [UFRJ](http://www.dcc.ufrj.br/~fabiom/mab225/03comandos.pdf)
-- [Minicurso Python](http://www.ufjf.br/getcomp/files/2012/04/minicurso-python-getmeeting.pdf)
-- [Apresentacao Python](http://www.ufjf.br/deptocomputacao/files/2010/08/apresentacao.pdf)
-- [UFES](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20142-seminario-python.pdf)
-- [Bioengenharia UFPR](http://www.grupo.bioengenharia.ufpr.br/arquivos/Cursodepython.pdf)
-- [IFRN](http://www3.ifrn.edu.br/~diegonascimento/dokuwiki/lib/exe/fetch.php?media=fp_slides.pdf)
-- [Pluzzardi](http://pluzzardi.w.pw/Python.pdf)
-- [Google Python](https://www.researchgate.net/publication/307925106_Computacao_Cientifica_usando_Python_uma_introducao_a_linguagem_de_programacao)
-- [Aprenda Programar Python](https://edisciplinas.usp.br/pluginfile.php/342664/mod_resource/content/0/AprendaProgramarPython.pdf)
-- [Curso Python](https://media.readthedocs.org/pdf/curso-python/latest/curso-python.pdf)
-- [Curso de Python](https://www.youtube.com/watch?v=S9uPNppGsGo&amp;list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
-- [Aulas Python](https://www.youtube.com/watch?v=lJjR906426o&amp;list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
-- [Python 101](https://www.youtube.com/watch?v=tS0BsCSDbzM&amp;list=PLV7VqBqvsd_3yRYYWrHkziPL6izzrUIkp)
-- [Python Academy](https://pythonacademy.com.br/blog/)
-</details>
-
-<details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Python Basico](https://entrenamiento-python-basico.readthedocs.io/es/latest/)
-- [El Tutorial de Python](http://docs.python.org.ar/tutorial/pdfs/TutorialPython2.pdf)
-- [Python para Principiantes](https://www.iaa.csic.es/python/curso-python-para-principiantes.pdf)
-- [Algoritmos Python](https://librosweb.es/libro/algoritmos_python/)
-- [Python desde 0](https://www.youtube.com/watch?v=HWxBtxPBCAc&amp;list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC)
-- [Codigo facilito](https://www.youtube.com/watch?v=mGH1uooFhGs&amp;list=PLagErt3C7iltgifmiGFQFI1GhUAKQvvyb)
-- [Python by Vilar](http://fcaglp.unlp.edu.ar/~observacional/manuales/python-by-vilar.pdf)
-- [Aprenda a pensar como um programador](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf)
-- [Programacion Avanzada](https://sites.google.com/site/upiitaobduliapichardo/programacion-avanzada-python)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -203,6 +158,45 @@
 </details>
 
 <details>
+  <summary>Japanese</summary>
+  
+  ### Materials
+- [Python.jp](https://www.python.jp/)
+- [Sejuku](https://www.sejuku.net/blog/7720)
+- [Dividable](https://dividable.net/python/python-basic-tutorial)
+</details>
+
+<details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
+- [Python Iluminado](https://pythoniluminado.netlify.app)
+- [Devmedia](https://www.devmedia.com.br/guia/python/37024)
+- [Udacity](https://br.udacity.com/course/programming-foundations-with-python--ud036)
+- [Pyscience-brasil](http://pyscience-brasil.wikidot.com/python:python-oq-e-pq)
+- [Python.org.br](https://python.org.br/introducao/)
+- [Progbio Python](https://www.inf.pucrs.br/flash/progbio/aulas/seq/build/progbio/Python.html)
+- [RRA Python](http://www.rra.etc.br/linux/apresentacoes/Python.pdf)
+- [Pythonclub](http://pythonclub.com.br/)
+- [Programacao Funcional](http://blog.caelum.com.br/programacao-funcional-no-python/)
+- [UFF](http://www.telecom.uff.br/pet/petws/downloads/tutoriais/python/tut_python_2k100127.pdf)
+- [UFRJ](http://www.dcc.ufrj.br/~fabiom/mab225/03comandos.pdf)
+- [Minicurso Python](http://www.ufjf.br/getcomp/files/2012/04/minicurso-python-getmeeting.pdf)
+- [Apresentacao Python](http://www.ufjf.br/deptocomputacao/files/2010/08/apresentacao.pdf)
+- [UFES](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20142-seminario-python.pdf)
+- [Bioengenharia UFPR](http://www.grupo.bioengenharia.ufpr.br/arquivos/Cursodepython.pdf)
+- [IFRN](http://www3.ifrn.edu.br/~diegonascimento/dokuwiki/lib/exe/fetch.php?media=fp_slides.pdf)
+- [Pluzzardi](http://pluzzardi.w.pw/Python.pdf)
+- [Google Python](https://www.researchgate.net/publication/307925106_Computacao_Cientifica_usando_Python_uma_introducao_a_linguagem_de_programacao)
+- [Aprenda Programar Python](https://edisciplinas.usp.br/pluginfile.php/342664/mod_resource/content/0/AprendaProgramarPython.pdf)
+- [Curso Python](https://media.readthedocs.org/pdf/curso-python/latest/curso-python.pdf)
+- [Curso de Python](https://www.youtube.com/watch?v=S9uPNppGsGo&amp;list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+- [Aulas Python](https://www.youtube.com/watch?v=lJjR906426o&amp;list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
+- [Python 101](https://www.youtube.com/watch?v=tS0BsCSDbzM&amp;list=PLV7VqBqvsd_3yRYYWrHkziPL6izzrUIkp)
+- [Python Academy](https://pythonacademy.com.br/blog/)
+</details>
+
+<details>
   <summary>Russian</summary>
   
   ### Materials
@@ -224,10 +218,16 @@
 </details>
 
 <details>
-  <summary>Japanese</summary>
+  <summary>Spanish</summary>
   
   ### Materials
-- [Python.jp](https://www.python.jp/)
-- [Sejuku](https://www.sejuku.net/blog/7720)
-- [Dividable](https://dividable.net/python/python-basic-tutorial)
+- [Python Basico](https://entrenamiento-python-basico.readthedocs.io/es/latest/)
+- [El Tutorial de Python](http://docs.python.org.ar/tutorial/pdfs/TutorialPython2.pdf)
+- [Python para Principiantes](https://www.iaa.csic.es/python/curso-python-para-principiantes.pdf)
+- [Algoritmos Python](https://librosweb.es/libro/algoritmos_python/)
+- [Python desde 0](https://www.youtube.com/watch?v=HWxBtxPBCAc&amp;list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC)
+- [Codigo facilito](https://www.youtube.com/watch?v=mGH1uooFhGs&amp;list=PLagErt3C7iltgifmiGFQFI1GhUAKQvvyb)
+- [Python by Vilar](http://fcaglp.unlp.edu.ar/~observacional/manuales/python-by-vilar.pdf)
+- [Aprenda a pensar como um programador](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf)
+- [Programacion Avanzada](https://sites.google.com/site/upiitaobduliapichardo/programacion-avanzada-python)
 </details>

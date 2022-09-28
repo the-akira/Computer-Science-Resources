@@ -67,6 +67,44 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [OpenClassRooms](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/916990-les-expressions-regulieres-partie-1-2)
+- [les expressions régulières](https://www.lucaswillems.com/fr/articles/25/tutoriel-pour-maitriser-les-expressions-regulieres)
+- [Syntaxe](http://blog.paumard.org/cours/java-api/chap03-expression-regulieres-syntaxe.html)
+- [Expressions régulières](http://gallium.inria.fr/~maranget/X/421/poly/regexp.html)
+- [Tuteur](http://www.info.univ-angers.fr/~gh/tuteurs/tutregexp.php)
+- [EduTechWiki](https://edutechwiki.unige.ch/fr/Expression_r%C3%A9guli%C3%A8re)
+- [Une Introduction](https://www.eila.univ-paris-diderot.fr/_media/user/alexandra_volanschi/cours-il/regex.pdf)
+- [Techniques](https://lipn.univ-paris13.fr/~cerin/SE/regexIUT.pdf)
+- [Python: ER](https://www.lacl.fr/~pvanier/cours/2015-2016/python/cours3.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Reguläre Ausdrücke](https://www.luis.uni-hannover.de/fileadmin/buecher/leseproben/perl-kap10-lp.pdf)
+- [Tutorial Reguläre Ausrücke](https://www.pug.org/mediawiki/images/0/0a/Tutorial_Regulaere_Ausdruecke.pdf)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [HTML.it](https://www.html.it/articoli/espressioni-regolari/)
+- [Calculator](https://it.infobyip.com/regularexpressioncalculator.php)
+- [Pluto.it](http://www.pluto.it/files/ildp/guide/abs/regexp.html)
+- [Espressioni](http://wpage.unina.it/m.faella/Didattica/Labos/espressioni.pdf)
+- [Manipolazione di Testi](http://tritone.ing.unibs.it/soa/esercitazioni2004-05/Lez-EspressioniRegolari.PDF)
+- [Espressioni Regolari Introduzione](https://www.montellug.it/scambiodati/conferenze2011/regexp.pdf)
+- [Espressioni Regolari in UNIX](http://lonati.di.unimi.it/lfa_regex/lezione_12_maggio_2004.pdf)
+- [Unimi](https://homes.di.unimi.it/ferrari/FondInfoSic2008_09/reg_exp_doppio.pdf)
+- [Pratica](http://www.dis.uniroma1.it/~fiii/materiale_ausiello/esercitazioneRE.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -87,44 +125,6 @@
 - [Universidad de Buenos Aires](http://materias.fi.uba.ar/7508/Practica-2013/ClaseU3.pdf)
 - [Universidad de la República](https://www.fing.edu.uy/inco/cursos/intropln/pres/2011%2004%20-%20Expresiones%20regulares%20y%20aut%C3%B3matas.pdf)
 - [Grep y AWK](http://lml.ls.fi.upm.es/ep/1213/awk.pdf)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [OpenClassRooms](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/916990-les-expressions-regulieres-partie-1-2)
-- [les expressions régulières](https://www.lucaswillems.com/fr/articles/25/tutoriel-pour-maitriser-les-expressions-regulieres)
-- [Syntaxe](http://blog.paumard.org/cours/java-api/chap03-expression-regulieres-syntaxe.html)
-- [Expressions régulières](http://gallium.inria.fr/~maranget/X/421/poly/regexp.html)
-- [Tuteur](http://www.info.univ-angers.fr/~gh/tuteurs/tutregexp.php)
-- [EduTechWiki](https://edutechwiki.unige.ch/fr/Expression_r%C3%A9guli%C3%A8re)
-- [Une Introduction](https://www.eila.univ-paris-diderot.fr/_media/user/alexandra_volanschi/cours-il/regex.pdf)
-- [Techniques](https://lipn.univ-paris13.fr/~cerin/SE/regexIUT.pdf)
-- [Python: ER](https://www.lacl.fr/~pvanier/cours/2015-2016/python/cours3.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [HTML.it](https://www.html.it/articoli/espressioni-regolari/)
-- [Calculator](https://it.infobyip.com/regularexpressioncalculator.php)
-- [Pluto.it](http://www.pluto.it/files/ildp/guide/abs/regexp.html)
-- [Espressioni](http://wpage.unina.it/m.faella/Didattica/Labos/espressioni.pdf)
-- [Manipolazione di Testi](http://tritone.ing.unibs.it/soa/esercitazioni2004-05/Lez-EspressioniRegolari.PDF)
-- [Espressioni Regolari Introduzione](https://www.montellug.it/scambiodati/conferenze2011/regexp.pdf)
-- [Espressioni Regolari in UNIX](http://lonati.di.unimi.it/lfa_regex/lezione_12_maggio_2004.pdf)
-- [Unimi](https://homes.di.unimi.it/ferrari/FondInfoSic2008_09/reg_exp_doppio.pdf)
-- [Pratica](http://www.dis.uniroma1.it/~fiii/materiale_ausiello/esercitazioneRE.pdf)
-</details>
-
-<details>
-  <summary>German</summary>
-  
-  ### Materials
-- [Reguläre Ausdrücke](https://www.luis.uni-hannover.de/fileadmin/buecher/leseproben/perl-kap10-lp.pdf)
-- [Tutorial Reguläre Ausrücke](https://www.pug.org/mediawiki/images/0/0a/Tutorial_Regulaere_Ausdruecke.pdf)
 </details>
 
 <details>

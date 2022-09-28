@@ -63,6 +63,39 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [Data Mining, explorer les données du Data Warehouse](https://www.piloter.org/business-intelligence/datamining.htm)
+- [Exploration de données](http://www.statelem.com/exploration_de_donnees.php)
+- [Analyse de Données](http://www.lamsade.dauphine.fr/~atif/lib/exe/fetch.php?media=teaching:coursad_ch1.pdf)
+- [Chapitre II Data Mining](http://dspace.univ-biskra.dz:8080/jspui/bitstream/123456789/5242/10/I_Data%20Mining.pdf)
+- [Text and Data Mining](https://ethiquedroit.hypotheses.org/files/2017/07/Rapport-Text-and-Data-Mining-exploration-de-donn%C3%A9es.pdf)
+- [Data Mining et Machine Learning](https://hal.archives-ouvertes.fr/hal-01393640/file/DMML_F.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Was ist Data Mining](https://www.bigdata-insider.de/was-ist-data-mining-a-593421/)
+- [Data Mining](http://de.dwhwiki.info/konzepte/data_mining)
+- [Data Mining Bachelor](https://www.in.th-nuernberg.de/professors/Holl/Personal/DataMining_Bachelor.pdf)
+- [Einführung Data Mining](http://www.gm.fh-koeln.de/~konen/WPF-DM-Cup/01-Einleitung-CRISP.PDF)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [Il processo di estrazione dei dati: il Data Mining](https://lorenzogovoni.com/processo-estrazione-dei-dati-data-mining/)
+- [Data Mining per l'analisi dei Dati](http://pages.di.unipi.it/ferrari/CORSI/SISD/Lezioni/SISD4.pdf)
+- [Analisi dei Dati ed Estrazione della Conoscenza](https://www.sci.unich.it/~amato/teaching/old/datamining08/lucidi/01-introduzione.pdf)
+- [Introduzione al Data Mining](http://bias.csr.unibo.it/golfarelli/DataMining/MaterialeDidattico/DMISI-Introduzione.pdf)
+- [Il Processo di KDD](http://www.ecostat.unical.it/Didattica/Statistica/didattica/Metodi%20Statistici%20per%20le%20Aziende%201/Il%20processo%20di%20KDD.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -81,6 +114,13 @@
 </details>
 
 <details>
+  <summary>Russian</summary>
+  
+  ### Materials
+- [Data Mining](https://www.intuit.ru/studies/courses/6/6/info)
+</details>
+
+<details>
   <summary>Spanish</summary>
   
   ### Materials
@@ -96,44 +136,4 @@
 - [Universidad Nacional Del Nordeste](http://exa.unne.edu.ar/informatica/SO/Mineria_Datos_Vallejos.pdf)
 - [Conceptos Básicos](http://oldemarrodriguez.com/yahoo_site_admin/assets/docs/Presentaci%C3%B3n_-_Conceptos_B%C3%A1sicos.41132532.pdf)
 - [Técnicas de Análisis de Datos](http://matema.ujaen.es/jnavas/web_recursos/archivos/weka%20master%20recursos%20naturales/apuntesAD.pdf)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [Data Mining, explorer les données du Data Warehouse](https://www.piloter.org/business-intelligence/datamining.htm)
-- [Exploration de données](http://www.statelem.com/exploration_de_donnees.php)
-- [Analyse de Données](http://www.lamsade.dauphine.fr/~atif/lib/exe/fetch.php?media=teaching:coursad_ch1.pdf)
-- [Chapitre II Data Mining](http://dspace.univ-biskra.dz:8080/jspui/bitstream/123456789/5242/10/I_Data%20Mining.pdf)
-- [Text and Data Mining](https://ethiquedroit.hypotheses.org/files/2017/07/Rapport-Text-and-Data-Mining-exploration-de-donn%C3%A9es.pdf)
-- [Data Mining et Machine Learning](https://hal.archives-ouvertes.fr/hal-01393640/file/DMML_F.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [Il processo di estrazione dei dati: il Data Mining](https://lorenzogovoni.com/processo-estrazione-dei-dati-data-mining/)
-- [Data Mining per l'analisi dei Dati](http://pages.di.unipi.it/ferrari/CORSI/SISD/Lezioni/SISD4.pdf)
-- [Analisi dei Dati ed Estrazione della Conoscenza](https://www.sci.unich.it/~amato/teaching/old/datamining08/lucidi/01-introduzione.pdf)
-- [Introduzione al Data Mining](http://bias.csr.unibo.it/golfarelli/DataMining/MaterialeDidattico/DMISI-Introduzione.pdf)
-- [Il Processo di KDD](http://www.ecostat.unical.it/Didattica/Statistica/didattica/Metodi%20Statistici%20per%20le%20Aziende%201/Il%20processo%20di%20KDD.pdf)
-</details>
-
-<details>
-  <summary>German</summary>
-  
-  ### Materials
-- [Was ist Data Mining](https://www.bigdata-insider.de/was-ist-data-mining-a-593421/)
-- [Data Mining](http://de.dwhwiki.info/konzepte/data_mining)
-- [Data Mining Bachelor](https://www.in.th-nuernberg.de/professors/Holl/Personal/DataMining_Bachelor.pdf)
-- [Einführung Data Mining](http://www.gm.fh-koeln.de/~konen/WPF-DM-Cup/01-Einleitung-CRISP.PDF)
-</details>
-
-<details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [Data Mining](https://www.intuit.ru/studies/courses/6/6/info)
 </details>

@@ -58,24 +58,6 @@
 </details>
 
 <details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [Programação em Bash](http://www.di.ubi.pt/~operativos/praticos/pdf/3-bash.pdf)
-- [Shell Básico](https://e-tinet.com/linux/programacao-shell-script/)
-- [Programação do Shell](http://www.dsc.ufcg.edu.br/~jacques/cursos/progsh/progshell.htm)
-- [Programação com Shell Script](https://www.vivaolinux.com.br/artigo/Programacao-com-Shell-Script)
-- [Curso de Shell](http://rberaldo.com.br/curso-de-shell-script-modulo-1-scripts-shell-estruturas/)
-- [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf)
-- [Programando em Shell](http://www.devin.com.br/shell_script/)
-- [Linux Shell Essentials](https://www.devmedia.com.br/linux-shell-essentials/20158)
-- [Bash, ou como computeiros ganham tempo](http://www.inf.ufpr.br/roberto/ci064/labBash-2.html)
-- [Programação em Shell Script](http://jeiks.net/wp-content/uploads/2010/07/bash.pdf)
-- [Seminário Shell](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20151-seminario-shell.pdf)
-- [Introdução ao Shell Script](https://canaltech.com.br/linux/Introducao-ao-Shell-Script/)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -86,23 +68,6 @@
 - [Introduction à la programmation en Bash](http://aral.iut-rodez.fr/fr/sanchis/enseignement/bash/)
 - [La Programmation Shell](http://www.ai.univ-paris8.fr/~hw/unx3.pdf)
 - [Shells de Linux](http://hautrive.free.fr/linux/page-shell-linux.html)
-</details>
-
-<details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Programación en Bash](http://es.tldp.org/COMO-INSFLUG/COMOs/Bash-Prog-Intro-COMO/Bash-Prog-Intro-COMO.html#toc2)
-- [Programando en Bash](https://blog.desdelinux.net/programando-en-bash-parte-1/)
-- [Linux y Bash](http://www.aprendeaprogramar.com/course/view.php?id=10)
-- [Programación Shell](https://www.freeshell.de/~rasoda/programacion/guia-shell.pdf)
-- [Comandos básicos](http://fcaglp.unlp.edu.ar/~observacional/manuales/tutorial_linux.pdf)
-- [Programación con Bash](http://thales.cica.es/rd/glinex/practicas-glinex05/manuales/bash/practica.pdf)
-- [Programación de Shell Scripts](https://www.fceia.unr.edu.ar/~diegob/so/presenta/02-ShellScripts.pdf)
-- [Programación Shell-Script](http://persoal.citius.usc.es/tf.pena/ASR/Tema_2html/node20.html)
-- [Creación de Scripts en Linux](https://webs.ucm.es/info/aulasun/archivos/SCRIPTS.pdf)
-- [Bash](https://es.opensuse.org/Bash)
-- [Curso de Programación en Bash](https://wiki.cabal.mx/wiki/Curso_de_Programaci%C3%B3n_en_Bash)
 </details>
 
 <details>
@@ -124,6 +89,24 @@
 </details>
 
 <details>
+  <summary>Portuguese</summary>
+  
+  ### Materials
+- [Programação em Bash](http://www.di.ubi.pt/~operativos/praticos/pdf/3-bash.pdf)
+- [Shell Básico](https://e-tinet.com/linux/programacao-shell-script/)
+- [Programação do Shell](http://www.dsc.ufcg.edu.br/~jacques/cursos/progsh/progshell.htm)
+- [Programação com Shell Script](https://www.vivaolinux.com.br/artigo/Programacao-com-Shell-Script)
+- [Curso de Shell](http://rberaldo.com.br/curso-de-shell-script-modulo-1-scripts-shell-estruturas/)
+- [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf)
+- [Programando em Shell](http://www.devin.com.br/shell_script/)
+- [Linux Shell Essentials](https://www.devmedia.com.br/linux-shell-essentials/20158)
+- [Bash, ou como computeiros ganham tempo](http://www.inf.ufpr.br/roberto/ci064/labBash-2.html)
+- [Programação em Shell Script](http://jeiks.net/wp-content/uploads/2010/07/bash.pdf)
+- [Seminário Shell](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20151-seminario-shell.pdf)
+- [Introdução ao Shell Script](https://canaltech.com.br/linux/Introducao-ao-Shell-Script/)
+</details>
+
+<details>
   <summary>Russian</summary>
   
   ### Materials
@@ -138,4 +121,21 @@
 - [Bash Guide](https://ruvds.com/doc/bash.pdf)
 - [Advanced Bash-Scripting Guide](https://disnetern.ru/wp-content/uploads/2016/11/Advanced-Bash-Scripting-Guide.pdf)
 - [Bash Scripts](http://mit.spbau.ru/files/bash-scripts_0.pdf)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [Programación en Bash](http://es.tldp.org/COMO-INSFLUG/COMOs/Bash-Prog-Intro-COMO/Bash-Prog-Intro-COMO.html#toc2)
+- [Programando en Bash](https://blog.desdelinux.net/programando-en-bash-parte-1/)
+- [Linux y Bash](http://www.aprendeaprogramar.com/course/view.php?id=10)
+- [Programación Shell](https://www.freeshell.de/~rasoda/programacion/guia-shell.pdf)
+- [Comandos básicos](http://fcaglp.unlp.edu.ar/~observacional/manuales/tutorial_linux.pdf)
+- [Programación con Bash](http://thales.cica.es/rd/glinex/practicas-glinex05/manuales/bash/practica.pdf)
+- [Programación de Shell Scripts](https://www.fceia.unr.edu.ar/~diegob/so/presenta/02-ShellScripts.pdf)
+- [Programación Shell-Script](http://persoal.citius.usc.es/tf.pena/ASR/Tema_2html/node20.html)
+- [Creación de Scripts en Linux](https://webs.ucm.es/info/aulasun/archivos/SCRIPTS.pdf)
+- [Bash](https://es.opensuse.org/Bash)
+- [Curso de Programación en Bash](https://wiki.cabal.mx/wiki/Curso_de_Programaci%C3%B3n_en_Bash)
 </details>

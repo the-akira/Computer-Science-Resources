@@ -62,6 +62,23 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [Tutoriel Go](https://brice-colucci.developpez.com/tutoriels/go/tutoriel-programmation/)
+- [Langage Go](https://www.scriptol.fr/programmation/go.php)
+- [Le Langage Go](https://www.bortzmeyer.org/files/go-lang-intro-SHOW.pdf)
+- [Programmation en Go](https://fr.wikibooks.org/wiki/Programmation_en_Go)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [Il Linguaggio Go](http://tesi.cab.unipd.it/33111/1/Tesina_562011.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -75,13 +92,14 @@
 </details>
 
 <details>
-  <summary>French</summary>
+  <summary>Russian</summary>
   
   ### Materials
-- [Tutoriel Go](https://brice-colucci.developpez.com/tutoriels/go/tutoriel-programmation/)
-- [Langage Go](https://www.scriptol.fr/programmation/go.php)
-- [Le Langage Go](https://www.bortzmeyer.org/files/go-lang-intro-SHOW.pdf)
-- [Programmation en Go](https://fr.wikibooks.org/wiki/Programmation_en_Go)
+- [Golang Basics](https://tproger.ru/translations/golang-basics/)
+- [4Gophers](https://4gophers.ru/tags/golang/)
+- [Golang-Book](http://golang-book.ru/)
+- [Gobook](https://losst.ru/wp-content/uploads/2016/08/Vvedenie-v-programmirovanie-na-Go-Keleb-Doksi.pdf)
+- [Go Presentation](https://devconf.ru/data/devconf2016/ppt/185.pdf)
 </details>
 
 <details>
@@ -93,22 +111,4 @@
 - [Curso de Go](https://codigofacilito.com/cursos/go)
 - [El Lenguaje Go](https://nasciiboy.land/prog/tgpl/)
 - [Curso de Go](http://roberto.costumero.es/slides/Go2010/manual_go.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [Il Linguaggio Go](http://tesi.cab.unipd.it/33111/1/Tesina_562011.pdf)
-</details>
-
-<details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [Golang Basics](https://tproger.ru/translations/golang-basics/)
-- [4Gophers](https://4gophers.ru/tags/golang/)
-- [Golang-Book](http://golang-book.ru/)
-- [Gobook](https://losst.ru/wp-content/uploads/2016/08/Vvedenie-v-programmirovanie-na-Go-Keleb-Doksi.pdf)
-- [Go Presentation](https://devconf.ru/data/devconf2016/ppt/185.pdf)
 </details>

@@ -42,6 +42,43 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [Cloud Computing, Définition, avantages et exemples d’utilisation](https://www.lebigdata.fr/definition-cloud-computing)
+- [Cloud Computing, Architectures, Services et Risques](https://www.ge.ch/ppdt/doc/formation/Presentation-Giovanna-Di-Marzo-Serugendo-Cloud-computing-risques.pdf)
+- [Cloud Computing](https://www.emse.fr/~mathieu/pub/CGC/cours_CC.pdf)
+- [Fondamentaux du Cloud Computing](https://images.cigref.fr/Publication/2012-2013-Fondamentaux-Cloud-Computing-Point-de-vue-grandes-entreprises.pdf)
+- [Les Fondamentaux du Cloud Computing](https://itandsi.files.wordpress.com/2014/09/les-fondamentaux-du-cloud-computing.pdf)
+- [Le Cloud Computing](https://economie.fgov.be/sites/default/files/Files/Publications/files/20130730-Cloud-computing-FR.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Cloud Computing Grundlagen](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Grundlagen/Grundlagen_node.html)
+- [Cloud Computing Presentation](http://publications.europa.eu/resource/cellar/1d487935-12d5-444c-b595-6ebd01f4b5f3.0001.02/DOC_1)
+- [Cloud Computing einfach erklärt](https://aixvox.com/cloud-computing-einfach-erklaert/)
+- [Prozeus](http://www.prozeus.de/imperia/md/content/prozeus/broschueren/prozeus_broschuere_cloudcomputing_web.pdf)
+- [Cloud Computing, Mark Bedner](https://www.uni-kassel.de/upress/online/frei/978-3-86219-080-5.volltext.frei.pdf)
+- [Cloud Computing Paper](http://www.hwwi.org/uploads/tx_wilpubdb/HWWI_Policy_Paper-71.pdf)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [Kiteblue](http://www.kiteblue.it/cose-il-cloud/)
+- [Digital4trade](https://www.digital4trade.it/tech-lab/cloud-computing-cose-e-quali-sono-i-benefici/)
+- [Cloud Computing Definiziones](https://www.zerounoweb.it/cloud-computing/cloud-anzi-saas-paas-daas-e-iaas-significato-e-guida-ai-vantaggi-dell-on-demand/)
+- [Guida al Cloud Computing](http://www.hostingtalk.it/guide/guida-al-cloud-computing)
+- [Cloud Computing](https://www.edatlas.it/scarica/TPSIT_5/Capitolo1/ContenutiDigitaliIntegrativi/1CloudComputing.pdf)
+- [Introduzione al Cloud Computing](http://cabibbo.dia.uniroma3.it/psw/pdf/asw470-cloud-computing.pdf)
+- [Caratteristiche e Opportunità](https://www.ucer.camcom.it/siti-tematici/innovazione/pdf/pdf-2012/FG_Cloud_Computing_dossier.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -62,6 +99,17 @@
 </details>
 
 <details>
+  <summary>Russian</summary>
+  
+  ### Materials
+- [Tadviser](http://www.tadviser.ru/index.php/Cloud_Computing)
+- [Lessons TVA](https://www.lessons-tva.info/archive/nov031.html)
+- [Cloud Computing Smart](http://mit.spbau.ru/files/cloud_computing_smart_cloud_org.pdf)
+- [Cloud Introduction](https://glebradchenko.susu.ru/courses/bachelor/odp/2013/Rep_SUSU_Distr_12_Cloud.pdf)
+- [Cloud Technology](http://filearchive.cnews.ru/mag/2011/CloudTechnology.pdf)
+</details>
+
+<details>
   <summary>Spanish</summary>
   
   ### Materials
@@ -79,52 +127,4 @@
 - [Guia Cloud Computing](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia-cloud-computing_0.pdf)
 - [Cloud Computing y El Futuro de la Productividad](https://fch.cl/wp-content/uploads/2016/09/chile4.0_cloud_computing_y_el_futuro_de_la_productividad.pdf)
 - [Estructura Nube Cliente](https://www.scribd.com/document/255509646/Estructura-de-Nube)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [Cloud Computing, Définition, avantages et exemples d’utilisation](https://www.lebigdata.fr/definition-cloud-computing)
-- [Cloud Computing, Architectures, Services et Risques](https://www.ge.ch/ppdt/doc/formation/Presentation-Giovanna-Di-Marzo-Serugendo-Cloud-computing-risques.pdf)
-- [Cloud Computing](https://www.emse.fr/~mathieu/pub/CGC/cours_CC.pdf)
-- [Fondamentaux du Cloud Computing](https://images.cigref.fr/Publication/2012-2013-Fondamentaux-Cloud-Computing-Point-de-vue-grandes-entreprises.pdf)
-- [Les Fondamentaux du Cloud Computing](https://itandsi.files.wordpress.com/2014/09/les-fondamentaux-du-cloud-computing.pdf)
-- [Le Cloud Computing](https://economie.fgov.be/sites/default/files/Files/Publications/files/20130730-Cloud-computing-FR.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [Kiteblue](http://www.kiteblue.it/cose-il-cloud/)
-- [Digital4trade](https://www.digital4trade.it/tech-lab/cloud-computing-cose-e-quali-sono-i-benefici/)
-- [Cloud Computing Definiziones](https://www.zerounoweb.it/cloud-computing/cloud-anzi-saas-paas-daas-e-iaas-significato-e-guida-ai-vantaggi-dell-on-demand/)
-- [Guida al Cloud Computing](http://www.hostingtalk.it/guide/guida-al-cloud-computing)
-- [Cloud Computing](https://www.edatlas.it/scarica/TPSIT_5/Capitolo1/ContenutiDigitaliIntegrativi/1CloudComputing.pdf)
-- [Introduzione al Cloud Computing](http://cabibbo.dia.uniroma3.it/psw/pdf/asw470-cloud-computing.pdf)
-- [Caratteristiche e Opportunità](https://www.ucer.camcom.it/siti-tematici/innovazione/pdf/pdf-2012/FG_Cloud_Computing_dossier.pdf)
-</details>
-
-<details>
-  <summary>German</summary>
-  
-  ### Materials
-- [Cloud Computing Grundlagen](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/CloudComputing/Grundlagen/Grundlagen_node.html)
-- [Cloud Computing Presentation](http://publications.europa.eu/resource/cellar/1d487935-12d5-444c-b595-6ebd01f4b5f3.0001.02/DOC_1)
-- [Cloud Computing einfach erklärt](https://aixvox.com/cloud-computing-einfach-erklaert/)
-- [Prozeus](http://www.prozeus.de/imperia/md/content/prozeus/broschueren/prozeus_broschuere_cloudcomputing_web.pdf)
-- [Cloud Computing, Mark Bedner](https://www.uni-kassel.de/upress/online/frei/978-3-86219-080-5.volltext.frei.pdf)
-- [Cloud Computing Paper](http://www.hwwi.org/uploads/tx_wilpubdb/HWWI_Policy_Paper-71.pdf)
-</details>
-
-<details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [Tadviser](http://www.tadviser.ru/index.php/Cloud_Computing)
-- [Lessons TVA](https://www.lessons-tva.info/archive/nov031.html)
-- [Cloud Computing Smart](http://mit.spbau.ru/files/cloud_computing_smart_cloud_org.pdf)
-- [Cloud Introduction](https://glebradchenko.susu.ru/courses/bachelor/odp/2013/Rep_SUSU_Distr_12_Cloud.pdf)
-- [Cloud Technology](http://filearchive.cnews.ru/mag/2011/CloudTechnology.pdf)
 </details>

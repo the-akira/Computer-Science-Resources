@@ -75,6 +75,52 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [FR Wikibooks](https://fr.wikibooks.org/wiki/Les_syst%C3%A8mes_d%27exploitation)
+- [SysIntro](https://web.maths.unsw.edu.au/~lafaye/CCM/systemes/sysintro.htm)
+- [Système d’exploitation](https://rmdiscala.developpez.com/cours/LesChapitres.html/Cours1/Chap1.6.htm)
+- [Introduction](http://www.fsr.ac.ma/cours/informatique/megzari/SE%20pdf/ch1-introduction.pdf)
+- [Concepts et Programmation](https://cedric.cnam.fr/~bouzefra/cours/introduction_SYST.pdf)
+- [Notes OS](https://www.iro.umontreal.ca/~monnier/1215/notes-os.pdf)
+- [Cours](http://www.cril.univ-artois.fr/~delalin/cours.pdf)
+- [Généralités](http://www.univ-tebessa.dz/fichiers/master/master_1668.pdf)
+- [Liste](https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation)
+- [Initiation](http://www-lisic.univ-littoral.fr/~poty/Files/CM2_SE_Linux.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Betriebssysteme](https://ti.tuwien.ac.at/cps/teaching/courses/osvo/bs-folien/bs01_os-overview.pdf)
+- [Book](http://lsw.ee.hm.edu/~thomas/Vorlesung/VBS/vbs_all.pdf)
+- [Skript](http://www.drhellberg.de/Aktuelles%20Beratung%20Hannover/Betriebssysteme_Skript.pdf)
+- [Vorlesung Betriebssysteme](https://www2.htw-dresden.de/~robge/bs1/vl/bs1-01-einfuehrung.pdf)
+- [Grundlagen](https://kobra.uni-kassel.de/bitstream/handle/123456789/2015040147890/BS_Skript.pdf)
+- [OS Intro](http://www.inf.fu-berlin.de/lehre/WS11/OS/slides/OS_V1_Introduction_.pdf)
+- [Tanenbaum](http://math.kubsu.ru/Debian_Tanenbaum.pdf)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [Unibo](http://www.cs.unibo.it/~renzo/so/docs.shtml)
+- [Unipd](http://www.math.unipd.it/~cpalazzi/sistemioperativi.html)
+- [Unimi](https://pong.di.unimi.it/teaching/os)
+- [Introduzione](http://www.cs.unibo.it/~montreso/so/lucidi/so-02-intro-os-1p.pdf)
+- [Sistemi Operativi](https://homes.di.unimi.it/sisop/lucidi1011/Solez1-2.pdf)
+- [Introduzione ai Sistemi Operativi](https://www.istvas.it/wp-content/uploads/manual/pages/studenti_famiglie/materiale_didattico/SistemiOperativi.pdf)
+- [Università del Salento](https://web.le.infn.it/marsella/wp-content/uploads/sites/5/2015/12/Lezione_8_SistemiOperativi.pdf)
+- [Fondamenti](http://www.agentgroup.unimore.it/Zambonelli/didattica/corsore/LucidiPDF/05_Win-Dos.pdf)
+- [Università di Pisa](http://vecchio.iet.unipi.it/se/files/2017/02/01-Organizzazione-new.pdf)
+- [File System](http://wwwinfo.deis.unical.it/~talia/aa0203/sisop/lezione8.pdf)
+- [Gestione Della Memoria](http://wwwinfo.deis.unical.it/~talia/aa0203/sisop/lezione7.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -101,6 +147,15 @@
 </details>
 
 <details>
+  <summary>Russian</summary>
+  
+  ### Materials
+- [OS-RU](https://vseloved.github.io/pdf/os-ru.pdf)
+- [OS Intro](http://www.stolyarov.info/books/pdf/osintro.pdf)
+- [Lecture 1](http://unesco.kemsu.ru/study_work/method/OS_DO/lect_1.pdf)
+</details>
+
+<details>
   <summary>Spanish</summary>
   
   ### Materials
@@ -114,59 +169,4 @@
 - [Unidade I Sistemas Operativos](http://www.unistmo.edu.mx/~jjap/so1415b_u1.pdf)
 - [Conceptos Generales](https://www2.infor.uva.es/~fjgonzalez/apuntes/Tema_1_Introduccion.pdf)
 - [Tema 3 Sistemas Operativos](https://www.unirioja.es/cu/jearansa/1112/ficheros/Tema_3IN.pdf)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [FR Wikibooks](https://fr.wikibooks.org/wiki/Les_syst%C3%A8mes_d%27exploitation)
-- [SysIntro](https://web.maths.unsw.edu.au/~lafaye/CCM/systemes/sysintro.htm)
-- [Système d’exploitation](https://rmdiscala.developpez.com/cours/LesChapitres.html/Cours1/Chap1.6.htm)
-- [Introduction](http://www.fsr.ac.ma/cours/informatique/megzari/SE%20pdf/ch1-introduction.pdf)
-- [Concepts et Programmation](https://cedric.cnam.fr/~bouzefra/cours/introduction_SYST.pdf)
-- [Notes OS](https://www.iro.umontreal.ca/~monnier/1215/notes-os.pdf)
-- [Cours](http://www.cril.univ-artois.fr/~delalin/cours.pdf)
-- [Généralités](http://www.univ-tebessa.dz/fichiers/master/master_1668.pdf)
-- [Liste](https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation)
-- [Initiation](http://www-lisic.univ-littoral.fr/~poty/Files/CM2_SE_Linux.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [Unibo](http://www.cs.unibo.it/~renzo/so/docs.shtml)
-- [Unipd](http://www.math.unipd.it/~cpalazzi/sistemioperativi.html)
-- [Unimi](https://pong.di.unimi.it/teaching/os)
-- [Introduzione](http://www.cs.unibo.it/~montreso/so/lucidi/so-02-intro-os-1p.pdf)
-- [Sistemi Operativi](https://homes.di.unimi.it/sisop/lucidi1011/Solez1-2.pdf)
-- [Introduzione ai Sistemi Operativi](https://www.istvas.it/wp-content/uploads/manual/pages/studenti_famiglie/materiale_didattico/SistemiOperativi.pdf)
-- [Università del Salento](https://web.le.infn.it/marsella/wp-content/uploads/sites/5/2015/12/Lezione_8_SistemiOperativi.pdf)
-- [Fondamenti](http://www.agentgroup.unimore.it/Zambonelli/didattica/corsore/LucidiPDF/05_Win-Dos.pdf)
-- [Università di Pisa](http://vecchio.iet.unipi.it/se/files/2017/02/01-Organizzazione-new.pdf)
-- [File System](http://wwwinfo.deis.unical.it/~talia/aa0203/sisop/lezione8.pdf)
-- [Gestione Della Memoria](http://wwwinfo.deis.unical.it/~talia/aa0203/sisop/lezione7.pdf)
-</details>
-
-<details>
-  <summary>German</summary>
-  
-  ### Materials
-- [Betriebssysteme](https://ti.tuwien.ac.at/cps/teaching/courses/osvo/bs-folien/bs01_os-overview.pdf)
-- [Book](http://lsw.ee.hm.edu/~thomas/Vorlesung/VBS/vbs_all.pdf)
-- [Skript](http://www.drhellberg.de/Aktuelles%20Beratung%20Hannover/Betriebssysteme_Skript.pdf)
-- [Vorlesung Betriebssysteme](https://www2.htw-dresden.de/~robge/bs1/vl/bs1-01-einfuehrung.pdf)
-- [Grundlagen](https://kobra.uni-kassel.de/bitstream/handle/123456789/2015040147890/BS_Skript.pdf)
-- [OS Intro](http://www.inf.fu-berlin.de/lehre/WS11/OS/slides/OS_V1_Introduction_.pdf)
-- [Tanenbaum](http://math.kubsu.ru/Debian_Tanenbaum.pdf)
-</details>
-
-<details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [OS-RU](https://vseloved.github.io/pdf/os-ru.pdf)
-- [OS Intro](http://www.stolyarov.info/books/pdf/osintro.pdf)
-- [Lecture 1](http://unesco.kemsu.ru/study_work/method/OS_DO/lect_1.pdf)
 </details>

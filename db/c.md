@@ -1,6 +1,14 @@
 # C
 
 <details>
+  <summary>Chinese</summary>
+  
+  ### Materials
+- [C程序设计语言（第2版）](http://read.pudn.com/downloads128/ebook/548703/TheCProgrammingLanguage(SecondEdition).pdf)
+- [C语言程序设计-谭浩强](http://image.sciencenet.cn/olddata/kexue.com.cn/upload/blog/file/2010/5/2010510183555815223.pdf)
+</details>
+
+<details>
   <summary>English</summary>
   
   ### Materials
@@ -86,6 +94,20 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [OpenClassRoom](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c)
+- [Programmation en C](https://finiasz.net/teaching/ENSTA/IN101%20-%20poly%20C.pdf)
+- [Zestedesavoir](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/1042_les-bases-du-langage-c/4275_introduction-a-la-programmation/)
+- [Programmation en C](https://www.ltam.lu/cours-c/prg-c_c.htm)
+- [Scriptol](https://www.scriptol.fr/programmation/langage-c.php)
+- [Langage C](http://astro.ens.fr/osae/ccc.pdf)
+- [Programmation C](http://icube-avr.unistra.fr/fr/index.php/Programmation_C)
+- [Univ-Orleans](https://www.univ-orleans.fr/lifo/Members/Jean-Francois.Lalande/enseignement/c/presentation-c.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -105,26 +127,4 @@
 - [Curso Basico](http://mmc.geofisica.unam.mx/cursos/femp/CyC++/Lenguaje_C.pdf)
 - [Unidad Didáctica](http://www.juntadeandalucia.es/averroes/centros-tic/14005663/helvia/aula/archivos/repositorio/0/230/html/lenguajec/frmlenguajec.htm)
 - [Lenguaje C](https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [OpenClassRoom](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c)
-- [Programmation en C](https://finiasz.net/teaching/ENSTA/IN101%20-%20poly%20C.pdf)
-- [Zestedesavoir](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/1042_les-bases-du-langage-c/4275_introduction-a-la-programmation/)
-- [Programmation en C](https://www.ltam.lu/cours-c/prg-c_c.htm)
-- [Scriptol](https://www.scriptol.fr/programmation/langage-c.php)
-- [Langage C](http://astro.ens.fr/osae/ccc.pdf)
-- [Programmation C](http://icube-avr.unistra.fr/fr/index.php/Programmation_C)
-- [Univ-Orleans](https://www.univ-orleans.fr/lifo/Members/Jean-Francois.Lalande/enseignement/c/presentation-c.pdf)
-</details>
-
-<details>
-  <summary>Chinese</summary>
-  
-  ### Materials
-- [C程序设计语言（第2版）](http://read.pudn.com/downloads128/ebook/548703/TheCProgrammingLanguage(SecondEdition).pdf)
-- [C语言程序设计-谭浩强](http://image.sciencenet.cn/olddata/kexue.com.cn/upload/blog/file/2010/5/2010510183555815223.pdf)
 </details>

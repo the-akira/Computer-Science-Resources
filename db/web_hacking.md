@@ -48,17 +48,31 @@
 </details>
 
 <details>
-  <summary>Spanish</summary>
+  <summary>French</summary>
   
   ### Materials
-- [Vulnerabilidades en Aplicaciones Web](https://www.youtube.com/watch?v=Imnzode1ptk)
-- [Hacking de Aplicaciones Web](https://ucys.ugr.es/download/taller4/WebHacking.pdf)
-- [Ataques a Aplicaciones Web](https://www.exabyteinformatica.com/uoc/Informatica/Seguridad_en_bases_de_datos/Seguridad_en_bases_de_datos_(Modulo_2).pdf)
-- [Taller de Hacking Web](https://cybercamp.es/cybercamp2014/attachments/multimedia/CyberCampHackingWeb.pdf)
-- [Ethical Hacking for Web App](http://www.revistasbolivianas.org.bo/pdf/rits/n8/n8a24.pdf)
-- [Seguridad en Aplicaciones Web](https://www.rediris.es/cert/doc/reuniones/fs2008/archivo/RedIRIS_VI_Seguridad_en_aplicaciones_Web_v1.0_RaulSiles.pdf)
-- [Hacking desde Cero](https://radiosyculturalibre.com.ar/compartir/biblioteca/INFOSEC/Hacking%20desde%20Cero.pdf)
-- [Hacking con Google](https://www.imaginar.org/sites/google/adicional/Hacking%20con%20Google.pdf)
+- [Applications Web et Securite](http://www.mathrice.org/ecole/support/Applications-Web-securite.pdf)
+- [OpenClassRooms](https://openclassrooms.com/fr/courses/2091901-protegez-vous-efficacement-contre-les-failles-web)
+- [Failles de sécurité des applications Web](https://web.developpez.com/tutoriels/web/failles-securite-application-web/)
+- [Failles de sécurité](https://aresu.dsi.cnrs.fr/IMG/pdf/Presentation_des_failles_de_securite.pdf)
+- [Sécurité des applications Web](https://clusif.fr/publications/securite-des-applications-web/)
+- [La Sécurité Informatique](http://ylescop.free.fr/mrim/cours/securite.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [WebMasterPro](https://www.webmasterpro.de/server/article/gaengige-sicherheitsprobleme-im-web.html)
+- [SecureNet](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Studien/WebSec/WebSec.pdf)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [Sicurezza Web](http://www-db.disi.unibo.it/courses/RCPG/sicurezza.pdf)
+- [Sicurezza Web e Privacy](http://www.hackerhighschool.org/lessons/HHS_it10_Sicurezza_Web_e_Privacy.pdf)
 </details>
 
 <details>
@@ -81,38 +95,24 @@
 </details>
 
 <details>
-  <summary>French</summary>
-  
-  ### Materials
-- [Applications Web et Securite](http://www.mathrice.org/ecole/support/Applications-Web-securite.pdf)
-- [OpenClassRooms](https://openclassrooms.com/fr/courses/2091901-protegez-vous-efficacement-contre-les-failles-web)
-- [Failles de sécurité des applications Web](https://web.developpez.com/tutoriels/web/failles-securite-application-web/)
-- [Failles de sécurité](https://aresu.dsi.cnrs.fr/IMG/pdf/Presentation_des_failles_de_securite.pdf)
-- [Sécurité des applications Web](https://clusif.fr/publications/securite-des-applications-web/)
-- [La Sécurité Informatique](http://ylescop.free.fr/mrim/cours/securite.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [Sicurezza Web](http://www-db.disi.unibo.it/courses/RCPG/sicurezza.pdf)
-- [Sicurezza Web e Privacy](http://www.hackerhighschool.org/lessons/HHS_it10_Sicurezza_Web_e_Privacy.pdf)
-</details>
-
-<details>
-  <summary>German</summary>
-  
-  ### Materials
-- [WebMasterPro](https://www.webmasterpro.de/server/article/gaengige-sicherheitsprobleme-im-web.html)
-- [SecureNet](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Studien/WebSec/WebSec.pdf)
-</details>
-
-<details>
   <summary>Russian</summary>
   
   ### Materials
 - [Intro to Web Sec](https://tproger.ru/translations/hacker-101-introduction-to-web-security/)
 - [Tproger](https://tproger.ru/tag/security/)
 - [Cisco Guide](http://nncit.tneu.edu.ua/wp-content/uploads/2017/10/cisco_2017_mcr_071817_fnl_hq.pdf)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [Vulnerabilidades en Aplicaciones Web](https://www.youtube.com/watch?v=Imnzode1ptk)
+- [Hacking de Aplicaciones Web](https://ucys.ugr.es/download/taller4/WebHacking.pdf)
+- [Ataques a Aplicaciones Web](https://www.exabyteinformatica.com/uoc/Informatica/Seguridad_en_bases_de_datos/Seguridad_en_bases_de_datos_(Modulo_2).pdf)
+- [Taller de Hacking Web](https://cybercamp.es/cybercamp2014/attachments/multimedia/CyberCampHackingWeb.pdf)
+- [Ethical Hacking for Web App](http://www.revistasbolivianas.org.bo/pdf/rits/n8/n8a24.pdf)
+- [Seguridad en Aplicaciones Web](https://www.rediris.es/cert/doc/reuniones/fs2008/archivo/RedIRIS_VI_Seguridad_en_aplicaciones_Web_v1.0_RaulSiles.pdf)
+- [Hacking desde Cero](https://radiosyculturalibre.com.ar/compartir/biblioteca/INFOSEC/Hacking%20desde%20Cero.pdf)
+- [Hacking con Google](https://www.imaginar.org/sites/google/adicional/Hacking%20con%20Google.pdf)
 </details>

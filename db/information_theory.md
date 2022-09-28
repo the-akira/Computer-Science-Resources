@@ -68,36 +68,6 @@
 </details>
 
 <details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [Teoria da Informação, Rodrigo Pavão](http://www.ib.usp.br/~rpavao/Teoria_da_Informacao.pdf)
-- [Apontamentos de Teoria da Informação](http://arquivoescolar.org/bitstream/arquivo-e/132/5/cap1.pdf)
-- [Introdução à Teoria da Informação](http://www.di.ufpb.br/leonardo/iti/ITI2004.pdf)
-- [Teoria da Informação: Codificação de Fonte](http://users.isr.ist.utl.pt/~vab/FTELE/cap1.pdf)
-- [Introdução à Teoria da Informação](http://sisne.org/Disciplinas/Grad/ProbEstat1/aula%2018.pdf)
-- [Aplicações da Teoria da Informação à Neurociência](http://www.scielo.br/pdf/rbef/v41n2/1806-9126-RBEF-41-2-e20180197.pdf)
-- [Elementos de Teoria da Informação](http://www.lx.it.pt/~mtf/teoria_informacao.pdf)
-- [Unisinos Teoria da Informação](http://professor.unisinos.br/linds/teoinfo.html#a1)
-- [Fundamentos de Comunicação de Informação](http://srvd.grupoa.com.br/uploads/imagensExtra/legado/R/ROCHOL_Juergen/Comunicacao_Dados_Vol22/Liberado/Cap_01.pdf)
-- [Apostila Teoria da Informação](https://www.ft.unicamp.br/~leobravo/TT%20081/apostila1.pdf)
-</details>
-
-<details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Teoría de la Información](https://www.ecured.cu/Teor%C3%ADa_de_la_informaci%C3%B3n)
-- [Teoría de la Información de Claude E. Shannon](http://dia.austral.edu.ar/Teor%C3%ADa_de_la_informaci%C3%B3n_de_Claude_E._Shannon)
-- [Teoría de la Información](https://cs.uns.edu.ar/~ldm/mypage/data/ss/info/teoria_de_la_informacion2.pdf)
-- [Fuentes de Información](http://www.exa.unicen.edu.ar/catedras/teoinfo/files/2016/ti3_2016.pdf)
-- [Teoría Matemática de la Comunicación](http://www.unitec.edu.ve/materiasenlinea/upload/T532-3-4.pdf)
-- [Teoría de la Información y Codificación](http://www.investigo.biblioteca.uvigo.es/xmlui/bitstream/handle/11093/188/mybook.pdf)
-- [Teoria de la Comunicación](https://lideresdeizquierdaprd.files.wordpress.com/2015/11/teoria-de-la-comunicacion-libro_.pdf)
-- [Teorías de la Comunicación](http://www.aliat.org.mx/BibliotecasDigitales/comunicacion/Teorias_de_la%20_comunciacion.pdf)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -111,6 +81,19 @@
 - [Théorie de L'Information et Applications](http://dev.ipol.im/~morel/TraitementSignal.pdf)
 - [Théorie de L'Information](http://ama.liglab.fr/~amini/Cours/ISN/ISN2/TheorieInfo-2.pdf)
 - [Théorie de L'Information et du Codage](http://www.montefiore.ulg.ac.be/~lwh/Info/info-notes03.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [ETH Zürich, Informationstheorie](https://ml2.inf.ethz.ch/courses/it/)
+- [Information und Kommunikation](https://graphics.ethz.ch/teaching/infotheory_common/skript.pdf)
+- [Informationstheorie](https://www.ti.rwth-aachen.de/teaching/sonstige_vorlesungen/informationstheorie/data/it.pdf)
+- [Informationstheorie](https://www.ifi.uzh.ch/ee/fileadmin/user_upload/teaching/hs08/form_grund/Informationstheorie.pdf)
+- [Mathematische Grundlagen III](http://www.coli.uni-saarland.de/courses/mathe3/SS11/Lectures/l4_info_thy.pdf)
+- [Informationstheorie Universität Salzburg](https://www.uni-salzburg.at/fileadmin/oracle_file_imports/556438.PDF)
+- [Eine Einführung in die Algorithmische Informationstheorie](https://pub.h-brs.de/frontdoor/deliver/index/docId/3668/file/brsu_techreport_02_2018_Witt_pdf1-4.pdf)
 </details>
 
 <details>
@@ -130,16 +113,19 @@
 </details>
 
 <details>
-  <summary>German</summary>
+  <summary>Portuguese</summary>
   
   ### Materials
-- [ETH Zürich, Informationstheorie](https://ml2.inf.ethz.ch/courses/it/)
-- [Information und Kommunikation](https://graphics.ethz.ch/teaching/infotheory_common/skript.pdf)
-- [Informationstheorie](https://www.ti.rwth-aachen.de/teaching/sonstige_vorlesungen/informationstheorie/data/it.pdf)
-- [Informationstheorie](https://www.ifi.uzh.ch/ee/fileadmin/user_upload/teaching/hs08/form_grund/Informationstheorie.pdf)
-- [Mathematische Grundlagen III](http://www.coli.uni-saarland.de/courses/mathe3/SS11/Lectures/l4_info_thy.pdf)
-- [Informationstheorie Universität Salzburg](https://www.uni-salzburg.at/fileadmin/oracle_file_imports/556438.PDF)
-- [Eine Einführung in die Algorithmische Informationstheorie](https://pub.h-brs.de/frontdoor/deliver/index/docId/3668/file/brsu_techreport_02_2018_Witt_pdf1-4.pdf)
+- [Teoria da Informação, Rodrigo Pavão](http://www.ib.usp.br/~rpavao/Teoria_da_Informacao.pdf)
+- [Apontamentos de Teoria da Informação](http://arquivoescolar.org/bitstream/arquivo-e/132/5/cap1.pdf)
+- [Introdução à Teoria da Informação](http://www.di.ufpb.br/leonardo/iti/ITI2004.pdf)
+- [Teoria da Informação: Codificação de Fonte](http://users.isr.ist.utl.pt/~vab/FTELE/cap1.pdf)
+- [Introdução à Teoria da Informação](http://sisne.org/Disciplinas/Grad/ProbEstat1/aula%2018.pdf)
+- [Aplicações da Teoria da Informação à Neurociência](http://www.scielo.br/pdf/rbef/v41n2/1806-9126-RBEF-41-2-e20180197.pdf)
+- [Elementos de Teoria da Informação](http://www.lx.it.pt/~mtf/teoria_informacao.pdf)
+- [Unisinos Teoria da Informação](http://professor.unisinos.br/linds/teoinfo.html#a1)
+- [Fundamentos de Comunicação de Informação](http://srvd.grupoa.com.br/uploads/imagensExtra/legado/R/ROCHOL_Juergen/Comunicacao_Dados_Vol22/Liberado/Cap_01.pdf)
+- [Apostila Teoria da Informação](https://www.ft.unicamp.br/~leobravo/TT%20081/apostila1.pdf)
 </details>
 
 <details>
@@ -153,4 +139,18 @@
 - [AI-News Articles](http://ai-news.ru/teoriya_informacii.html)
 - [Lectures Theory of Information](http://window.edu.ru/resource/553/72553/files/teoria_informacii.pdf)
 - [Information Theory Book](http://cyber.sibsutis.ru:82/%D0%A1%D0%9F%D0%98/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F%20%D1%87%D0%B0%D1%81%D1%82%D1%8C/%D0%94%D1%83%D1%85%D0%B8%D0%BD%20%D0%90.%D0%90%20-%20%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8.pdf)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [Teoría de la Información](https://www.ecured.cu/Teor%C3%ADa_de_la_informaci%C3%B3n)
+- [Teoría de la Información de Claude E. Shannon](http://dia.austral.edu.ar/Teor%C3%ADa_de_la_informaci%C3%B3n_de_Claude_E._Shannon)
+- [Teoría de la Información](https://cs.uns.edu.ar/~ldm/mypage/data/ss/info/teoria_de_la_informacion2.pdf)
+- [Fuentes de Información](http://www.exa.unicen.edu.ar/catedras/teoinfo/files/2016/ti3_2016.pdf)
+- [Teoría Matemática de la Comunicación](http://www.unitec.edu.ve/materiasenlinea/upload/T532-3-4.pdf)
+- [Teoría de la Información y Codificación](http://www.investigo.biblioteca.uvigo.es/xmlui/bitstream/handle/11093/188/mybook.pdf)
+- [Teoria de la Comunicación](https://lideresdeizquierdaprd.files.wordpress.com/2015/11/teoria-de-la-comunicacion-libro_.pdf)
+- [Teorías de la Comunicación](http://www.aliat.org.mx/BibliotecasDigitales/comunicacion/Teorias_de_la%20_comunciacion.pdf)
 </details>

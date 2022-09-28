@@ -32,6 +32,18 @@
 </details>
 
 <details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [Università di Bologna](https://amslaurea.unibo.it/2701/1/melis_andrea_tesi.pdf)
+- [IngSoc: il Fattore Umano](https://under12oot.noblogs.org/files/2014/02/IngSoc.pdf)
+- [Ingegneria Sociale e Psicologia](http://www.greatstoriesofthebible.net/ingegneria_sociale_e_psicologia.pdf)
+- [Ingegneria Sociale](http://www.erick-simionato.it/documenti/Ingegneria%20Sociale.pdf)
+- [L'Ingegneria Sociale](https://culturamblog.files.wordpress.com/2015/04/tesina_ingegneria_sociale_completa2.pdf)
+- [Hacktips](https://hacktips.it/ingegneria-sociale/)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -44,6 +56,16 @@
 - [Ataques de ES](https://repositorio.ucp.pt/bitstream/10400.14/15690/1/Tese%20de%20Mestrado%20-%20Engenharia%20Social.pdf)
 - [Conceitos e Vertentes](http://memoria.rnp.br/_arquivo/disi2005/salgado-bruno_engenharia-social.pdf)
 - [Bradesco Segurança](https://www.bradescoseguranca.com.br/assets/pf/pdf/guias/cartilha-engenharia-social.pdf)
+</details>
+
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
+- [Xakep](https://xakep.ru/2018/05/17/social-engineering/)
+- [The Brain Hack](https://medium.com/@Emisare/socialnaya-ingeneria-9f16e0ba7fa5)
+- [Anti-malware](https://www.anti-malware.ru/threats/social-engineering)
+- [Noosfera](http://noosfera.su/social-engineering/)
 </details>
 
 <details>
@@ -62,26 +84,4 @@
 - [Ingeniería Social](https://www.tlm.unavarra.es/pluginfile.php/11615/mod_resource/content/0/clases/11_SSI-socialeng.pdf)
 - [El Arte del Engano](http://www.seaceptanideas.com/biblio/El_Arte_del_Enga%C3%B1o.pdf)
 - [Cybercamp](https://cybercamp.es/cybercamp2014/attachments/multimedia/CyberCamp_IngenieriaSocial.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [Università di Bologna](https://amslaurea.unibo.it/2701/1/melis_andrea_tesi.pdf)
-- [IngSoc: il Fattore Umano](https://under12oot.noblogs.org/files/2014/02/IngSoc.pdf)
-- [Ingegneria Sociale e Psicologia](http://www.greatstoriesofthebible.net/ingegneria_sociale_e_psicologia.pdf)
-- [Ingegneria Sociale](http://www.erick-simionato.it/documenti/Ingegneria%20Sociale.pdf)
-- [L'Ingegneria Sociale](https://culturamblog.files.wordpress.com/2015/04/tesina_ingegneria_sociale_completa2.pdf)
-- [Hacktips](https://hacktips.it/ingegneria-sociale/)
-</details>
-
-<details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [Xakep](https://xakep.ru/2018/05/17/social-engineering/)
-- [The Brain Hack](https://medium.com/@Emisare/socialnaya-ingeneria-9f16e0ba7fa5)
-- [Anti-malware](https://www.anti-malware.ru/threats/social-engineering)
-- [Noosfera](http://noosfera.su/social-engineering/)
 </details>

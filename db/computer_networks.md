@@ -98,43 +98,6 @@
 </details>
 
 <details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [Redes de Computadores](https://pt.wikibooks.org/wiki/Redes_de_computadores/Introdu%C3%A7%C3%A3o)
-- [Redes de Computadores II](http://www.inf.ufpr.br/elias/redes/)
-- [Apostila Redes](http://www.inf.ufpr.br/albini/apostila/Apostila_Redes1_Beta.pdf)
-- [Introdução às Redes](https://fenix.tecnico.ulisboa.pt/downloadFile/3779576191159/1-Introducao%202010.pdf)
-- [Fundamentos de Redes](http://redeetec.mec.gov.br/images/stories/pdf/eixo_infor_comun/tec_man_sup/081112_fund_redes_comp.pdf)
-- [IFRN](http://docente.ifrn.edu.br/diegopereira/disciplinas/2013/redes-de-computadores-sistemas-para-internet)
-- [UFSM](http://estudio01.proj.ufsm.br/cadernos/cafw/tecnico_informatica/redes_computadores)
-- [Redes Curso](http://www.lcvdata.com/redes/402283130_redes-computadores.pdf)
-- [Fundamentos e Infra-estrutura em Redes de Computadores](http://stoa.usp.br/diegofdc/files/-1/20719/Apostila_Redes_ProfDiegoFiori_vfinal.pdf)
-- [Redes Documento](http://www.rederio.br/downloads/pdf/redes.pdf)
-- [Introdução às Redes de Computadores](http://www.univasf.edu.br/~edmar.nascimento/redes/redes_20112_aula02.pdf)
-- [Aulas Redes](http://www2.ufba.br/~romildo/disciplinas.html#red)
-- [Fundamentos Redes](http://www.utim.edu.mx/~svalero/docs/laminasFundamentosRedes.pdf)
-</details>
-
-<details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [EcuRed](https://www.ecured.cu/Red_de_computadoras)
-- [10 Características de las Redes](https://www.caracteristicas.co/redes-de-computadoras/)
-- [Trabajo Redes](https://www.monografias.com/trabajos5/redes/redes.shtml)
-- [Fundamentos de Redes](https://programas.cuaed.unam.mx/repositorio/moodle/pluginfile.php/956/mod_resource/content/1/contenido/index.html)
-- [Qué es una red de computadoras](http://www.riial.org/que-es-una-red-de-computadoras/)
-- [Redes](http://www.elai.upm.es/moodle/course/view.php?id=22)
-- [Redes de Computadores Quinta Edición](https://bibliotecavirtualapure.files.wordpress.com/2015/06/redes_de_computadoras-freelibros-org.pdf)
-- [Introducción a las Redes](http://www2.elo.utfsm.cl/~iwg101/ClaseRedes.pdf)
-- [Comunicaciones y Redes](https://richardfong.files.wordpress.com/2011/02/stallings-william-comunicaciones-y-redes-de-computadores.pdf)
-- [Redes de Ordenadores](https://www.mheducation.es/bcv/guide/capitulo/8448147715.pdf)
-- [Fundamentos y Tecnologia](https://www.uv.mx/personal/artulopez/files/2012/09/08-Fun-y-Tec-de-Redes-de-C.pdf)
-- [Redes de Datos y sus Protocolos](http://www.mdp.edu.ar/images/eudem/pdf/redes%20de%20datos.pdf)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -147,6 +110,19 @@
 - [Les Réseaux](http://csricted.univ-setif.dz/files/cours%20informatique/Les%20Reseaux.pdf)
 - [Cours Réseaux](http://dept-info.labri.fr/~felix/Annee2009-10/S2/ASR2%20Reseaux/)
 - [Cours Réseaux Informatiques](http://abdelhamid-djeffal.net/web_documents/diaposroutage.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Moderner Netzwerke](https://s3-eu-west-1.amazonaws.com/gxmedia.galileo-press.de/leseproben/4224/leseprobe_rheinwerk_computer-netzwerke_grundlagen_funktionsweise_anwendung.pdf)
+- [Netzwerk](https://www.mat.univie.ac.at/~praxis/sosem14/vorlesung/folien_05.pdf)
+- [Netzwerke](http://www.saar.de/~awa/data/Rechnernetze.pdf)
+- [Computer-Kommunkationsnetzwerke](https://www.crysys.hu/~mfelegyhazi/courses/CompNet/)
+- [Einführung in die Netzwerktechnik](https://secure.ping.de/aktiv/weiterbildung/sommer2002/netzwerke1.pdf)
+- [TCP/IP-Ethernet](https://www.wut.de/download/print/e-58www-11-prde-000.pdf)
+- [Firewalls](https://www.cosy.sbg.ac.at/~uhl/PScrypt16/Firewalls.pdf)
 </details>
 
 <details>
@@ -169,16 +145,22 @@
 </details>
 
 <details>
-  <summary>German</summary>
+  <summary>Portuguese</summary>
   
   ### Materials
-- [Moderner Netzwerke](https://s3-eu-west-1.amazonaws.com/gxmedia.galileo-press.de/leseproben/4224/leseprobe_rheinwerk_computer-netzwerke_grundlagen_funktionsweise_anwendung.pdf)
-- [Netzwerk](https://www.mat.univie.ac.at/~praxis/sosem14/vorlesung/folien_05.pdf)
-- [Netzwerke](http://www.saar.de/~awa/data/Rechnernetze.pdf)
-- [Computer-Kommunkationsnetzwerke](https://www.crysys.hu/~mfelegyhazi/courses/CompNet/)
-- [Einführung in die Netzwerktechnik](https://secure.ping.de/aktiv/weiterbildung/sommer2002/netzwerke1.pdf)
-- [TCP/IP-Ethernet](https://www.wut.de/download/print/e-58www-11-prde-000.pdf)
-- [Firewalls](https://www.cosy.sbg.ac.at/~uhl/PScrypt16/Firewalls.pdf)
+- [Redes de Computadores](https://pt.wikibooks.org/wiki/Redes_de_computadores/Introdu%C3%A7%C3%A3o)
+- [Redes de Computadores II](http://www.inf.ufpr.br/elias/redes/)
+- [Apostila Redes](http://www.inf.ufpr.br/albini/apostila/Apostila_Redes1_Beta.pdf)
+- [Introdução às Redes](https://fenix.tecnico.ulisboa.pt/downloadFile/3779576191159/1-Introducao%202010.pdf)
+- [Fundamentos de Redes](http://redeetec.mec.gov.br/images/stories/pdf/eixo_infor_comun/tec_man_sup/081112_fund_redes_comp.pdf)
+- [IFRN](http://docente.ifrn.edu.br/diegopereira/disciplinas/2013/redes-de-computadores-sistemas-para-internet)
+- [UFSM](http://estudio01.proj.ufsm.br/cadernos/cafw/tecnico_informatica/redes_computadores)
+- [Redes Curso](http://www.lcvdata.com/redes/402283130_redes-computadores.pdf)
+- [Fundamentos e Infra-estrutura em Redes de Computadores](http://stoa.usp.br/diegofdc/files/-1/20719/Apostila_Redes_ProfDiegoFiori_vfinal.pdf)
+- [Redes Documento](http://www.rederio.br/downloads/pdf/redes.pdf)
+- [Introdução às Redes de Computadores](http://www.univasf.edu.br/~edmar.nascimento/redes/redes_20112_aula02.pdf)
+- [Aulas Redes](http://www2.ufba.br/~romildo/disciplinas.html#red)
+- [Fundamentos Redes](http://www.utim.edu.mx/~svalero/docs/laminasFundamentosRedes.pdf)
 </details>
 
 <details>
@@ -194,4 +176,22 @@
 - [Computer Networks 4th Edition](https://www.e-reading.club/bookreader.php/140076/Olifer_-_Komp%27yuternye_seti__principy%2C_tehnologii%2C_protokoly_%283ed%29.pdf)
 - [Lecture 6](http://ermak.cs.nstu.ru/neurotech/html/metodmat/inffall2011/Lect6.pdf)
 - [Computer Networks and Analytical Research](http://dwl.kiev.ua/art/ksai/an-book.pdf)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [EcuRed](https://www.ecured.cu/Red_de_computadoras)
+- [10 Características de las Redes](https://www.caracteristicas.co/redes-de-computadoras/)
+- [Trabajo Redes](https://www.monografias.com/trabajos5/redes/redes.shtml)
+- [Fundamentos de Redes](https://programas.cuaed.unam.mx/repositorio/moodle/pluginfile.php/956/mod_resource/content/1/contenido/index.html)
+- [Qué es una red de computadoras](http://www.riial.org/que-es-una-red-de-computadoras/)
+- [Redes](http://www.elai.upm.es/moodle/course/view.php?id=22)
+- [Redes de Computadores Quinta Edición](https://bibliotecavirtualapure.files.wordpress.com/2015/06/redes_de_computadoras-freelibros-org.pdf)
+- [Introducción a las Redes](http://www2.elo.utfsm.cl/~iwg101/ClaseRedes.pdf)
+- [Comunicaciones y Redes](https://richardfong.files.wordpress.com/2011/02/stallings-william-comunicaciones-y-redes-de-computadores.pdf)
+- [Redes de Ordenadores](https://www.mheducation.es/bcv/guide/capitulo/8448147715.pdf)
+- [Fundamentos y Tecnologia](https://www.uv.mx/personal/artulopez/files/2012/09/08-Fun-y-Tec-de-Redes-de-C.pdf)
+- [Redes de Datos y sus Protocolos](http://www.mdp.edu.ar/images/eudem/pdf/redes%20de%20datos.pdf)
 </details>

@@ -83,47 +83,6 @@
 </details>
 
 <details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [DevMedia](https://www.devmedia.com.br/trabalhando-com-a-linguagem-r/33275)
-- [R (linguagem de programação)](https://www.ufrgs.br/soft-livre-edu/software-educacional-livre-na-wikipedia/r-linguagem-de-programacao/)
-- [Introdução ao R](https://msdn.microsoft.com/pt-br/magazine/mt238409.aspx)
-- [Introdução à Programação em R](http://www.dcc.fc.up.pt/~ltorgo/SebentaR/HTML/node4.html)
-- [O Estatístico](https://oestatistico.com.br/por-que-devemos-aprender-a-programar-em-r/)
-- [Revisão R](http://www.leg.ufpr.br/~walmes/ensino/EC2/slides/01-revis-program.pdf)
-- [Introdução ao uso do R](https://cran.r-project.org/doc/contrib/Landeiro-Introducao.pdf)
-- [Aprendendo R](http://www.de.ufpb.br/~tatiene/Disciplinas/2014.2/LivroR/aprendendo_r.pdf)
-- [Minicurso R](https://www.ime.uerj.br/~mrubens/slae/minicursosoftwareR.pdf)
-- [Minicurso de Estatística Básica](http://www.uft.edu.br/engambiental/prof/catalunha/arquivos/r/r_bruno.pdf)
-- [Linguagem R para Iniciantes](https://even3.blob.core.windows.net/anais/104078.pdf)
-- [Curso sobre R](http://www.leg.ufpr.br/Rpira/Rpira.pdf)
-- [Introdução ao Ambiente R](http://www.ufscar.br/~des/docente/josemar/152056/05082008/tutoport-apostilaR_monitoria.pdf)
-- [Análise Exploratória de Dados usando R](http://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf)
-- [Séries Temporais em R](https://aprender.ead.unb.br/pluginfile.php/235342/mod_resource/content/1/CursoCompleto.pdf)
-- [Curso de R](https://www.youtube.com/watch?v=plJw9QFew5A&amp;list=PL4OAe-tL47sbzCgtBTthtX50T30CLToEZ)
-</details>
-
-<details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Curso básico de R](http://www.ub.edu/stat/docencia/EADB/Curso%20basico%20de%20R.pdf)
-- [Introducción a la Programación Estadística](https://www.ugr.es/~batanero/pages/ARTICULOS/libroR.pdf)
-- [Sobre R](http://halweb.uc3m.es/esp/Personal/personas/jmmarin/esp/Progra/SobreR.html)
-- [Introducción al lenguaje de programación R](http://www.cs.us.es/~fran/curso_unia/introduccion_R.html)
-- [Computación y Programación en R](https://www.uv.es/conesa/CursoR/material/handout-sesion1.pdf)
-- [El Arte de Programar en R](https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf)
-- [R para Principiantes](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf)
-- [Introducción a R](https://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf)
-- [Curso Básico de R](http://www.ub.edu/stat/docencia/EADB/Curso%20basico%20de%20R-bn.pdf)
-- [Intro a R](https://www.ucm.es/data/cont/docs/339-2016-09-29-Introduccion%20a%20R_v1617.pdf)
-- [Manual de Práticas con R](http://matematicas.unex.es/~trinidad/mui/tutorial.R.pdf)
-- [Programación en R](http://www.oldemarrodriguez.com/yahoo_site_admin/assets/docs/Programacion_R.67130107.pdf)
-- [Cómo Utilizar R em Métodos Numéricos](https://tecdigital.tec.ac.cr/revistamatematica/Secciones/Matematica_Algoritmos_Programacion/RevistaDigital_WMora_V16_n1_2015/RevistaDigital_WMora_V16_n2_2015.pdf)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -135,6 +94,20 @@
 - [Logiciel R et Programmation](http://egallic.fr/Enseignement/R/Slides/boucles.pdf)
 - [Quelques Commandes R](http://revue.sesamath.net/IMG/pdf/RCarte_Commandes-R.pdf)
 - [Introduction au Logiciel R](https://www.math.univ-toulouse.fr/~sdejean/PDF/semin-R_juin_2014.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Einführung in R](https://tu-dresden.de/gsw/phil/iso/mes/ressourcen/dateien/prof/lehre/freieS/Dateien/Einfuehrung_R.pdf?lang=en)
+- [Einführung in R 2](http://www.marlenemueller.de/MM_EinfuehrungR.pdf)
+- [Technische Universitat Dortmund](https://www.statistik.tu-dortmund.de/fileadmin/user_upload/Lehrstuehle/Datenanalyse/R/R_gesamt_3x3.pdf)
+- [Programmieren in R](http://fawn.hsu-hh.de/~steuer/downloads/FT2018/RLatex.pdf)
+- [Einführung in R 3](http://www.stat.ruhr-uni-bochum.de/teaching/vis/dkmr.pdf)
+- [Programmierung mit R](https://www.statistik.tu-dortmund.de/fileadmin/user_upload/Lehrstuehle/Datenanalyse/R/R_gesamt.pdf)
+- [Einf ̈uhrung in die Statistik-Programmier-Sprache R](https://www.statistik.tu-dortmund.de/fileadmin/user_upload/Lehrstuehle/Ingenieur/Mueller/Lehre/StochIng/Rman.pdf)
+- [Crashkurs Datenanalyse mit R](https://sebastiansauer.github.io/download/r-crashkurs_01.pdf)
 </details>
 
 <details>
@@ -157,17 +130,25 @@
 </details>
 
 <details>
-  <summary>German</summary>
+  <summary>Portuguese</summary>
   
   ### Materials
-- [Einführung in R](https://tu-dresden.de/gsw/phil/iso/mes/ressourcen/dateien/prof/lehre/freieS/Dateien/Einfuehrung_R.pdf?lang=en)
-- [Einführung in R 2](http://www.marlenemueller.de/MM_EinfuehrungR.pdf)
-- [Technische Universitat Dortmund](https://www.statistik.tu-dortmund.de/fileadmin/user_upload/Lehrstuehle/Datenanalyse/R/R_gesamt_3x3.pdf)
-- [Programmieren in R](http://fawn.hsu-hh.de/~steuer/downloads/FT2018/RLatex.pdf)
-- [Einführung in R 3](http://www.stat.ruhr-uni-bochum.de/teaching/vis/dkmr.pdf)
-- [Programmierung mit R](https://www.statistik.tu-dortmund.de/fileadmin/user_upload/Lehrstuehle/Datenanalyse/R/R_gesamt.pdf)
-- [Einf ̈uhrung in die Statistik-Programmier-Sprache R](https://www.statistik.tu-dortmund.de/fileadmin/user_upload/Lehrstuehle/Ingenieur/Mueller/Lehre/StochIng/Rman.pdf)
-- [Crashkurs Datenanalyse mit R](https://sebastiansauer.github.io/download/r-crashkurs_01.pdf)
+- [DevMedia](https://www.devmedia.com.br/trabalhando-com-a-linguagem-r/33275)
+- [R (linguagem de programação)](https://www.ufrgs.br/soft-livre-edu/software-educacional-livre-na-wikipedia/r-linguagem-de-programacao/)
+- [Introdução ao R](https://msdn.microsoft.com/pt-br/magazine/mt238409.aspx)
+- [Introdução à Programação em R](http://www.dcc.fc.up.pt/~ltorgo/SebentaR/HTML/node4.html)
+- [O Estatístico](https://oestatistico.com.br/por-que-devemos-aprender-a-programar-em-r/)
+- [Revisão R](http://www.leg.ufpr.br/~walmes/ensino/EC2/slides/01-revis-program.pdf)
+- [Introdução ao uso do R](https://cran.r-project.org/doc/contrib/Landeiro-Introducao.pdf)
+- [Aprendendo R](http://www.de.ufpb.br/~tatiene/Disciplinas/2014.2/LivroR/aprendendo_r.pdf)
+- [Minicurso R](https://www.ime.uerj.br/~mrubens/slae/minicursosoftwareR.pdf)
+- [Minicurso de Estatística Básica](http://www.uft.edu.br/engambiental/prof/catalunha/arquivos/r/r_bruno.pdf)
+- [Linguagem R para Iniciantes](https://even3.blob.core.windows.net/anais/104078.pdf)
+- [Curso sobre R](http://www.leg.ufpr.br/Rpira/Rpira.pdf)
+- [Introdução ao Ambiente R](http://www.ufscar.br/~des/docente/josemar/152056/05082008/tutoport-apostilaR_monitoria.pdf)
+- [Análise Exploratória de Dados usando R](http://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf)
+- [Séries Temporais em R](https://aprender.ead.unb.br/pluginfile.php/235342/mod_resource/content/1/CursoCompleto.pdf)
+- [Curso de R](https://www.youtube.com/watch?v=plJw9QFew5A&amp;list=PL4OAe-tL47sbzCgtBTthtX50T30CLToEZ)
 </details>
 
 <details>
@@ -175,4 +156,23 @@
   
   ### Materials
 - [Data Science with R](https://proglib.io/p/data-science-with-r/)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [Curso básico de R](http://www.ub.edu/stat/docencia/EADB/Curso%20basico%20de%20R.pdf)
+- [Introducción a la Programación Estadística](https://www.ugr.es/~batanero/pages/ARTICULOS/libroR.pdf)
+- [Sobre R](http://halweb.uc3m.es/esp/Personal/personas/jmmarin/esp/Progra/SobreR.html)
+- [Introducción al lenguaje de programación R](http://www.cs.us.es/~fran/curso_unia/introduccion_R.html)
+- [Computación y Programación en R](https://www.uv.es/conesa/CursoR/material/handout-sesion1.pdf)
+- [El Arte de Programar en R](https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf)
+- [R para Principiantes](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf)
+- [Introducción a R](https://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf)
+- [Curso Básico de R](http://www.ub.edu/stat/docencia/EADB/Curso%20basico%20de%20R-bn.pdf)
+- [Intro a R](https://www.ucm.es/data/cont/docs/339-2016-09-29-Introduccion%20a%20R_v1617.pdf)
+- [Manual de Práticas con R](http://matematicas.unex.es/~trinidad/mui/tutorial.R.pdf)
+- [Programación en R](http://www.oldemarrodriguez.com/yahoo_site_admin/assets/docs/Programacion_R.67130107.pdf)
+- [Cómo Utilizar R em Métodos Numéricos](https://tecdigital.tec.ac.cr/revistamatematica/Secciones/Matematica_Algoritmos_Programacion/RevistaDigital_WMora_V16_n1_2015/RevistaDigital_WMora_V16_n2_2015.pdf)
 </details>

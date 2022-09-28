@@ -60,6 +60,29 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [Mathématiques pour Informaticiens](https://www.unige.ch/~hairer/poly_mathinfo/math-info.pdf)
+- [Mathématiques Appliquées](http://www.courstechinfo.be/Math_Info.pdf)
+- [Les Mathématiques](https://www.ljll.math.upmc.fr/ledret/mathsoipweb.pdf)
+- [Cours](http://www.fsr.ac.ma/cours/informatique/elbenani/Partie1.pdf)
+- [Math et Info](https://www.irif.fr/~jep/PDF/MathInfo.pdf)
+- [Informatique, Math Appliquées](http://www.ac-grenoble.fr/missionsciences/pdf/ressources/IMA_presentation_Lycees.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Mathematika für Informatiker](http://page.mi.fu-berlin.de/baumeist/Mafi-Skript.pdf)
+- [Mathematika](https://www.mat.univie.ac.at/~gerald/ftp/book-mfi/mfi1.pdf)
+- [Diskrete Mathematik](http://www.cosy.sbg.ac.at/~held/teaching/diskrete_mathematik/dm_print.pdf)
+- [MFI](https://www.math.uni-sb.de/ag-schreyer/images/PDFs/teaching/ss14_mfi2/MfI123_book.pdf)
+- [Mathematik und Informatik](https://pdfs.semanticscholar.org/8045/874b19f50a958f3ccb0ebd5ed841fd1b1eea.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -91,27 +114,4 @@
 - [Matemática para Informática](http://repositorio.uned.ac.cr/reuned/bitstream/120809/1375/1/50287%20Matematicas%20para%20informatica.pdf)
 - [Informática para Las Matemáticas](https://www.unirioja.es/cu/joheras/papers/immiia.pdf)
 - [Relações entre Informática e Matemática](http://www.matematica.pucminas.br/profs/web_silvi/calculo2/artigos/show_file.pdf)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [Mathématiques pour Informaticiens](https://www.unige.ch/~hairer/poly_mathinfo/math-info.pdf)
-- [Mathématiques Appliquées](http://www.courstechinfo.be/Math_Info.pdf)
-- [Les Mathématiques](https://www.ljll.math.upmc.fr/ledret/mathsoipweb.pdf)
-- [Cours](http://www.fsr.ac.ma/cours/informatique/elbenani/Partie1.pdf)
-- [Math et Info](https://www.irif.fr/~jep/PDF/MathInfo.pdf)
-- [Informatique, Math Appliquées](http://www.ac-grenoble.fr/missionsciences/pdf/ressources/IMA_presentation_Lycees.pdf)
-</details>
-
-<details>
-  <summary>German</summary>
-  
-  ### Materials
-- [Mathematika für Informatiker](http://page.mi.fu-berlin.de/baumeist/Mafi-Skript.pdf)
-- [Mathematika](https://www.mat.univie.ac.at/~gerald/ftp/book-mfi/mfi1.pdf)
-- [Diskrete Mathematik](http://www.cosy.sbg.ac.at/~held/teaching/diskrete_mathematik/dm_print.pdf)
-- [MFI](https://www.math.uni-sb.de/ag-schreyer/images/PDFs/teaching/ss14_mfi2/MfI123_book.pdf)
-- [Mathematik und Informatik](https://pdfs.semanticscholar.org/8045/874b19f50a958f3ccb0ebd5ed841fd1b1eea.pdf)
 </details>

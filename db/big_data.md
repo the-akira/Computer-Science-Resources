@@ -70,40 +70,6 @@
 </details>
 
 <details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [Big Data o Novo Desafio](http://paineira.usp.br/lassu/wp-content/uploads/2017/01/2017.02.07-palestra_rosangela_bigdata.pdf)
-- [Guia Definitivo Big Data](http://www.mettodo.com.br/ebooks/O_guia_definitivo_de_Big_Data_para_iniciantes.pdf)
-- [Saiba mais sobre Big Data](https://www.intel.com.br/content/dam/www/public/lar/br/pt/documents/articles/90318386-1-por.pdf)
-- [A Era dos Grandes Dados já Chegou](https://repositorio.ufsc.br/bitstream/handle/123456789/133419/BIG%20DATA%20-%20Superinteressante.pdf)
-- [Dossier Big Data](https://www.computerworld.com.pt/media/2012/03/Dossier-Big-Data-Mar%C3%A7o-2012.pdf)
-- [Big Data: Ferramentas e Aplicabilidade](https://www.aedb.br/seget/arquivos/artigos16/472427.pdf)
-- [Irineu Granato](http://www.ecmshow.com.br/apresentacoes_2013/df2013/04_irineu_granato_big_data.pdf)
-- [Big Data e Data Analysis](https://repositorium.sdum.uminho.pt/bitstream/1822/40106/1/Big%20Data%20e%20Data%20Analysis%20-%20Visualiza%C3%A7%C3%A3o%20de%20Informa%C3%A7%C3%A3o.pdf)
-- [Fundação Getúlio Vargas](https://gvpesquisa.fgv.br/sites/gvpesquisa.fgv.br/files/arquivos/meirelles_-_big_data_evolucao_das_publicacoes_e_oportuniadeds_de_pesquisa.pdf)
-- [Transformando Dados em Decisões](http://web.unipar.br/~seinpar/2014/artigos/graduacao/Tiago_Volpato.pdf)
-- [Big Data e Data Science](https://repositorioaberto.uab.pt/bitstream/10400.2/3918/1/2%20Boletim_51.11-14.pdf)
-</details>
-
-<details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Power Data](https://www.powerdata.es/big-data)
-- [Big Data y la Inteligencia de Negocios](https://my.laureate.net/faculty/webinars/Documents/2013Agosto_Big%20data%20y%20la%20inteligencia%20de%20negocios.pdf)
-- [Felipe Pérez](https://www.mincotur.gob.es/Publicaciones/Publicacionesperiodicas/EconomiaIndustrial/RevistaEconomiaIndustrial/395/F%20SEVILLANO%20PEREZ.pdf)
-- [Del bit al Big Data](https://cdn2.hubspot.net/hub/239039/file-359994269-pdf/docs/PowerData_-_Del_bit%E2%80%A6_Al_Big_Data.pdf)
-- [El Poder de los Datos](https://www.fundacionbankinter.org/documents/20183/42758/Publicaci%C3%B3n+Big+data/cc4bd4e9-8c9b-4052-8814-ccbd48324147)
-- [Explorando Big Data](https://cimat.repositorioinstitucional.mx/jspui/bitstream/1008/435/1/ZACTE40.pdf)
-- [Conociendo Big Data](http://www.scielo.org.co/pdf/rfing/v24n38/v24n38a06.pdf)
-- [Algoritmos, Tecnología y Aplicaciones](http://madm.uib.es/wp-content/uploads/2016/06/Jose-Manuel-Benitez-Sanchez-Big-Data-Algoritmos_tecnologia_y_aplicaciones.pdf)
-- [La Revolución de los Datos Masivos](http://puntocritico.com/ausajpuntocritico/documentos/Big_Data.pdf)
-- [Tecnologías Hadoop](https://www.uv.es/capgeminiuv/documents/Introduccion_a_Hadoop_UV_ES.pdf)
-- [La Big Data y el Marketing](http://dspace.umh.es/bitstream/11000/4067/1/TFG%20Martinez%20Montesinos%2C%20Riveran%20Jos%C3%A9.pdf)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -122,6 +88,14 @@
 </details>
 
 <details>
+  <summary>German</summary>
+  
+  ### Materials
+- [SoftSelect](http://www.softselect.de/wissenspool/big-data)
+- [Big Data Management](https://www.dima.tu-berlin.de/fileadmin/fg131/Publikation/BDM_Studie/bigdatamanagement-short-DE-finalv099.pdf)
+</details>
+
+<details>
   <summary>Italian</summary>
   
   ### Materials
@@ -133,11 +107,20 @@
 </details>
 
 <details>
-  <summary>German</summary>
+  <summary>Portuguese</summary>
   
   ### Materials
-- [SoftSelect](http://www.softselect.de/wissenspool/big-data)
-- [Big Data Management](https://www.dima.tu-berlin.de/fileadmin/fg131/Publikation/BDM_Studie/bigdatamanagement-short-DE-finalv099.pdf)
+- [Big Data o Novo Desafio](http://paineira.usp.br/lassu/wp-content/uploads/2017/01/2017.02.07-palestra_rosangela_bigdata.pdf)
+- [Guia Definitivo Big Data](http://www.mettodo.com.br/ebooks/O_guia_definitivo_de_Big_Data_para_iniciantes.pdf)
+- [Saiba mais sobre Big Data](https://www.intel.com.br/content/dam/www/public/lar/br/pt/documents/articles/90318386-1-por.pdf)
+- [A Era dos Grandes Dados já Chegou](https://repositorio.ufsc.br/bitstream/handle/123456789/133419/BIG%20DATA%20-%20Superinteressante.pdf)
+- [Dossier Big Data](https://www.computerworld.com.pt/media/2012/03/Dossier-Big-Data-Mar%C3%A7o-2012.pdf)
+- [Big Data: Ferramentas e Aplicabilidade](https://www.aedb.br/seget/arquivos/artigos16/472427.pdf)
+- [Irineu Granato](http://www.ecmshow.com.br/apresentacoes_2013/df2013/04_irineu_granato_big_data.pdf)
+- [Big Data e Data Analysis](https://repositorium.sdum.uminho.pt/bitstream/1822/40106/1/Big%20Data%20e%20Data%20Analysis%20-%20Visualiza%C3%A7%C3%A3o%20de%20Informa%C3%A7%C3%A3o.pdf)
+- [Fundação Getúlio Vargas](https://gvpesquisa.fgv.br/sites/gvpesquisa.fgv.br/files/arquivos/meirelles_-_big_data_evolucao_das_publicacoes_e_oportuniadeds_de_pesquisa.pdf)
+- [Transformando Dados em Decisões](http://web.unipar.br/~seinpar/2014/artigos/graduacao/Tiago_Volpato.pdf)
+- [Big Data e Data Science](https://repositorioaberto.uab.pt/bitstream/10400.2/3918/1/2%20Boletim_51.11-14.pdf)
 </details>
 
 <details>
@@ -150,4 +133,21 @@
 - [Edge 2013](https://www.ibm.com/ru/events/presentations/edge13/06_edge13.pdf)
 - [Pushkin](http://www.gks.ru/free_doc/new_site/rosstat/smi/conf16/prez_Pushkin.pdf)
 - [Pavlovskiy](https://www.osp.ru/netcat_files/18/10/06_2014_Nau4nye.pdf)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [Power Data](https://www.powerdata.es/big-data)
+- [Big Data y la Inteligencia de Negocios](https://my.laureate.net/faculty/webinars/Documents/2013Agosto_Big%20data%20y%20la%20inteligencia%20de%20negocios.pdf)
+- [Felipe Pérez](https://www.mincotur.gob.es/Publicaciones/Publicacionesperiodicas/EconomiaIndustrial/RevistaEconomiaIndustrial/395/F%20SEVILLANO%20PEREZ.pdf)
+- [Del bit al Big Data](https://cdn2.hubspot.net/hub/239039/file-359994269-pdf/docs/PowerData_-_Del_bit%E2%80%A6_Al_Big_Data.pdf)
+- [El Poder de los Datos](https://www.fundacionbankinter.org/documents/20183/42758/Publicaci%C3%B3n+Big+data/cc4bd4e9-8c9b-4052-8814-ccbd48324147)
+- [Explorando Big Data](https://cimat.repositorioinstitucional.mx/jspui/bitstream/1008/435/1/ZACTE40.pdf)
+- [Conociendo Big Data](http://www.scielo.org.co/pdf/rfing/v24n38/v24n38a06.pdf)
+- [Algoritmos, Tecnología y Aplicaciones](http://madm.uib.es/wp-content/uploads/2016/06/Jose-Manuel-Benitez-Sanchez-Big-Data-Algoritmos_tecnologia_y_aplicaciones.pdf)
+- [La Revolución de los Datos Masivos](http://puntocritico.com/ausajpuntocritico/documentos/Big_Data.pdf)
+- [Tecnologías Hadoop](https://www.uv.es/capgeminiuv/documents/Introduccion_a_Hadoop_UV_ES.pdf)
+- [La Big Data y el Marketing](http://dspace.umh.es/bitstream/11000/4067/1/TFG%20Martinez%20Montesinos%2C%20Riveran%20Jos%C3%A9.pdf)
 </details>

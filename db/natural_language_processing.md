@@ -51,36 +51,6 @@
 </details>
 
 <details>
-  <summary>Portuguese</summary>
-  
-  ### Materials
-- [Processamento de Linguagem Natural](https://www.ime.usp.br/~slago/IA-pln.pdf)
-- [Apresentação UFES](https://www.inbot.com.br/artigos/educacional/Processamento-de-Linguagem-Natural-PLN-Jacson-Rodrigues-UFES.pdf)
-- [Curso](http://www.di.ubi.pt/~jpaulo/ensino/PLN/)
-- [Brincando com NLP](https://leportella.com/pt-br/2017/11/30/brincando-de-nlp-com-spacy.html)
-- [UFABC](http://professor.ufabc.edu.br/~jesus.mena/courses/pln-1q-2018/)
-- [Uma Introdução ao NLP](https://imasters.com.br/back-end/falando-em-voz-alta-uma-introducao-ao-processamento-de-linguagem-natural)
-- [Processamento de Linguagem Natural e Extração de Conhecimento](https://estudogeral.sib.uc.pt/bitstream/10316/35676/1/Processamento%20de%20Linguagem%20Natural%20e%20Extracao%20de%20Conhecimento.pdf)
-- [Faculdade de Tecnologia de São Paulo](https://www.ime.usp.br/~slago/pl-12.pdf)
-- [Fundamentos](http://www.di.fc.ul.pt/~ahb/pubs/2008dBrancoCosta.pdf)
-- [PUC-Rio](https://www.maxwell.vrac.puc-rio.br/10081/10081_5.PDF)
-- [Aula PLN](https://web.fe.up.pt/~eol/SSIIM/1112/aula_pln.pdf)
-</details>
-
-<details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Procesamiento de Lenguaje Natural](https://medium.com/soldai/procesamiento-de-lenguaje-natural-5315cf212d0f)
-- [Universidad de Sevilla](https://www.cs.us.es/cursos/ia2/temas/tema-06.pdf)
-- [Proceso de Lenguaje Natural](http://disi.unal.edu.co/~lctorress/iartificial/IAc016.pdf)
-- [Universidad Carlos III](http://ocw.uc3m.es/ingenieria-telematica/inteligencia-en-redes-de-comunicaciones/material-de-clase-1/09-procesamiento-del-lenguaje-natural)
-- [Universidad Politécnica de Valencia](http://onomazein.letras.uc.cl/Articulos/26/1_Perinan.pdf)
-- [Guia Introductoria](https://www.sopadebits.com/wp-content/uploads/2011/03/4479-pln-1.0-20070630.pdf)
-- [Logros, Desafíos, Impacto](https://www.fing.edu.uy/inco/cursos/grampln/presentaciones/GFLN2012_01_intro.pdf)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -89,6 +59,17 @@
 - [TALN](http://gurau-audibert.hd.free.fr/josdblog/wp-content/uploads/2011/12/TAL_ITCN.pdf)
 - [Université de Rennes](https://halshs.archives-ouvertes.fr/tel-01322692/document)
 - [Cours 10](http://lalic.paris-sorbonne.fr/PAGESPERSO/atanassova/lfa/Cours10.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Computerlinguistik](https://de.wikipedia.org/wiki/Computerlinguistik)
+- [Naturlicher Sprache](http://www.ec.tuwien.ac.at/~salamon/download/NatuerlicheSprache.pdf)
+- [Modelle Der Computerlinguistik](http://www.informatik.uni-leipzig.de/~graebe/Texte/FiettaGienappMcCann-16-Folien.pdf)
+- [Intro to Computational Linguistics](https://www.noname-ev.de/wiki/uploads/a/a3/Computerlinguistik.pdf)
+- [Universität Zürich](https://www.cl.uzh.ch/dam/jcr:ffffffff-b2e3-81a5-ffff-fffff7c4f4a7/ecl1.0.l.pdf)
 </details>
 
 <details>
@@ -107,14 +88,20 @@
 </details>
 
 <details>
-  <summary>German</summary>
+  <summary>Portuguese</summary>
   
   ### Materials
-- [Computerlinguistik](https://de.wikipedia.org/wiki/Computerlinguistik)
-- [Naturlicher Sprache](http://www.ec.tuwien.ac.at/~salamon/download/NatuerlicheSprache.pdf)
-- [Modelle Der Computerlinguistik](http://www.informatik.uni-leipzig.de/~graebe/Texte/FiettaGienappMcCann-16-Folien.pdf)
-- [Intro to Computational Linguistics](https://www.noname-ev.de/wiki/uploads/a/a3/Computerlinguistik.pdf)
-- [Universität Zürich](https://www.cl.uzh.ch/dam/jcr:ffffffff-b2e3-81a5-ffff-fffff7c4f4a7/ecl1.0.l.pdf)
+- [Processamento de Linguagem Natural](https://www.ime.usp.br/~slago/IA-pln.pdf)
+- [Apresentação UFES](https://www.inbot.com.br/artigos/educacional/Processamento-de-Linguagem-Natural-PLN-Jacson-Rodrigues-UFES.pdf)
+- [Curso](http://www.di.ubi.pt/~jpaulo/ensino/PLN/)
+- [Brincando com NLP](https://leportella.com/pt-br/2017/11/30/brincando-de-nlp-com-spacy.html)
+- [UFABC](http://professor.ufabc.edu.br/~jesus.mena/courses/pln-1q-2018/)
+- [Uma Introdução ao NLP](https://imasters.com.br/back-end/falando-em-voz-alta-uma-introducao-ao-processamento-de-linguagem-natural)
+- [Processamento de Linguagem Natural e Extração de Conhecimento](https://estudogeral.sib.uc.pt/bitstream/10316/35676/1/Processamento%20de%20Linguagem%20Natural%20e%20Extracao%20de%20Conhecimento.pdf)
+- [Faculdade de Tecnologia de São Paulo](https://www.ime.usp.br/~slago/pl-12.pdf)
+- [Fundamentos](http://www.di.fc.ul.pt/~ahb/pubs/2008dBrancoCosta.pdf)
+- [PUC-Rio](https://www.maxwell.vrac.puc-rio.br/10081/10081_5.PDF)
+- [Aula PLN](https://web.fe.up.pt/~eol/SSIIM/1112/aula_pln.pdf)
 </details>
 
 <details>
@@ -127,4 +114,17 @@
 - [NLPandDA](https://www.hse.ru/data/2017/08/12/1174382138/NLPandDA_4print.pdf)
 - [Intro NLP](http://kansas.ru/nlp2016/intro.pdf)
 - [Book](http://www.ict.edu.ru/ft/004938/shemakin.pdf)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [Procesamiento de Lenguaje Natural](https://medium.com/soldai/procesamiento-de-lenguaje-natural-5315cf212d0f)
+- [Universidad de Sevilla](https://www.cs.us.es/cursos/ia2/temas/tema-06.pdf)
+- [Proceso de Lenguaje Natural](http://disi.unal.edu.co/~lctorress/iartificial/IAc016.pdf)
+- [Universidad Carlos III](http://ocw.uc3m.es/ingenieria-telematica/inteligencia-en-redes-de-comunicaciones/material-de-clase-1/09-procesamiento-del-lenguaje-natural)
+- [Universidad Politécnica de Valencia](http://onomazein.letras.uc.cl/Articulos/26/1_Perinan.pdf)
+- [Guia Introductoria](https://www.sopadebits.com/wp-content/uploads/2011/03/4479-pln-1.0-20070630.pdf)
+- [Logros, Desafíos, Impacto](https://www.fing.edu.uy/inco/cursos/grampln/presentaciones/GFLN2012_01_intro.pdf)
 </details>

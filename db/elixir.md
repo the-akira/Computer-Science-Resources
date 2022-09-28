@@ -40,6 +40,22 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [Introduction à Elixir](https://www.synbioz.com/blog/introduction_a_elixir)
+- [Lkdjiin](http://lkdjiin.github.io/blog/categories/elixir/)
+- [Elixir (Langage de Programmation)](http://boowiki.info/art/les-langages-de-script/elixir-langage-de-programmation.html)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Pattern Matching in Elixir](https://funktionale-programmierung.de/2018/06/05/elixir-pattern-matching.html)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -60,20 +76,4 @@
 - [Que és Elixir?](https://jpyamamoto.com/blog/posts/que-es-elixir/)
 - [Introduction to Elixir](http://club.hackbu.org/demo/elixir/elixir-intro.html)
 - [Riptutorial](https://riptutorial.com/es/elixir/topic/954/empezando-con-elixir-language)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [Introduction à Elixir](https://www.synbioz.com/blog/introduction_a_elixir)
-- [Lkdjiin](http://lkdjiin.github.io/blog/categories/elixir/)
-- [Elixir (Langage de Programmation)](http://boowiki.info/art/les-langages-de-script/elixir-langage-de-programmation.html)
-</details>
-
-<details>
-  <summary>German</summary>
-  
-  ### Materials
-- [Pattern Matching in Elixir](https://funktionale-programmierung.de/2018/06/05/elixir-pattern-matching.html)
 </details>

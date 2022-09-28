@@ -71,6 +71,60 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [Ordinateur Quantique](https://www.futura-sciences.com/sciences/definitions/physique-ordinateur-quantique-4348/)
+- [Institut Pandore](https://www.institut-pandore.com/physique-quantique/informatique-ordinateur-quantique/)
+- [Comprendre l’informatique quantique – qubits](https://www.frenchweb.fr/comprendre-linformatique-quantique-qubits/330991)
+- [Oezratty](https://www.oezratty.net/wordpress/2018/comprendre-linformatique-quantique-ordinateur-quantique/)
+- [Info Quantique](https://www-fourier.ujf-grenoble.fr/~spehner/enseignement/info_quantique.pdf)
+- [Ordinateur Quantique](https://www.phys.ens.fr/IMG/pdf/jmr.pdf)
+- [L'Ordinateur Quantique](https://www.physinfo.org/Info_Quantique/Ordi_Quant.pdf)
+- [Introduction `a l’information quantique](http://dept-info.labri.fr/~ges/ENSEIGNEMENT/CALCULQ/polycop_calculq.pdf)
+- [Denis Crottet](https://cds.cern.ch/record/432739/files/0003132.pdf)
+- [Algorithmes et Architectures](https://www.physique.usherbrooke.ca/pages/sites/default/files/Algorithmes_et_architectures_16dec2002_Blais.pdf)
+- [Programmer un Ordinateur Quantique](https://www.sciencesmaths-paris.fr/upload/Contenu/pr%C3%A9sentations/Benoit%20Valiron.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Prof. Dr. Erich Grädel](https://logic.rwth-aachen.de/Teaching/QC-SS15/index.html.de)
+- [Quantencomputing und andere Quantentechnologien](https://digitaleweltmagazin.de/en/2018/07/25/quantencomputing-und-andere-quantentechnologien/)
+- [QC Teaching](https://www.cond-mat.de/teaching/QC/)
+- [Quantencomputing I](http://www.nld.ds.mpg.de/~hecke/archiv/osemSS05.pdf)
+- [Lib Quantum](http://www.libquantum.de/files/libquantum.pdf)
+- [Rupert Hölzl](https://hoelzl.fr/Hoelzl%20-%20Quantencomputer.pdf)
+- [Quantencomputer](https://www.physik.hu-berlin.de/de/nano/lehre/BachelorSeminar/quantencomputer.pdf)
+- [In Theorie und Praxis](http://www5.rz.rub.de:8032/imperia/md/content/wolf/quantencomputerdagstuhl.pdf)
+- [Tom Petersen](https://theorie.physnet.uni-hamburg.de/group_vts/cisseminar1112/vortragt04.pdf)
+- [Enrico Arrigoni](https://itp.tugraz.at/~arrigoni/vorlesungen/quantumcomputer/script/bilder/qucomp/beamer-qucomp.pdf)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [AI4business](https://www.ai4business.it/intelligenza-artificiale/computer-quantistico/)
+- [IBM Q Computing](https://medium.com/visionari/quantum-computing-prova-un-computer-quantico-direttamente-da-casa-dfc3c05e794d)
+- [Il Computer Quantistico](http://profs.sci.univr.it/~dipierro/InfQuant/Lezione_Morsch_Slides.pdf)
+- [Alessandra di Pierro](http://profs.sci.univr.it/~dipierro/InfQuant/articles/Lezioni-IQ.pdf)
+- [Quantum Computer](http://www.liceolocarno.ch/Liceo_di_Locarno/Internetutti/ferrari/PDF/LAM/LAM-QC.pdf)
+- [Il Computer Quantistico](http://people.unica.it/michelesaba/files/2012/04/relazione4.pdf)
+- [Introduzione al Quantum Computing](http://www.apogeonline.com/2002/libri/88-503-1062-5/ebook/pdf/QuantumComputing.pdf)
+- [Computer e Simulazioni Quantistici](https://amslaurea.unibo.it/7707/1/Mariano_Antonio_Lorenzo_Computer_e_simulazioni_quantistici.pdf)
+- [Tecnologie Quantistiche](http://fisica.unipv.it/eventi/Incontri-martedi/24-10-2017-Maccone-slides.pdf)
+- [Introduzione ai Calcolatori Quantistici](http://guidovicino.com/writes/quantumcomputing.pdf)
+- [Elementi di Informazione Quantistica](http://qinf.fisica.unimi.it/~olivares/paperi/book/bookBO.pdf)
+- [Computer Quantistici](http://mondodigitale.aicanet.net/2013-4/articoli/01_Computer_Quantistici.pdf)
+- [La Mecanica Quantistica](http://www.dmf.unisalento.it/cc/video/2017/olivares/slides.pdf)
+- [Quantum Computer: The Evolution of Engineering](https://www.dbgroup.unimore.it/tesi/Triennale/201516_Alex_Gugliotta_tesi.pdf)
+- [Dal Gatto di Schrödinger al Quantum Computing](http://spin2.fisica.unina.it/attachments/article/93/Presentazione%20Chiarello%20ASL%20Napoli.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -97,6 +151,17 @@
 </details>
 
 <details>
+  <summary>Russian</summary>
+  
+  ### Materials
+- [Quantum Computing](http://spkurdyumov.ru/uploads/2017/09/kvantovye-vychisleniya-i-funkcionalnoe-programmirovanie.pdf)
+- [Fundamentals](http://theor.jinr.ru/~diastp/april06/lectures/gerdt/gerdt.pdf)
+- [Quantum Calculations](http://booksshare.net/books/physics/stin-e/2000/files/kvantovievichesleniya2000.pdf)
+- [Classic and Quantum Calculations](http://www.pseudology.org/science/ClassicalQuantVychislenia2.pdf)
+- [Quantum Computers](http://window.edu.ru/resource/122/20122/files/rsu424.pdf)
+</details>
+
+<details>
   <summary>Spanish</summary>
   
   ### Materials
@@ -111,69 +176,4 @@
 - [Circuitos Cuánticos](http://users.df.uba.ar/paz/pag_comp_cuant/resumenes/clase8.pdf)
 - [De la Fantasía a la Realidad](https://www2.deloitte.com/content/dam/Deloitte/pe/Documents/audit/De%20fantas%C3%ADa%20a%20realidad%20(Abril%202017).pdf)
 - [Diseño e Simulación de un Procesador Cuántico](https://personal.us.es/jlguisado/archs_aux/Presentacion%20PFC%20Computacion%20Cuantica%20Jaime%20Coello.pdf)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [Ordinateur Quantique](https://www.futura-sciences.com/sciences/definitions/physique-ordinateur-quantique-4348/)
-- [Institut Pandore](https://www.institut-pandore.com/physique-quantique/informatique-ordinateur-quantique/)
-- [Comprendre l’informatique quantique – qubits](https://www.frenchweb.fr/comprendre-linformatique-quantique-qubits/330991)
-- [Oezratty](https://www.oezratty.net/wordpress/2018/comprendre-linformatique-quantique-ordinateur-quantique/)
-- [Info Quantique](https://www-fourier.ujf-grenoble.fr/~spehner/enseignement/info_quantique.pdf)
-- [Ordinateur Quantique](https://www.phys.ens.fr/IMG/pdf/jmr.pdf)
-- [L'Ordinateur Quantique](https://www.physinfo.org/Info_Quantique/Ordi_Quant.pdf)
-- [Introduction `a l’information quantique](http://dept-info.labri.fr/~ges/ENSEIGNEMENT/CALCULQ/polycop_calculq.pdf)
-- [Denis Crottet](https://cds.cern.ch/record/432739/files/0003132.pdf)
-- [Algorithmes et Architectures](https://www.physique.usherbrooke.ca/pages/sites/default/files/Algorithmes_et_architectures_16dec2002_Blais.pdf)
-- [Programmer un Ordinateur Quantique](https://www.sciencesmaths-paris.fr/upload/Contenu/pr%C3%A9sentations/Benoit%20Valiron.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [AI4business](https://www.ai4business.it/intelligenza-artificiale/computer-quantistico/)
-- [IBM Q Computing](https://medium.com/visionari/quantum-computing-prova-un-computer-quantico-direttamente-da-casa-dfc3c05e794d)
-- [Il Computer Quantistico](http://profs.sci.univr.it/~dipierro/InfQuant/Lezione_Morsch_Slides.pdf)
-- [Alessandra di Pierro](http://profs.sci.univr.it/~dipierro/InfQuant/articles/Lezioni-IQ.pdf)
-- [Quantum Computer](http://www.liceolocarno.ch/Liceo_di_Locarno/Internetutti/ferrari/PDF/LAM/LAM-QC.pdf)
-- [Il Computer Quantistico](http://people.unica.it/michelesaba/files/2012/04/relazione4.pdf)
-- [Introduzione al Quantum Computing](http://www.apogeonline.com/2002/libri/88-503-1062-5/ebook/pdf/QuantumComputing.pdf)
-- [Computer e Simulazioni Quantistici](https://amslaurea.unibo.it/7707/1/Mariano_Antonio_Lorenzo_Computer_e_simulazioni_quantistici.pdf)
-- [Tecnologie Quantistiche](http://fisica.unipv.it/eventi/Incontri-martedi/24-10-2017-Maccone-slides.pdf)
-- [Introduzione ai Calcolatori Quantistici](http://guidovicino.com/writes/quantumcomputing.pdf)
-- [Elementi di Informazione Quantistica](http://qinf.fisica.unimi.it/~olivares/paperi/book/bookBO.pdf)
-- [Computer Quantistici](http://mondodigitale.aicanet.net/2013-4/articoli/01_Computer_Quantistici.pdf)
-- [La Mecanica Quantistica](http://www.dmf.unisalento.it/cc/video/2017/olivares/slides.pdf)
-- [Quantum Computer: The Evolution of Engineering](https://www.dbgroup.unimore.it/tesi/Triennale/201516_Alex_Gugliotta_tesi.pdf)
-- [Dal Gatto di Schrödinger al Quantum Computing](http://spin2.fisica.unina.it/attachments/article/93/Presentazione%20Chiarello%20ASL%20Napoli.pdf)
-</details>
-
-<details>
-  <summary>German</summary>
-  
-  ### Materials
-- [Prof. Dr. Erich Grädel](https://logic.rwth-aachen.de/Teaching/QC-SS15/index.html.de)
-- [Quantencomputing und andere Quantentechnologien](https://digitaleweltmagazin.de/en/2018/07/25/quantencomputing-und-andere-quantentechnologien/)
-- [QC Teaching](https://www.cond-mat.de/teaching/QC/)
-- [Quantencomputing I](http://www.nld.ds.mpg.de/~hecke/archiv/osemSS05.pdf)
-- [Lib Quantum](http://www.libquantum.de/files/libquantum.pdf)
-- [Rupert Hölzl](https://hoelzl.fr/Hoelzl%20-%20Quantencomputer.pdf)
-- [Quantencomputer](https://www.physik.hu-berlin.de/de/nano/lehre/BachelorSeminar/quantencomputer.pdf)
-- [In Theorie und Praxis](http://www5.rz.rub.de:8032/imperia/md/content/wolf/quantencomputerdagstuhl.pdf)
-- [Tom Petersen](https://theorie.physnet.uni-hamburg.de/group_vts/cisseminar1112/vortragt04.pdf)
-- [Enrico Arrigoni](https://itp.tugraz.at/~arrigoni/vorlesungen/quantumcomputer/script/bilder/qucomp/beamer-qucomp.pdf)
-</details>
-
-<details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [Quantum Computing](http://spkurdyumov.ru/uploads/2017/09/kvantovye-vychisleniya-i-funkcionalnoe-programmirovanie.pdf)
-- [Fundamentals](http://theor.jinr.ru/~diastp/april06/lectures/gerdt/gerdt.pdf)
-- [Quantum Calculations](http://booksshare.net/books/physics/stin-e/2000/files/kvantovievichesleniya2000.pdf)
-- [Classic and Quantum Calculations](http://www.pseudology.org/science/ClassicalQuantVychislenia2.pdf)
-- [Quantum Computers](http://window.edu.ru/resource/122/20122/files/rsu424.pdf)
 </details>

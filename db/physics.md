@@ -45,6 +45,44 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [Électronique Numérique](http://www.est-usmba.ac.ma/benbrahim/ENSA/Electronique%20num%C3%A9rique/semestre1-ELN-Num%C3%A9rique.pdf)
+- [Circuits Combinatoires](https://www.el-kalam.com/conception-hardware/circuits-combinatoires/)
+- [Circuits Séquentiels](https://www.el-kalam.com/conception-hardware/circuits-sequentiels/)
+- [Introduction à l'electronique](https://homepages.laas.fr/fcaignet/Cours/combinatoire.pdf)
+- [Cours d'électronique](http://bertrand.granado.free.fr/Licence/UE201/coursbeamerstatic.pdf)
+- [Wikibook Électronique](https://fr.wikibooks.org/wiki/%C3%89lectronique_num%C3%A9rique_:_logique)
+- [Électronique](https://www.larmand.fr/fichiers/Ancien_site/enseigne/ressources/techno/bourse%20cours/COURS/Electronique%20numerique%20cabl%C3%A9e.pdf)
+- [Livre Électronique](http://www.gecif.net/articles/genie_electrique/cours/livre_electronique_numerique.pdf)
+- [Applications de l'électronique](https://homepages.laas.fr/fcaignet/Cours/combinatoire_Appli_licencePhy.pdf)
+- [Circuits Logiques](http://www.magoe.net/magoeCoursElectrNum2015.pdf)
+- [Cours d'électronique](http://fdechassey.free.fr/hei/HEI/%5B1%5D_coursElecNum.pdf)
+</details>
+
+<details>
+  <summary>German</summary>
+  
+  ### Materials
+- [Locktronics](https://www.matrixtsl.com/datasheets/LK9392DE-82-1.pdf)
+- [Elektronik für Physiker](https://mathphys.fsk.uni-heidelberg.de/w/wp-content/uploads/skripte/elektronik_straumann.pdf)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [Elettronica di Base](https://digilander.libero.it/nick47/index.htm#rife1)
+- [Elettronica Digitale](http://studenti.fisica.unifi.it/~carla/appunti/2008-9/cap.6.pdf)
+- [Corso Elettronica Digitale](https://www.dei.unipd.it/~gerosa/ED/downloads/Elettronica%20Digitale.pdf)
+- [Lezioni Elettronica Digitale](http://web.fe.infn.it/~savrie/lectures_1112/digitale_2012_feb_prov.pdf)
+- [Le Basi](http://www.criptonite.org/sez_didattica/materiale/digitale/CAP_1DIG.pdf)
+- [ED con Esperimenti](http://www.introni.it/pdf/Jackson%20-%20Elettronica%20Digitale%20-%20part%201.pdf)
+- [Progettazione di un Componente Digitale](http://unina.stidue.net/Circuiti%20Integrati%20Digitali/Materiale/Corso%20Di%20Elettronica%20Digitale%20-%20Olivieri.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -67,6 +105,19 @@
 </details>
 
 <details>
+  <summary>Russian</summary>
+  
+  ### Materials
+- [Go-Radio](http://go-radio.ru/cifrovaya-elektronika.html)
+- [Skhemotekhniku](http://kpe.hww.ru/BOOKS/Vvedenie_v_tcifrovuiu_skhemotekhniku_(Novikov).pdf)
+- [Book of Electronics](http://gu-unpk.ru/public/file/employee/1159/Eremenko_elektrotexnika_sxemotehnikai.pdf)
+- [Basics](https://books.ifmo.ru/file/pdf/206.pdf)
+- [Digital Design](http://easyelectronics.ru/files/Book/digital-design-and-computer-architecture-russian-translation.pdf)
+- [Digital Electronics](https://www.bsuir.by/m/12_100229_1_85482.pdf)
+- [The Physical Foundations of the Operation of Modern Computers](https://www.kazedu.kz/referat/53306)
+</details>
+
+<details>
   <summary>Spanish</summary>
   
   ### Materials
@@ -79,55 +130,4 @@
 - [Manual de Prácticas de Electrónica](https://www.itescam.edu.mx/principal/docentes/formatos/7f800ed4ed52e17919710ac735dce7e9.PDF)
 - [Fundamentos de Diseño Digital](http://jagarza.fime.uanl.mx/general/notas/FDDSC.pdf)
 - [Circuitos y Sistemas Digitales](http://www.iearobotics.com/personal/juan/docencia/apuntes-ssdd-0.3.7.pdf)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [Électronique Numérique](http://www.est-usmba.ac.ma/benbrahim/ENSA/Electronique%20num%C3%A9rique/semestre1-ELN-Num%C3%A9rique.pdf)
-- [Circuits Combinatoires](https://www.el-kalam.com/conception-hardware/circuits-combinatoires/)
-- [Circuits Séquentiels](https://www.el-kalam.com/conception-hardware/circuits-sequentiels/)
-- [Introduction à l'electronique](https://homepages.laas.fr/fcaignet/Cours/combinatoire.pdf)
-- [Cours d'électronique](http://bertrand.granado.free.fr/Licence/UE201/coursbeamerstatic.pdf)
-- [Wikibook Électronique](https://fr.wikibooks.org/wiki/%C3%89lectronique_num%C3%A9rique_:_logique)
-- [Électronique](https://www.larmand.fr/fichiers/Ancien_site/enseigne/ressources/techno/bourse%20cours/COURS/Electronique%20numerique%20cabl%C3%A9e.pdf)
-- [Livre Électronique](http://www.gecif.net/articles/genie_electrique/cours/livre_electronique_numerique.pdf)
-- [Applications de l'électronique](https://homepages.laas.fr/fcaignet/Cours/combinatoire_Appli_licencePhy.pdf)
-- [Circuits Logiques](http://www.magoe.net/magoeCoursElectrNum2015.pdf)
-- [Cours d'électronique](http://fdechassey.free.fr/hei/HEI/%5B1%5D_coursElecNum.pdf)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [Elettronica di Base](https://digilander.libero.it/nick47/index.htm#rife1)
-- [Elettronica Digitale](http://studenti.fisica.unifi.it/~carla/appunti/2008-9/cap.6.pdf)
-- [Corso Elettronica Digitale](https://www.dei.unipd.it/~gerosa/ED/downloads/Elettronica%20Digitale.pdf)
-- [Lezioni Elettronica Digitale](http://web.fe.infn.it/~savrie/lectures_1112/digitale_2012_feb_prov.pdf)
-- [Le Basi](http://www.criptonite.org/sez_didattica/materiale/digitale/CAP_1DIG.pdf)
-- [ED con Esperimenti](http://www.introni.it/pdf/Jackson%20-%20Elettronica%20Digitale%20-%20part%201.pdf)
-- [Progettazione di un Componente Digitale](http://unina.stidue.net/Circuiti%20Integrati%20Digitali/Materiale/Corso%20Di%20Elettronica%20Digitale%20-%20Olivieri.pdf)
-</details>
-
-<details>
-  <summary>German</summary>
-  
-  ### Materials
-- [Locktronics](https://www.matrixtsl.com/datasheets/LK9392DE-82-1.pdf)
-- [Elektronik für Physiker](https://mathphys.fsk.uni-heidelberg.de/w/wp-content/uploads/skripte/elektronik_straumann.pdf)
-</details>
-
-<details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [Go-Radio](http://go-radio.ru/cifrovaya-elektronika.html)
-- [Skhemotekhniku](http://kpe.hww.ru/BOOKS/Vvedenie_v_tcifrovuiu_skhemotekhniku_(Novikov).pdf)
-- [Book of Electronics](http://gu-unpk.ru/public/file/employee/1159/Eremenko_elektrotexnika_sxemotehnikai.pdf)
-- [Basics](https://books.ifmo.ru/file/pdf/206.pdf)
-- [Digital Design](http://easyelectronics.ru/files/Book/digital-design-and-computer-architecture-russian-translation.pdf)
-- [Digital Electronics](https://www.bsuir.by/m/12_100229_1_85482.pdf)
-- [The Physical Foundations of the Operation of Modern Computers](https://www.kazedu.kz/referat/53306)
 </details>

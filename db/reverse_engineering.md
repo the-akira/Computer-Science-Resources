@@ -49,6 +49,22 @@
 </details>
 
 <details>
+  <summary>French</summary>
+  
+  ### Materials
+- [Python Reverse Engineering](https://dsec.ru/wp-content/uploads/pdf-dsec-old/7d5/7d5e8a49b25b285b37800480a41583f8.pdf)
+- [Introduction au reverse engineering avec Radare2](https://jugulaire.github.io/Reverse_engineering_1/)
+</details>
+
+<details>
+  <summary>Italian</summary>
+  
+  ### Materials
+- [Cos'è il Reverse Engineering](https://www.scribd.com/document/334772815/TUTORIAL-1-Cos-e-il-Reverse-Engineering)
+- [Reverse Engineering](http://people.unica.it/giorgiogiacinto/files/2016/05/14.ReverseEngineering.pdf)
+</details>
+
+<details>
   <summary>Portuguese</summary>
   
   ### Materials
@@ -69,20 +85,4 @@
 - [Fundamentos RE](http://www.joxeankoret.com/download/fundamentos_re.pdf)
 - [Ingeniería Inversa para Principiantes](https://yurichev.com/tmp/RE4B-ES.pdf)
 - [Introduccion Reversing](https://www.fwhibbit.es/introduccion-reversing-0x00-introduccion)
-</details>
-
-<details>
-  <summary>Italian</summary>
-  
-  ### Materials
-- [Cos'è il Reverse Engineering](https://www.scribd.com/document/334772815/TUTORIAL-1-Cos-e-il-Reverse-Engineering)
-- [Reverse Engineering](http://people.unica.it/giorgiogiacinto/files/2016/05/14.ReverseEngineering.pdf)
-</details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [Python Reverse Engineering](https://dsec.ru/wp-content/uploads/pdf-dsec-old/7d5/7d5e8a49b25b285b37800480a41583f8.pdf)
-- [Introduction au reverse engineering avec Radare2](https://jugulaire.github.io/Reverse_engineering_1/)
 </details>

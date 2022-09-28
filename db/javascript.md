@@ -71,22 +71,6 @@
 </details>
 
 <details>
-  <summary>Spanish</summary>
-  
-  ### Materials
-- [Tutoriales Programacionya](https://tutorialesprogramacionya.com/javascriptya/)
-- [El lenguaje Javascript](http://www.dtic.upf.edu/~tnavarrete/fcsig/javascript.pdf)
-- [Lenguajejs](https://lenguajejs.com/)
-- [Libros Web](https://librosweb.es/libro/javascript/capitulo_1.html)
-- [Lenguajes de Programacion](https://lenguajesdeprogramacion.net/javascript/)
-- [Anerbarrena](https://www.anerbarrena.com/programacion/javascript-js/)
-- [Programacion en Javascript](https://es.wikibooks.org/wiki/Programaci%E8%B4%B8n_en_JavaScript)
-- [Desarolloweb](https://desarrolloweb.com/manuales/manual-javascript.html)
-- [Maestros del Web](http://www.maestrosdelweb.com/que-es-javascript/)
-- [Elabismodenull](https://elabismodenull.wordpress.com/2016/11/04/programacion-funcional-en-javascript-las-funciones/)
-</details>
-
-<details>
   <summary>French</summary>
   
   ### Materials
@@ -101,22 +85,6 @@
 - [Vive-les](http://www.vive-les-maths.net/site/cours/PythonJavascript.pdf)
 - [Gchagnon](http://www.gchagnon.fr/cours/dhtml/)
 - [HTML et Javascript](https://hal.archives-ouvertes.fr/file/index/docid/1356/filename/HTML-JS.pdf)
-</details>
-
-<details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [HTML5book](https://html5book.ru/osnovy-javascript/)
-- [Metanit](https://metanit.com/web/javascript/)
-- [Wisdom Web](http://www.wisdomweb.ru/JS/javascript-first.php)
-- [HTMLWeb](https://htmlweb.ru/java/js.php)
-- [Kharchuk](http://kharchuk.ru/JavaScript.pdf)
-- [Habr](https://habr.com/hub/javascript/)
-- [Wm-school](http://wm-school.ru/js/)
-- [Ep-z](http://ep-z.ru/stroitelstvo/sayt/javascript)
-- [Labs](http://labs.org.ru/javascript-1/)
-- [Professorweb](https://professorweb.ru/my/javascript/js_theory/level1/javascript_index.php)
 </details>
 
 <details>
@@ -146,4 +114,36 @@
 - [UFES](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20172-seminario-javascript.pdf)
 - [Profsalu](https://profsalu.files.wordpress.com/2014/11/k19-k02-desenvolvimento-web-com-html-css-e-javascript.pdf)
 - [Argonavis](http://www.argonavis.com.br/cursos/web/w600/JavaScript_1ed_4v.pdf)
+</details>
+
+<details>
+  <summary>Russian</summary>
+  
+  ### Materials
+- [HTML5book](https://html5book.ru/osnovy-javascript/)
+- [Metanit](https://metanit.com/web/javascript/)
+- [Wisdom Web](http://www.wisdomweb.ru/JS/javascript-first.php)
+- [HTMLWeb](https://htmlweb.ru/java/js.php)
+- [Kharchuk](http://kharchuk.ru/JavaScript.pdf)
+- [Habr](https://habr.com/hub/javascript/)
+- [Wm-school](http://wm-school.ru/js/)
+- [Ep-z](http://ep-z.ru/stroitelstvo/sayt/javascript)
+- [Labs](http://labs.org.ru/javascript-1/)
+- [Professorweb](https://professorweb.ru/my/javascript/js_theory/level1/javascript_index.php)
+</details>
+
+<details>
+  <summary>Spanish</summary>
+  
+  ### Materials
+- [Tutoriales Programacionya](https://tutorialesprogramacionya.com/javascriptya/)
+- [El lenguaje Javascript](http://www.dtic.upf.edu/~tnavarrete/fcsig/javascript.pdf)
+- [Lenguajejs](https://lenguajejs.com/)
+- [Libros Web](https://librosweb.es/libro/javascript/capitulo_1.html)
+- [Lenguajes de Programacion](https://lenguajesdeprogramacion.net/javascript/)
+- [Anerbarrena](https://www.anerbarrena.com/programacion/javascript-js/)
+- [Programacion en Javascript](https://es.wikibooks.org/wiki/Programaci%E8%B4%B8n_en_JavaScript)
+- [Desarolloweb](https://desarrolloweb.com/manuales/manual-javascript.html)
+- [Maestros del Web](http://www.maestrosdelweb.com/que-es-javascript/)
+- [Elabismodenull](https://elabismodenull.wordpress.com/2016/11/04/programacion-funcional-en-javascript-las-funciones/)
 </details>
