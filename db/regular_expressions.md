@@ -76,12 +76,6 @@
 </details>
 
 <details>
-  <summary>German</summary>
-  
-  ### Materials
-</details>
-
-<details>
   <summary>Italian</summary>
   
   ### Materials
