@@ -101,13 +101,6 @@
 </details>
 
 <details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [Data Mining](https://www.intuit.ru/studies/courses/6/6/info)
-</details>
-
-<details>
   <summary>Spanish</summary>
   
   ### Materials
