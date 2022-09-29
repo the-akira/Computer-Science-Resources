@@ -4,7 +4,6 @@
   <summary>Chinese</summary>
   
   ### Materials
-- [C程序设计语言（第2版）](http://read.pudn.com/downloads128/ebook/548703/TheCProgrammingLanguage(SecondEdition).pdf)
 - [C语言程序设计-谭浩强](http://image.sciencenet.cn/olddata/kexue.com.cn/upload/blog/file/2010/5/2010510183555815223.pdf)
 </details>
 
@@ -26,21 +25,16 @@
 - [CS Utah](https://www.cs.utah.edu/~germain/PPS/Topics/C_Language/the_C_language.html)
 - [How Stuff Works](https://computer.howstuffworks.com/c1.htm)
 - [Javatpoint](https://www.javatpoint.com/c-programming-language-tutorial)
-- [Le.ac](https://www.le.ac.uk/users/rjm1/cotter/index.htm)
 - [Ntu.edu](http://www.ntu.edu.sg/home/ehchua/programming/cpp/c0_Introduction.html)
 - [W3resource](https://www.w3resource.com/c-programming-exercises/)
 - [Overiq](https://overiq.com/c-programming/101/intro-to-c-programming/)
-- [The C Programming Language 2nd Edition](http://www2.cs.uregina.ca/~hilder/cs833/Other%20Reference%20Materials/The%20C%20Programming%20Language.pdf)
-- [Modern C](https://modernc.gforge.inria.fr/)
 - [Reddit](https://www.reddit.com/r/C_Programming/)
 - [Di-mgt](https://www.di-mgt.com.au/cprog.html)
 - [C Language](https://en.cppreference.com/w/c/language)
-- [Beej](https://beej.us/guide/bgc/html/single/bgc.html)
 - [Online GDB](https://www.onlinegdb.com/online_c_compiler)
 - [Eskimo](https://www.eskimo.com/~scs/cclass/notes/top.html)
 - [Codeforwin](https://codeforwin.org/2015/05/basic-programming-practice-problems.html)
 - [Lund University](http://cs.lth.se/edaa25/)
-- [Gribblelab](https://www.gribblelab.org/CBootCamp/)
 - [CS Toronto](http://www.cs.toronto.edu/~heap/270F02/node9.html)
 - [An Introduction to C...](http://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf)
 - [Introduction to C](https://users.ece.utexas.edu/~valvano/Volume1/E-Book/C5_IntroductionToC.htm)
@@ -64,10 +58,7 @@
 - [CS Fundamentals](http://cs-fundamentals.com/c-programming/c-programming-tutorials.php)
 - [Intellipaat](https://intellipaat.com/tutorial/c-tutorial/)
 - [C Tutorial](https://www.physics.drexel.edu/~valliere/General/C_basics/c_tutorial.html)
-- [Caleb Curry](https://www.calebcurry.com/c-programming-tutorial-1-intro-to-c/)
-- [Coronado Enterprises](https://www.coronadoenterprises.com/tutorials/c/index.html)
 - [Zentut](https://www.zentut.com/c-tutorial/)
-- [Tutorialtous](http://tutorialtous.com/c/index.php)
 - [Learn.Parallax](https://learn.parallax.com/propeller-c-tutorials)
 - [C Cocoa](http://cocoadevcentral.com/articles/000081.php)
 - [Libcurl Tutorial](https://curl.haxx.se/libcurl/c/libcurl-tutorial.html)
@@ -78,14 +69,10 @@
 - [Learn to Solve it](http://www.learntosolveit.com/cprogramming/)
 - [CS50 Reference](https://reference.cs50.net/)
 - [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)
-- [The C Programming](http://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)
 - [Lecture Note on C](http://www.vssut.ac.in/lecture_notes/lecture1424354156.pdf)
 - [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/Book.html)
 - [C Manual](http://wwwmathlabo.univ-poitiers.fr/~phan/downloads/enseignement/C-manual.pdf)
 - [PICmicro MCU C](http://teachers.teicm.gr/kalomiros/Mtptx/e-books/eBook%20-%20PIC%20Programming%20with%20C.pdf)
-- [Intro to C](https://www.seas.upenn.edu/~cit593/cit593f09/lectures/IntroToC.pdf)
-- [CUDA C Programming](http://www.hds.bme.hu/~fhegedus/C++/Professional%20CUDA%20C%20Programming.pdf)
-- [The Development of the C Language](https://heim.ifi.uio.no/inf2270/programmer/historien-om-C.pdf)
 - [GNU C Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)
 - [C Programming ASMR](https://www.youtube.com/playlist?list=PLPt8EM4KxGEVdozTFQ_taOdS6OFlNU7ki)
 - [Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming | AI Podcast #109](https://www.youtube.com/watch?v=O9upVbGSBFo)
@@ -102,9 +89,6 @@
 - [Zestedesavoir](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/1042_les-bases-du-langage-c/4275_introduction-a-la-programmation/)
 - [Programmation en C](https://www.ltam.lu/cours-c/prg-c_c.htm)
 - [Scriptol](https://www.scriptol.fr/programmation/langage-c.php)
-- [Langage C](http://astro.ens.fr/osae/ccc.pdf)
-- [Programmation C](http://icube-avr.unistra.fr/fr/index.php/Programmation_C)
-- [Univ-Orleans](https://www.univ-orleans.fr/lifo/Members/Jean-Francois.Lalande/enseignement/c/presentation-c.pdf)
 </details>
 
 <details>
@@ -114,7 +98,6 @@
 - [Programacao Descomplicada](https://programacaodescomplicada.wordpress.com/indice/linguagem-c/)
 - [Introdução à Linguagem C](https://www.inf.pucrs.br/~pinho/LaproI/IntroC/IntroC.htm)
 - [Curso de C](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf)
-- [Introdução C](http://fig.if.usp.br/~esdobay/c/c.pdf)
 - [Programação C](http://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf)
 - [Curso C](https://www.youtube.com/watch?v=oZeezrNHxVo&amp;list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE)
 </details>
@@ -124,7 +107,5 @@
   
   ### Materials
 - [El Lenguaje C](http://www.dc.fi.udc.es/~so-grado/current/Varios/CursoC.pdf)
-- [Curso Basico](http://mmc.geofisica.unam.mx/cursos/femp/CyC++/Lenguaje_C.pdf)
-- [Unidad Didáctica](http://www.juntadeandalucia.es/averroes/centros-tic/14005663/helvia/aula/archivos/repositorio/0/230/html/lenguajec/frmlenguajec.htm)
 - [Lenguaje C](https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf)
 </details>

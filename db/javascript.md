@@ -23,7 +23,6 @@
 - [Sitepoint](https://www.sitepoint.com/learn/javascript/)
 - [Javascript in 14min](https://jgthms.com/javascript-in-14-minutes/)
 - [Learn Enough to be Dangerous](https://www.learnenough.com/javascript-tutorial)
-- [Watch and Code](https://watchandcode.com/p/practical-javascript)
 - [Rising Stack](https://blog.risingstack.com/learn-javascript-for-free/)
 - [Solo Learn](https://www.sololearn.com/Course/JavaScript/)
 - [Tania Rascia Blog](https://www.taniarascia.com/)
@@ -49,7 +48,6 @@
 - [Nodejs Learning](https://github.com/sergtitov/NodeJS-Learning)
 - [Freecodecamp](https://learn.freecodecamp.org/)
 - [Guru99](https://www.guru99.com/node-js-tutorial.html)
-- [Sphero](https://sphero.docsapp.io/docs/get-started)
 - [30 Seconds of JS](https://www.30secondsofcode.org/js/p/1/)
 - [Traversy Media](https://www.youtube.com/watch?v=vEROU2XtPR8&amp;list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
 - [Mosh](https://www.youtube.com/watch?v=W6NZfCO5SIk&amp;list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax)
@@ -76,10 +74,8 @@
   ### Materials
 - [Cours Javascript](https://www.cours-gratuit.com/cours-javascript/)
 - [WikiBooks](https://fr.wikibooks.org/wiki/Programmation_JavaScript/Introduction)
-- [Grappa](http://www.grappa.univ-lille3.fr/~torre/Enseignement/Cours/javascript.php)
 - [Cril.univ](http://www.cril.univ-artois.fr/~paris/cours/javascript/slidesJavascriptFr.pdf)
 - [Perso.liris](https://perso.liris.cnrs.fr/pchampin/2017/progweb-python/cours/cm4.html)
-- [Malgouyres](https://malgouyres.org/cours/data/programmation-web-javascript.pdf)
 - [Pierre Giraud](https://www.pierre-giraud.com/javascript/cours-complet/javascript-presentation.php)
 - [Buzut](https://buzut.fr/programmation-fonctionnelle-en-javascript/)
 - [Vive-les](http://www.vive-les-maths.net/site/cours/PythonJavascript.pdf)
@@ -94,7 +90,6 @@
 - [Html.it](https://www.html.it/guide/guida-javascript-di-base/)
 - [Grimaldi](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf)
 - [DispensaJS](http://www.di.unipi.it/~occhiuto/DispensaJS.pdf)
-- [Programmazione](http://pages.di.unipi.it/ambriola/PW/2018_06_12Programmazione_8.0.pdf)
 - [Javascript Programmazione](http://wwwcdf.pd.infn.it/AppuntiLinux/javascript_esempi_di_programmazione.htm)
 </details>
 
@@ -109,9 +104,7 @@
 - [Tiexpert](http://www.tiexpert.net/programacao/web/javascript/index.php)
 - [Caelum](https://www.caelum.com.br/download/caelum-html-css-javascript.pdf)
 - [IFSC](http://docente.ifsc.edu.br/vilson.junior/pi/04_Introducao_JavaScript.pdf)
-- [Aprendendo Javascript](http://conteudo.icmc.usp.br/CMS/Arquivos/arquivos_enviados/BIBLIOTECA_113_ND_72.pdf)
 - [Marcosoares](http://www.marcosoares.com/aia/11/javascript/javascript_1.pdf)
-- [UFES](https://inf.ufes.br/~vitorsouza/wp-content/uploads/teaching-lp-20172-seminario-javascript.pdf)
 - [Profsalu](https://profsalu.files.wordpress.com/2014/11/k19-k02-desenvolvimento-web-com-html-css-e-javascript.pdf)
 - [Argonavis](http://www.argonavis.com.br/cursos/web/w600/JavaScript_1ed_4v.pdf)
 </details>
@@ -120,9 +113,7 @@
   <summary>Russian</summary>
   
   ### Materials
-- [HTML5book](https://html5book.ru/osnovy-javascript/)
 - [Metanit](https://metanit.com/web/javascript/)
-- [Wisdom Web](http://www.wisdomweb.ru/JS/javascript-first.php)
 - [HTMLWeb](https://htmlweb.ru/java/js.php)
 - [Kharchuk](http://kharchuk.ru/JavaScript.pdf)
 - [Habr](https://habr.com/hub/javascript/)
@@ -137,12 +128,10 @@
   
   ### Materials
 - [Tutoriales Programacionya](https://tutorialesprogramacionya.com/javascriptya/)
-- [El lenguaje Javascript](http://www.dtic.upf.edu/~tnavarrete/fcsig/javascript.pdf)
 - [Lenguajejs](https://lenguajejs.com/)
 - [Libros Web](https://librosweb.es/libro/javascript/capitulo_1.html)
 - [Lenguajes de Programacion](https://lenguajesdeprogramacion.net/javascript/)
 - [Anerbarrena](https://www.anerbarrena.com/programacion/javascript-js/)
-- [Programacion en Javascript](https://es.wikibooks.org/wiki/Programaci%E8%B4%B8n_en_JavaScript)
 - [Desarolloweb](https://desarrolloweb.com/manuales/manual-javascript.html)
 - [Maestros del Web](http://www.maestrosdelweb.com/que-es-javascript/)
 - [Elabismodenull](https://elabismodenull.wordpress.com/2016/11/04/programacion-funcional-en-javascript-las-funciones/)

@@ -15,7 +15,6 @@
 - [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 - [10 Concepts of OS](https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)
 - [OS Development](https://www.whoishostingthis.com/resources/os-development/)
-- [David Morgan](https://homepage.smc.edu/morgan_david/cs40/CourseProgressTemplate.htm)
 - [CS140 Stanford](http://www.scs.stanford.edu/12au-cs140/notes/)
 - [Reddit Linux](https://www.reddit.com/r/linux/)
 - [Unix Tutorial](http://www.tutorialspoint.com/unix/)
@@ -31,18 +30,15 @@
 - [Unix Introduction](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
 - [Lessons](https://courses.cs.vt.edu/csonline/OS/Lessons/index.html)
 - [Javatpoint](https://www.javatpoint.com/os-tutorial)
-- [Msr Blog](http://www.msrblog.com/operating-system/)
 - [CS 401](https://learn.saylor.org/course/cs401)
 - [OS: From 0 to 1](https://tuhdo.github.io/os01/)
 - [Study to Night](https://www.studytonight.com/operating-system/)
 - [CS 167](https://cs.brown.edu/courses/cs167/lectures.html)
 - [The Structure and Function of an Operating System](https://www.sqa.org.uk/e-learning/COS101CD/index.htm)
 - [Writing a Simple OS from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
-- [OS Concepts](http://iips.icci.edu.iq/images/exam/Abraham-Silberschatz-Operating-System-Concepts---9th2012.12.pdf)
 - [OS Concepts Presentation](http://www.cs.nchu.edu.tw/~hwtseng/OS/os.pdf)
 - [Intro to OS](https://www.informatics.indiana.edu/rocha/academics/i101/pdfs/os_intro.pdf)
 - [OS Slides](https://www.cl.cam.ac.uk/teaching/1011/OpSystems/os1a-slides.pdf)
-- [Fundamentals of Computing - OS](http://www.ftms.edu.my/images/Document/CSCA0201%20-%20Fundamental%20of%20Computing/csca0201_ch06.pdf)
 - [Writing an OS in Rust](https://os.phil-opp.com/)
 - [OS Lecture Notes](http://www.cs.kent.edu/~farrell/osf03/oldnotes/)
 - [Vishnu Learning](http://www.svecw.edu.in/Docs%5CCSEOSLNotes2013.pdf)
@@ -53,11 +49,9 @@
 - [Brief Intro to OS](http://greenteapress.com/thinkos/thinkos.pdf)
 - [Computer System Architecture](http://www.cs.nott.ac.uk/~psztxa/g51csa/jon-guest-lecture.pdf)
 - [OS Modules](http://www.vssut.ac.in/lecture_notes/lecture1423726024.pdf)
-- [Vilnius Gediminas Technical University](http://gama.vtu.lt/biblioteka/Operating_systems/Operating_systems.pdf)
 - [Linux Command Line for You and Me](https://readthedocs.org/projects/lym/downloads/pdf/latest/)
 - [Linux Fundamentals](http://linux-training.be/linuxfun.pdf)
 - [Linux Bible](https://doc.lagout.org/operating%20system%20/linux/Linux%20Bible%2C%202010%20Edition.pdf)
-- [How Linux Works](http://index-of.es/Varios-2/How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know.pdf)
 - [Linux: The Complete Reference](http://www.khuisf.ac.ir/prof/images/Uploaded_files/Linux%20The%20Complete%20Reference.6th.Edition(Nov.2007)[2842313].PDF)
 - [OS and Middleware](https://gustavus.edu/mcs/max/os-book/free-osbook.pdf)
 - [Lecture Notes on Operating Systems](http://www.crectirupati.com/sites/default/files/lecture_notes/Operating%20Systems%20Lecture%20Notes.pdf)
@@ -81,13 +75,10 @@
 - [FR Wikibooks](https://fr.wikibooks.org/wiki/Les_syst%C3%A8mes_d%27exploitation)
 - [SysIntro](https://web.maths.unsw.edu.au/~lafaye/CCM/systemes/sysintro.htm)
 - [Système d’exploitation](https://rmdiscala.developpez.com/cours/LesChapitres.html/Cours1/Chap1.6.htm)
-- [Introduction](http://www.fsr.ac.ma/cours/informatique/megzari/SE%20pdf/ch1-introduction.pdf)
 - [Concepts et Programmation](https://cedric.cnam.fr/~bouzefra/cours/introduction_SYST.pdf)
 - [Notes OS](https://www.iro.umontreal.ca/~monnier/1215/notes-os.pdf)
 - [Cours](http://www.cril.univ-artois.fr/~delalin/cours.pdf)
-- [Généralités](http://www.univ-tebessa.dz/fichiers/master/master_1668.pdf)
 - [Liste](https://fr.wikipedia.org/wiki/Liste_des_syst%C3%A8mes_d%27exploitation)
-- [Initiation](http://www-lisic.univ-littoral.fr/~poty/Files/CM2_SE_Linux.pdf)
 </details>
 
 <details>
@@ -100,7 +91,6 @@
 - [Vorlesung Betriebssysteme](https://www2.htw-dresden.de/~robge/bs1/vl/bs1-01-einfuehrung.pdf)
 - [Grundlagen](https://kobra.uni-kassel.de/bitstream/handle/123456789/2015040147890/BS_Skript.pdf)
 - [OS Intro](http://www.inf.fu-berlin.de/lehre/WS11/OS/slides/OS_V1_Introduction_.pdf)
-- [Tanenbaum](http://math.kubsu.ru/Debian_Tanenbaum.pdf)
 </details>
 
 <details>
@@ -116,8 +106,6 @@
 - [Università del Salento](https://web.le.infn.it/marsella/wp-content/uploads/sites/5/2015/12/Lezione_8_SistemiOperativi.pdf)
 - [Fondamenti](http://www.agentgroup.unimore.it/Zambonelli/didattica/corsore/LucidiPDF/05_Win-Dos.pdf)
 - [Università di Pisa](http://vecchio.iet.unipi.it/se/files/2017/02/01-Organizzazione-new.pdf)
-- [File System](http://wwwinfo.deis.unical.it/~talia/aa0203/sisop/lezione8.pdf)
-- [Gestione Della Memoria](http://wwwinfo.deis.unical.it/~talia/aa0203/sisop/lezione7.pdf)
 </details>
 
 <details>
@@ -133,16 +121,11 @@
 - [História dos Sistemas Operacionais](http://coral.ufsm.br/unitilince/index.php/noticias/63-a-historia-dos-sistemas-operacionais)
 - [Unisinos](http://professor.unisinos.br/barbosa/SO/so.htm)
 - [Red Hat Enterprise Linux 4](https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-pt_br-4/index.html)
-- [UFES](https://inf.ufes.br/~zegonc/material/Sistemas_Operacionais/Introducao.pdf)
-- [Introdução](http://producao.virtual.ufpb.br/books/camyle/introducao-a-computacao-livro/livro/livro.chunked/ch06.html)
 - [Unicamp](http://www.ic.unicamp.br/~islene/mc514/index.html)
-- [Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=so:so-livro.pdf)
 - [INF 1019](http://www-di.inf.puc-rio.br/~endler/courses/inf1019/transp/aulas-teoricas/cap-1.pdf)
 - [Apostila de Sistemas Operacionais](http://ozkr.orgfree.com/apost-sist.pdf)
-- [Fundamentos](http://www.deinf.ufma.br/~mario/grad/ic/05_SO.pdf)
 - [Notas sobre Sistemas Operacionais](https://docente.ifrn.edu.br/rodrigotertulino/livros/notas-sobre-sistemas-operacionais)
 - [Evolução dos Sistemas Operacionais](http://www-di.inf.puc-rio.br/~endler/courses/inf1019/transp/aulas-teoricas/cap-1-historia.pdf)
-- [Introdução aos Sistemas Operacionais](https://www.ime.usp.br/~adao/sos2y.pdf)
 - [Apostila de Linux](https://www.inf.ufpr.br/cursos/ci055/linux.pdf)
 </details>
 
@@ -152,7 +135,6 @@
   ### Materials
 - [OS-RU](https://vseloved.github.io/pdf/os-ru.pdf)
 - [OS Intro](http://www.stolyarov.info/books/pdf/osintro.pdf)
-- [Lecture 1](http://unesco.kemsu.ru/study_work/method/OS_DO/lect_1.pdf)
 </details>
 
 <details>
@@ -162,11 +144,7 @@
 - [El Sistema Operativo](https://tecnologia-informatica.com/el-sistema-operativo/)
 - [Sistema Operativo](https://www.ecured.cu/Sistema_operativo)
 - [Sistemas Operativos Book](https://es.wikibooks.org/wiki/Sistemas_operativos/Texto_completo)
-- [Universidad Politecnica Madrid](http://www.elai.upm.es/moodle/pluginfile.php/3574/mod_resource/content/1/sistemasoperativosupm.pdf)
 - [Fundamentos de Sistemas Operativos](https://sistop.org/pdf/sistemas_operativos.pdf)
-- [Introducción](https://www.ac.uma.es/~sromero/so/Capitulo2.pdf)
-- [Sistemas Operativos](http://exa.unne.edu.ar/depar/areas/informatica/SistemasOperativos/computot.PDF)
-- [Unidade I Sistemas Operativos](http://www.unistmo.edu.mx/~jjap/so1415b_u1.pdf)
 - [Conceptos Generales](https://www2.infor.uva.es/~fjgonzalez/apuntes/Tema_1_Introduccion.pdf)
 - [Tema 3 Sistemas Operativos](https://www.unirioja.es/cu/jearansa/1112/ficheros/Tema_3IN.pdf)
 </details>

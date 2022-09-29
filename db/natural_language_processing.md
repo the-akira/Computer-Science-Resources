@@ -7,9 +7,6 @@
 - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 - [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 - [What is NLP](https://www.sas.com/en_us/insights/analytics/what-is-natural-language-processing-nlp.html)
-- [Intro to NLP](https://towardsdatascience.com/an-easy-introduction-to-natural-language-processing-b1e2801291c1)
-- [Introduction NLP](https://blog.algorithmia.com/introduction-natural-language-processing-nlp/)
-- [Edx NLP](https://www.edx.org/course/natural-language-processing-1)
 - [Machine Learning Mastery](https://machinelearningmastery.com/natural-language-processing/)
 - [NLP Stanford](https://nlp.stanford.edu/blog/)
 - [NLP Library](https://github.com/mihail911/nlp-library)
@@ -22,7 +19,6 @@
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
 - [Tokenizing Words](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
 - [NLP Tutorial](https://github.com/bonzanini/nlp-tutorial)
-- [Python & NLTK](https://www.freecodecamp.org/news/beaucarnes/natural-language-processing-tutorial-with-python-nltk--9z5vFDwr4)
 - [NLP from Scratch](https://blog.goodaudience.com/learn-natural-language-processing-from-scratch-7893314725ff)
 - [NLTK Python](https://www.pythonforengineers.com/introduction-to-nltk-natural-language-processing-with-python/)
 - [Vikparuchuri NLP Tutorial](http://www.vikparuchuri.com/blog/natural-language-processing-tutorial/)
@@ -32,14 +28,11 @@
 - [An Introduction to NLP](https://stp.lingfil.uu.se/~santinim/ml/2014/JurafskyMartinSpeechAndLanguageProcessing2ed_draft%202007.pdf)
 - [NLP Intro](https://courses.cs.ut.ee/LTAT.01.001/2017_fall/uploads/Main/Lecture1.pdf)
 - [A Gentle Introduction](https://ufal.mff.cuni.cz/~hladka/2013/docs/day-1.posted.pdf)
-- [Kwchang Course](https://web.cs.ucla.edu/~kwchang/teaching/NLP16/slides/)
 - [NLP: Algorithms and Applications](https://homes.cs.washington.edu/~nasmith/slides/wsdm-1-31-15.pdf)
 - [NLP Revised](https://www.cl.cam.ac.uk/teaching/2002/NatLangProc/revised.pdf)
 - [NLP Background](https://datajobs.com/data-science-repo/NLP-Background-%5BSU%5D.pdf)
 - [History of NLP](http://ocw.u-tokyo.ac.jp/lecture_files/is_01/12/notes/en/12.history-langinfo.pdf)
 - [University of North Carolina](https://www.cs.unc.edu/~mbansal/teaching/slides/nlp_comp790_fall2016_lec1_aug24-intro.pdf)
-- [NLP with Python Book](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf)
-- [NLP and Semantic Web](http://www.csc.villanova.edu/~nlp/pres1/presentation.pdf)
 - [NLP Teaching](https://www3.nd.edu/~dchiang/teaching/nlp/2018/readings.html)
 - [Neural Networks Models for NLP](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 - [Crash Course](https://www.youtube.com/watch?v=fOvTtapxa9c)
@@ -57,7 +50,6 @@
 - [Traitement Automatique du Langage Naturel](http://www.lattice.cnrs.fr/sites/itellier/poly_info_ling/linguistique003.html)
 - [Petite Introduction](https://perso.limsi.fr/anne/coursM2R/intro.pdf)
 - [TALN](http://gurau-audibert.hd.free.fr/josdblog/wp-content/uploads/2011/12/TAL_ITCN.pdf)
-- [Université de Rennes](https://halshs.archives-ouvertes.fr/tel-01322692/document)
 - [Cours 10](http://lalic.paris-sorbonne.fr/PAGESPERSO/atanassova/lfa/Cours10.pdf)
 </details>
 
@@ -79,7 +71,6 @@
 - [Linguistica Computazionale](http://www1.unipa.it/sorce/didattica/sei1213/SEI1213_01_Linguistica_Computazionale_intro.pdf)
 - [Introduzione NLP](https://www.dia.uniroma3.it/~ia/docs/old/Introduzione_NLP.pdf)
 - [Elaborazione del Linguaggio Naturale](http://didawiki.di.unipi.it/doku.php/magistraleinformatica/eln/start)
-- [Seminario](https://www.uniba.it/ricerca/dipartimenti/informatica/tutorato/orientamento-e-tutorato-1/orientamento-2017/seminari-di-orientamento-consapevole-edizione-2017/seminario-7)
 - [Lezione](http://143.225.229.219/Resources/Master%20MSTD-Mazzeo/Slide%20Lezione%20(NLP).pdf)
 - [ELN](http://www.di.unipi.it/~cappelli/processi.html)
 - [Unito.it](http://www.di.unito.it/~bosco/lingue2013/NLP-1-11marzo13.pdf)
@@ -110,10 +101,7 @@
   ### Materials
 - [Fun NLP](https://proglib.io/p/fun-nlp/)
 - [Winter School](https://logic.pdmi.ras.ru/~sergey/slides/N16_WinterSchoolHSE.pdf)
-- [NLP 2014](https://compscicenter.ru/media/slides/nlp_2014_spring/2014_02_17_nlp_2014_spring.pdf)
 - [NLPandDA](https://www.hse.ru/data/2017/08/12/1174382138/NLPandDA_4print.pdf)
-- [Intro NLP](http://kansas.ru/nlp2016/intro.pdf)
-- [Book](http://www.ict.edu.ru/ft/004938/shemakin.pdf)
 </details>
 
 <details>
@@ -123,8 +111,4 @@
 - [Procesamiento de Lenguaje Natural](https://medium.com/soldai/procesamiento-de-lenguaje-natural-5315cf212d0f)
 - [Universidad de Sevilla](https://www.cs.us.es/cursos/ia2/temas/tema-06.pdf)
 - [Proceso de Lenguaje Natural](http://disi.unal.edu.co/~lctorress/iartificial/IAc016.pdf)
-- [Universidad Carlos III](http://ocw.uc3m.es/ingenieria-telematica/inteligencia-en-redes-de-comunicaciones/material-de-clase-1/09-procesamiento-del-lenguaje-natural)
-- [Universidad Politécnica de Valencia](http://onomazein.letras.uc.cl/Articulos/26/1_Perinan.pdf)
-- [Guia Introductoria](https://www.sopadebits.com/wp-content/uploads/2011/03/4479-pln-1.0-20070630.pdf)
-- [Logros, Desafíos, Impacto](https://www.fing.edu.uy/inco/cursos/grampln/presentaciones/GFLN2012_01_intro.pdf)
 </details>

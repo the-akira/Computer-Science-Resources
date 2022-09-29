@@ -5,6 +5,7 @@
   
   ### Materials
 - [Wikipedia](https://en.wikipedia.org/wiki/Computer_network)
+- [Tutorialology](https://www.tutorialology.com/computer-networking/)
 - [Tutorialspoint](https://www.tutorialspoint.com/computer_fundamentals/computer_networking.htm)
 - [Basics of Computer Networking](https://www.geeksforgeeks.org/basics-computer-networking/)
 - [Understand Computer Networks](https://medium.freecodecamp.org/computer-networks-and-how-to-actually-understand-them-c1401908172d)
@@ -28,7 +29,6 @@
 - [Computer Network Components](https://www.sophia.org/tutorials/computer-network-components)
 - [Codescracker](https://codescracker.com/networking/)
 - [An Overview of Computer Networking](https://techspirited.com/computer-networking-tutorial)
-- [Tutorialology](https://www.tutorialology.com/computer-networking/)
 - [Guru99](https://www.guru99.com/data-communication-computer-network-tutorial.html)
 - [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu/current/ComputerNetworks.pdf)
 - [Introduction to Computer Networking](https://www.vfu.bg/en/e-Learning/Computer-Networks--Introduction_Computer_Networking.pdf)
@@ -40,12 +40,9 @@
 - [Basic Network Concepts](https://www3.nd.edu/~cpoellab/teaching/cse40814_fall14/networks.pdf)
 - [Kevin Curran](https://kevincurran.org/teaching/computer-networks/)
 - [Computer Network Programming](https://en.wikipedia.org/wiki/Computer_network_programming)
-- [Network Design Concepts](https://www.scte.org/documents/pdf/CCNA4%20Sample.pdf)
 - [A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180)
 - [Sockets Programming in C](https://www.csd.uoc.gr/~hy556/material/tutorials/cs556-3rd-tutorial.pdf)
-- [Network Design](http://www.tamug.edu/computing/class/ShipNetworkOldDesign.pdf)
 - [Tools for Teaching Computer Networking](https://doc.lagout.org/network/Computer%20Networking%20%26%20Hardware%20Concepts.pdf)
-- [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
 - [Brain Bell](https://www.brainbell.com/tutorials/Networking/)
 - [Advanced Computer Networks](https://web.cs.wpi.edu/~rek/Adv_Nets/Fall2013/Fall2013.html)
 - [Hobbes' Internet Timeline](https://www.zakon.org/robert/internet/timeline/)
@@ -63,26 +60,19 @@
 - [Computer Networking: A Top-Down Approach](https://www.bau.edu.jo/UserPortal/UserProfile/PostsAttach/10617_1870_1.pdf)
 - [Networking Fundamentals](https://www.cisco.com/c/dam/global/fi_fi/assets/docs/SMB_University_120307_Networking_Fundamentals.pdf)
 - [Principles, Protocols and Practice](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf)
-- [Computer Networks Fifth Edition](http://iips.icci.edu.iq/images/exam/Computer-Networks---A-Tanenbaum---5th-edition.pdf)
 - [Chapter 7, Computer Networks](https://www.oakton.edu/user/2/rjtaylor/CIS101/Text/PowerPointPresentations/morley15e__ppt_ch07%20REV.pdf)
 - [Vishnu Universal Learning](http://www.svecw.edu.in/Docs%5CCSECNLNotes2013.pdf)
-- [Computer Network Paper](http://www.ddegjust.ac.in/studymaterial/mca-5/mca-301.pdf)
 - [Computer Networks and Internet](http://www.science.smith.edu/~jcardell/Courses/EGR328/Readings/KuroseRoss%20Ch1.pdf)
 - [Classification of Network Architecture](http://www.cs.toronto.edu/~marbach/COURSES/CSC358_S14/classification.pdf)
-- [Computer Networks (QR)](http://www.ritsumei.ac.jp/~piumarta/networks/)
 - [Intelligence-Driven Computer Network Defense](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)
 - [ECE453 - Introduction to Computer Networks](https://web.eecs.utk.edu/~qi/teaching/ece453f06/syllabus.htm)
 - [Telecommunications Switching & Transmission](https://www.utdallas.edu/~torlak/courses/ee4367/lectures/)
 - [Computer Networks, Xarxes de Computadors](http://studies.ac.upc.edu/FIB/XC/)
 - [Network Topologies](http://www.csl.mtu.edu/cs4451/www/notes/Network%20Topologies.pdf)
 - [Computer Networks: A Systems Approach](https://textbooks.elsevier.com/manualsprotectedtextbooks/9780123850591/PD5e_Solutions_Manual.pdf)
-- [Data and Computer Communications](http://www.portcity.edu.bd/ELibrary/CSE/Dataandcomputercommunications.pdf)
 - [The Internet of Things: A Survey](https://www.cs.mun.ca/courses/cs6910/IoT-Survey-Atzori-2010.pdf)
 - [Basics of Computer Networking](http://www.ece.sunysb.edu/~tom/Robertazzi-Basics-Comp-Net-11-28-11.pdf)
-- [Advanced Computer Networking](http://www.cs.wayne.edu/~hzhang/courses/7290/Lectures/0-0%20-%20Course%20plan.pdf)
-- [Michigan State University](http://www.cse.msu.edu/~mckinley/422/F18/Lectures/)
 - [Network Programming](https://people.scs.carleton.ca/~lanthier/teaching/COMP1406/Notes/COMP1406_Ch12_NetworkProgramming.pdf)
-- [Darshan Institute](http://www.darshan.ac.in/Upload/DIET/Documents/CE/2140709_Computer%20Networks%20Study%20Material%20GTU_23042016_064112AM.pdf)
 - [Crash Course](https://www.youtube.com/watch?v=3QhU9jd03a0)
 - [Computer Networking Complete Course by Google - Beginner to Advanced](https://www.youtube.com/watch?v=QKfk7YFILws)
 - [Gate Lectures](https://www.youtube.com/watch?v=UXMIxCYZu8o&amp;list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
@@ -101,13 +91,9 @@
   <summary>French</summary>
   
   ### Materials
-- [Introduction aux Réseaux](http://www.fil.univ-lille1.fr/~sedoglav/RSX/Introduction.pdf)
-- [Réseaux Informatiques](http://projet.eu.org/pedago/sin/1STI2D/7-reseaux.pdf)
 - [Les Réseaux Informatiques](http://members.unine.ch/muriel.aubert/images/uninice.pdf)
 - [Inititation](http://www.di.unipi.it/~morge/crs/Network/mias1_reseau.pdf)
 - [Réseaux et Sécurité](http://www.mi.parisdescartes.fr/~mea/cours/M1/)
-- [Cours des Réseaux](https://elearn.univ-ouargla.dz/2013-2014/courses/RS/document/Introduction_Reseau.pdf?cidReq=RS)
-- [Les Réseaux](http://csricted.univ-setif.dz/files/cours%20informatique/Les%20Reseaux.pdf)
 - [Cours Réseaux](http://dept-info.labri.fr/~felix/Annee2009-10/S2/ASR2%20Reseaux/)
 - [Cours Réseaux Informatiques](http://abdelhamid-djeffal.net/web_documents/diaposroutage.pdf)
 </details>
@@ -117,9 +103,6 @@
   
   ### Materials
 - [Moderner Netzwerke](https://s3-eu-west-1.amazonaws.com/gxmedia.galileo-press.de/leseproben/4224/leseprobe_rheinwerk_computer-netzwerke_grundlagen_funktionsweise_anwendung.pdf)
-- [Netzwerk](https://www.mat.univie.ac.at/~praxis/sosem14/vorlesung/folien_05.pdf)
-- [Netzwerke](http://www.saar.de/~awa/data/Rechnernetze.pdf)
-- [Computer-Kommunkationsnetzwerke](https://www.crysys.hu/~mfelegyhazi/courses/CompNet/)
 - [Einführung in die Netzwerktechnik](https://secure.ping.de/aktiv/weiterbildung/sommer2002/netzwerke1.pdf)
 - [TCP/IP-Ethernet](https://www.wut.de/download/print/e-58www-11-prde-000.pdf)
 - [Firewalls](https://www.cosy.sbg.ac.at/~uhl/PScrypt16/Firewalls.pdf)
@@ -134,14 +117,12 @@
 - [Reti di Computer](http://leonardotozzi.joomlafree.it/documenti/reti/Reti%20di%20computer.pdf)
 - [Le Reti](https://homes.di.unimi.it/~cazzola/didattica/lab_di_informatica_x_chimica/03%20Reti%20di%20Computer.pdf)
 - [Brescianet](http://www.brescianet.com/appunti/sistemi/reti.htm)
-- [La Comunicazione](http://www.di-srv.unisa.it/professori/auletta/DIDATTICA/FOND/SLIDE/reti.pdf)
 - [Le Reti Informatiche](http://didatticainfo.altervista.org/Quinta/Reti2.pdf)
 - [Guida Alle Reti](https://www.eternet.it/sites/default/files/Manuale%20Reti.pdf)
 - [Reti di Computer: Esempi](http://www.di.unito.it/~rossano/DIDATTICA/INF-0203/lezione21.pdf)
 - [Appunti di Reti](http://www.itisff.it/dip_eln/reti.pdf)
 - [Reti di Calcolatori](http://www.diit.unict.it/users/gascia/COURSES/fond_inf_civile/download/FI09-Reti_di_calcolatori.pdf)
 - [Le Reti ed i Protocolli](http://www.uniroma2.it/didattica/Lab_app_inf/deposito/Teoria_Lezione_4_Reti_e_Protocolli.pdf)
-- [Reti di Calcolatori](http://personalpages.to.infn.it/~ferraro/informatica/slides_inf/07_reti.pdf)
 </details>
 
 <details>
@@ -154,13 +135,9 @@
 - [Introdução às Redes](https://fenix.tecnico.ulisboa.pt/downloadFile/3779576191159/1-Introducao%202010.pdf)
 - [Fundamentos de Redes](http://redeetec.mec.gov.br/images/stories/pdf/eixo_infor_comun/tec_man_sup/081112_fund_redes_comp.pdf)
 - [IFRN](http://docente.ifrn.edu.br/diegopereira/disciplinas/2013/redes-de-computadores-sistemas-para-internet)
-- [UFSM](http://estudio01.proj.ufsm.br/cadernos/cafw/tecnico_informatica/redes_computadores)
 - [Redes Curso](http://www.lcvdata.com/redes/402283130_redes-computadores.pdf)
-- [Fundamentos e Infra-estrutura em Redes de Computadores](http://stoa.usp.br/diegofdc/files/-1/20719/Apostila_Redes_ProfDiegoFiori_vfinal.pdf)
 - [Redes Documento](http://www.rederio.br/downloads/pdf/redes.pdf)
 - [Introdução às Redes de Computadores](http://www.univasf.edu.br/~edmar.nascimento/redes/redes_20112_aula02.pdf)
-- [Aulas Redes](http://www2.ufba.br/~romildo/disciplinas.html#red)
-- [Fundamentos Redes](http://www.utim.edu.mx/~svalero/docs/laminasFundamentosRedes.pdf)
 </details>
 
 <details>
@@ -168,10 +145,6 @@
   
   ### Materials
 - [Proglib](https://proglib.io/p/computer-network/)
-- [Asozykin](https://www.asozykin.ru/courses/networks)
-- [Tanenbaum](http://www.ipa.nw.ru/PAGE/aspirantura/literatura/tanenbaum.pdf)
-- [Book 2011](https://elib.belstu.by/bitstream/123456789/3084/1/urbanovich_kompyuternye-seti.2011.pdf)
-- [Computer Networks Principles](https://www.bsuir.by/m/12_100229_1_85460.pdf)
 - [Computer Network](http://naymov.com/edu/ukit/olifer.pdf)
 - [Computer Networks 4th Edition](https://www.e-reading.club/bookreader.php/140076/Olifer_-_Komp%27yuternye_seti__principy%2C_tehnologii%2C_protokoly_%283ed%29.pdf)
 - [Lecture 6](http://ermak.cs.nstu.ru/neurotech/html/metodmat/inffall2011/Lect6.pdf)
@@ -187,11 +160,8 @@
 - [Trabajo Redes](https://www.monografias.com/trabajos5/redes/redes.shtml)
 - [Fundamentos de Redes](https://programas.cuaed.unam.mx/repositorio/moodle/pluginfile.php/956/mod_resource/content/1/contenido/index.html)
 - [Qué es una red de computadoras](http://www.riial.org/que-es-una-red-de-computadoras/)
-- [Redes](http://www.elai.upm.es/moodle/course/view.php?id=22)
 - [Redes de Computadores Quinta Edición](https://bibliotecavirtualapure.files.wordpress.com/2015/06/redes_de_computadoras-freelibros-org.pdf)
 - [Introducción a las Redes](http://www2.elo.utfsm.cl/~iwg101/ClaseRedes.pdf)
 - [Comunicaciones y Redes](https://richardfong.files.wordpress.com/2011/02/stallings-william-comunicaciones-y-redes-de-computadores.pdf)
-- [Redes de Ordenadores](https://www.mheducation.es/bcv/guide/capitulo/8448147715.pdf)
 - [Fundamentos y Tecnologia](https://www.uv.mx/personal/artulopez/files/2012/09/08-Fun-y-Tec-de-Redes-de-C.pdf)
-- [Redes de Datos y sus Protocolos](http://www.mdp.edu.ar/images/eudem/pdf/redes%20de%20datos.pdf)
 </details>

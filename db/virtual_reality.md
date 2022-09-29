@@ -21,16 +21,13 @@
 - [An Intro into VR Environments](https://www.it.uu.se/edu/course/homepage/igs/ht06/lect/F1_igs_intro_vr.pdf)
 - [VR: History, Applications, Technology and Future](https://www.cg.tuwien.ac.at/research/publications/1996/mazuryk-1996-VRH/TR-186-2-96-06Paper.pdf)
 - [Brief Introduction of VR](https://www.ijser.org/researchpaper/Brief-Introduction-of-Virtual-Reality-its-Challenges.pdf)
-- [VR Introduction](https://www.cs.tut.fi/courses/SGN-5406/lectures/VR1-introduction.pdf)
 - [Chapter 15: Virtual Reality](https://courses.cs.washington.edu/courses/cse576/book/ch15.pdf)
-- [Understanding Virtual Reality](https://profs.info.uaic.ro/~avitcu/FII%202015-2016/Animatie%203D_Documentatie/VR.pdf)
 - [The Complete Guide to Virtual Reality](https://www.theguardian.com/technology/2016/nov/10/virtual-reality-guide-headsets-apps-games-vr)
 - [What's Real About Virtual Reality](https://www.cs.unc.edu/~brooks/WhatsReal.pdf)
 - [Environments and System Types of VR](https://thesai.org/Downloads/Volume8No6/Paper_10-Environments_and_System_Types_of_Virtual_Reality.pdf)
 - [An Introduction to VR (MIT)](https://web.mit.edu/16.459/www/VR1.pdf)
 - [Virtual Reality Glossary](https://www.iab.com/wp-content/uploads/2018/07/IAB_VR-AR_Glossary_v5b.pdf)
 - [The Virtual and the Real](http://consc.net/papers/virtual.pdf)
-- [Virtual Reality and Computer Simulation](https://ethicsandtechnology.eu/wp-content/uploads/downloadable-content/Brey_2008_VR-CS.pdf)
 - [VR/AR White Paper](http://www-file.huawei.com/-/media/CORPORATE/PDF/ilab/vr-ar-en.pdf)
 - [VR: Past, Present and Future](http://www.crs4.it/vic/data/papers/vr-report98.pdf)
 - [Virtual Reality - Computerphile](https://www.youtube.com/watch?v=PJ5LJkpwBAI&list=PLzH6n4zXuckrOPXf9THuMOKnXnUJ55xw5)
@@ -43,8 +40,6 @@
 - [Réalité Virtuelle](http://igm.univ-mlv.fr/~biri/Enseignement/MII1/TDPdf/RV_intro_et_systeme.pdf)
 - [Réalité Virtuelle: Autonomie in Virtuo](https://www.enib.fr/~tisseau/doc/hdr/hdrJT.pdf)
 - [Réalité Virtuelle et Réalité Augmentée](https://www.enssib.fr/bibliotheque-numerique/documents/68098-realite-virtuelle-et-realite-augmentee-en-bibliotheque-panorama-et-perspectives.pdf)
-- [Interaction en Réalité Virtuelle](https://perso.univ-rennes1.fr/thierry.duval/Documents/Interaction3DenRV.pdf)
-- [Introduction à la Réalité Virtuelle](https://www.lri.fr/~cfleury/teaching/et5-info/RVI-2016/slides/01_RVI_Introduction_RV.pdf)
 </details>
 
 <details>
@@ -62,9 +57,7 @@
   
   ### Materials
 - [Introduzione alla Realtá Aumentada](https://vision.unipv.it/corsi/InformationTechnology/IT_AR.pdf)
-- [Realtá Virtuale: Applicazioni](http://percro.sssup.it/marcello/didattica/AA2010/4_Applicazioni_A.pdf)
 - [Introduzione alla Realtá Virtuale](http://www.mimos.it/chirurgiavirtuale/DePaolis.pdf)
-- [VR Slides](http://homes.dsi.unimi.it/~borghese/Teaching/IntelligentSystems/Slides/VR/)
 </details>
 
 <details>
@@ -86,8 +79,6 @@
   <summary>Russian</summary>
   
   ### Materials
-- [Braslavski VR](http://www.kansas.ru/vr/braslavski_vr.pdf)
-- [Virtual and Mixed Reality Systems](https://books.ifmo.ru/file/pdf/2321.pdf)
 - [Virtual Land](http://virtualland.ru/blog)
 </details>
 
@@ -101,11 +92,7 @@
 - [La Realidad Virtual](https://idus.us.es/xmlui/bitstream/handle/11441/45510/file_1.pdf?sequence=1&amp;isAllowed=y)
 - [Qué es la Realidad Virtual](https://www.acta.es/medios/articulos/ciencias_y_tecnologia/001049.pdf)
 - [Realidad Virtual, su Presente y Futuro](https://jeuazarru.com/wp-content/uploads/2014/10/Realidad-Virtual-2014.pdf)
-- [Presente y Futuro de la Tecnología de la RV](http://creatividadysociedad.com/articulos/16/4-Realidad%20Virtual.pdf)
 - [Introducción a la Realidad Virtual](http://www.lsi.upc.edu/~pere/SGI/guions/ArquitecturaRV.pdf)
 - [Capitulo 1 Realidad Virtual](http://catarina.udlap.mx/u_dl_a/tales/documentos/lis/von_r_pa/capitulo1.pdf)
-- [Innovation Center, Realidad Virtual](http://boletines.prisadigital.com/ebook-cibbva-realidad-virtual.pdf)
-- [Realidad Virtual y Aumentada](http://mim.promexico.gob.mx/work/models/mim/templates-new/Publicaciones/Notas/Usos-aplicaciones-realidad-virtual.pdf)
-- [Realidad Virtual 2016](http://juanbarambones.com/wp-content/uploads/2017/01/realidad-virtual-2016-V1.pdf)
 - [Realidad Digital](https://www2.deloitte.com/content/dam/Deloitte/co/Documents/technology/Realidad%20digital%202018.pdf)
 </details>

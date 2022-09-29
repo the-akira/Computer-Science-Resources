@@ -7,7 +7,6 @@
 - [Learn SQL Online](https://www.learnsqlonline.org/)
 - [W3Schools](https://www.w3schools.com/sql/)
 - [SQL Course](http://www.sqlcourse.com/intro.html)
-- [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 - [Codecademy](https://www.codecademy.com/learn/learn-sql)
 - [SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 - [Tutorialspoint](https://www.tutorialspoint.com/sql/)
@@ -19,7 +18,6 @@
 - [Geeks for Geeks](https://www.geeksforgeeks.org/sql-tutorial/)
 - [SQL Tutorial](http://www.sql.org/sql-database/sql-tutorial/)
 - [SQL Reference Commands](https://docs.snowflake.net/manuals/sql-reference-commands.html)
-- [SQL Resources](https://www.whoishostingthis.com/resources/sql/)
 - [Solo Learn SQL](https://www.sololearn.com/Course/SQL/)
 - [SQL Join Types](https://www.sql-join.com/sql-join-types/)
 - [SQL Cheat Sheet](http://www.cheat-sheets.org/sites/sql.su/)
@@ -52,11 +50,8 @@
 - [Intro to SQL](https://www.stat.berkeley.edu/~spector/sql.pdf)
 - [SQL Queries](http://users.cms.caltech.edu/~donnie/cs121/CS121Lec05.pdf)
 - [SQL Language Reference](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/sqlrf/sql-language-reference.pdf)
-- [MySQL Tutorial](https://downloads.mysql.com/docs/mysql-tutorial-excerpt-5.5-en.pdf)
 - [Practical SQL Guide](https://www.researchgate.net/publication/319852714_Practical_SQL_Guide_for_Relational_Databases)
 - [Basic SQL Statements](https://www.baskent.edu.tr/~tkaracay/etudio/ders/dbase/sql/pdfSQL/BasicSqlStatements.pdf)
-- [SQL in 21 days](https://tunce.files.wordpress.com/2009/12/ebook-pdf-teach-yourself-sql-in-21-days.pdf)
-- [SQL for Dummies](http://file.allitebooks.com/20151213/SQL%20For%20Dummies,%208th%20Edition.pdf)
 - [SQL Full Course](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 - [SQL Crash Course](https://www.youtube.com/watch?v=nWeW3sCmD2k)
 - [MySQL Tutorial Video](https://www.youtube.com/watch?v=yPu6qV5byu4)
@@ -75,13 +70,8 @@
   ### Materials
 - [SQL.sh](https://sql.sh/)
 - [Developpez SQL](https://sql.developpez.com/)
-- [OpenClassRooms](https://openclassrooms.com/fr/courses/993975-apprenez-a-programmer-en-vb-net/992711-introduction-au-langage-sql)
-- [Langage SQL](http://deptinfo.unice.fr/~grin/messupports/sql.pdf)
 - [Le Langage SQL](http://monge.univ-mlv.fr/~aubrun/sgbd/coursSGBD5.pdf)
-- [SQL pour Oracle](https://www.eyrolles.com/Chapitres/9782212141566/extrait_sql_pour_oracle.pdf)
 - [Stéphane Crozat](https://stph.scenari-community.org/bdd/sql1.pdf)
-- [SQL introduction](http://www.miage.ups-tlse.fr/intranet/cours/l3/sql_completL3.pdf)
-- [MySQL/SQL Exemples](http://www.obs-vlfr.fr/~boebion/Php-Mysql/Seance2/MySQL_exemple.pdf)
 </details>
 
 <details>
@@ -109,7 +99,6 @@
 - [Guida SQL](https://www.html.it/guide/guida-linguaggio-sql/)
 - [SQL: Le Basi](http://www-db.deis.unibo.it/courses/SIL-A/PDF/SQLa-basi.pdf)
 - [Linguaggio SQL](http://www.cs.unibo.it/~ghini/didattica/informatica_generale/SQL.pdf)
-- [Introduzione a SQL Server](http://www.bomasoftware.it/download_utility/guide/SQLServer.pdf)
 - [Il Linguaggio SQL](https://users.dimi.uniud.it/~angelo.montanari/Sql.pdf)
 - [Introduzione a SQL Server](http://www.unife.it/ing/lm.infoauto/sistemi-informativi/programmi-anni-precedenti/lucidi2011-12/02-introduzione_a_SQL_Server.pdf)
 </details>
@@ -128,9 +117,6 @@
 - [Apostila de SQL](https://www.trainning.com.br/download/Apostila%20de%20SQL%20-%20Oracle%20(pt_BR).pdf)
 - [Bases de Dados: SQL](https://www.dcc.fc.up.pt/~ricroc/aulas/1011/bd/apontamentos/parteV.pdf)
 - [Bases de Dados e SQL](http://intranet.deei.fct.ualg.pt/DAW/slides/SQL.pdf)
-- [Linguagem SQL](http://itatechjr.com.br/wp-content/uploads/2012/01/03-SQL-Parte-I.pdf)
-- [SQL Avançado](http://professor.unisinos.br/ltonietto/ccti/sql/SQLAvancado.pdf)
-- [Use a Cabeça SQL](http://ldemetrio.com.br/Livros/Use%20_a_Cabe%C3%A7a_SQL_Beighley.pdf)
 - [Curso de Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
 </details>
 
@@ -140,12 +126,8 @@
   ### Materials
 - [Citforum SQL](http://citforum.ru/programming/32less/les44.shtml)
 - [Progopedia](http://progopedia.ru/language/sql/)
-- [ICT.edu](http://www.ict.edu.ru/ft/004864/sql.pdf)
 - [Bourabai](https://bourabai.ru/dbt/dbms/index.htm)
-- [MSTU.edu](http://www.mstu.edu.ru/study/materials/zelenkov/toc.html)
 - [SQL Book](http://pzks.nmu.org.ua/ua/labs/lab15_bases.pdf)
-- [SQL SAMS](http://forum.webmasterschool.ru/tmp/sql.pdf)
-- [SQL](http://window.edu.ru/resource/075/24075/files/sql.pdf)
 - [SQL 2016](http://elar.urfu.ru/bitstream/10995/40612/1/978-5-7996-1622-9_2016.pdf)
 </details>
 
@@ -162,12 +144,9 @@
 - [Consultas SQL](https://www.cs.us.es/blogs/bd2013/files/2013/09/Consultas-SQL.pdf)
 - [SQL: Consultas Avanzadas](http://www.famaf.proed.unc.edu.ar/pluginfile.php/35290/mod_resource/content/2/SQL%20Parte%202.pdf)
 - [Lenguaje SQL](http://www.cartagena99.com/recursos/alumnos/apuntes/Manual-SQL1.pdf)
-- [SQL Básico](https://svo.cab.inta-csic.es/docs/files/svo/Public/Meetings/SVO_thematic_network_First_School/sql_basico-061127.pdf)
 - [Manual Prático de SQL](https://www.lawebdelprogramador.com/cursos/archivos/ManualPracticoSQL.pdf)
-- [El Lenguaje SQL](http://moodle2.unid.edu.mx/dts_cursos_mdl/lic/TI/FB/AM/11/El_lenguaje_sql.pdf)
 - [SQL Tercera Edición](https://pedrobeltrancanessa-biblioteca.weebly.com/uploads/1/2/4/0/12405072/fundamentos_de_sql_3edi_oppel.pdf)
 - [SQL - Manual Completo](https://dennischirinos.files.wordpress.com/2018/06/manual-completo-sql.pdf)
 - [Bases de Datos](https://www.uoc.edu/masters/oficiales/img/913.pdf)
-- [Bases de Datos Relacionales](https://www.it.uc3m.es/jaf/aw/teoria/bd-1/bd-1.pdf)
 - [SQL con PostgreSQL](https://www.um.es/geograf/sigmur/sigpdf/postgresql.pdf)
 </details>

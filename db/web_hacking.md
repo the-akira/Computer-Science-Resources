@@ -17,14 +17,10 @@
 - [Hacking Tutorials](https://www.hackingtutorials.org/category/web-application-hacking/)
 - [Grey Campus](https://www.greycampus.com/opencampus/ethical-hacking/web-application-and-its-types-of-attacks)
 - [Blackhat Presentation](https://www.blackhat.com/presentations/bh-asia-02/bh-asia-02-shah.pdf)
-- [The Basics of Web Hacking](https://lira.epac.to/DOCS-TECH/Hacking/The%20Basics%20of%20Web%20Hacking%20-%20Tools%20and%20Techniques%20to%20Attack%20the%20Web(2013).pdf)
 - [Hacking Exposed](https://cdn.ttgtmedia.com/searchSecurityChannel/downloads/Hacking_Exposed_chapter_11.pdf)
-- [Web Hacking 101](http://index-of.es/Miscellanous/LIVRES/web-hacking-101.pdf)
 - [Tactical Web App Pentesting](https://www.gironsec.com/WebHacking101.pdf)
 - [Web Vulnerability Scanners](https://arxiv.org/pdf/1706.08017.pdf)
-- [501 Website Secrets](https://lira.epac.to/DOCS-TECH/Hacking/501%20Website%20Hacking%20Secrets.pdf)
 - [Web Security](http://www.iet.unipi.it/g.dini/Teaching/ssi/materiale-didattico/WebSecurity.pdf)
-- [Web Security for Dummies](https://opensrs.com/wp-content/uploads/Website_Security_For_Dummies.pdf)
 - [How to Secure your Website](https://www.ipa.go.jp/files/000017318.pdf)
 - [LiveOverFlow Web Hacking](https://www.youtube.com/watch?v=jmgsgjPn1vs&amp;list=PLhixgUqwRTjx2BmNF5-GddyqZcizwLLGP)
 - [Learn Burp Suite](https://www.youtube.com/watch?v=AVzC7ETqpDo&amp;list=PLq9n8iqQJFDrwFe9AEDBlR1uSHEN7egQA)
@@ -35,7 +31,6 @@
 - [PHP Security Manual](https://secure.php.net/manual/en/security.php)
 - [WebSiteSec](https://crypto.stanford.edu/cs155old/cs155-spring11/lectures/10-web-site-sec.pdf)
 - [Cybrary.it](https://www.cybrary.it/course/web-application-pen-testing/)
-- [Web App Pentesting Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/)
 - [OWASP](https://www.owasp.org/index.php/Web_Application_Penetration_Testing)
 - [Web App Security Testing](https://www.exploit-db.com/docs/english/44319-web-application-security-testing.pdf)
 - [Survive the Deep End: PHP Security](https://phpsecurity.readthedocs.io/en/latest/index.html)
@@ -44,17 +39,13 @@
 - [Mozilla Web Security](https://developer.mozilla.org/en-US/docs/Web/Security)
 - [Web Security in 2017](http://johannh.me/slides/web_security_2017.pdf)
 - [MIT 6.858](https://www.youtube.com/watch?v=WlmKwIe9z1Q)
-- [Introduction to Web Security](https://www.sonntag.cc/teaching/Web_Security_Budapest_2018/1_Computer_security_basics/Introduction_to_Web_Security.pdf)
 </details>
 
 <details>
   <summary>French</summary>
   
   ### Materials
-- [Applications Web et Securite](http://www.mathrice.org/ecole/support/Applications-Web-securite.pdf)
-- [OpenClassRooms](https://openclassrooms.com/fr/courses/2091901-protegez-vous-efficacement-contre-les-failles-web)
 - [Failles de sécurité des applications Web](https://web.developpez.com/tutoriels/web/failles-securite-application-web/)
-- [Failles de sécurité](https://aresu.dsi.cnrs.fr/IMG/pdf/Presentation_des_failles_de_securite.pdf)
 - [Sécurité des applications Web](https://clusif.fr/publications/securite-des-applications-web/)
 - [La Sécurité Informatique](http://ylescop.free.fr/mrim/cours/securite.pdf)
 </details>
@@ -89,7 +80,6 @@
 - [Segurança na Web](https://www.owasp.org/images/1/16/Seguranca_na_web_-_uma_janela_de_oportunidades.pdf)
 - [Web Hacking Prático](https://www.youtube.com/watch?v=5Ve74PchxR0)
 - [Teste de Vulnerabilidades em Aplicações Web](https://cepein.femanet.com.br/BDigital/arqTccs/1211330211.pdf)
-- [Segurança no Desenvolvimento de Aplicações Web](http://revistapensar.com.br/tecnologia/pasta_upload/artigos/a127.pdf)
 - [Segurança na Web Fatec-SP](http://www.fatecsp.br/dti/tcc/tcc0043.pdf)
 - [Análise de Vulnerabilidades de Segurança](https://repositorio.ufu.br/bitstream/123456789/20400/6/AnaliseVulnerabilidadesSeguranc%CC%A7a.pdf)
 </details>
@@ -100,7 +90,6 @@
   ### Materials
 - [Intro to Web Sec](https://tproger.ru/translations/hacker-101-introduction-to-web-security/)
 - [Tproger](https://tproger.ru/tag/security/)
-- [Cisco Guide](http://nncit.tneu.edu.ua/wp-content/uploads/2017/10/cisco_2017_mcr_071817_fnl_hq.pdf)
 </details>
 
 <details>
@@ -108,11 +97,8 @@
   
   ### Materials
 - [Vulnerabilidades en Aplicaciones Web](https://www.youtube.com/watch?v=Imnzode1ptk)
-- [Hacking de Aplicaciones Web](https://ucys.ugr.es/download/taller4/WebHacking.pdf)
 - [Ataques a Aplicaciones Web](https://www.exabyteinformatica.com/uoc/Informatica/Seguridad_en_bases_de_datos/Seguridad_en_bases_de_datos_(Modulo_2).pdf)
 - [Taller de Hacking Web](https://cybercamp.es/cybercamp2014/attachments/multimedia/CyberCampHackingWeb.pdf)
 - [Ethical Hacking for Web App](http://www.revistasbolivianas.org.bo/pdf/rits/n8/n8a24.pdf)
 - [Seguridad en Aplicaciones Web](https://www.rediris.es/cert/doc/reuniones/fs2008/archivo/RedIRIS_VI_Seguridad_en_aplicaciones_Web_v1.0_RaulSiles.pdf)
-- [Hacking desde Cero](https://radiosyculturalibre.com.ar/compartir/biblioteca/INFOSEC/Hacking%20desde%20Cero.pdf)
-- [Hacking con Google](https://www.imaginar.org/sites/google/adicional/Hacking%20con%20Google.pdf)
 </details>

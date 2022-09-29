@@ -17,8 +17,6 @@
 - [Julia Optimization Packages](https://www.juliaopt.org/)
 - [Julia Bloggers](https://www.juliabloggers.com/)
 - [Julia Youtube Channel](https://www.youtube.com/user/JuliaLanguage/playlists)
-- [Julia Box](https://juliabox.com/)
-- [Quantitative Economics with Julia](https://lectures.quantecon.org/jl/)
 - [An Introduction to GPU Programming in Julia](https://nextjournal.com/sdanisch/julia-gpu-programming)
 - [A review of the Julia language](https://danluu.com/julialang/)
 - [High-Performance GPU Computing in the Julia Programming Language](https://devblogs.nvidia.com/gpu-computing-julia-programming-language/)
@@ -40,13 +38,9 @@
 - [First Steps with Julia](https://blog.brakmic.com/first-steps-with-julia/)
 - [Null Program](https://nullprogram.com/blog/2014/03/06/)
 - [Julia Documentation](https://juliacomputing.com/docs/JuliaDocumentation.pdf)
-- [A Fast Dynamic Language for Technical Computing](https://julialang.org/images/nyhackr.pdf)
 - [Julia Tutorial](https://laurentlessard.com/teaching/cs524/slides/julia%20tutorial.pdf)
-- [Julia: A Modern Language for Modern ML](https://qconlondon.com/system/files/presentation-slides/julia_1and2.pdf)
 - [Julia: A Programming Language for Scientific Computing](https://web.maths.unsw.edu.au/~mclean/talks/Julia_talk.pdf)
 - [Julia for Machine Learning](http://www.cs.toronto.edu/~jsnell/assets/julia-tutorial.pdf)
-- [Julia Slides Stanford](http://web.stanford.edu/class/ee103/julia_slides/)
-- [Julia Programming for Operations Research](http://www.chkwon.net/julia/book/juliabook-preview.pdf)
 - [A Brief Overview of Julia](https://www8.cs.umu.se/kurser/5DV086/VT17/resources/reports/julia.pdf)
 - [Julia: A Fresh Approach to Numerical Computing](https://arxiv.org/pdf/1411.1607.pdf)
 - [Julia for Data Science](http://www.maths.adelaide.edu.au/matthew.roughan/talks/julia_for_data_science.pdf)
@@ -67,7 +61,6 @@
   <summary>French</summary>
   
   ### Materials
-- [Introduction à Julia](http://www.slashbin.net/julia/introJulia.html)
 - [Julia: le langage scientifique](http://perso.ensta-paristech.fr/~diam/julia/)
 - [Julia vs Python](https://www.scriptol.fr/programmation/julia.php)
 - [Developpez](https://julia.developpez.com/tutoriels/decouverte-julia/)
@@ -80,8 +73,6 @@
   ### Materials
 - [JuliaLangPT](https://github.com/JuliaLangPt/tutorial_PT_BR)
 - [O Manual de Julia](https://julia-cn.readthedocs.io/pt_BR/latest/manual/introduction.html)
-- [Introdução à Linguagem de Programação Julia](http://www.eripi.com.br/2017/images/anais/minicursos/4.pdf)
-- [Linguagem de Programação Julia](http://www.abenge.org.br/cobenge/arquivos/3/anais/anais/161240.pdf)
 </details>
 
 <details>

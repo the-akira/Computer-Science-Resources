@@ -27,7 +27,6 @@
 - [Alchemist Camp episodes](https://alchemist.camp/episodes)
 - [How I Learned to Program in Elixir](http://learningelixir.joekain.com/how-I-learned-elixir/)
 - [Elixir With José Valim](https://howistart.org/posts/elixir/1/)
-- [Metaprogramming Elixir](http://www.r-5.org/files/books/computers/languages/erlang/elixir/Chris_McCord-Metaprogramming_Elixir-EN.pdf)
 - [Introducing Elixir](http://gotocon.com/dl/goto-chicago-2014/slides/DaveThomas_ElixirThePowerOfErlangTheJoyOfRuby.pdf)
 - [Elixir Functional Programming](https://people.kth.se/~johanmon/courses/id1019/seminars/lambda/lambda.pdf)
 - [Elixir Cheatsheet](https://devhints.io/elixir)
@@ -44,7 +43,6 @@
   
   ### Materials
 - [Introduction à Elixir](https://www.synbioz.com/blog/introduction_a_elixir)
-- [Lkdjiin](http://lkdjiin.github.io/blog/categories/elixir/)
 - [Elixir (Langage de Programmation)](http://boowiki.info/art/les-langages-de-script/elixir-langage-de-programmation.html)
 </details>
 
@@ -73,7 +71,5 @@
 - [Codigo Facilito](https://codigofacilito.com/articulos/elixir)
 - [Elixir, programación funcional para todos](https://www.genbeta.com/desarrollo/elixir-programacion-funcional-para-todos)
 - [Aprendiendo Elixir](http://rchavarria.github.io/blog/2016/01/17/aprendiendo-elixir/)
-- [Que és Elixir?](https://jpyamamoto.com/blog/posts/que-es-elixir/)
-- [Introduction to Elixir](http://club.hackbu.org/demo/elixir/elixir-intro.html)
 - [Riptutorial](https://riptutorial.com/es/elixir/topic/954/empezando-con-elixir-language)
 </details>

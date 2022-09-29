@@ -6,7 +6,6 @@
   ### Materials
 - [Harvard Data Science](https://cs109.github.io/2015/)
 - [A History of Machine Learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
-- [Common ML Problems](https://developers.google.com/machine-learning/problem-framing/cases)
 - [Timeline of Machine Learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
 - [A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)
 - [COS 402 Artificial Intelligence](https://www.cs.princeton.edu/courses/archive/fall12/cos402/)
@@ -48,12 +47,9 @@
 - [Data Quest](https://www.dataquest.io/blog/)
 - [J. P. Morgan](https://www.jpmorgan.com/global/research/machine-learning)
 - [Real Python Tutorials](https://realpython.com/tutorials/machine-learning/)
-- [Modern Machine Learning in Python](http://www.cs.tut.fi/~hehu/MMLP.pdf)
-- [Machine Learning Notebooks](https://sebastianraschka.com/notebooks/python-notebooks.html)
 - [ML Articles](https://web.engr.oregonstate.edu/~tgd/projects/tutorials.html)
 - [Adventures in ML](http://adventuresinmachinelearning.com/)
 - [ML Lectures](https://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
-- [SciLab](https://scilab.io/category/machine-learning/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - [ML from Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 - [ML for Everyone](https://vas3k.com/blog/machine_learning/)
@@ -68,9 +64,7 @@
 - [ML using Python](https://in.pycon.org/2011/static/files/talks/11/Introduction_To_ML_Partial_2.pdf)
 - [Machine Learning in Haskell](https://mmhaskell.com/machine-learning)
 - [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)
-- [How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works)
 - [The 50 Best Free Datasets for Machine Learning](https://gengo.ai/datasets/the-50-best-free-datasets-for-machine-learning/)
-- [140 Machine Learning Formulas](https://drive.google.com/file/d/0B0RLknmL54khQlhGUzFUWEtncTA/view)
 - [Edureka Machine Learning](https://www.youtube.com/watch?v=Pj0neYUp9Tc&amp;list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)
 - [Deep Learning with Structured Data](https://www.manning.com/books/deep-learning-with-structured-data)
 - [Probabilistic Deep Learning with Python](https://www.manning.com/books/probabilistic-deep-learning-with-python)
@@ -108,7 +102,6 @@
 - [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp)
 - [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition)
 - [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms)
-- [Trust in Machine Learning](https://www.manning.com/books/trust-in-machine-learning)
 - [AI-Powered Search](https://www.manning.com/books/ai-powered-search)
 - [Feature Engineering Bookcamp](https://www.manning.com/books/feature-engineering-bookcamp)
 </details>
@@ -117,15 +110,8 @@
   <summary>French</summary>
   
   ### Materials
-- [L'apprentissage automatique](https://www.univ-tlemcen.dz/~benmammar/IA2.pdf)
 - [Apprentissage Automatique](http://www.math-info.univ-paris5.fr/~bouzy/Doc/AA1/Seance1.pdf)
-- [Algorithmes d’apprentissage automatique](https://www.di.ens.fr/~germain/publis/memoire.pdf)
 - [Apprentissage Automatique (Master)](http://www.cril.univ-artois.fr/~koriche/courses.html)
-- [Apprentissage Artificiel](http://members.cbio.mines-paristech.fr/~thocking/mines-course/2011-05-13-clustering/coursFM-apprentissage.pdf)
-- [Fondements](http://www.lifl.fr/~pietquin/teaching/FAACours1.pdf)
-- [Exemples](https://www.irisa.fr/symbiose/people/fcoste/data/ens/bioinfo/Induction/InductionModeles2pp.pdf)
-- [Cours](http://www.grappa.univ-lille3.fr/~torre/Enseignement/Cours/Apprentissage-Automatique/)
-- [Univ-Lyon](http://eric.univ-lyon2.fr/~jahpine/cours/m2_dm-ml/cm.pdf)
 </details>
 
 <details>
@@ -138,7 +124,6 @@
 - [Maschinelles Lernen Book](https://www.bigdata.fraunhofer.de/content/dam/bigdata/de/documents/Publikationen/BMBF_Fraunhofer_ML-Ergebnisbericht_Gesamt.pdf)
 - [Maschinelles Lernen auf FPGAs](https://tu-dresden.de/ing/informatik/ti/vlsi/ressourcen/dateien/dateien_studium/dateien_lehstuhlseminar/vortraege_lehrstuhlseminar/lehrstuhlseminar_ss18/Maschinelles-Lernen.pdf)
 - [Karlsruhe Institue of Technology](http://semantic-web-grundlagen.de/w/images/b/b5/IntroAI-V05.pdf)
-- [Uni Bielefeld](https://www.techfak.uni-bielefeld.de/~ugrossek/media/da_ugtl.pdf)
 - [Felix Wichmann](https://www.chaosbern.ch/files/slides-Vortrag-Maschinelles-Lernen.pdf)
 - [Goethe Universitat](https://www.ki.informatik.uni-frankfurt.de/lehre/WS2012/KI/folien/13-machinelleslernen.pdf)
 </details>
@@ -162,7 +147,6 @@
 - [Aprendizado de Máquina UFF](http://www.ic.uff.br/~bianca/aa/)
 - [Aprendizado de Máquina UFMG](http://www.est.ufmg.br/~marcosop/est171-ML/index.htm)
 - [Introdução](http://www.inf.ufpr.br/lesoliveira/aprendizado/introducao.pdf)
-- [AM Introdução](http://www.ppgia.pucpr.br/~alekoe/AM/2007/1-Introducao-ApreMaq-2007.pdf)
 - [AM usando Python](http://thiagomarzagao.com/assets/teaching/ipea/slides1.pdf)
 - [Machine learning e alguns exemplos de aplicação em dados astronômicos](http://www.astro.iag.usp.br/~astro12h/files/2018/0305.pdf)
 - [Desmistificando a Inteligência Artificial](https://www.youtube.com/watch?v=c8C_EJcZbdU)
@@ -173,10 +157,7 @@
   
   ### Materials
 - [Vas3k](https://vas3k.ru/blog/machine_learning/)
-- [ML Presentation](http://bioinformaticsinstitute.ru/sites/default/files/vvedenie_v_mashinnoe_obuchenie.pdf)
 - [ML Presentation](http://www.machinelearning.ru/wiki/images/c/cc/Voron-2017-10-08.pdf)
-- [ML and Data Mining](http://www.uic.unn.ru/~zny/ml/Course/ml_pres.pdf)
-- [ML 2015](https://compscicenter.ru/media/slides/machine_learning_1_2015_autumn/2015_09_18_machine_learning_1_2015_autumn.pdf)
 - [FMLDM](https://cs.hse.ru/data/2015/05/25/1096949400/FMLDM.pdf)
 - [Intro](https://logic.pdmi.ras.ru/~sergey/teaching/mlkazan14/01-intro.pdf)
 </details>
@@ -189,10 +170,6 @@
 - [Tipos de aprendizaje automático](https://medium.com/soldai/tipos-de-aprendizaje-autom%C3%A1tico-6413e3c615e2)
 - [Aprendizaje Automático](http://www.lsi.upc.es/~bejar/ia/transpas/teoria/6-AP-aprendizaje.pdf)
 - [Aprendizaje Automático Book](https://upcommons.upc.edu/bitstream/handle/2099.3/36157/9788483019962.pdf)
-- [Introdución AA](http://habla.dc.uba.ar/gravano/ith-2014/09-aprendizaje-automatico.pdf)
-- [Métodos y Aplicaciones](http://www.eui.uva.es/doc/anuncios/curso.2013.2014/aprendizajeAutomatico.pdf)
 - [Aprendizaje Profundo](https://ccc.inaoep.mx/~pgomez/conferences/PggTSys16.pdf)
-- [ML Introducción](https://www.zemsania.com/recursos-zemsania/whitepapers/DTS/Machine_learning.pdf)
 - [Fundamentos de AA](http://www.famaf.proed.unc.edu.ar/pluginfile.php/19002/mod_resource/content/2/01.introduccion.pdf)
-- [Intro al AA](http://ocw.uc3m.es/ingenieria-informatica/herramientas-de-la-inteligencia-artificial/contenidos/transparencias/MDWEBHIA-clase.pdf)
 </details>
