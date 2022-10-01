@@ -98,7 +98,6 @@
   <summary>Portuguese</summary>
   
   ### Materials
-- [Introdução à Teoria da Informação](http://www.di.ufpb.br/leonardo/iti/ITI2004.pdf)
 - [Teoria da Informação: Codificação de Fonte](http://users.isr.ist.utl.pt/~vab/FTELE/cap1.pdf)
 - [Introdução à Teoria da Informação](http://sisne.org/Disciplinas/Grad/ProbEstat1/aula%2018.pdf)
 - [Aplicações da Teoria da Informação à Neurociência](http://www.scielo.br/pdf/rbef/v41n2/1806-9126-RBEF-41-2-e20180197.pdf)
