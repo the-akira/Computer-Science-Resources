@@ -108,6 +108,7 @@
 - [The Well-Grounded Python Developer](https://www.manning.com/books/the-well-grounded-python-developer?a_aid=the_well_grounded_python_developer&a_bid=e505681b)
 - [Quick Programming Tips Python](https://www.quickprogrammingtips.com/category/python)
 - [Python Code](https://www.thepythoncode.com)
+  [Python Projects](https://www.interviewbit.com/blog/python-projects/)
 - [Talk Python: Python for Absolute Beginners](https://www.manning.com/livevideo/talk-python-python-for-absolute-beginners)
 - [Full Stack Python Security](https://www.manning.com/books/full-stack-python-security)
 - [Scaler Topics](https://www.scaler.com/topics/python/)
