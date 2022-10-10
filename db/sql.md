@@ -15,6 +15,7 @@
 - [Guru99](https://www.guru99.com/sql.html)
 - [SQLite](https://www.sqlite.org/index.html)
 - [MySQL](https://www.mysql.com/)
+- [Learn SQL in Detail](https://www.scaler.com/topics/sql/)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/sql-tutorial/)
 - [SQL Tutorial](http://www.sql.org/sql-database/sql-tutorial/)
 - [SQL Reference Commands](https://docs.snowflake.net/manuals/sql-reference-commands.html)
