@@ -42,6 +42,7 @@
 - [Learn Python](https://www.learnpython.org/)
 - [The Python Guru](https://thepythonguru.com/)
 - [Guru99](https://www.guru99.com/python-tutorials.html)
+- [Scaler Topics](https://www.scaler.com/topics/python/)
 - [Python Course](https://www.python-course.eu/)
 - [Crash into Python](https://stephensugden.com/crash_into_python/)
 - [Sthurlow](http://sthurlow.com/python/)
