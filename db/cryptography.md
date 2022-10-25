@@ -24,6 +24,7 @@
 - [Guide to Cryptography](https://www.owasp.org/index.php/Guide_to_Cryptography)
 - [Introduction to Cryptography](https://thebestvpn.com/cryptography/)
 - [Applied Cryptography Handbook](http://cacr.uwaterloo.ca/hac/)
+- [Cryptography and Network Security](https://www.scaler.com/topics/computer-network/cryptography-and-network-security/)
 - [Edureka](https://www.edureka.co/blog/what-is-cryptography/)
 - [An Intensive Intro to Cryptography](https://intensecrypto.org/public/index.html)
 - [Saarland University](https://www-cc.cs.uni-saarland.de/course/55/)
