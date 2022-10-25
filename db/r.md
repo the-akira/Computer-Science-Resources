@@ -18,6 +18,7 @@
 - [Advanced R](https://englianhu.files.wordpress.com/2016/05/advanced-r.pdf)
 - [Statistics and Computing](https://www.e-reading.club/bookreader.php/137398/Software_for_Data_Analysis_-_Programming_with_R.pdf)
 - [Guru99](https://www.guru99.com/r-programming-introduction-basics.html)
+- [Scaler Topics](https://www.scaler.com/topics/hubs/)
 - [Reddit Community](https://www.reddit.com/r/Rlanguage/)
 - [Advanced R](http://adv-r.had.co.nz/)
 - [R Programming Exercises](https://www.w3resource.com/r-programming-exercises/)
