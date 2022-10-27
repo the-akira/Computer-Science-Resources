@@ -40,6 +40,7 @@
 - [Big Data Fundamentals](https://www.cse.wustl.edu/~jain/cse570-13/ftp/m_10abd.pdf)
 - [ETH Zürich](https://www.ethz.ch/content/dam/ethz/special-interest/gess/computational-social-science-dam/documents/education/Spring2017/Data_science/course4.pdf)
 - [Basic Concepts of Big Data](http://luthuli.cs.uiuc.edu/~daf/courses/CS-199-BD/Slides/intro-bigdata.pdf)
+- [What is Big Data](https://www.scaler.com/topics/what-is-big-data/)
 - [Anatomy of Big Data Computing](https://arxiv.org/pdf/1509.01331.pdf)
 - [Big Data in Big Companies](https://docs.media.bitpipe.com/io_10x/io_102267/item_725049/Big-Data-in-Big-Companies.pdf)
 - [Tutorialseye](https://tutorialseye.com/hadoop-tutorial)
