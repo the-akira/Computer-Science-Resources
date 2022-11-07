@@ -47,6 +47,7 @@
 - [Algorithms and Data Structures for External Memory](https://www.ittc.ku.edu/~jsv/Papers/Vit.IO_book.pdf)
 - [List of all projects - University of Waterloo](https://ece.uwaterloo.ca/~dwharder/aads/Projects/List/)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Data Structures and Algorithms](https://www.scaler.com/topics/data-structures/)
 - [Algorithms and Data Structures with implementations in Java and C++](http://www.algolist.net/)
 - [500+ Data Structures and Algorithms Interview Questions & Practice Problems](https://blog.usejournal.com/500-data-structures-and-algorithms-practice-problems-35afe8a1e222)
 - [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
