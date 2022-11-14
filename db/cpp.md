@@ -18,6 +18,7 @@
 - [C++ for Progammers](https://www.udacity.com/course/c-for-programmers--ud210)
 - [Lund University](http://cs.lth.se/edaf50/vt18/lectures/)
 - [Javatpoint](https://www.javatpoint.com/cpp-tutorial)
+- [Learn CPP in Detail](https://www.scaler.com/topics/cpp/)
 - [Reddit](https://www.reddit.com/r/cpp/)
 - [C++ for Scientists](https://math.nist.gov/~RPozo/c++class/)
 - [All C++20 core language features with examples](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
