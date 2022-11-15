@@ -60,6 +60,7 @@
 - [C Tutorial](https://www.physics.drexel.edu/~valliere/General/C_basics/c_tutorial.html)
 - [Zentut](https://www.zentut.com/c-tutorial/)
 - [Learn.Parallax](https://learn.parallax.com/propeller-c-tutorials)
+- [Learn C in Detail](https://www.scaler.com/topics/c/)
 - [C Cocoa](http://cocoadevcentral.com/articles/000081.php)
 - [Libcurl Tutorial](https://curl.haxx.se/libcurl/c/libcurl-tutorial.html)
 - [Short C](http://www.stat.cmu.edu/~brian/cprog.html)
