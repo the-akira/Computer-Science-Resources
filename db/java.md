@@ -23,6 +23,7 @@
 - [Guru 99](https://www.guru99.com/java-tutorial.html)
 - [Java in 21 days](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/gchen/www/download/java/LearnJava.pdf)
 - [Javatpoint](https://www.javatpoint.com/java-tutorial)
+- [Learn Java Programming in Detail](https://www.scaler.com/topics/java/)
 - [Reddit](https://www.reddit.com/r/learnjava/)
 - [C4learn](http://www.c4learn.com/javaprogramming/)
 - [Home and Learn](https://www.homeandlearn.co.uk/java/java.html)
