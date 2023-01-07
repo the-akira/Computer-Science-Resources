@@ -63,7 +63,7 @@
   - [Reverse Engineering](https://github.com/the-akira/computer_science_web_resources/blob/master/db/reverse_engineering.md)
   - [Social Engineering](https://github.com/the-akira/computer_science_web_resources/blob/master/db/social_engineering.md)
   - [Cryptography](https://github.com/the-akira/computer_science_web_resources/blob/master/db/cryptography.md)
-- Data Bases
+- Databases
   - [SQL](https://github.com/the-akira/computer_science_web_resources/blob/master/db/sql.md)
   - [NOSQL](https://github.com/the-akira/computer_science_web_resources/blob/master/db/nosql.md)
   - [Big Data](https://github.com/the-akira/computer_science_web_resources/blob/master/db/big_data.md)
