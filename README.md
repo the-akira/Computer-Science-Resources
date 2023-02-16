@@ -21,6 +21,7 @@
   - [CS50 Harvard](https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu)
   - [Audio/Video Courses from Colleges and Universities](http://www.infocobuild.com/education/audio-video-courses/)
   - [Everything Computer Science](https://everythingcomputerscience.com/)
+  - [Computer Science Roadmap](https://roadmap.sh/computer-science)
 - Computer Fundamentals
   - [Algorithms & Data Structures](https://github.com/the-akira/Computer-Science-Resources/blob/master/db/algorithms_data_structures.md)
   - [Computer Architecture](https://github.com/the-akira/computer_science_web_resources/blob/master/db/computer_architecture.md)
