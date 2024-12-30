@@ -107,7 +107,6 @@
 - [UFSC](http://www.inf.ufsc.br/~j.barreto/cca/sisop/sisoperac.html)
 - [UFMG](https://homepages.dcc.ufmg.br/~scampos/cursos/so/index.html)
 - [Unicamp](http://www.ic.unicamp.br/~islene/mc514/index.html)
-- [Apostila de Sistemas Operacionais](http://ozkr.orgfree.com/apost-sist.pdf)
 - [Notas sobre Sistemas Operacionais](https://docente.ifrn.edu.br/rodrigotertulino/livros/notas-sobre-sistemas-operacionais)
 - [Apostila de Linux](https://www.inf.ufpr.br/cursos/ci055/linux.pdf)
 </details>
