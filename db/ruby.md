@@ -80,13 +80,6 @@
 </details>
 
 <details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [Ruby Book](http://mit.spbau.ru/files/%20%D0%B2%20Ruby.pdf)
-</details>
-
-<details>
   <summary>Spanish</summary>
   
   ### Materials

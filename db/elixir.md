@@ -36,12 +36,6 @@
 </details>
 
 <details>
-  <summary>French</summary>
-  
-  ### Materials
-</details>
-
-<details>
   <summary>German</summary>
   
   ### Materials

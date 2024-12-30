@@ -66,6 +66,6 @@
   - [Cryptography](https://github.com/the-akira/computer_science_web_resources/blob/master/db/cryptography.md)
 - Databases
   - [SQL](https://github.com/the-akira/computer_science_web_resources/blob/master/db/sql.md)
-  - [NOSQL](https://github.com/the-akira/computer_science_web_resources/blob/master/db/nosql.md)
+  - [NoSQL](https://github.com/the-akira/computer_science_web_resources/blob/master/db/nosql.md)
   - [Big Data](https://github.com/the-akira/computer_science_web_resources/blob/master/db/big_data.md)
   - [Data Mining](https://github.com/the-akira/computer_science_web_resources/blob/master/db/data_mining.md)

@@ -1,4 +1,4 @@
-# NOSQL
+# NoSQL
 
 <details>
   <summary>English</summary>
