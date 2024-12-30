@@ -83,13 +83,6 @@
 </details>
 
 <details>
-  <summary>Russian</summary>
-  
-  ### Materials
-- [SQL vs NoSQL](https://tproger.ru/translations/sql-nosql-database-models/)
-</details>
-
-<details>
   <summary>Spanish</summary>
   
   ### Materials
