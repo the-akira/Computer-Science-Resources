@@ -16,9 +16,7 @@
 - [Gabriel Gambetta](http://www.gabrielgambetta.com/computer-graphics-from-scratch/table-of-contents.html)
 - [KU Leuven](http://graphics.cs.kuleuven.be/publications.html)
 - [UWaterloo](http://www.cgl.uwaterloo.ca/courses.html)
-- [CS 4810](https://www.cs.virginia.edu/luther/4810/F2018/schedule.html#cal-full)
 - [University of Freiburg](https://cg.informatik.uni-freiburg.de/publications.htm)
-- [ETH Zürich](https://graphics.ethz.ch/publications/papers/papers.php)
 - [NPTEL](https://nptel.ac.in/courses/106106090/)
 - [CSC 418](https://github.com/alecjacobson/computer-graphics-csc418)
 - [CS4620-4621](https://www.cs.cornell.edu/courses/cs4620/2014fa/index.shtml)
@@ -42,26 +40,18 @@
 - [Computer Graphics and Visualization](https://graphics.tudelft.nl/publications/)
 - [UC Berkeley](http://graphics.berkeley.edu/papers/index.html)
 - [Introduction to Computer Graphics](https://math.hws.edu/graphicsbook/)
-- [University of Southern California](https://graphics.usc.edu/cgit/publications.html)
 - [Computer Graphics from Scratch](https://www.scratchapixel.com/)
 - [TU Braunschweig](https://graphics.tu-bs.de/publications)
 - [Journal of Computer Graphics Techniques](http://jcgt.org/)
-- [Reddit Community](https://www.reddit.com/r/computergraphics/)
 - [Introduction to Computer Graphics](https://math.hws.edu/eck/cs424/downloads/graphicsbook-linked.pdf)
 - [A Short Intro to Computer Graphics](https://people.csail.mit.edu/fredo/Depiction/1_Introduction/reviewGraphics.pdf)
 - [Fundamentals of Computer Graphics](http://personal.ee.surrey.ac.uk/Personal/J.Collomosse/pubs/cm20219.pdf)
 - [History of Computer Graphics](https://graphics.stanford.edu/courses/cs248-02/History-of-graphics/History-of-graphics.pdf)
 - [Intro Graphics](https://www.inf.ed.ac.uk/teaching/courses/cg/Web/intro_graphics.pdf)
-- [Computer Graphics](https://www.cs.umd.edu/~mount/427/Lects/427lects.pdf)
-- [Computer Graphics Textbook](https://library.aceondo.net/ebooks/Computer_Science/computer_graphics_textbook.pdf)
-- [Fabio Pellacini](http://pellacini.di.uniroma1.it/teaching/graphics11/lectures.html)
 - [Computer Graphics & Image Processing](https://www.cl.cam.ac.uk/teaching/1998/CGraphIP/cgip.pdf)
-- [Computer Graphics & Animation](http://www.multitech.ac.ug/uploads/graphics.pdf)
 - [CS 217 Princeton](https://www.cs.princeton.edu/courses/archive/spr02/cs217/lectures/)
-- [Geometry for Computer Graphics](http://www.math.uni.lodz.pl/~maczar/ggk/Vince%20-%20Geometry%20for%20Computer%20Graphics.pdf)
 - [A Model of Visual Masking](http://web.cse.ohio-state.edu/~parent.1/classes/782/Papers/Ferwerda97Alt.pdf)
 - [Using Color Effectively in CG](https://www.engr.colostate.edu/ECE666/Handouts/WritingPapers/UsingColorEffectively.pdf)
-- [CSCI 420](https://www-bcf.usc.edu/~jbarbic/cs420-s18/)
 - [Advanced Concepts in CG](http://www.cse.iitm.ac.in/~vplab/courses/CG/PDF/MISC_TOPICS.pdf)
 - [Illumination Models and Shading](https://www.cs.tau.ac.il/~dcor/Graphics/pdf.slides/shading13.pdf)
 - [Graphics Architecture](https://www2.cs.duke.edu/courses/cps124/fall01/notes/15_hardware/notes.pdf)
@@ -78,9 +68,7 @@
 - [MIT 6.837](https://www.youtube.com/watch?v=E1-_15Vfddk&amp;list=PLkHIj5SCfn3_PCotoqTetMpJc_jkpkgLt)
 - [CG Course](https://www.youtube.com/watch?v=m5YbqpL7BIY&amp;list=PLLOxZwkBK52DkMLAYhRLA_VtePq5wW_N4)
 - [Awesome Graphics](https://github.com/ericjang/awesome-graphics)
-- [Discover Three.js](https://discoverthreejs.com/book/contents/)
 - [Three.js Introduction](https://threejs.org/docs/#manual/en/introduction/Creating-a-scene)
-- [Beginning with 3D WebGL](https://codepen.io/rachsmith/post/beginning-with-3d-webgl-pt-1-the-scene)
 </details>
 
 <details>
@@ -101,9 +89,7 @@
 - [Computer Grafica](https://www.accademiadicatania.com/admin/upload/file/3p8i_APPUNTI_COMPUTER_ART.pdf)
 - [Matematica e Computer Grafica](http://www.matematica.it/impedovo/articoli/Matematica%20e%20computer%20grafica.pdf)
 - [Presentazione](http://www.uccellacci.it/download_corso_grafica_2007/presentazione_def_compressa.pdf)
-- [Introduzione alla CG](http://www.biplab.unisa.it/portal/attachments/article/102/01-Introduzione_I.pdf)
 - [Manuale di Grafica Digitale](https://www.uniroma1.it/sites/default/files/allegati/Manualegraficadigitale_150515.pdf)
-- [Fondamenti di Grafica Tridimensionale](http://vcg.isti.cnr.it/~cignoni/FGT1112/)
 </details>
 
 <details>
@@ -113,9 +99,7 @@
 - [Prof Fernando de Siqueira](https://sites.google.com/site/profferdesiqueiracompgrafica/)
 - [Prof Márcio Pinho](http://www.inf.pucrs.br/pinho/CG/Aulas/Intro/intro.htm)
 - [História da Computação Gráfica](https://edisciplinas.usp.br/pluginfile.php/3332345/mod_resource/content/1/Aula05-Hist%C3%B3ria%20da%20Computa%C3%A7%C3%A3o%20Gr%C3%A1fica.pdf)
-- [Apostila do curso de CG](http://www2.dc.ufscar.br/~saito/download/comp-grafica/apostila.pdf)
 - [Universidade Federal de Alagoas](http://www.im.ufal.br/professor/thales/icg/Aula1.pdf)
-- [Universidade Federal Fluminense](http://www2.ic.uff.br/~anselmo/cursos/CGI/slidesGrad/CG_aula1(introducao).pdf)
 - [Introdução à Computação Gráfica](https://www.inf.pucrs.br/manssour/Publicacoes/TutorialSib2006.pdf)
 - [Histórico e Aplicações da Computação Gráfica](http://www.inf.ufsc.br/~aldo.vw/grafica/apostilas/apostilaport.pdf)
 - [Cores em CG](http://www.univasf.edu.br/~jorge.cavalcanti/comput_graf06_Cores.pdf)
@@ -130,7 +114,6 @@
 - [Wikibook](https://ru.wikibooks.org/wiki/%D0%9F%D0%BE%D0%BB%D0%BA%D0%B0:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0)
 - [Grafika](http://grafika.me/)
 - [CG Study Book](http://portal.tpu.ru:7777/SHARED/j/JBOLOTOVA/academic/ComputerGraphics/CGStudyBook.pdf)
-- [Porev](http://philipok4.narod.ru/Tuser7/Porev.pdf)
 - [Postnov](http://ng-kg.kpi.ua/files/postnov_compgr.pdf)
 - [CG3](http://cph.phys.spbu.ru/documents/First/CG3.pdf)
 </details>
@@ -141,5 +124,4 @@
   ### Materials
 - [Introducción a la Computación Gráfica](https://www.fing.edu.uy/inco/cursos/compgraf/)
 - [Introducción a la Computación Gráfica](https://www.fing.edu.uy/inco/cursos/compgraf/Clases/2012/04-Hardware%20Grafico.pdf)
-- [Estado del Arte: CG](http://jeuazarru.com/wp-content/uploads/2014/10/computer_graphics.pdf)
 </details>

@@ -6,14 +6,12 @@
   ### Materials
 - [The Map of Mathematics](https://mathmap.quantamagazine.org/map/)
 - [Timeline of Mathematics](https://mathigon.org/timeline)
-- [Math Study Guide](https://www.sparknotes.com/math/)
 - [Mathematics in Computer Science Curricula](https://www.cs.cmu.edu/~wing/publications/talk.pdf)
 - [MIT Math for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 - [Mathematics for Computer Science Book](https://www.iith.ac.in/~aravind/Files-DM/LLM-MFCS-2004.pdf)
 - [Real not Complex (Math Resources)](https://realnotcomplex.com/)
 - [Gentle Intro to Math for CS](http://web.ftvs.cuni.cz/hendl/metodologie/gentle-introduction-to-mathematics-for-computer.pdf)
 - [Discrete Math](https://en.wikiversity.org/wiki/Introductory_Discrete_Mathematics_for_Computer_Science)
-- [Discrete Mathematics for Computer Science](https://www.skylineuniversity.ac.ae/pdf/math/DISCRETE%20MATHEMATICAL%20STRUCTURES%20%20APLNS%20COMPTR%20SC.pdf)
 - [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html)
 - [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
 - [Facts & Formulae](http://www.mathcentre.ac.uk/resources/uploaded/43799-maths-for-computer-sci-ff-for-web.pdf)
@@ -24,8 +22,6 @@
 - [Discrete Math Tutorial](https://www.tutorialspoint.com/discrete_mathematics/index.htm)
 - [Disc Math for CS](https://www.cl.cam.ac.uk/teaching/1314/DiscMath/DiscMathNotes.pdf)
 - [Intro to Comp Math](http://www-personal.umich.edu/~paullric/AM341.pdf)
-- [Math for Computer Scientists](http://www.cs.nott.ac.uk/~psztxa/g51mcs/notes.pdf)
-- [Concrete Mathematics](https://www.csie.ntu.edu.tw/~r97002/temp/Concrete%20Mathematics%202e.pdf)
 - [Computational Mathematics](http://www.mat.uc.pt/~ferreira/CompMathematics.pdf)
 - [A Guide to Writing Math](http://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf)
 - [Mathematical Python](https://www.math.ubc.ca/~pwalls/math-python/)
@@ -58,9 +54,7 @@
   ### Materials
 - [Mathématiques pour Informaticiens](https://www.unige.ch/~hairer/poly_mathinfo/math-info.pdf)
 - [Mathématiques Appliquées](http://www.courstechinfo.be/Math_Info.pdf)
-- [Les Mathématiques](https://www.ljll.math.upmc.fr/ledret/mathsoipweb.pdf)
 - [Math et Info](https://www.irif.fr/~jep/PDF/MathInfo.pdf)
-- [Informatique, Math Appliquées](http://www.ac-grenoble.fr/missionsciences/pdf/ressources/IMA_presentation_Lycees.pdf)
 </details>
 
 <details>
@@ -79,16 +73,11 @@
   
   ### Materials
 - [Cálculo I](http://euler.mat.ufrgs.br/~mendes/OCursocomApli.pdf)
-- [Fundamentos Matemáticos](http://www.cin.ufpe.br/~dmd/inf101/biblio/FMCCJK.pdf)
 - [Lógica e Aplicações](https://www.cle.unicamp.br/prof/coniglio/LIVRO.pdf)
 - [Fundamentos Matemáticos para Comp](https://www.youtube.com/watch?v=ib3F1c2oKpA&amp;list=PLxI8Can9yAHcXBgFryV0AV7LYdLR1skuF)
-- [Cálculo Diferencial e Integral - Notas de Aula](https://sites.icmc.usp.br/andcarva/sma301/Calculo1c-AM6.pdf)
 - [Cálculo e Equações Diferenciais com Aplicações](http://euler.mat.ufrgs.br/~mendes/OCursocomApli.pdf)
-- [Introdução a Lógica](http://infocat.ucpel.tche.br/disc/log/docs/ILCC.pdf)
 - [Introdução Matemática Discreta](https://homepages.dcc.ufmg.br/~loureiro/md/md_0Introducao.pdf)
-- [Aplicações da Lógica](http://www.inf.ufrgs.br/~bsguedes/disc/3/inf05508/aplicacoes.pdf)
 - [Ciência da Comp sem uso do Computador](https://classic.csunplugged.org/wp-content/uploads/2014/12/CSUnpluggedTeachers-portuguese-brazil-feb-2011.pdf)
-- [Pensamento Computacional](http://www.imago.ufpr.br/csbc2012/anais_csbc/eventos/wei/artigos/Pensamento%20Computacional%20e%20Educacao%20Matematica%20Relacoes%20para%20o%20Ensino%20de%20Computacao%20na%20Educacao%20Basica.pdf)
 - [Apostila de Lógica](https://www.cos.ufrj.br/~mario/logica/apostila.pdf)
 - [Cálculo I - UNIVESP](https://www.youtube.com/watch?v=XJCmMuZV-JA&list=PL2D9B691A704C6F7B)
 - [Cálculo II - UNIVESP](https://www.youtube.com/watch?v=4elA1yVc5oo&list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER)
@@ -103,6 +92,4 @@
   
   ### Materials
 - [Matemática y Programación](https://www.fing.edu.uy/~darosa/matyprogversionfinal.pdf)
-- [Matemática para Informática](http://repositorio.uned.ac.cr/reuned/bitstream/120809/1375/1/50287%20Matematicas%20para%20informatica.pdf)
-- [Informática para Las Matemáticas](https://www.unirioja.es/cu/joheras/papers/immiia.pdf)
 </details>

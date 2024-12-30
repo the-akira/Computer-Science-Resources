@@ -7,11 +7,8 @@
 - [History of Physics](https://www.youtube.com/watch?v=acUf7PuGWXA)
 - [The Physics of Computers](http://ffden-2.phys.uaf.edu/212_fall2009.web/chris_plutt/index.html)
 - [Physics from Computer Science](https://www.cs.ox.ac.uk/files/349/YORKIJUC.pdf)
-- [Computing Between Logic and Physics](http://www.cmls.polytechnique.fr/perso/paul/gius-thier-sent.pdf)
 - [Computational Physics: Teach yourself C++](http://compphysics.github.io/ComputationalPhysics/doc/pub/learningcpp/html/learningcpp-bs.html)
-- [Physics for Computer Science Students](https://www.cin.ufpe.br/~gcs/Springer%20-%20Physics%20for%20Computer%20Science%20Students.pdf)
 - [Computational Physics](https://farside.ph.utexas.edu/teaching/329/329.pdf)
-- [Comp Physics Book](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/computational_physics/docs/computational_physics.pdf)
 - [Hyper Physics - Electricity and Magnetism](http://hyperphysics.phy-astr.gsu.edu/hbase/emcon.html)
 - [A Primer on Basic Electronics and Circuits](https://dev.to/erikaheidi/a-primer-on-basic-electronics-and-circuits-n3e)
 - [How to Learn Electronics](https://www.build-electronic-circuits.com/how-to-learn-electronics/)
@@ -21,7 +18,6 @@
 - [Circuit Symbols](http://web.gps.caltech.edu/~als/IRMS/course-materials/lecture-1---electricity/circuit-symbols.pdf)
 - [Molecular Electronics](https://www.cs.cmu.edu/~seth/papers/mircea-ieee03.pdf)
 - [Digital Electronics](https://www.cl.cam.ac.uk/teaching/0708/DigElec/Digital_Electronics_pdf.pdf)
-- [Digital Systems](https://nptel.ac.in/courses/106108099/Digital%20Systems.pdf)
 - [Foundations of Analog and Digital](https://neurophysics.ucsd.edu/courses/physics_120/Agarwal%20and%20Lang%20(2005)%20Foundations%20of%20Analog%20and%20Digital.pdf)
 - [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html)
 - [MIT 8.01x Physics I: Classical Mechanics](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e&ab_channel=LecturesbyWalterLewin.Theywillmakeyou%E2%99%A5Physics.)
@@ -43,7 +39,6 @@
   <summary>French</summary>
   
   ### Materials
-- [Électronique Numérique](http://www.est-usmba.ac.ma/benbrahim/ENSA/Electronique%20num%C3%A9rique/semestre1-ELN-Num%C3%A9rique.pdf)
 - [Circuits Combinatoires](https://www.el-kalam.com/conception-hardware/circuits-combinatoires/)
 - [Circuits Séquentiels](https://www.el-kalam.com/conception-hardware/circuits-sequentiels/)
 - [Introduction à l'electronique](https://homepages.laas.fr/fcaignet/Cours/combinatoire.pdf)
@@ -63,7 +58,6 @@
 - [Lezioni Elettronica Digitale](http://web.fe.infn.it/~savrie/lectures_1112/digitale_2012_feb_prov.pdf)
 - [Le Basi](http://www.criptonite.org/sez_didattica/materiale/digitale/CAP_1DIG.pdf)
 - [ED con Esperimenti](http://www.introni.it/pdf/Jackson%20-%20Elettronica%20Digitale%20-%20part%201.pdf)
-- [Progettazione di un Componente Digitale](http://unina.stidue.net/Circuiti%20Integrati%20Digitali/Materiale/Corso%20Di%20Elettronica%20Digitale%20-%20Olivieri.pdf)
 </details>
 
 <details>
@@ -99,7 +93,6 @@
   
   ### Materials
 - [Electronica Digital](http://www.areatecnologia.com/electronica/electronica-digital.html)
-- [La Electronica Digital](https://www.edu.xunta.gal/centros/iesblancoamorculleredo/aulavirtual2/pluginfile.php/20936/mod_resource/content/0/Apuntes/electronica_digital.pdf)
 - [Guía de Electrónica Digital](https://www.uniatlantico.edu.co/uatlantico/pdf/arc_12399.pdf)
 - [ED Book](https://profearias.files.wordpress.com/2013/02/carpeta_taller_electronica_digital.pdf)
 - [Tutorial de Electrónica](http://r-luis.xbot.es/descarga/files/edigital.pdf)

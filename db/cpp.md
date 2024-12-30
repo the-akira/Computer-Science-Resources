@@ -12,14 +12,11 @@
 - [C++ W3Schools](https://www.w3schools.com/cpp/default.asp)
 - [Learn Cpp](https://www.learn-cpp.org/)
 - [Tutorialspoint](https://www.tutorialspoint.com/cplusplus/)
-- [NTU.edu](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp0_introduction.html)
 - [Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
 - [Beginners Book](https://beginnersbook.com/2017/08/c-plus-plus-tutorial-for-beginners/)
-- [C++ for Progammers](https://www.udacity.com/course/c-for-programmers--ud210)
 - [Lund University](http://cs.lth.se/edaf50/vt18/lectures/)
 - [Javatpoint](https://www.javatpoint.com/cpp-tutorial)
 - [Learn CPP in Detail](https://www.scaler.com/topics/cpp/)
-- [Reddit](https://www.reddit.com/r/cpp/)
 - [C++ for Scientists](https://math.nist.gov/~RPozo/c++class/)
 - [All C++20 core language features with examples](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
 - [Awesome C++](https://github.com/fffaraz/awesome-cpp)
@@ -27,12 +24,10 @@
 - [C++ Resources](https://fffaraz.github.io/awesome-cpp/)
 - [Developer Insider](https://developerinsider.co/c-and-cpp-insider/)
 - [C++ Reference](https://en.cppreference.com/w/)
-- [C++ Style](http://cs.stmarys.ca/~porter/csc/ref/cpp_style.html)
 - [Sololearn](https://www.sololearn.com/Course/CPlusPlus/)
 - [Modern C++](https://ds9a.nl/articles/posts/c++-1/)
 - [Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
 - [Programming in C++, R and R](https://www.doc.ic.ac.uk/lab/cplus/c++.rules/)
-- [C++ Practical](https://study.com/academy/lesson/practical-application-for-c-plus-plus-programming-functions.html)
 - [CS FSU](https://www.cs.fsu.edu/~vastola/cop3014/index.html)
 - [Basics of C++](https://www.studytonight.com/cpp/basics-of-cpp.php)
 - [C++ Shell](http://cpp.sh/)
@@ -41,13 +36,11 @@
 - [C++ Style Guide](http://geosoft.no/development/cppstyle.html)
 - [Learn C++](https://www.learncpp.com/)
 - [Learn X in Y minutes](https://learnxinyminutes.com/docs/c++/)
-- [Learning C++](https://blog.tartanllama.xyz/learning-cpp/)
 - [Win32 and C++](https://docs.microsoft.com/en-us/windows/desktop/learnwin32/learn-to-program-for-windows)
 - [Try to Program](http://www.trytoprogram.com/cplusplus-programming/)
 - [Fresh 2 Fresh](https://fresh2refresh.com/cpp-tutorial/)
 - [C++ Pointers](http://alumni.cs.ucr.edu/~pdiloren/C++_Pointers/)
 - [C++ Tutorial](http://pages.cs.wisc.edu/~hasti/cs368/CppTutorial/index.html)
-- [C++ Course](https://www.codesdope.com/cpp-introduction/)
 - [Resources](https://www.barcodesinc.com/articles/learn-cpp.htm)
 - [Guru 99](https://www.guru99.com/cpp-tutorial.html)
 - [C++ Language Tutorial](http://www.cplusplus.com/files/tutorial.pdf)
@@ -55,7 +48,6 @@
 - [OOP C++](https://fac.ksu.edu.sa/sites/default/files/ObjectOrientedProgramminginC4thEdition.pdf)
 - [Slides C++](https://www.uio.no/studier/emner/matnat/fys/FYS3150/h07/undervisningsmateriale/Slides%20from%20Lectures/iv3830slides_1.pdf)
 - [C++ Without Fear](https://www.managementboek.nl/code/inkijkexemplaar/9780134314303/c-without-fear-engels-brian-overland.pdf)
-- [Practical C++](https://www.mimuw.edu.pl/~mrp/cpp/SecretCPP/O%27Reilly%20-%20Practical%20C++%20Programming.pdf)
 - [C++ for School](http://www.cppforschool.com/tutorial-pdf.html)
 - [Programming Abstractions C++](https://www.cas.mcmaster.ca/~qiao/courses/cs2so3/textbook/ProgAbs.pdf)
 - [Standard for Programming Language C++](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4713.pdf)
@@ -76,7 +68,6 @@
 - [OpenClassRoom](https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c)
 - [Cours C++](http://www.lsv.fr/~fl/Cours/slides.pdf)
 - [Programmation C++](https://www.irif.fr/~yunes/cours/cpp/index.html)
-- [Programmation C++ Mathématiques](https://www.univ-orleans.fr/mapmo/membres/haberkorn/docs/polyC++.pdf)
 - [C++ Moderne](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/)
 </details>
 
@@ -93,11 +84,9 @@
   <summary>Italian</summary>
   
   ### Materials
-- [Corso C++](http://samottafile.altervista.org/file/Corso_C++.pdf)
 - [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf)
 - [Guida C++](https://www.html.it/guide/guida-c2/)
 - [Corso C++](http://www.math.unipd.it/~sperduti/CORSO-C%2B%2B/Corso%20C++.htm)
-- [Introduzione alla Programmazione](http://www.dis.uniroma1.it/~bloisi/didattica/pmn1112/lezioni/1.1-introduzione.pdf)
 </details>
 
 <details>
@@ -121,7 +110,6 @@
 - [Ravesli](https://ravesli.com/uroki-cpp/)
 - [Basics of Cpp](https://codelessons.ru/cplusplus/lessons/basics-of-cpp.html)
 - [PureCodeCpp](https://purecodecpp.com/)
-- [Progopedia](http://progopedia.ru/language/c-plus-plus/)
 - [Kvodo](http://kvodo.ru/lessons/cplusplus)
 - [Cyberforum](http://www.cyberforum.ru/cpp/)
 - [Wikiversity](https://en.wikiversity.org/wiki/C%2B%2B)
@@ -135,10 +123,8 @@
 - [Curso de Programacion en C++](https://www.uv.es/sto/cursos/c++/curso95.pdf)
 - [Curso C++](https://www.programarya.com/Cursos/C++)
 - [Curso de C++](http://c.conclase.net/curso/index.php)
-- [Manual de Programación en C++](https://paginas.matem.unam.mx/pderbf/images/mprogintc++.pdf)
 - [Arduino C++](https://aprendiendoarduino.wordpress.com/category/c/)
 - [C++ Programación](http://cpp.aprende-web.net/basico/index.php)
-- [Curso C++](https://codigofacilito.com/cursos/c-plus-plus)
 - [Fundamentos C++](http://www.lcc.uma.es/~vicente/docencia/cppdoc/programacion_cxx.pdf)
 - [Fundamentos de la Programación](https://www.fdi.ucm.es/profesor/luis/fp/FP.pdf)
 </details>

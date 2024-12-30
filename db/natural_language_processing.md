@@ -7,7 +7,6 @@
 - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 - [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 - [What is NLP](https://www.sas.com/en_us/insights/analytics/what-is-natural-language-processing-nlp.html)
-- [Machine Learning Mastery](https://machinelearningmastery.com/natural-language-processing/)
 - [NLP Stanford](https://nlp.stanford.edu/blog/)
 - [NLP Library](https://github.com/mihail911/nlp-library)
 - [Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_natural_language_processing.htm)
@@ -20,12 +19,9 @@
 - [Tokenizing Words](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
 - [NLP Tutorial](https://github.com/bonzanini/nlp-tutorial)
 - [NLP from Scratch](https://blog.goodaudience.com/learn-natural-language-processing-from-scratch-7893314725ff)
-- [NLTK Python](https://www.pythonforengineers.com/introduction-to-nltk-natural-language-processing-with-python/)
-- [Vikparuchuri NLP Tutorial](http://www.vikparuchuri.com/blog/natural-language-processing-tutorial/)
 - [Gluon-NLP](https://gluon-nlp.mxnet.io/)
 - [Hasso Plattner Institut](https://hpi.de/fileadmin/user_upload/fachgebiete/plattner/teaching/NaturalLanguageProcessing/NLP2016/NLP01_IntroNLP.pdf)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
-- [An Introduction to NLP](https://stp.lingfil.uu.se/~santinim/ml/2014/JurafskyMartinSpeechAndLanguageProcessing2ed_draft%202007.pdf)
 - [NLP Intro](https://courses.cs.ut.ee/LTAT.01.001/2017_fall/uploads/Main/Lecture1.pdf)
 - [A Gentle Introduction](https://ufal.mff.cuni.cz/~hladka/2013/docs/day-1.posted.pdf)
 - [NLP: Algorithms and Applications](https://homes.cs.washington.edu/~nasmith/slides/wsdm-1-31-15.pdf)
@@ -47,10 +43,8 @@
   <summary>French</summary>
   
   ### Materials
-- [Traitement Automatique du Langage Naturel](http://www.lattice.cnrs.fr/sites/itellier/poly_info_ling/linguistique003.html)
 - [Petite Introduction](https://perso.limsi.fr/anne/coursM2R/intro.pdf)
 - [TALN](http://gurau-audibert.hd.free.fr/josdblog/wp-content/uploads/2011/12/TAL_ITCN.pdf)
-- [Cours 10](http://lalic.paris-sorbonne.fr/PAGESPERSO/atanassova/lfa/Cours10.pdf)
 </details>
 
 <details>
@@ -71,7 +65,6 @@
 - [Linguistica Computazionale](http://www1.unipa.it/sorce/didattica/sei1213/SEI1213_01_Linguistica_Computazionale_intro.pdf)
 - [Introduzione NLP](https://www.dia.uniroma3.it/~ia/docs/old/Introduzione_NLP.pdf)
 - [Elaborazione del Linguaggio Naturale](http://didawiki.di.unipi.it/doku.php/magistraleinformatica/eln/start)
-- [Lezione](http://143.225.229.219/Resources/Master%20MSTD-Mazzeo/Slide%20Lezione%20(NLP).pdf)
 - [ELN](http://www.di.unipi.it/~cappelli/processi.html)
 - [Unito.it](http://www.di.unito.it/~bosco/lingue2013/NLP-1-11marzo13.pdf)
 - [Trattamento del Linguaggio Naturale](http://art.uniroma2.it/basili/TAL_Corso/mioweb/Rbas_Lezioni/Lez_probabilita/Analisi_dei_Testi.pdf)
@@ -83,8 +76,6 @@
   
   ### Materials
 - [Processamento de Linguagem Natural](https://www.ime.usp.br/~slago/IA-pln.pdf)
-- [Apresentação UFES](https://www.inbot.com.br/artigos/educacional/Processamento-de-Linguagem-Natural-PLN-Jacson-Rodrigues-UFES.pdf)
-- [Curso](http://www.di.ubi.pt/~jpaulo/ensino/PLN/)
 - [Brincando com NLP](https://leportella.com/pt-br/2017/11/30/brincando-de-nlp-com-spacy.html)
 - [UFABC](http://professor.ufabc.edu.br/~jesus.mena/courses/pln-1q-2018/)
 - [Uma Introdução ao NLP](https://imasters.com.br/back-end/falando-em-voz-alta-uma-introducao-ao-processamento-de-linguagem-natural)
@@ -92,7 +83,6 @@
 - [Faculdade de Tecnologia de São Paulo](https://www.ime.usp.br/~slago/pl-12.pdf)
 - [Fundamentos](http://www.di.fc.ul.pt/~ahb/pubs/2008dBrancoCosta.pdf)
 - [PUC-Rio](https://www.maxwell.vrac.puc-rio.br/10081/10081_5.PDF)
-- [Aula PLN](https://web.fe.up.pt/~eol/SSIIM/1112/aula_pln.pdf)
 </details>
 
 <details>
@@ -109,6 +99,4 @@
   
   ### Materials
 - [Procesamiento de Lenguaje Natural](https://medium.com/soldai/procesamiento-de-lenguaje-natural-5315cf212d0f)
-- [Universidad de Sevilla](https://www.cs.us.es/cursos/ia2/temas/tema-06.pdf)
-- [Proceso de Lenguaje Natural](http://disi.unal.edu.co/~lctorress/iartificial/IAc016.pdf)
 </details>

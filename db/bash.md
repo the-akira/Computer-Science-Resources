@@ -17,7 +17,6 @@
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
 - [Terminals are Sexy](https://terminalsare.sexy/)
 - [Awesome Shell](https://github.com/alebcay/awesome-shell)
-- [Bash Tutorial](https://linuxconfig.org/bash-scripting-tutorial)
 - [Learn Shell](https://www.learnshell.org/)
 - [Bash Beginners](https://help.ubuntu.com/community/Beginners/BashScripting)
 - [Ryans Tutorials](https://ryanstutorials.net/bash-scripting-tutorial/)
@@ -36,7 +35,6 @@
 - [Bash Cookbook](http://index-of.co.uk/Linux/Linux%20Bash%20Programming%20CookBook.pdf)
 - [Shell Scripting Cookbook](https://gutl.jovenclub.cu/wp-content/uploads/2013/10/Linux.Shell_.Scripting.Cookbook.pdf)
 - [Bash Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
-- [Advanced Bash Scripting](https://www.cv.nrao.edu/~jmalone/talks/bash.pdf)
 - [Bash Great Reference](https://ss64.com/bash/)
 - [Getting Started with Bash](http://www.hypexr.org/bash_tutorial.php)
 - [Bash Advanced Topics](https://storm.cis.fordham.edu/~zhang/cs3130/slides/ShellAdvanced.pdf)
@@ -69,7 +67,6 @@
   
   ### Materials
 - [Programmazione della Shell Bash](http://www.aquilante.net/doc/bash_programming.pdf)
-- [Corso Linux](http://www.itiseuganeo.it/materiale/mate/script2.pdf)
 - [Guida Avanzata di Scripting Bash](https://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf)
 - [La Shell di Unix](http://www.di.unipi.it/~cardillo/labso/files/note-shell/bash-02-I-scripting.pdf)
 - [Guida Avanzata](http://www.pluto.it/files/ildp/guide/abs/index.html)
@@ -91,7 +88,6 @@
 - [Programando em Shell](http://www.devin.com.br/shell_script/)
 - [Linux Shell Essentials](https://www.devmedia.com.br/linux-shell-essentials/20158)
 - [Bash, ou como computeiros ganham tempo](http://www.inf.ufpr.br/roberto/ci064/labBash-2.html)
-- [Introdução ao Shell Script](https://canaltech.com.br/linux/Introducao-ao-Shell-Script/)
 </details>
 
 <details>
@@ -100,7 +96,6 @@
   ### Materials
 - [Bash Cheat Sheet](https://tproger.ru/translations/bash-cheatsheet/)
 - [Bash Guide](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)
-- [Bash](http://linuxgeeks.ru/bash-1.htm)
 - [Bash Documentation](http://www.fpublisher.ru/documentation/bash_documentation)
 - [Bash Conspect](http://www.ods.com.ua/koi/unix/bash-conspect.html)
 - [Bash Commands](http://gahcep.github.io/blog/2012/07/28/unix-bash-shell-prompt/)
@@ -118,7 +113,6 @@
 - [Programando en Bash](https://blog.desdelinux.net/programando-en-bash-parte-1/)
 - [Linux y Bash](http://www.aprendeaprogramar.com/course/view.php?id=10)
 - [Programación Shell](https://www.freeshell.de/~rasoda/programacion/guia-shell.pdf)
-- [Programación con Bash](http://thales.cica.es/rd/glinex/practicas-glinex05/manuales/bash/practica.pdf)
 - [Programación de Shell Scripts](https://www.fceia.unr.edu.ar/~diegob/so/presenta/02-ShellScripts.pdf)
 - [Programación Shell-Script](http://persoal.citius.usc.es/tf.pena/ASR/Tema_2html/node20.html)
 </details>

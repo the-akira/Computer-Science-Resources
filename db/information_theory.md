@@ -5,12 +5,10 @@
   
   ### Materials
 - [Wikipedia](https://en.wikipedia.org/wiki/Information_theory)
-- [Information Theory MIT](https://web.mit.edu/6.933/www/Fall2001/Shannon2.pdf)
 - [Encyclopedia Britannica](https://www.britannica.com/science/information-theory)
 - [EE 376A: Information Theory Stanford](https://web.stanford.edu/class/ee376a/)
 - [Information Theory Made Simple](https://evo2.org/information-theory-made-simple/)
 - [Medium Article](https://medium.com/aint-nobody-got-time-for-that/information-theory-f3b11050a3ae)
-- [A Gentle Introduction to Information Entropy](https://machinelearningmastery.com/what-is-information-entropy/)
 - [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
 - [Information Theory Article](http://bactra.org/notebooks/information-theory.html)
 - [A Mini-Introduction to Information Theory](https://arxiv.org/pdf/1805.11965.pdf)
@@ -34,7 +32,6 @@
 - [Elements of Information Theory 2nd Ed](http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf)
 - [A First Course in Information Theory](http://iest2.ie.cuhk.edu.hk/~whyeung/post/draft7.pdf)
 - [A Mathematical Theory of Communication](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
-- [Lecture Notes on Information Theory](http://www.stat.yale.edu/~yw562/teaching/itlectures.pdf)
 - [An Introduction to Information Theory and Applications](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/diuf.unifr.ch/tcs/courses/it04-05/script/information-theory.pdf)
 - [Coding and Information Theory](http://www.sns.ias.edu/pitp2/2012files/Hamming_CHs1-3.pdf)
 - [Entropy (Information Theory)](http://www.basicknowledge101.com/pdf/km/Entropy%20%28information%20theory%29.pdf)
@@ -64,9 +61,7 @@
 - [Théorie de L'Information](https://members.loria.fr/MMinier/static/images/Th_Info.pdf)
 - [Théorie de l’information](http://benhur.teluq.ca/SPIP/inf6460/spip.php?article110)
 - [Théories et théorie de l’information](https://interstices.info/theories-et-theorie-de-linformation/)
-- [Théorie de L'Information](http://www.gipsa-lab.grenoble-inp.fr/~jean-marc.brossier/TheorieInformation-Ensimag-2014.pdf)
 - [Théorie de L'Information et Applications](http://dev.ipol.im/~morel/TraitementSignal.pdf)
-- [Théorie de L'Information](http://ama.liglab.fr/~amini/Cours/ISN/ISN2/TheorieInfo-2.pdf)
 - [Théorie de L'Information et du Codage](http://www.montefiore.ulg.ac.be/~lwh/Info/info-notes03.pdf)
 </details>
 
@@ -74,8 +69,6 @@
   <summary>German</summary>
   
   ### Materials
-- [ETH Zürich, Informationstheorie](https://ml2.inf.ethz.ch/courses/it/)
-- [Information und Kommunikation](https://graphics.ethz.ch/teaching/infotheory_common/skript.pdf)
 - [Informationstheorie](https://www.ti.rwth-aachen.de/teaching/sonstige_vorlesungen/informationstheorie/data/it.pdf)
 - [Mathematische Grundlagen III](http://www.coli.uni-saarland.de/courses/mathe3/SS11/Lectures/l4_info_thy.pdf)
 - [Eine Einführung in die Algorithmische Informationstheorie](https://pub.h-brs.de/frontdoor/deliver/index/docId/3668/file/brsu_techreport_02_2018_Witt_pdf1-4.pdf)
@@ -88,7 +81,6 @@
 - [Teoria Dell'Informazione](https://www.sci.unich.it/~acciaro/librocb.pdf)
 - [Teoria Dell'Informazione e Della Transmissione](https://homes.di.unimi.it/~cesabian/tinfo/)
 - [Teoria Dell'Informazione e Codici](http://scienze-como.uninsubria.it/previtali/Bellini-TeoriaInfoCodiciNote.pdf)
-- [Teoria Dell'Informazione ed Entropia](http://ricerca.mat.uniroma3.it/users/merola/critto09/seminari/Marini.pdf)
 - [Dispensa di Teoria Dell'Informazione](http://www.simionato.org/assets/dispensa_TI.pdf)
 - [Elementi di Teoria Dell'Informazione](http://www.uniroma2.it/didattica/WmIR/deposito/infth.pdf)
 - [La Codifica Dell'Informazione](http://www.di.unito.it/~patti/teaching/CodificaInfo1-0405.pdf)
@@ -102,8 +94,6 @@
 - [Introdução à Teoria da Informação](http://sisne.org/Disciplinas/Grad/ProbEstat1/aula%2018.pdf)
 - [Aplicações da Teoria da Informação à Neurociência](http://www.scielo.br/pdf/rbef/v41n2/1806-9126-RBEF-41-2-e20180197.pdf)
 - [Elementos de Teoria da Informação](http://www.lx.it.pt/~mtf/teoria_informacao.pdf)
-- [Unisinos Teoria da Informação](http://professor.unisinos.br/linds/teoinfo.html#a1)
-- [Fundamentos de Comunicação de Informação](http://srvd.grupoa.com.br/uploads/imagensExtra/legado/R/ROCHOL_Juergen/Comunicacao_Dados_Vol22/Liberado/Cap_01.pdf)
 </details>
 
 <details>

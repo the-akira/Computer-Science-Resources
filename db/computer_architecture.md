@@ -7,13 +7,9 @@
 - [Computer Architecture](https://en.wikipedia.org/wiki/Computer_architecture)
 - [CIS 501](https://www.cis.upenn.edu/~milom/cis501-Fall11/)
 - [CS 429: Spring, 2020](https://www.cs.utexas.edu/~byoung/cs429/syllabus429.html)
-- [MIT 6.823 Computer System Architecture](http://csg.csail.mit.edu/6.823/lecnotes.html)
-- [CS301 Computer Architecture](https://learn.saylor.org/course/view.php?id=71)
 - [Introduction to Computer Architecture](http://people.cs.ksu.edu/~schmidt/300s05/Lectures/ArchNotes/arch.html)
 - [18-447 Introduction to Computer Architecture](https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture)
 - [Computer Architecture - Class Notes](http://www.cs.iit.edu/~virgil/cs470/Book/)
-- [Computer Organization and ArchitectureLecture Notes](http://www.svecw.edu.in/Docs%5CITIIBTechIISemLecCOA.pdf)
-- [Computer Architecture Slides](https://cse.iitkgp.ac.in/~debdeep/courses_iitkgp/COA2011/slides/)
 - [CS146 Computer Architecture](http://www.eecs.harvard.edu/~dbrooks/cs146-spring2004/)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/)
 - [Study of Computer Architecture](https://courses.cs.washington.edu/courses/cse378/06sp/lectures/lecture1.pdf)
@@ -38,9 +34,7 @@
 - [ECE C61](http://www.ece.northwestern.edu/~kcoloma/ece361/lectures/Lec03-isa.pdf)
 - [Von Neumann Computer Model](http://www.c-jump.com/CIS77/CPU/VonNeumann/lecture.html)
 - [CS 2600](http://www.cse.iitm.ac.in/~vplab/courses/comp_org/LEC_INTRO.pdf)
-- [Advanced Computer Architecture](https://cs.baylor.edu/~maurer/aida/courses/archintro.pdf)
 - [Evolution of CPU Processing Power](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU)
-- [CENG 311 Computer Architecture](http://web.iyte.edu.tr/~tolgaayav/courses/ceng311/)
 - [Computer Architecture:  A Constructive Approach](http://csg.csail.mit.edu/6.375/6_375_2019_www/resources/archbook.pdf)
 - [Jim Keller: Moore's Law, Microprocessors, Abstractions, and First Principles](https://www.youtube.com/watch?v=Nb2tebYAaOA)
 </details>
@@ -52,9 +46,6 @@
 - [Architecture des Ordinateurs](http://dept-info.labri.fr/ENSEIGNEMENT/archi/cours/archi.pdf)
 - [L'architecture de base](https://fr.wikibooks.org/wiki/Fonctionnement_d%27un_ordinateur/L%27architecture_de_base_d%27un_ordinateur)
 - [Architecture de l’Ordinateur](https://rmdiscala.developpez.com/cours/LesChapitres.html/Cours1/Chap1.5.htm)
-- [Architecture des ordinateurs](http://emi.um5.ac.ma/belouadha/assets/doc/Architecture.pdf)
-- [Architecture des ordinateurs I](http://emi.um5.ac.ma/eleuldj/Cours/Arc_Ord/ArcOrd1.pdf)
-- [Cours Architecture](https://les-electroniciens.com/sites/default/files/cours/cours-architecture_des_ordinateurs.pdf)
 - [Cours](http://perso.ens-lyon.fr/frederic.vivien/Enseignement/Archi-2001-2002/Cours.pdf)
 - [Introduction à l'Architecture](http://igm.univ-mlv.fr/ens/Licence/L3/2008-2009/ArchiOrdi/cours/BlinGuillaume-ArchiOrdi-Intro.pdf)
 - [Cours Ghalouci](https://www.univ-usto.dz/images/coursenligne/Cours_ghalouci.pdf)
@@ -90,7 +81,6 @@
 - [Arquitetura de Computadores a visão do software](https://memoria.ifrn.edu.br/bitstream/handle/1044/982/Arquitetura%20de%20Computadores%20-%20Ebook.pdf)
 - [Organização e Arquitetura de Computadores](http://redeetec.mec.gov.br/images/stories/pdf/eixo_infor_comun/tec_inf/081112_org_arq_comp.pdf)
 - [Arquitetura de um Computador](https://fenix.tecnico.ulisboa.pt/downloadFile/3779579950902/iac-02h.pdf)
-- [Arquitetura de Computadores Fundamentos](http://www.inf.ufg.br/~fmc/arqcomp/Fundamentos1.pdf)
 - [UNIVESP](https://www.youtube.com/watch?v=HgA-oXOV7kI&amp;list=PLxI8Can9yAHdG-xUDj6i-HGB7IAsAU-t1)
 </details>
 
@@ -99,7 +89,6 @@
   
   ### Materials
 - [Tanenbaum](https://nsu.ru/xmlui/bitstream/handle/nsu/9054/tanenbaum_AC.pdf)
-- [Architecture Book](http://book.kbsu.ru/theory/chapter2/1_2_0.html)
 - [Lectures](https://www.youtube.com/watch?v=dVZrHGNGvb0)
 - [Tannenbaum](http://remont-comp-pomosh.ru/Book/Tannenbaum_Arhitektura_Kompjutera_izdanie_4.pdf)
 </details>
@@ -111,6 +100,4 @@
 - [Wikiwand](http://www.wikiwand.com/es/Arquitectura_de_computadoras#/Introducci%C3%B3n)
 - [Arquitectura de Computadores](https://www.datsi.fi.upm.es/docencia/Arquitectura_09/)
 - [Arquitectura de Computadoras](https://eva.fing.edu.uy/course/view.php?id=195)
-- [Disca](http://personales.upv.es/pabmitor/acso/FILES/ArqComp/CST/ArqComp%20t3.pdf)
-- [CC 4301](https://users.dcc.uchile.cl/~jfabry/arq/arquitectura.pdf)
 </details>

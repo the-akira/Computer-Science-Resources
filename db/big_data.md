@@ -11,11 +11,7 @@
 - [SearchDataManagement](https://searchdatamanagement.techtarget.com/definition/big-data)
 - [Bernard Marr](https://www.bernardmarr.com/default.asp?contentID=766)
 - [HBR](https://hbr.org/2012/10/big-data-the-management-revolution)
-- [New York Times](https://www.nytimes.com/2012/02/12/sunday-review/big-datas-impact-in-the-world.html)
-- [Harvard Magazine](https://harvardmagazine.com/2014/03/why-big-data-is-a-big-deal)
-- [Forbes](https://www.forbes.com/sites/bernardmarr/2017/03/14/the-complete-beginners-guide-to-big-data-in-2017/)
 - [MongoDB](https://www.mongodb.com/big-data-explained)
-- [Reddit](https://www.reddit.com/r/bigdata/)
 - [Cognitive Class](https://cognitiveclass.ai/learn/big-data/)
 - [Tutorialspoint](https://www.tutorialspoint.com/big_data_tutorials.htm)
 - [Big Data Resources](https://www.analyticsvidhya.com/blog/2015/07/big-data-analytics-youtube-ted-resources/)
@@ -29,12 +25,9 @@
 - [Digital Ocean](https://www.digitalocean.com/community/tags/big-data?type=tutorials)
 - [SNIA](https://www.snia.org/education/tutorials/bigdata)
 - [i2tutorials](https://www.i2tutorials.com/big-data-tutorials/)
-- [Big-data Tutorial](http://www.planet-data.eu/sites/default/files/presentations/Big_Data_Tutorial_part4.pdf)
 - [Big Data Too Big to Ignore](https://people.cs.kuleuven.be/~joost.vennekens/DN/bigdata.pdf)
 - [Big Data Analytics](https://pdfs.semanticscholar.org/d392/0f02dbb15da19b04d782fc0546ef113e0bf7.pdf)
-- [Big Data Overview](https://www.sics.se/sites/default/files/pub/davidradbergbig_data_overview_-_sics_keynote_session_24septv4.pdf)
 - [Big Data Challenge](http://www.dbjournal.ro/archive/13/13_4.pdf)
-- [Understanding Big Data](https://www.immagic.com/eLibrary/ARCHIVES/EBOOKS/I111025E.pdf)
 - [Big Data Fujitsu](https://www.fujitsu.com/rs/Images/WhiteBookofBigData.pdf)
 - [Data Mining and Big Data](http://hepd.pnpi.spb.ru/CSD/CSDPublications/LNCS9714.pdf)
 - [Big Data Fundamentals](https://www.cse.wustl.edu/~jain/cse570-13/ftp/m_10abd.pdf)
@@ -57,7 +50,6 @@
 - [Apache Spark Intro](https://www.youtube.com/watch?v=tDVPcqGpEnM)
 - [Mathematics of Big Data and Machine Learning](https://www.youtube.com/watch?v=0sKPkJME2Jw)
 - [Algorithms for Big Data](https://www.youtube.com/watch?v=s9xSfIw83tk&amp;list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf)
-- [Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M)
 </details>
 
 <details>
@@ -65,10 +57,8 @@
   
   ### Materials
 - [Piloter](https://www.piloter.org/business-intelligence/big-data-definition.htm)
-- [Révolution du Big Data](https://www.statsoft.fr/pdf/la_revolution_du_big_data.pdf)
 - [SAS & Hadoop](https://www.sas.com/content/dam/SAS/bp_fr/doc/whitepaper1/ebook-hadoop-big-data-analytics.pdf)
 - [Outils Hadoop pour le Big Data](https://perso.univ-rennes1.fr/pierre.nerzic/Hadoop/poly.pdf)
-- [Stéphane Vialle](http://www.metz.supelec.fr/metz/personnel/vialle/course/BigData-2A-CS/poly-pdf/Poly-chap1.pdf)
 - [Applications du Big Data](http://www.economistesquebecois.com/files/documents/ft/f2/technologie-m-thode-et-applications-du-big-data-v3-ml.pdf)
 - [Le Concept Big Data](https://www.institutdesactuaires.com/global/gene/link.php?doc_id=1147&amp;fg=1)
 - [Big Data Open Source](http://fermigier.com/assets/pdf/bigdata-opensource.pdf)
@@ -95,8 +85,6 @@
   
   ### Materials
 - [Big Data o Novo Desafio](http://paineira.usp.br/lassu/wp-content/uploads/2017/01/2017.02.07-palestra_rosangela_bigdata.pdf)
-- [Saiba mais sobre Big Data](https://www.intel.com.br/content/dam/www/public/lar/br/pt/documents/articles/90318386-1-por.pdf)
-- [Dossier Big Data](https://www.computerworld.com.pt/media/2012/03/Dossier-Big-Data-Mar%C3%A7o-2012.pdf)
 - [Big Data: Ferramentas e Aplicabilidade](https://www.aedb.br/seget/arquivos/artigos16/472427.pdf)
 - [Big Data e Data Analysis](https://repositorium.sdum.uminho.pt/bitstream/1822/40106/1/Big%20Data%20e%20Data%20Analysis%20-%20Visualiza%C3%A7%C3%A3o%20de%20Informa%C3%A7%C3%A3o.pdf)
 - [Fundação Getúlio Vargas](https://gvpesquisa.fgv.br/sites/gvpesquisa.fgv.br/files/arquivos/meirelles_-_big_data_evolucao_das_publicacoes_e_oportuniadeds_de_pesquisa.pdf)
@@ -107,7 +95,6 @@
   <summary>Russian</summary>
   
   ### Materials
-- [Planning Guide](https://www.intel.ru/content/dam/www/public/emea/ru/ru/images/pd-translated/RU_getting-started-with-big-data-planning-guide.pdf)
 - [Journal](http://engjournal.ru/articles/1228/1228.pdf)
 - [CIS-BigData](http://www.cisstat.com/BigData/CIS-BigData_03.pdf)
 - [Edge 2013](https://www.ibm.com/ru/events/presentations/edge13/06_edge13.pdf)
@@ -122,7 +109,6 @@
 - [Felipe Pérez](https://www.mincotur.gob.es/Publicaciones/Publicacionesperiodicas/EconomiaIndustrial/RevistaEconomiaIndustrial/395/F%20SEVILLANO%20PEREZ.pdf)
 - [El Poder de los Datos](https://www.fundacionbankinter.org/documents/20183/42758/Publicaci%C3%B3n+Big+data/cc4bd4e9-8c9b-4052-8814-ccbd48324147)
 - [Explorando Big Data](https://cimat.repositorioinstitucional.mx/jspui/bitstream/1008/435/1/ZACTE40.pdf)
-- [Algoritmos, Tecnología y Aplicaciones](http://madm.uib.es/wp-content/uploads/2016/06/Jose-Manuel-Benitez-Sanchez-Big-Data-Algoritmos_tecnologia_y_aplicaciones.pdf)
 - [La Revolución de los Datos Masivos](http://puntocritico.com/ausajpuntocritico/documentos/Big_Data.pdf)
 - [La Big Data y el Marketing](http://dspace.umh.es/bitstream/11000/4067/1/TFG%20Martinez%20Montesinos%2C%20Riveran%20Jos%C3%A9.pdf)
 </details>

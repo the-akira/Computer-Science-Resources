@@ -18,26 +18,21 @@
 - [W3Schools](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)
 - [Opengroup](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html)
 - [RE Overview](https://www.gnu.org/software/sed/manual/html_node/Regular-Expressions.html)
-- [Speakingjs](http://speakingjs.com/es5/ch19.html)
 - [Fon.hum](http://www.fon.hum.uva.nl/praat/manual/Regular_expressions.html)
 - [Zytrax](http://www.zytrax.com/tech/web/regex.htm)
 - [Freecodecamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/)
-- [Dev MySQL](https://dev.mysql.com/doc/refman/8.0/en/regexp.html)
 - [Racket-Lang](https://docs.racket-lang.org/reference/regexp.html)
 - [Bash Beginners Guide](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_01.html)
 - [Java RE](https://www.tutorialspoint.com/java/java_regular_expressions.htm)
 - [Regex101](https://regex101.com/)
-- [Ehchua](http://www.ntu.edu.sg/home/ehchua/programming/howto/regexe.html)
 - [Emacswiki](https://www.emacswiki.org/emacs/RegularExpression)
 - [Ryanstutorials](https://ryanstutorials.net/regular-expressions-tutorial/)
 - [Re for Javascript](http://www.visibone.com/regular-expressions/)
 - [Chortle](https://chortle.ccsu.edu/FiniteAutomata/Section07/sect07_14.html)
-- [Mathworks](https://www.mathworks.com/help/matlab/matlab_prog/regular-expressions.html)
 - [Univ. of Oslo](https://www.uio.no/studier/emner/matnat/ifi/INF3331/h14/lectures/16sept/regex.pdf)
 - [Jmp](https://www.jmp.com/support/help/14/regular-expressions.shtml)
 - [Wikibooks](https://en.wikibooks.org/wiki/Regular_Expressions)
 - [RLFA](https://www.cl.cam.ac.uk/teaching/1011/RLFA/LectureNotes.pdf)
-- [RE in 55 minutes](https://qntm.org/files/re/re.html)
 - [Gnosis.cx](http://gnosis.cx/publish/programming/regular_expressions.html)
 - [Glib Regex](https://www.geany.org/manual/gtk/glib/glib-regex-syntax.html)
 - [Awesome Regex](https://github.com/aloisdg/awesome-regex)
@@ -49,13 +44,11 @@
 - [Theory of Computation](https://courses.engr.illinois.edu/cs373/fa2010/Lectures/lect06.pdf)
 - [Regex Cheat Sheet](https://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf)
 - [Regular Expressions Cookbook](https://doc.lagout.org/programmation/Regular%20Expressions/Regular%20Expressions%20Cookbook_%20Detailed%20Solutions%20in%20Eight%20Programming%20Languages%20%282nd%20ed.%29%20%5BGoyvaerts%20%26%20Levithan%202012-09-06%5D.pdf)
-- [Grep and Sed Intro](https://cs.nyu.edu/~mohri/unix08/lect4.pdf)
 - [Grep Basics](https://opensourceforu.com/2012/06/beginners-guide-gnu-grep-basics/)
 - [Grep Examples](https://linuxtechlab.com/learning-grep-command-with-examples/)
 - [Grep & RE](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)
 - [Grep, Awk, Sed](https://www-users.york.ac.uk/~mijp1/teaching/2nd_year_Comp_Lab/guides/grep_awk_sed.pdf)
 - [Grep Manual](https://www.gnu.org/software/grep/manual/grep.pdf)
-- [Automate Theory](https://www7.in.tum.de/~esparza/autoskript.pdf)
 - [Regular Expression, Enough to be Dangerous](https://www.youtube.com/watch?v=bgBWp9EIlMM)
 - [Regular Expressions - Computerphile](https://www.youtube.com/watch?v=528Jc3q86F8)
 - [Using Regular Expressions - Computerphile](https://www.youtube.com/watch?v=6gddK-cOxYc)
@@ -65,7 +58,6 @@
   <summary>French</summary>
   
   ### Materials
-- [les expressions régulières](https://www.lucaswillems.com/fr/articles/25/tutoriel-pour-maitriser-les-expressions-regulieres)
 - [Syntaxe](http://blog.paumard.org/cours/java-api/chap03-expression-regulieres-syntaxe.html)
 - [Expressions régulières](http://gallium.inria.fr/~maranget/X/421/poly/regexp.html)
 - [Tuteur](http://www.info.univ-angers.fr/~gh/tuteurs/tutregexp.php)
@@ -80,7 +72,6 @@
   
   ### Materials
 - [HTML.it](https://www.html.it/articoli/espressioni-regolari/)
-- [Calculator](https://it.infobyip.com/regularexpressioncalculator.php)
 - [Pluto.it](http://www.pluto.it/files/ildp/guide/abs/regexp.html)
 - [Espressioni](http://wpage.unina.it/m.faella/Didattica/Labos/espressioni.pdf)
 - [Espressioni Regolari Introduzione](https://www.montellug.it/scambiodati/conferenze2011/regexp.pdf)
@@ -100,8 +91,6 @@
 - [ER e Linguagens](http://wiki.icmc.usp.br/images/1/16/ERLinguagens.pdf)
 - [Expresiones Regulares en PHP](https://diego.com.es/expresiones-regulares-en-php)
 - [Ejemplos](https://www.ibm.com/support/knowledgecenter/es/SSJMXE_9.1.0/com.ibm.rational.test.ft.doc/topics/RegExExamples.html)
-- [Expresiones Regulares](https://ccc.inaoep.mx/~emorales/Cursos/Automatas/ExpRegulares.pdf)
-- [Uso ingenioso de expresiones](http://quantil.co/wp-content/uploads/2017/08/regexadv.pdf)
 </details>
 
 <details>

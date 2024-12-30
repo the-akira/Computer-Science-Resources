@@ -9,7 +9,6 @@
 - [How to Read Assembly Language](https://wolchok.org/posts/how-to-read-assembly-language/)
 - [Assembly Programming](https://homepage.cs.uiowa.edu/~ghosh/8-29-13.pdf)
 - [6502 Introduction](http://www.obelisk.me.uk/6502/)
-- [Programming in Assembly Language](https://bob.cs.sonoma.edu/IntroCompOrg-RPi/chp-asm.html)
 - [Nayuki](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 - [Assembly Programming](https://www.freebsd.org/doc/en_US.ISO8859-1/books/developers-handbook/x86.html)
 - [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
@@ -22,17 +21,13 @@
 - [The Art of Assembly Language](https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf)
 - [Introduction to MIPS](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1001&amp;context=oer)
 - [Assembly Atari Computers](https://www.atariarchives.org/alp/)
-- [Assembly Language Programming](http://www.ece.utep.edu/courses/web3376/Notes_files/ee3376-assembly.pdf)
-- [Introduction to Assembly](https://staffwww.fullcoll.edu/zding/fc241/f241.htm)
 - [Elements of Assembly](https://www.mikroe.com/ebooks/architecture-and-programming-of-8051-mcus/elements-of-assembly-language)
-- [Machine Language and Assembly](https://www.eit.lth.se/fileadmin/eit/courses/eit070/Laborationer/EIT070Lab03.pdf)
 - [Assembly Programming](http://support.technologicalarts.ca/docs/NanoCore12/ThirdParty/HUANG-Chap02%20-%20HC12%20Assembler.pdf)
 - [Assembly](https://yurichev.com/writings/UAL-EN.pdf)
 - [Assembly of ATMEL-AVR](http://www.cse.unsw.edu.au/~cs2121/AVR/AVR-Assembler-Tutorial.pdf)
 - [PC Assembly Language](http://www.scs.stanford.edu/05au-cs240c/lab/pcasm-book.pdf)
 - [Assembly Step by Step](http://www.staroceans.org/kernel-and-driver/Assembly%20Language%20Step-By-Step%20-%20Programming%20with%20Linux%2C%203rd%20edition%20(Wiley%2C%202009%2C%200470497025).pdf)
 - [ARM Book](http://arantxa.ii.uam.es/~gdrivera/sed/docs/ARMBook.pdf)
-- [Computer Organization & Assembly Languages](https://www.csie.ntu.edu.tw/~pjcheng/course/asm2008/asm_ch1.pdf)
 - [Assembly Programming](https://www.utdallas.edu/~dodge/EE2310/lec10.pdf)
 - [Tiny Guide to Assembly](https://www.cs.dartmouth.edu/sergey/cs258/tiny-guide-to-x86-assembly.pdf)
 - [Computer Organization & Assembly Language](https://www.csee.umbc.edu/~chang/cs313/topics/Slides01.pdf)
@@ -42,8 +37,6 @@
 - [Assembly Language](https://os.mbed.com/cookbook/Assembly-Language)
 - [Assemnly in One Step](https://dwheeler.com/6502/oneelkruns/asm1step.html)
 - [C++, C and Assembly Tutorials](http://www.kegel.com/academy/tutorials.html)
-- [x86 Assembly for the PC](http://spot.pcc.edu/~wlara/asmx86/)
-- [Assembly Tutorial](https://wiki.skullsecurity.org/Assembly)
 - [Assembly Tutorial](http://programmedlessons.org/AssemblyTutorial/)
 - [Assembler Simulator](https://schweigi.github.io/assembler-simulator/)
 - [Assembly Links](https://www.csie.ntu.edu.tw/~cyy/courses/assembly/08fall/links/)
@@ -65,11 +58,8 @@
   
   ### Materials
 - [Assembleur](https://repo.zenk-security.com/Programmation/initiation%20a%20la%20programmation%20en%20assembleur.pdf)
-- [Programmation en Assembleur](http://www.technologuepro.com/microprocesseur/programmation-assembleur-microprocesseur.htm)
 - [Apprende l'assembleur](https://benoit-m.developpez.com/assembleur/tutoriel/)
 - [Introduction en assembleur](http://e-ressources.univ-avignon.fr/assembleur/co/Module_cours_1.html)
-- [Initiation à l'assembleur](http://www2.ift.ulaval.ca/~marchand/ift17583/Supplement2.pdf)
-- [Assembleur x86](http://ecariou.perso.univ-pau.fr/cours/archi/cours-8-assembleur.pdf)
 </details>
 
 <details>
@@ -83,7 +73,6 @@
   <summary>Italian</summary>
   
   ### Materials
-- [Programmazione Assembly](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.5365&amp;rep=rep1&amp;type=pdf)
 - [Programmazione Assembly](https://home.deib.polimi.it/brandole/acsocr/L14%20-%20Assembly%20Programming.pdf)
 - [La CPU Intel 8086: Architettura e Programmazione Assembly](http://www.ce.unipr.it/didattica/calcolatoriA/free-docs/lucidi.pdf)
 - [La Programmazione Assembly](https://www.docenti.unina.it/webdocenti-be/allegati/materiale-didattico/73771)
@@ -107,7 +96,6 @@
 - [Assembly](https://habr.com/post/345748/)
 - [Assembly Programming](http://natalia.appmat.ru/c%26c%2B%2B/assembler.html)
 - [Get Started with Assembly](http://rus-linux.net/MyLDP/algol/get_started_with_assembly_language_1.html)
-- [Assembler](http://progopedia.ru/language/assembler/)
 - [ASM](https://prog-cpp.ru/asm/)
 </details>
 
@@ -115,7 +103,6 @@
   <summary>Spanish</summary>
   
   ### Materials
-- [Programación en Ensamblador](https://www.exabyteinformatica.com/uoc/Informatica/Estructura_de_computadores/Estructura_de_computadores_(Modulo_6).pdf)
 - [Instrucciones en Ensamblador](http://www.sc.ehu.es/sbweb/webcentro/automatica/web_8051/Contenido/set_8051/set8051.htm)
 - [El Ensamblador](https://upcommons.upc.edu/bitstream/handle/2117/115067/asm.pdf)
 - [Programación en Assembler](http://curso-cm.speccy.org/fr_cap4.html)

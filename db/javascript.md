@@ -18,12 +18,10 @@
 - [JS Complete](https://jscomplete.com/)
 - [Edx Javascript](https://www.edx.org/learn/javascript)
 - [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
-- [Reddit Javascript](https://www.reddit.com/r/learnjavascript/)
 - [Flaviocopes Blog](https://flaviocopes.com/javascript/)
 - [Sitepoint](https://www.sitepoint.com/learn/javascript/)
 - [Javascript in 14min](https://jgthms.com/javascript-in-14-minutes/)
 - [Learn Enough to be Dangerous](https://www.learnenough.com/javascript-tutorial)
-- [Rising Stack](https://blog.risingstack.com/learn-javascript-for-free/)
 - [Solo Learn](https://www.sololearn.com/Course/JavaScript/)
 - [Tania Rascia Blog](https://www.taniarascia.com/)
 - [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2018/learning/javascript.html)
@@ -44,7 +42,6 @@
 - [Sabe.io](https://sabe.io/classes/javascript)
 - [Js for cats](http://jsforcats.com/)
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
-- [HTML](https://html.com/javascript/)
 - [Nodejs Learning](https://github.com/sergtitov/NodeJS-Learning)
 - [Freecodecamp](https://learn.freecodecamp.org/)
 - [Guru99](https://www.guru99.com/node-js-tutorial.html)
@@ -88,9 +85,7 @@
   
   ### Materials
 - [Html.it](https://www.html.it/guide/guida-javascript-di-base/)
-- [Grimaldi](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf)
 - [DispensaJS](http://www.di.unipi.it/~occhiuto/DispensaJS.pdf)
-- [Javascript Programmazione](http://wwwcdf.pd.infn.it/AppuntiLinux/javascript_esempi_di_programmazione.htm)
 </details>
 
 <details>
@@ -98,11 +93,9 @@
   
   ### Materials
 - [Devmedia](https://www.devmedia.com.br/guia/javascript/34372)
-- [Criarweb](http://www.criarweb.com/manual/javascript/)
 - [Tableless](http://tableless.github.io/iniciantes/manual/js/)
 - [Hostinger](https://www.hostinger.com.br/tutoriais/o-que-e-javascript/)
 - [Tiexpert](http://www.tiexpert.net/programacao/web/javascript/index.php)
-- [Caelum](https://www.caelum.com.br/download/caelum-html-css-javascript.pdf)
 - [IFSC](http://docente.ifsc.edu.br/vilson.junior/pi/04_Introducao_JavaScript.pdf)
 - [Marcosoares](http://www.marcosoares.com/aia/11/javascript/javascript_1.pdf)
 - [Profsalu](https://profsalu.files.wordpress.com/2014/11/k19-k02-desenvolvimento-web-com-html-css-e-javascript.pdf)

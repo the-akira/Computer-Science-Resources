@@ -37,7 +37,6 @@
 - [Functional Programming using Haskell](https://www.mta.ca/~rrosebru/oldcourse/371199/haskell/paper.htm)
 - [Edx, Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 - [The University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
-- [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
 - [Data Haskell](https://www.datahaskell.org/)
 - [Real World Haskell](http://book.realworldhaskell.org/read/)
 - [The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
@@ -46,7 +45,6 @@
 - [Beginning with the Haskell Programming Language](http://gnosis.cx/publish/programming/Haskell.pdf)
 - [Functional Programming is Easy, and Good for You](http://felleisen.org/matthias/Presentations/11GS/gs.pdf)
 - [A Taste of Haskell](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/07/TasteOfHaskell.pdf)
-- [A Gentle Introduction to Haskell 98](http://ais.informatik.uni-freiburg.de/teaching/ws06/info1/material/haskell-tutorial.pdf)
 - [Introduction to Functional Programming](http://www.cse.chalmers.se/edu/year/2018/course/TDA555/Material/Recursion/slides.pdf)
 - [The Craft of Functional Programming](https://homepages.dcc.ufmg.br/~camarao/fp/haskell.pdf)
 - [The Essence of Functional Programming](https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/the-essence-of-functional-programming.pdf)
@@ -75,10 +73,8 @@
 - [Le Langage de Programmation Haskell](https://studylibfr.com/doc/1934514/le-langage-de-programmation-haskell)
 - [Apprendre Haskell](http://www.christian-faure.net/2010/10/17/apprendre-haskell/)
 - [64 Exercises de Programmation en Haskell](http://web4.ensiie.fr/~gacogne/haskell.pdf)
-- [Les Bases de Haskell](http://www-lisic.univ-littoral.fr/~verel/TEACHING/18-19/PF-M2app/cours01.pdf)
 - [Programmation Fonctionnelle (Haskell)](https://staff.info.unamur.be/wva/cours/2109/fp.pdf)
 - [IFT 2035](https://www.iro.umontreal.ca/~monnier/2035/)
-- [Programmation Fonctionnelle et Haskell for Dummies](https://download.tuxfamily.org/tehessinmath/les%20pdf/MD1_13_hs_beamer.pdf)
 - [Le Langage de Programmation Haskell](https://www.bortzmeyer.org/files/haskell-PRINT.pdf)
 - [Programmation Fonctionnelle / Haskell](http://blog.clement.delafargue.name/files/intro_fp.pdf)
 </details>
@@ -88,7 +84,6 @@
   
   ### Materials
 - [Haskell in 5 Schritten](https://wiki.haskell.org/Haskell_in_5_Schritten)
-- [Programmierung mit Haskell](http://www.ips.tu-braunschweig.de/struckmann/progfor11/haskell.pdf)
 - [Einführung in Haskell](http://www.inf.fu-berlin.de/lehre/WS12/ALP1/lectures/V2_ALP1_Haskell_Einf%C3%BChrung_WS12.pdf)
 - [Haskell for Hackers](https://entropia.de/images/b/b4/090627-gpn-haskell.pdf)
 </details>
@@ -106,13 +101,11 @@
   
   ### Materials
 - [Haskell em 10 minutos](https://wiki.haskell.org/Haskell_em_10_minutos)
-- [Haskell uma Linguagem de Programação Ideal para Matemáticos](http://matematicajatai.com/rematFiles/3-2013/haskell.pdf)
 - [Programação Funcional em Haskell](http://www.decom.ufop.br/romildo/2017-1/bcc222/slides/progfunc.pdf)
 - [Programação Funcional com a Linguagem Haskell](http://www.inf.ufpr.br/andrey/ci062/ProgramacaoHaskell.pdf)
 - [Aprenda X em Y Minutos](https://learnxinyminutes.com/docs/pt-br/haskell-pt/)
 - [Programação Funcional Haskell](http://www.inf.ufsc.br/~j.barreto/trabaluno/pfcaetan.pdf)
 - [Tutorial de Haskell](https://wiki.portugal-a-programar.pt/dev_geral:haskell:tutorial)
-- [Prog Funcional](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ProgFuncional.pdf)
 - [Wiki Livros](https://pt.wikibooks.org/wiki/Haskell)
 - [Programação Funcional](http://www.facom.ufu.br/~madriana/PF/)
 - [Blog HaskellBR](http://blog.haskellbr.com/)
@@ -125,9 +118,7 @@
   
   ### Materials
 - [Anton-K](https://anton-k.github.io/ru-haskell-book/book/home.html)
-- [Progopedia](http://progopedia.ru/language/haskell/)
 - [Nsunc](https://wiki.nsunc.com/haskell)
-- [Haskell Presentation](http://ssd.sscc.ru/sites/default/files/content/attach/427/osnovy_programmirovaniya_haskell.pdf)
 </details>
 
 <details>
@@ -137,7 +128,6 @@
 - [Aprende Haskell](http://aprendehaskell.es/content/Introduccion.html)
 - [Haskell: El Lenguaje Funcional](http://www.cs.us.es/~fsancho/?e=110)
 - [Lenguaje de programación Haskell](https://www.ecured.cu/Lenguaje_de_programaci%C3%B3n_Haskell)
-- [El Lenguaje Haskell](http://antares.sip.ucm.es/~fernando/pf/temas/general.html)
 - [Una introducción agradable a Haskell](http://www.lcc.uma.es/~blas/pfHaskell/gentle/index.html)
 - [Examenes de Programación Funcional](https://github.com/jaalonso/Examenes_de_PF_con_Haskell)
 - [Programación Funcional Avanzada](https://eva.fing.edu.uy/pluginfile.php/137918/mod_resource/content/3/ambiente.pdf)

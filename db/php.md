@@ -14,7 +14,6 @@
 - [Sitepoint](https://www.sitepoint.com/php/)
 - [PHP Cheat Sheets](http://phpcheatsheets.com/)
 - [Sololearn](https://www.sololearn.com/Course/PHP/)
-- [PHP MySQL Tutorial](https://www.udemy.com/php-mysql-tutorial/)
 - [Getting Started with PHP](https://secure.php.net/manual/en/getting-started.php)
 - [Tutorialspoint](https://www.tutorialspoint.com/php/)
 - [PHP Resources](https://github.com/odan/learn-php)
@@ -23,12 +22,10 @@
 - [Home and Learn](https://www.homeandlearn.co.uk/php/php.html)
 - [PHP Tutorials](https://www.killerphp.com/)
 - [Javatpoint](https://www.javatpoint.com/php-tutorial)
-- [Reddit PHP](https://www.reddit.com/r/PHP/)
 - [PHP Tutorial](http://www.tizag.com/phpT/)
 - [W3resource](https://www.w3resource.com/php/php-home.php)
 - [W3docs](https://www.w3docs.com/learn-php.html)
 - [Tutorial Republic](https://www.tutorialrepublic.com/php-tutorial/)
-- [PHP Tutorials](http://html.net/tutorials/php/)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/php/)
 - [PHPtpoint](https://www.phptpoint.com/php-tutorial/)
 - [PHP MySQL Tutorial](http://www.mysqltutorial.org/php-mysql/)
@@ -81,7 +78,6 @@
 - [Programmazione PHP](https://library.weschool.com/lezioni/internet-e-informatica/programmazione/php)
 - [Linguaggio PHP](http://pages.di.unipi.it/milazzo/teaching/AA1011-LabBD/PHP-ParteI.pdf)
 - [PHP e CMS](http://www.disit.org/axmedis/df7/00000-df7b82e2-0b8a-47be-87b6-407ceb794eeb/4/~saved-on-db-df7b82e2-0b8a-47be-87b6-407ceb794eeb.pdf)
-- [Server-side PHP](http://www.dii.unisi.it/~maggini/Teaching/RdC/Lectures/05%20-%20Server-side%20programming%20PHP.pdf)
 - [Il Linguaggio PHP](http://www.dis.uniroma1.it/~mecella/didattica/2012/PAS/Slides/11__PHP.pdf)
 </details>
 
@@ -93,12 +89,10 @@
 - [Curso de PHP](https://www.youtube.com/watch?v=R_yRrYUHai0&amp;list=PLesCEcYj003TrV2MvUOnmVtMdgIp0C4Pd)
 - [Guia Básico](https://www.hostinger.com.br/tutoriais/o-que-e-php-guia-basico/)
 - [Começando PHP](http://aprenderphp.com.br/artigo/comecando-a-programar-em-php/)
-- [Programação PHP](http://www.criarweb.com/manuais/programacao_php/)
 - [Apostila PHP](http://www.etelg.com.br/paginaete/downloads/informatica/apostila_php.pdf)
 - [Curso de Linguagem PHP](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf)
 - [Programação Web PHP](https://sisacad.educacao.pe.gov.br/bibliotecavirtual/bibliotecavirtual/texto/CadernodeINFOLinguagemdeProgramaoparaWebRDDI.pdf)
 - [Curso PHP Web](https://homepages.dcc.ufmg.br/~igor/classes/cursophp/cursophp-aula1.pdf)
-- [PHP com MySQL](http://www.cin.ufpe.br/~ags/2464_php_com_mysql.pdf)
 - [Curso de PHP para Iniciantes](https://www.youtube.com/watch?v=F7KzJ7e6EAc&amp;list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k)
 </details>
 
@@ -109,7 +103,6 @@
 - [PHP Tutorial](https://webformyself.com/30-luchshix-priemov-php-dlya-nachinayushhix/)
 - [Compuzilla](http://compuzilla.ru/iazyk-php-dlia-chainikov/)
 - [HTMLWeb](https://htmlweb.ru/php/php1.php)
-- [PHP.su](http://www.php.su/)
 - [PHP Manual](https://php.ru/manual/)
 </details>
 
@@ -117,8 +110,6 @@
   <summary>Spanish</summary>
   
   ### Materials
-- [Artículos PHP](https://programacion.net/php)
-- [Programación PHP Ejemplos](http://servicio.uca.es/softwarelibre/publicaciones/apuntes_php)
 - [Taller de PHP](http://tutoriales.altervista.org/trabajos/Manual_php_completo.pdf)
 - [PHP Aplicaciones](https://www.fdi.ucm.es/profesor/jpavon/web/33-PHP.pdf)
 - [Manual PHP](https://www.mundomanuales.com/manuales/3144.pdf)

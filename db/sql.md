@@ -8,13 +8,10 @@
 - [W3Schools](https://www.w3schools.com/sql/)
 - [SQL Course](http://www.sqlcourse.com/intro.html)
 - [Codecademy](https://www.codecademy.com/learn/learn-sql)
-- [SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 - [Tutorialspoint](https://www.tutorialspoint.com/sql/)
-- [Kaggle](https://www.kaggle.com/learn/sql)
 - [Mode Analytics](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 - [Guru99](https://www.guru99.com/sql.html)
 - [SQLite](https://www.sqlite.org/index.html)
-- [MySQL](https://www.mysql.com/)
 - [Learn SQL in Detail](https://www.scaler.com/topics/sql/)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/sql-tutorial/)
 - [SQL Tutorial](http://www.sql.org/sql-database/sql-tutorial/)
@@ -22,7 +19,6 @@
 - [Solo Learn SQL](https://www.sololearn.com/Course/SQL/)
 - [SQL Join Types](https://www.sql-join.com/sql-join-types/)
 - [SQL Cheat Sheet](http://www.cheat-sheets.org/sites/sql.su/)
-- [SQL Cheat Sheet Kdnuggets](https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html)
 - [Javatpoint](https://www.javatpoint.com/sql-tutorial)
 - [SQL and Databases](https://awesome-tech.readthedocs.io/databases/)
 - [SQL Zoo](https://sqlzoo.net/)
@@ -49,9 +45,7 @@
 - [SQL in 20 Minutes](https://tutorialzine.com/2016/01/learn-sql-in-20-minutes)
 - [Introduction to SQL](http://infolab.stanford.edu/~ullman/fcdb/aut07/slides/sql1.pdf)
 - [Intro to SQL](https://www.stat.berkeley.edu/~spector/sql.pdf)
-- [SQL Queries](http://users.cms.caltech.edu/~donnie/cs121/CS121Lec05.pdf)
 - [SQL Language Reference](https://docs.oracle.com/en/database/oracle/oracle-database/12.2/sqlrf/sql-language-reference.pdf)
-- [Practical SQL Guide](https://www.researchgate.net/publication/319852714_Practical_SQL_Guide_for_Relational_Databases)
 - [Basic SQL Statements](https://www.baskent.edu.tr/~tkaracay/etudio/ders/dbase/sql/pdfSQL/BasicSqlStatements.pdf)
 - [SQL Full Course](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 - [SQL Crash Course](https://www.youtube.com/watch?v=nWeW3sCmD2k)
@@ -101,7 +95,6 @@
 - [SQL: Le Basi](http://www-db.deis.unibo.it/courses/SIL-A/PDF/SQLa-basi.pdf)
 - [Linguaggio SQL](http://www.cs.unibo.it/~ghini/didattica/informatica_generale/SQL.pdf)
 - [Il Linguaggio SQL](https://users.dimi.uniud.it/~angelo.montanari/Sql.pdf)
-- [Introduzione a SQL Server](http://www.unife.it/ing/lm.infoauto/sistemi-informativi/programmi-anni-precedenti/lucidi2011-12/02-introduzione_a_SQL_Server.pdf)
 </details>
 
 <details>
@@ -126,7 +119,6 @@
   
   ### Materials
 - [Citforum SQL](http://citforum.ru/programming/32less/les44.shtml)
-- [Progopedia](http://progopedia.ru/language/sql/)
 - [Bourabai](https://bourabai.ru/dbt/dbms/index.htm)
 - [SQL Book](http://pzks.nmu.org.ua/ua/labs/lab15_bases.pdf)
 - [SQL 2016](http://elar.urfu.ru/bitstream/10995/40612/1/978-5-7996-1622-9_2016.pdf)
@@ -137,13 +129,10 @@
   
   ### Materials
 - [Conceptos Básicos SQL](https://support.office.com/es-es/article/access-sql-conceptos-b%C3%A1sicos-vocabulario-y-sintaxis-444d0303-cde1-424e-9a74-e8dc3e460671)
-- [Fundamentos de SQL](https://www.campusmvp.es/recursos/post/Fundamentos-de-SQL-Como-realizar-consultas-simples-con-SELECT.aspx)
 - [Definición de SQL](https://definicion.de/sql/)
 - [Joins en SQL](https://diego.com.es/principales-tipos-de-joins-en-sql)
 - [Conceptos SQL](https://geotalleres.readthedocs.io/es/latest/conceptos-sql/conceptos_sql.html)
 - [IBM SQL](https://www.ibm.com/support/knowledgecenter/es/SSEPGG_11.1.0/com.ibm.db2.luw.sql.ref.doc/doc/c0004100.html)
-- [Consultas SQL](https://www.cs.us.es/blogs/bd2013/files/2013/09/Consultas-SQL.pdf)
-- [SQL: Consultas Avanzadas](http://www.famaf.proed.unc.edu.ar/pluginfile.php/35290/mod_resource/content/2/SQL%20Parte%202.pdf)
 - [Lenguaje SQL](http://www.cartagena99.com/recursos/alumnos/apuntes/Manual-SQL1.pdf)
 - [Manual Prático de SQL](https://www.lawebdelprogramador.com/cursos/archivos/ManualPracticoSQL.pdf)
 - [SQL Tercera Edición](https://pedrobeltrancanessa-biblioteca.weebly.com/uploads/1/2/4/0/12405072/fundamentos_de_sql_3edi_oppel.pdf)

@@ -9,7 +9,6 @@
 - [Geeks for Geeks](https://www.geeksforgeeks.org/go-programming-language-introduction/)
 - [Go by Example](https://gobyexample.com/)
 - [Go Overview](https://blog.learngoprogramming.com/about-go-language-an-overview-f0bee143597c)
-- [Go Intro](https://www.toptal.com/go/go-programming-a-step-by-step-introductory-tutorial)
 - [Awesome Go](https://awesome-go.com/)
 - [Learning Go](https://miek.nl/downloads/2015/go.pdf)
 - [Go Bootcamp](http://www.golangbootcamp.com/book/frontmatter)
@@ -43,7 +42,6 @@
 - [Little Go Book](https://www.openmymind.net/assets/go/go.pdf)
 - [Programming in Go](http://www.iakovlev.org/zip/go.pdf)
 - [Go for Python Programmers](https://media.readthedocs.org/pdf/golang-for-python-programmers/latest/golang-for-python-programmers.pdf)
-- [Go for Optimization](http://www.sce.carleton.ca/faculty/chinneck/docs/GoForOptimization.pdf)
 - [Evaluating the Go Language](https://ecs.victoria.ac.nz/foswiki/pub/Main/TechnicalReportSeries/ECSTR11-01.pdf)
 - [Another Go](https://web.stanford.edu/class/ee380/Abstracts/100428-pike-stanford.pdf)
 - [Introduction to Programming in Go](https://www.golang-book.com/public/pdf/gobook.0.pdf)
@@ -83,7 +81,6 @@
 - [Golangbr](http://www.golangbr.org/)
 - [Trabalhando com Go](https://imasters.com.br/back-end/trabalhando-com-go-golang-a-linguagem-do-google)
 - [Go Lang - A Linguagem da Google](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf)
-- [Programação Concorrente](http://cocic.cm.utfpr.edu.br/progconcorrente/doku.php?id=go)
 - [Um Tour por Go](https://go-tour-br.appspot.com/welcome/1)
 </details>
 
@@ -100,7 +97,5 @@
   <summary>Spanish</summary>
   
   ### Materials
-- [Go con Ejemplos](http://goconejemplos.com/)
 - [Introduccion al Go](https://www.genbeta.com/desarrollo/introduccion-al-lenguaje-de-programacion-go)
-- [Curso de Go](https://codigofacilito.com/cursos/go)
 </details>

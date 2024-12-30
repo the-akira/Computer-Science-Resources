@@ -4,7 +4,6 @@
   <summary>English</summary>
   
   ### Materials
-- [Microsoft](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Cloud_computing)
 - [Amazon](https://aws.amazon.com/what-is-cloud-computing/)
 - [IBM](https://www.ibm.com/cloud/learn/what-is-cloud-computing)
@@ -14,7 +13,6 @@
 - [Tutorialspoint](https://www.tutorialspoint.com/cloud_computing/)
 - [Javatpoint](https://www.javatpoint.com/cloud-computing-tutorial)
 - [Simplilearn](https://www.simplilearn.com/cloud-computing-tutorial-video)
-- [The Cloud Tutorial](http://thecloudtutorial.com/)
 - [W3schools.in](https://www.w3schools.in/cloud-computing/cloud-computing/)
 - [Amazon AWS Tutorial](https://www.edureka.co/blog/amazon-aws-tutorial/)
 - [Tutorialride](https://www.tutorialride.com/cloud-computing/cloud-computing-tutorial.htm)
@@ -24,8 +22,6 @@
 - [Cloud for Dummies](https://www.ibm.com/cloud-computing/files/cloud-for-dummies.pdf)
 - [Cloud Computing Final Report](https://www.cse.iitb.ac.in/~abhirup09/Docs/cloud_computing_final_report.pdf)
 - [Cloud Computing Models](https://web.mit.edu/smadnick/www/wp/2013-01.pdf)
-- [Virtualization and Cloud Computing](https://www.intel.com/content/dam/www/public/us/en/documents/guides/cloud-computing-virtualization-building-private-iaas-guide.pdf)
-- [Cloud Computing Guidelines](http://www.motc.gov.qa/sites/default/files/cloud_computing_ebook.pdf)
 - [Cloud Computing Risks](https://www.experis.us/Website-File-Pile/Articles/Experis/FIN_Cloud-Computing-Risks_071111.pdf)
 - [A Berkeley View of Cloud Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
 - [Privacy in Cloud Computing](https://www.itu.int/dms_pub/itu-t/oth/23/01/T23010000160001PDFE.pdf)
@@ -55,16 +51,13 @@
   ### Materials
 - [Cloud Computing Presentation](http://publications.europa.eu/resource/cellar/1d487935-12d5-444c-b595-6ebd01f4b5f3.0001.02/DOC_1)
 - [Cloud Computing einfach erklärt](https://aixvox.com/cloud-computing-einfach-erklaert/)
-- [Prozeus](http://www.prozeus.de/imperia/md/content/prozeus/broschueren/prozeus_broschuere_cloudcomputing_web.pdf)
 - [Cloud Computing, Mark Bedner](https://www.uni-kassel.de/upress/online/frei/978-3-86219-080-5.volltext.frei.pdf)
-- [Cloud Computing Paper](http://www.hwwi.org/uploads/tx_wilpubdb/HWWI_Policy_Paper-71.pdf)
 </details>
 
 <details>
   <summary>Italian</summary>
   
   ### Materials
-- [Kiteblue](http://www.kiteblue.it/cose-il-cloud/)
 - [Digital4trade](https://www.digital4trade.it/tech-lab/cloud-computing-cose-e-quali-sono-i-benefici/)
 - [Cloud Computing Definiziones](https://www.zerounoweb.it/cloud-computing/cloud-anzi-saas-paas-daas-e-iaas-significato-e-guida-ai-vantaggi-dell-on-demand/)
 - [Cloud Computing](https://www.edatlas.it/scarica/TPSIT_5/Capitolo1/ContenutiDigitaliIntegrativi/1CloudComputing.pdf)
@@ -82,7 +75,6 @@
 - [Introdução a Computação em Nuvem](http://www.each.usp.br/dc/aulas/ComputacaoEmNuvem-DanielCordeiro.pdf)
 - [Introdução à Computação na Nuvem](http://www-di.inf.puc-rio.br/~endler/courses/Cloud/Intro.pdf)
 - [Computação em Nuvem](https://www.verup.com.br/lp-cloud/%5beBook%5dVerup-computacao-em-nuvem.pdf)
-- [Infraestrutura na Nuvem](https://www.advancedit.com.br/wp-content/uploads/2018/04/ebook_infra_na_nuvem_advancedit.pdf)
 - [Computação em Nuvem e Governança](https://www.publicacoesacademicas.uniceub.br/gti/article/viewFile/4207/3613)
 </details>
 
@@ -92,7 +84,6 @@
   ### Materials
 - [Tadviser](http://www.tadviser.ru/index.php/Cloud_Computing)
 - [Cloud Computing Smart](http://mit.spbau.ru/files/cloud_computing_smart_cloud_org.pdf)
-- [Cloud Introduction](https://glebradchenko.susu.ru/courses/bachelor/odp/2013/Rep_SUSU_Distr_12_Cloud.pdf)
 - [Cloud Technology](http://filearchive.cnews.ru/mag/2011/CloudTechnology.pdf)
 </details>
 
@@ -100,12 +91,9 @@
   <summary>Spanish</summary>
   
   ### Materials
-- [Deloitte](https://www2.deloitte.com/es/es/pages/technology/articles/computacion-nube-hibrida.html)
 - [Computación en la nube](https://cibernat.com/articulos/computacion-en-la-nube)
 - [Okhosting](https://okhosting.com/blog/computacion-en-la-nube/)
 - [Informática en la Nube](http://www.bizkaia.eus/home2/archivos/DPTO4/Temas/Informatica%20en%20la%20nube.pdf)
-- [Cloud Computing](http://www.huesca.es/_archivos/ficheros/bibliotecas_2651.pdf)
-- [Universidad de Almería](http://www.adminso.es/recursos/Proyectos/PFM/2011_12/PFM_cloud_beka.pdf)
 - [Guia Cloud Computing](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia-cloud-computing_0.pdf)
 - [Estructura Nube Cliente](https://www.scribd.com/document/255509646/Estructura-de-Nube)
 </details>

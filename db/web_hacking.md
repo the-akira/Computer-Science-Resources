@@ -11,22 +11,17 @@
 - [Null-byte](https://null-byte.wonderhowto.com/how-to/hacking-web-apps/)
 - [Acunetix](https://www.acunetix.com/websitesecurity/website-hacking/)
 - [Google-Gruyere](https://google-gruyere.appspot.com/)
-- [Hackthissite](https://www.hackthissite.org/)
 - [How they Hack your Website](https://www.cmswire.com/web-cms/how-they-hack-your-website-the-ultimate-updated-overview-of-common-techniques/)
-- [Shodan Pentesting Guide](https://community.turgensec.com/shodan-pentesting-guide/)
 - [Hacking Tutorials](https://www.hackingtutorials.org/category/web-application-hacking/)
 - [Grey Campus](https://www.greycampus.com/opencampus/ethical-hacking/web-application-and-its-types-of-attacks)
 - [Blackhat Presentation](https://www.blackhat.com/presentations/bh-asia-02/bh-asia-02-shah.pdf)
 - [Hacking Exposed](https://cdn.ttgtmedia.com/searchSecurityChannel/downloads/Hacking_Exposed_chapter_11.pdf)
 - [Tactical Web App Pentesting](https://www.gironsec.com/WebHacking101.pdf)
 - [Web Vulnerability Scanners](https://arxiv.org/pdf/1706.08017.pdf)
-- [Web Security](http://www.iet.unipi.it/g.dini/Teaching/ssi/materiale-didattico/WebSecurity.pdf)
 - [How to Secure your Website](https://www.ipa.go.jp/files/000017318.pdf)
 - [LiveOverFlow Web Hacking](https://www.youtube.com/watch?v=jmgsgjPn1vs&amp;list=PLhixgUqwRTjx2BmNF5-GddyqZcizwLLGP)
 - [Learn Burp Suite](https://www.youtube.com/watch?v=AVzC7ETqpDo&amp;list=PLq9n8iqQJFDrwFe9AEDBlR1uSHEN7egQA)
 - [OWASP Top 10](https://www.youtube.com/watch?v=rWHvp7rUka8&amp;list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD)
-- [Anatomy of a Web App](https://www.cgisecurity.com/lib/Web_Server.pdf)
-- [Microsoft Architecture Guide](http://cis.msjc.edu/CSIS116B/Resources/WebArchitecturePocketGuide.pdf)
 - [Web App Architectures](http://www.cs.toronto.edu/~mashiyat/csc309/Lectures/Web%20App%20Architectures.pdf)
 - [PHP Security Manual](https://secure.php.net/manual/en/security.php)
 - [WebSiteSec](https://crypto.stanford.edu/cs155old/cs155-spring11/lectures/10-web-site-sec.pdf)
@@ -34,7 +29,6 @@
 - [OWASP](https://www.owasp.org/index.php/Web_Application_Penetration_Testing)
 - [Web App Security Testing](https://www.exploit-db.com/docs/english/44319-web-application-security-testing.pdf)
 - [Survive the Deep End: PHP Security](https://phpsecurity.readthedocs.io/en/latest/index.html)
-- [Web Architectures](https://www.sti-innsbruck.at/sites/default/files/courses/WE-04-Architectures.pdf)
 - [Overview and Architectures](http://web.cse.ohio-state.edu/~joseph.97/courses/3901/lectures/lecture01.pdf)
 - [Mozilla Web Security](https://developer.mozilla.org/en-US/docs/Web/Security)
 - [Web Security in 2017](http://johannh.me/slides/web_security_2017.pdf)
@@ -54,8 +48,6 @@
   <summary>German</summary>
   
   ### Materials
-- [WebMasterPro](https://www.webmasterpro.de/server/article/gaengige-sicherheitsprobleme-im-web.html)
-- [SecureNet](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Studien/WebSec/WebSec.pdf)
 </details>
 
 <details>
@@ -63,7 +55,6 @@
   
   ### Materials
 - [Sicurezza Web](http://www-db.disi.unibo.it/courses/RCPG/sicurezza.pdf)
-- [Sicurezza Web e Privacy](http://www.hackerhighschool.org/lessons/HHS_it10_Sicurezza_Web_e_Privacy.pdf)
 </details>
 
 <details>
@@ -97,7 +88,6 @@
   
   ### Materials
 - [Vulnerabilidades en Aplicaciones Web](https://www.youtube.com/watch?v=Imnzode1ptk)
-- [Ataques a Aplicaciones Web](https://www.exabyteinformatica.com/uoc/Informatica/Seguridad_en_bases_de_datos/Seguridad_en_bases_de_datos_(Modulo_2).pdf)
 - [Taller de Hacking Web](https://cybercamp.es/cybercamp2014/attachments/multimedia/CyberCampHackingWeb.pdf)
 - [Ethical Hacking for Web App](http://www.revistasbolivianas.org.bo/pdf/rits/n8/n8a24.pdf)
 - [Seguridad en Aplicaciones Web](https://www.rediris.es/cert/doc/reuniones/fs2008/archivo/RedIRIS_VI_Seguridad_en_aplicaciones_Web_v1.0_RaulSiles.pdf)

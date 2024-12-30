@@ -10,12 +10,10 @@
 - [Elixir Forum](https://elixirforum.com/)
 - [Elixir: A Big-Picture Programming Language](https://medium.freecodecamp.org/elixir-a-big-picture-programming-language-755dcef2fa6a)
 - [My intro to Elixir](https://medium.freecodecamp.org/my-intro-to-elixir-how-learning-another-programming-language-can-make-you-a-better-developer-d967e568191c)
-- [What is Elixir used for?](https://www.quora.com/What-is-Elixir-programming-language-used-for)
 - [Reddit Community](https://www.reddit.com/r/elixir/)
 - [Learn Elixir](https://github.com/dwyl/learn-elixir)
 - [Tutorialspoint](https://www.tutorialspoint.com/elixir/)
 - [Elixir School](https://elixirschool.com/en/)
-- [Elixir Programming Language](https://sweetcode.io/elixir-programming-language/)
 - [Eduonix Tutorial](https://blog.eduonix.com/software-development/elixir-programming-language-basic-rules-syntax/)
 - [Elixir Examples](https://elixir-examples.github.io/)
 - [Elixir-koans](http://elixirkoans.io/)
@@ -25,7 +23,6 @@
 - [Railway Oriented Programming in Elixir](https://hexdocs.pm/rop/readme.html)
 - [Programming Elixir](https://doc.lagout.org/programmation/Functional%20Programming/Programming%20Elixir_%20Functional%2C%20Concurrent%2C%20Pragmatic%2C%20Fun%20%5BThomas%202014-10-19%5D.pdf)
 - [Alchemist Camp episodes](https://alchemist.camp/episodes)
-- [How I Learned to Program in Elixir](http://learningelixir.joekain.com/how-I-learned-elixir/)
 - [Elixir With José Valim](https://howistart.org/posts/elixir/1/)
 - [Introducing Elixir](http://gotocon.com/dl/goto-chicago-2014/slides/DaveThomas_ElixirThePowerOfErlangTheJoyOfRuby.pdf)
 - [Elixir Functional Programming](https://people.kth.se/~johanmon/courses/id1019/seminars/lambda/lambda.pdf)
@@ -42,8 +39,6 @@
   <summary>French</summary>
   
   ### Materials
-- [Introduction à Elixir](https://www.synbioz.com/blog/introduction_a_elixir)
-- [Elixir (Langage de Programmation)](http://boowiki.info/art/les-langages-de-script/elixir-langage-de-programmation.html)
 </details>
 
 <details>
@@ -68,7 +63,6 @@
   <summary>Spanish</summary>
   
   ### Materials
-- [Codigo Facilito](https://codigofacilito.com/articulos/elixir)
 - [Elixir, programación funcional para todos](https://www.genbeta.com/desarrollo/elixir-programacion-funcional-para-todos)
 - [Aprendiendo Elixir](http://rchavarria.github.io/blog/2016/01/17/aprendiendo-elixir/)
 - [Riptutorial](https://riptutorial.com/es/elixir/topic/954/empezando-con-elixir-language)

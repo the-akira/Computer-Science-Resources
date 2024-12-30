@@ -45,8 +45,6 @@
   
   ### Materials
 - [Cours de Sécurité](https://doc.lagout.org/Others/Cours_securite%20informatique.pdf)
-- [Cybersecurite](https://www.societe-informatique-de-france.fr/wp-content/uploads/2017/10/1024-no11-cybersecurite.pdf)
-- [Sécurité de l'information](http://www.assufrance.com/securite_de_l_information.php)
 </details>
 
 <details>
@@ -76,8 +74,6 @@
   ### Materials
 - [Segurança de Computadores](https://pt.wikipedia.org/wiki/Seguran%C3%A7a_de_computadores)
 - [Introdução à Segurança](http://www.ic.unicamp.br/~cmbm/MC001/aularedes2-seguranca.pdf)
-- [Introdução à Segurança de Computadores](http://srvd.grupoa.com.br/uploads/imagensExtra/legado/G/GOODRICH_Michael_T/Seguranca_Computadores/Lib/Amostra.pdf)
-- [Segurança Informática](https://repositorio.ucp.pt/bitstream/10400.14/12040/1/Tese_TiagoSilva.pdf)
 - [Guerra da Informação](https://run.unl.pt/bitstream/10362/14300/1/Dissertacao_OMilitao_35664.pdf)
 - [Técnicas de Segurança da Informação](http://www.segurancalegal.com/wp-content/uploads/2017/09/T%C3%A9cnicas-de-Seguran%C3%A7a-da-Informa%C3%A7%C3%A3o-da-Teoria-%C3%A0-Pr%C3%A1tica.pdf)
 - [Segurança da Informação](http://www.teleco.com.br/promon/pbtr/Seguranca_4WEB.pdf)
@@ -100,7 +96,5 @@
 - [Introducción a la Seguridad Informática](https://www.um.es/docencia/barzana/GESESI/GESESI-Introduccion-a-la-seguridad.pdf)
 - [Seguridad Informática](http://campus.usal.es/~derinfo/Activ/Jorn02/Pon2002/LARyALSL.pdf)
 - [Objetivo de la Seguridad Informática](https://www.uv.mx/personal/llopez/files/2011/09/presentacion.pdf)
-- [Cap 2 Seguridad Informática](http://www.ptolomeo.unam.mx:8080/xmlui/bitstream/handle/132.248.52.100/250/A5.pdf?sequence=5)
-- [Ciberdefensa-Ciberseguridad](http://www.cari.org.ar/pdf/ciberdefensa_riesgos_amenazas.pdf)
 - [Ciberseguridad](http://www.ieee.es/Galerias/fichero/OtrasPublicaciones/Nacional/2018/Libro-Ciberseguridad_A.Corletti_nov2017.pd.pdf)
 </details>

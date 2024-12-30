@@ -9,7 +9,6 @@
 - [Codecademy](https://www.codecademy.com/learn/learn-ruby)
 - [Learn Ruby Online](https://www.learnrubyonline.org/)
 - [Ruby From Zero to Hero](https://medium.freecodecamp.org/learning-ruby-from-zero-to-hero-90ad4eecc82d)
-- [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/preface.html)
 - [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 - [Ruby Monk](https://rubymonk.com/)
 - [Tutorialspoint](https://www.tutorialspoint.com/ruby/)
@@ -17,7 +16,6 @@
 - [Ruby Koans](http://rubykoans.com/windows)
 - [Learn X in Y minutes](https://learnxinyminutes.com/docs/ruby/)
 - [Ruby-doc](http://docs.ruby-doc.com/docs/ProgrammingRuby/)
-- [Reddit](https://www.reddit.com/r/ruby/)
 - [Chef Ruby](https://docs.chef.io/ruby.html)
 - [Ruby Programming Tutorials](http://manwithcode.com/ruby-programming-tutorials/)
 - [Sololearn](https://www.sololearn.com/Course/Ruby/)
@@ -25,18 +23,13 @@
 - [I Want to Learn Ruby](http://iwanttolearnruby.com/)
 - [Practicing Ruby](https://practicingruby.com/)
 - [Ruby Guides](https://www.rubyguides.com/ruby-tutorial/)
-- [Ruby Steps](https://www.rubysteps.com/)
 - [Javatpoint](https://www.javatpoint.com/ruby-tutorial)
-- [Ruby Crash Course](https://scotch.io/tutorials/a-crash-course-in-ruby)
 - [Ruby Meta Programming](https://www.sitepoint.com/learn-ruby-metaprogramming-for-great-good/)
 - [Ruby Quick Start](https://entropia.de/images/a/ac/GPN2-RubyQuickStart.pdf)
-- [Everipedia](https://everipedia.org/wiki/Ruby_language/)
-- [The Little Book of Ruby](https://www.sapphiresteel.com/IMG/pdf/LittleBookOfRuby.pdf)
 - [Basic Ruby Syntax](https://web.stanford.edu/~ouster/cgi-bin/cs142-spring12/slides/ruby.pdf)
 - [Programming Ruby](https://7chan.org/pr/src/ruby.pdf)
 - [The Ruby Programming Language](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Ruby/The%20Ruby%20Programming%20Language%20-%20Oreilly.pdf)
 - [Ruby Basics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013/recitations/MIT6_170S13_rec3-Ruby.pdf)
-- [Ruby in a Nutshell](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.170.3456&amp;rep=rep1&amp;type=pdf)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/ruby-programming-language/)
 - [The Ruby Language](http://phrogz.net/programmingruby/language.html)
 - [Ruby in One Video](https://www.youtube.com/watch?v=Dji9ALCgfpM)
@@ -50,7 +43,6 @@
   <summary>French</summary>
   
   ### Materials
-- [Programmation Ruby](https://www.supinfo.com/articles/single/5539-programmation-ruby)
 - [Ruby](https://www.scriptol.fr/programmation/ruby.php)
 - [Programmation Ruby](https://upload.wikimedia.org/wikipedia/commons/d/d7/Programmation_Ruby-fr.pdf)
 </details>
@@ -59,7 +51,6 @@
   <summary>German</summary>
   
   ### Materials
-- [Ruby Grundlagen](http://b-simple.de/download/ruby.pdf)
 - [Programmieren mit Ruby](https://www.guug.de/veranstaltungen/ffg2002/papers/ffg2002-roehrl.pdf)
 </details>
 
@@ -86,14 +77,12 @@
 - [Introdução ao Ruby](https://docente.ifrn.edu.br/fellipealeixo/disciplinas/tads-2012/desenvolvimento-de-sistemas-web/material/03_ruby.pdf)
 - [Ruby](http://www.inf.ufsc.br/~frank.siqueira/INE5612/Seminario2010.1/Ruby.pdf)
 - [Ruby Show](http://www.portal.inf.ufg.br/~marceloakira/fgsl11/slides/debate-linguagens/ruby-show.pdf)
-- [Ruby on Rails](https://www.ime.usp.br/~esposte/documents/aula-rails/aula01.pdf)
 </details>
 
 <details>
   <summary>Russian</summary>
   
   ### Materials
-- [Progopedia](http://progopedia.ru/language/ruby/)
 - [Ruby Book](http://mit.spbau.ru/files/%20%D0%B2%20Ruby.pdf)
 </details>
 
