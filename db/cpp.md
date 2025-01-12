@@ -97,7 +97,6 @@
 - [Aulas C++](http://www.inf.ufpr.br/ci208/NotasAula.pdf)
 - [C++ 2004](http://www.inf.ufrgs.br/~johann/cpp2004/)
 - [Linguagem C++](https://www.ime.usp.br/~slago/slago-C++.pdf)
-- [C++ Orientado a Objetos](http://www.ic.unicamp.br/~cmrubira/aacesta/cpp/cpp15.html)
 - [Material de Apoio C++](http://www.feis.unesp.br/Home/departamentos/engenhariaeletrica/lapsee/curso_2011_dinter_mod2_1.pdf)
 </details>
 
