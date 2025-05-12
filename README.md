@@ -1,7 +1,7 @@
 <h1 align="center">Computer Science Resources</h1>
 
 <h1 align="center">
-    <img alt="CS" title="Computer-Science-Resources" src="https://raw.githubusercontent.com/the-akira/Computer-Science-Resources/master/avatar.png"> </br>
+    <img alt="CS" title="Computer-Science-Resources" src="avatar.png"> </br>
 </h1>
 
 <p align="center">
