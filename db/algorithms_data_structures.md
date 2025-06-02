@@ -24,7 +24,6 @@
 - [Sorting Algorithms](https://www.interviewbit.com/tutorial/sorting-algorithms/)
 - [CS 521 - Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall13/cos521/)
 - [Programiz - Data Structures and Algorithms](https://www.programiz.com/dsa)
-- [Data Structures using C](http://masterraghu.com/subjects/Datastructures/ebooks/rema%20thareja.pdf)
 - [Geeks for Geeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
 - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 - [Algorithms and Data Structures Princeton](https://introcs.cs.princeton.edu/java/40algorithms/)
