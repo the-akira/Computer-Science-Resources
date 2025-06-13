@@ -8,7 +8,6 @@
 - [Tutorialspoint](https://www.tutorialspoint.com/operating_system/os_overview.htm)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/operating-system-introduction-operating-system-set-1/)
 - [OS-Books](http://os-book.com/)
-- [University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/os/)
 - [University of Massachusetts](http://lass.cs.umass.edu/~shenoy/courses/fall08/lectures/)
 - [Wikibooks](https://en.wikibooks.org/wiki/Operating_System_Design)
 - [Operating Systems](http://www.dc.fi.udc.es/~so-grado/)
