@@ -32,6 +32,7 @@
 - [Cloud Native Spring in Action - With Spring Boot and Kubernetes](https://www.manning.com/books/cloud-native-spring-in-action)
 - [Spring Quickly](https://www.manning.com/books/spring-quickly)
 - [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms)
+- [Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition)
 </details>
 
 <details>
