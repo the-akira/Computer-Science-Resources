@@ -69,3 +69,4 @@
   - [NoSQL](https://github.com/the-akira/computer_science_web_resources/blob/master/db/nosql.md)
   - [Big Data](https://github.com/the-akira/computer_science_web_resources/blob/master/db/big_data.md)
   - [Data Mining](https://github.com/the-akira/computer_science_web_resources/blob/master/db/data_mining.md)
+  - [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
