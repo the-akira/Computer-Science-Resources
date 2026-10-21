@@ -10,7 +10,7 @@
 - [Learn Ruby Online](https://www.learnrubyonline.org/)
 - [Ruby From Zero to Hero](https://medium.freecodecamp.org/learning-ruby-from-zero-to-hero-90ad4eecc82d)
 - [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-- [Ruby Monk](https://rubymonk.com/)
+- [Coddy Ruby course](https://coddy.tech/landing/ruby)
 - [Tutorialspoint](https://www.tutorialspoint.com/ruby/)
 - [Learn to Program](https://pine.fm/LearnToProgram/chap_00.html)
 - [Ruby Koans](http://rubykoans.com/windows)
